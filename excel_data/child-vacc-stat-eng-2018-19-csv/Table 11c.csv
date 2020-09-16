@@ -1,0 +1,454 @@
+Table_Ref,CollectionYearRange,Parent_Org_ONS_Code,Parent_Org_Name,Org_ONS_Code,Org_Name,Child_Age,Unit,Indicator,Value,Data_Status
+11c,2018-19,E12000001,North East,E06000001,Hartlepool,24m,Number,HepB_Number_Eligible,-2,Full Data
+11c,2018-19,E12000001,North East,E06000001,Hartlepool,24m,Number,HepB_Number_Vaccinated,-2,Full Data
+11c,2018-19,E12000001,North East,E06000001,Hartlepool,24m,%,HepB_Percent_Vaccinated,-2,Full Data
+11c,2018-19,E12000001,North East,E06000002,Middlesbrough,24m,Number,HepB_Number_Eligible,6,Full Data
+11c,2018-19,E12000001,North East,E06000002,Middlesbrough,24m,Number,HepB_Number_Vaccinated,6,Full Data
+11c,2018-19,E12000001,North East,E06000002,Middlesbrough,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000001,North East,E06000003,Redcar and Cleveland,24m,Number,HepB_Number_Eligible,-2,Full Data
+11c,2018-19,E12000001,North East,E06000003,Redcar and Cleveland,24m,Number,HepB_Number_Vaccinated,-2,Full Data
+11c,2018-19,E12000001,North East,E06000003,Redcar and Cleveland,24m,%,HepB_Percent_Vaccinated,-2,Full Data
+11c,2018-19,E12000001,North East,E06000004,Stockton-on-Tees,24m,Number,HepB_Number_Eligible,-2,Full Data
+11c,2018-19,E12000001,North East,E06000004,Stockton-on-Tees,24m,Number,HepB_Number_Vaccinated,-2,Full Data
+11c,2018-19,E12000001,North East,E06000004,Stockton-on-Tees,24m,%,HepB_Percent_Vaccinated,-2,Full Data
+11c,2018-19,E12000001,North East,E06000005,Darlington,24m,Number,HepB_Number_Eligible,0,Full Data
+11c,2018-19,E12000001,North East,E06000005,Darlington,24m,Number,HepB_Number_Vaccinated,0,Full Data
+11c,2018-19,E12000001,North East,E06000005,Darlington,24m,%,HepB_Percent_Vaccinated,0,Full Data
+11c,2018-19,E12000001,North East,E06000047,County Durham,24m,Number,HepB_Number_Eligible,-2,Full Data
+11c,2018-19,E12000001,North East,E06000047,County Durham,24m,Number,HepB_Number_Vaccinated,-2,Full Data
+11c,2018-19,E12000001,North East,E06000047,County Durham,24m,%,HepB_Percent_Vaccinated,-2,Full Data
+11c,2018-19,E12000001,North East,E06000057,Northumberland,24m,Number,HepB_Number_Eligible,-2,Full Data
+11c,2018-19,E12000001,North East,E06000057,Northumberland,24m,Number,HepB_Number_Vaccinated,-2,Full Data
+11c,2018-19,E12000001,North East,E06000057,Northumberland,24m,%,HepB_Percent_Vaccinated,-2,Full Data
+11c,2018-19,E12000001,North East,E08000021,Newcastle upon Tyne,24m,Number,HepB_Number_Eligible,17,Full Data
+11c,2018-19,E12000001,North East,E08000021,Newcastle upon Tyne,24m,Number,HepB_Number_Vaccinated,17,Full Data
+11c,2018-19,E12000001,North East,E08000021,Newcastle upon Tyne,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000001,North East,E08000022,North Tyneside,24m,Number,HepB_Number_Eligible,0,Full Data
+11c,2018-19,E12000001,North East,E08000022,North Tyneside,24m,Number,HepB_Number_Vaccinated,0,Full Data
+11c,2018-19,E12000001,North East,E08000022,North Tyneside,24m,%,HepB_Percent_Vaccinated,0,Full Data
+11c,2018-19,E12000001,North East,E08000023,South Tyneside,24m,Number,HepB_Number_Eligible,-2,Full Data
+11c,2018-19,E12000001,North East,E08000023,South Tyneside,24m,Number,HepB_Number_Vaccinated,-2,Full Data
+11c,2018-19,E12000001,North East,E08000023,South Tyneside,24m,%,HepB_Percent_Vaccinated,-2,Full Data
+11c,2018-19,E12000001,North East,E08000024,Sunderland,24m,Number,HepB_Number_Eligible,-2,Full Data
+11c,2018-19,E12000001,North East,E08000024,Sunderland,24m,Number,HepB_Number_Vaccinated,-2,Full Data
+11c,2018-19,E12000001,North East,E08000024,Sunderland,24m,%,HepB_Percent_Vaccinated,-2,Full Data
+11c,2018-19,E12000001,North East,E08000037,Gateshead,24m,Number,HepB_Number_Eligible,-2,Full Data
+11c,2018-19,E12000001,North East,E08000037,Gateshead,24m,Number,HepB_Number_Vaccinated,-2,Full Data
+11c,2018-19,E12000001,North East,E08000037,Gateshead,24m,%,HepB_Percent_Vaccinated,-2,Full Data
+11c,2018-19,E12000002,North West,E06000006,Halton,24m,Number,HepB_Number_Eligible,-2,Full Data
+11c,2018-19,E12000002,North West,E06000006,Halton,24m,Number,HepB_Number_Vaccinated,-2,Full Data
+11c,2018-19,E12000002,North West,E06000006,Halton,24m,%,HepB_Percent_Vaccinated,-2,Full Data
+11c,2018-19,E12000002,North West,E06000007,Warrington,24m,Number,HepB_Number_Eligible,6,Full Data
+11c,2018-19,E12000002,North West,E06000007,Warrington,24m,Number,HepB_Number_Vaccinated,6,Full Data
+11c,2018-19,E12000002,North West,E06000007,Warrington,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000002,North West,E06000008,Blackburn with Darwen,24m,Number,HepB_Number_Eligible,-1,Missing Data
+11c,2018-19,E12000002,North West,E06000008,Blackburn with Darwen,24m,Number,HepB_Number_Vaccinated,-1,Missing Data
+11c,2018-19,E12000002,North West,E06000008,Blackburn with Darwen,24m,%,HepB_Percent_Vaccinated,-1,Missing Data
+11c,2018-19,E12000002,North West,E06000009,Blackpool,24m,Number,HepB_Number_Eligible,-1,Missing Data
+11c,2018-19,E12000002,North West,E06000009,Blackpool,24m,Number,HepB_Number_Vaccinated,-1,Missing Data
+11c,2018-19,E12000002,North West,E06000009,Blackpool,24m,%,HepB_Percent_Vaccinated,-1,Missing Data
+11c,2018-19,E12000002,North West,E06000049,Cheshire East,24m,Number,HepB_Number_Eligible,-1,Missing Data
+11c,2018-19,E12000002,North West,E06000049,Cheshire East,24m,Number,HepB_Number_Vaccinated,-1,Missing Data
+11c,2018-19,E12000002,North West,E06000049,Cheshire East,24m,%,HepB_Percent_Vaccinated,-1,Missing Data
+11c,2018-19,E12000002,North West,E06000050,Cheshire West and Chester,24m,Number,HepB_Number_Eligible,-1,Missing Data
+11c,2018-19,E12000002,North West,E06000050,Cheshire West and Chester,24m,Number,HepB_Number_Vaccinated,-1,Missing Data
+11c,2018-19,E12000002,North West,E06000050,Cheshire West and Chester,24m,%,HepB_Percent_Vaccinated,-1,Missing Data
+11c,2018-19,E12000002,North West,E08000001,Bolton,24m,Number,HepB_Number_Eligible,19,Full Data
+11c,2018-19,E12000002,North West,E08000001,Bolton,24m,Number,HepB_Number_Vaccinated,11,Full Data
+11c,2018-19,E12000002,North West,E08000001,Bolton,24m,%,HepB_Percent_Vaccinated,57.8947368421052,Full Data
+11c,2018-19,E12000002,North West,E08000002,Bury,24m,Number,HepB_Number_Eligible,45,Full Data
+11c,2018-19,E12000002,North West,E08000002,Bury,24m,Number,HepB_Number_Vaccinated,5,Full Data
+11c,2018-19,E12000002,North West,E08000002,Bury,24m,%,HepB_Percent_Vaccinated,11.1111111111111,Full Data
+11c,2018-19,E12000002,North West,E08000003,Manchester,24m,Number,HepB_Number_Eligible,76,Full Data
+11c,2018-19,E12000002,North West,E08000003,Manchester,24m,Number,HepB_Number_Vaccinated,23,Full Data
+11c,2018-19,E12000002,North West,E08000003,Manchester,24m,%,HepB_Percent_Vaccinated,30.2631578947368,Full Data
+11c,2018-19,E12000002,North West,E08000004,Oldham,24m,Number,HepB_Number_Eligible,72,Full Data
+11c,2018-19,E12000002,North West,E08000004,Oldham,24m,Number,HepB_Number_Vaccinated,13,Full Data
+11c,2018-19,E12000002,North West,E08000004,Oldham,24m,%,HepB_Percent_Vaccinated,18.0555555555555,Full Data
+11c,2018-19,E12000002,North West,E08000005,Rochdale,24m,Number,HepB_Number_Eligible,61,Full Data
+11c,2018-19,E12000002,North West,E08000005,Rochdale,24m,Number,HepB_Number_Vaccinated,11,Full Data
+11c,2018-19,E12000002,North West,E08000005,Rochdale,24m,%,HepB_Percent_Vaccinated,18.0327868852459,Full Data
+11c,2018-19,E12000002,North West,E08000006,Salford,24m,Number,HepB_Number_Eligible,29,Full Data
+11c,2018-19,E12000002,North West,E08000006,Salford,24m,Number,HepB_Number_Vaccinated,22,Full Data
+11c,2018-19,E12000002,North West,E08000006,Salford,24m,%,HepB_Percent_Vaccinated,75.8620689655172,Full Data
+11c,2018-19,E12000002,North West,E08000007,Stockport,24m,Number,HepB_Number_Eligible,-2,Full Data
+11c,2018-19,E12000002,North West,E08000007,Stockport,24m,Number,HepB_Number_Vaccinated,-2,Full Data
+11c,2018-19,E12000002,North West,E08000007,Stockport,24m,%,HepB_Percent_Vaccinated,-2,Full Data
+11c,2018-19,E12000002,North West,E08000008,Tameside,24m,Number,HepB_Number_Eligible,5,Full Data
+11c,2018-19,E12000002,North West,E08000008,Tameside,24m,Number,HepB_Number_Vaccinated,-2,Full Data
+11c,2018-19,E12000002,North West,E08000008,Tameside,24m,%,HepB_Percent_Vaccinated,-2.00000000000000,Full Data
+11c,2018-19,E12000002,North West,E08000009,Trafford,24m,Number,HepB_Number_Eligible,70,Full Data
+11c,2018-19,E12000002,North West,E08000009,Trafford,24m,Number,HepB_Number_Vaccinated,7,Full Data
+11c,2018-19,E12000002,North West,E08000009,Trafford,24m,%,HepB_Percent_Vaccinated,10,Full Data
+11c,2018-19,E12000002,North West,E08000010,Wigan,24m,Number,HepB_Number_Eligible,5,Full Data
+11c,2018-19,E12000002,North West,E08000010,Wigan,24m,Number,HepB_Number_Vaccinated,4,Full Data
+11c,2018-19,E12000002,North West,E08000010,Wigan,24m,%,HepB_Percent_Vaccinated,80,Full Data
+11c,2018-19,E12000002,North West,E08000011,Knowsley,24m,Number,HepB_Number_Eligible,-1,Missing Data
+11c,2018-19,E12000002,North West,E08000011,Knowsley,24m,Number,HepB_Number_Vaccinated,-1,Missing Data
+11c,2018-19,E12000002,North West,E08000011,Knowsley,24m,%,HepB_Percent_Vaccinated,-1,Missing Data
+11c,2018-19,E12000002,North West,E08000012,Liverpool,24m,Number,HepB_Number_Eligible,26,Full Data
+11c,2018-19,E12000002,North West,E08000012,Liverpool,24m,Number,HepB_Number_Vaccinated,8,Full Data
+11c,2018-19,E12000002,North West,E08000012,Liverpool,24m,%,HepB_Percent_Vaccinated,30.7692307692307,Full Data
+11c,2018-19,E12000002,North West,E08000013,St Helens,24m,Number,HepB_Number_Eligible,-2,Full Data
+11c,2018-19,E12000002,North West,E08000013,St Helens,24m,Number,HepB_Number_Vaccinated,-2,Full Data
+11c,2018-19,E12000002,North West,E08000013,St Helens,24m,%,HepB_Percent_Vaccinated,-2,Full Data
+11c,2018-19,E12000002,North West,E08000014,Sefton,24m,Number,HepB_Number_Eligible,0,Full Data
+11c,2018-19,E12000002,North West,E08000014,Sefton,24m,Number,HepB_Number_Vaccinated,0,Full Data
+11c,2018-19,E12000002,North West,E08000014,Sefton,24m,%,HepB_Percent_Vaccinated,0,Full Data
+11c,2018-19,E12000002,North West,E08000015,Wirral,24m,Number,HepB_Number_Eligible,4,Full Data
+11c,2018-19,E12000002,North West,E08000015,Wirral,24m,Number,HepB_Number_Vaccinated,4,Full Data
+11c,2018-19,E12000002,North West,E08000015,Wirral,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000002,North West,E10000006,Cumbria,24m,Number,HepB_Number_Eligible,-1,Missing Data
+11c,2018-19,E12000002,North West,E10000006,Cumbria,24m,Number,HepB_Number_Vaccinated,-1,Missing Data
+11c,2018-19,E12000002,North West,E10000006,Cumbria,24m,%,HepB_Percent_Vaccinated,-1,Missing Data
+11c,2018-19,E12000002,North West,E10000017,Lancashire,24m,Number,HepB_Number_Eligible,-1,Missing Data
+11c,2018-19,E12000002,North West,E10000017,Lancashire,24m,Number,HepB_Number_Vaccinated,-1,Missing Data
+11c,2018-19,E12000002,North West,E10000017,Lancashire,24m,%,HepB_Percent_Vaccinated,-1,Missing Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E06000010,Kingston upon Hull,24m,Number,HepB_Number_Eligible,10,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E06000010,Kingston upon Hull,24m,Number,HepB_Number_Vaccinated,-2,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E06000010,Kingston upon Hull,24m,%,HepB_Percent_Vaccinated,-2.00000000000000,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E06000011,East Riding of Yorkshire,24m,Number,HepB_Number_Eligible,-2,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E06000011,East Riding of Yorkshire,24m,Number,HepB_Number_Vaccinated,-2,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E06000011,East Riding of Yorkshire,24m,%,HepB_Percent_Vaccinated,-2,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E06000012,North East Lincolnshire,24m,Number,HepB_Number_Eligible,6,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E06000012,North East Lincolnshire,24m,Number,HepB_Number_Vaccinated,5,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E06000012,North East Lincolnshire,24m,%,HepB_Percent_Vaccinated,83.3333333333333,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E06000013,North Lincolnshire,24m,Number,HepB_Number_Eligible,-2,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E06000013,North Lincolnshire,24m,Number,HepB_Number_Vaccinated,-2,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E06000013,North Lincolnshire,24m,%,HepB_Percent_Vaccinated,-2,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E06000014,York,24m,Number,HepB_Number_Eligible,0,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E06000014,York,24m,Number,HepB_Number_Vaccinated,0,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E06000014,York,24m,%,HepB_Percent_Vaccinated,0,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000016,Barnsley,24m,Number,HepB_Number_Eligible,3,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000016,Barnsley,24m,Number,HepB_Number_Vaccinated,3,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000016,Barnsley,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000017,Doncaster,24m,Number,HepB_Number_Eligible,5,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000017,Doncaster,24m,Number,HepB_Number_Vaccinated,4,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000017,Doncaster,24m,%,HepB_Percent_Vaccinated,80,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000018,Rotherham,24m,Number,HepB_Number_Eligible,13,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000018,Rotherham,24m,Number,HepB_Number_Vaccinated,13,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000018,Rotherham,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000019,Sheffield,24m,Number,HepB_Number_Eligible,36,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000019,Sheffield,24m,Number,HepB_Number_Vaccinated,36,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000019,Sheffield,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000032,Bradford,24m,Number,HepB_Number_Eligible,24,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000032,Bradford,24m,Number,HepB_Number_Vaccinated,23,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000032,Bradford,24m,%,HepB_Percent_Vaccinated,95.8333333333333,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000033,Calderdale,24m,Number,HepB_Number_Eligible,-2,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000033,Calderdale,24m,Number,HepB_Number_Vaccinated,-2,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000033,Calderdale,24m,%,HepB_Percent_Vaccinated,-2,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000034,Kirklees,24m,Number,HepB_Number_Eligible,9,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000034,Kirklees,24m,Number,HepB_Number_Vaccinated,9,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000034,Kirklees,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000035,Leeds,24m,Number,HepB_Number_Eligible,53,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000035,Leeds,24m,Number,HepB_Number_Vaccinated,42,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000035,Leeds,24m,%,HepB_Percent_Vaccinated,79.2452830188679,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000036,Wakefield,24m,Number,HepB_Number_Eligible,13,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000036,Wakefield,24m,Number,HepB_Number_Vaccinated,11,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E08000036,Wakefield,24m,%,HepB_Percent_Vaccinated,84.6153846153846,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E10000023,North Yorkshire,24m,Number,HepB_Number_Eligible,5,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E10000023,North Yorkshire,24m,Number,HepB_Number_Vaccinated,5,Full Data
+11c,2018-19,E12000003,Yorkshire and the Humber,E10000023,North Yorkshire,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000004,East Midlands,E06000015,Derby,24m,Number,HepB_Number_Eligible,11,Full Data
+11c,2018-19,E12000004,East Midlands,E06000015,Derby,24m,Number,HepB_Number_Vaccinated,11,Full Data
+11c,2018-19,E12000004,East Midlands,E06000015,Derby,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000004,East Midlands,E06000016,Leicester,24m,Number,HepB_Number_Eligible,28,Full Data
+11c,2018-19,E12000004,East Midlands,E06000016,Leicester,24m,Number,HepB_Number_Vaccinated,27,Full Data
+11c,2018-19,E12000004,East Midlands,E06000016,Leicester,24m,%,HepB_Percent_Vaccinated,96.4285714285714,Full Data
+11c,2018-19,E12000004,East Midlands,E06000017,Rutland,24m,Number,HepB_Number_Eligible,0,Full Data
+11c,2018-19,E12000004,East Midlands,E06000017,Rutland,24m,Number,HepB_Number_Vaccinated,0,Full Data
+11c,2018-19,E12000004,East Midlands,E06000017,Rutland,24m,%,HepB_Percent_Vaccinated,0,Full Data
+11c,2018-19,E12000004,East Midlands,E06000018,Nottingham,24m,Number,HepB_Number_Eligible,28,Full Data
+11c,2018-19,E12000004,East Midlands,E06000018,Nottingham,24m,Number,HepB_Number_Vaccinated,22,Full Data
+11c,2018-19,E12000004,East Midlands,E06000018,Nottingham,24m,%,HepB_Percent_Vaccinated,78.5714285714285,Full Data
+11c,2018-19,E12000004,East Midlands,E10000007,Derbyshire,24m,Number,HepB_Number_Eligible,7,Full Data
+11c,2018-19,E12000004,East Midlands,E10000007,Derbyshire,24m,Number,HepB_Number_Vaccinated,7,Full Data
+11c,2018-19,E12000004,East Midlands,E10000007,Derbyshire,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000004,East Midlands,E10000018,Leicestershire,24m,Number,HepB_Number_Eligible,11,Full Data
+11c,2018-19,E12000004,East Midlands,E10000018,Leicestershire,24m,Number,HepB_Number_Vaccinated,9,Full Data
+11c,2018-19,E12000004,East Midlands,E10000018,Leicestershire,24m,%,HepB_Percent_Vaccinated,81.8181818181818,Full Data
+11c,2018-19,E12000004,East Midlands,E10000019,Lincolnshire,24m,Number,HepB_Number_Eligible,9,Full Data
+11c,2018-19,E12000004,East Midlands,E10000019,Lincolnshire,24m,Number,HepB_Number_Vaccinated,8,Full Data
+11c,2018-19,E12000004,East Midlands,E10000019,Lincolnshire,24m,%,HepB_Percent_Vaccinated,88.8888888888888,Full Data
+11c,2018-19,E12000004,East Midlands,E10000021,Northamptonshire,24m,Number,HepB_Number_Eligible,38,Full Data
+11c,2018-19,E12000004,East Midlands,E10000021,Northamptonshire,24m,Number,HepB_Number_Vaccinated,36,Full Data
+11c,2018-19,E12000004,East Midlands,E10000021,Northamptonshire,24m,%,HepB_Percent_Vaccinated,94.7368421052631,Full Data
+11c,2018-19,E12000004,East Midlands,E10000024,Nottinghamshire,24m,Number,HepB_Number_Eligible,11,Full Data
+11c,2018-19,E12000004,East Midlands,E10000024,Nottinghamshire,24m,Number,HepB_Number_Vaccinated,11,Full Data
+11c,2018-19,E12000004,East Midlands,E10000024,Nottinghamshire,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000005,West Midlands,E06000019,Herefordshire,24m,Number,HepB_Number_Eligible,-2,Full Data
+11c,2018-19,E12000005,West Midlands,E06000019,Herefordshire,24m,Number,HepB_Number_Vaccinated,-2,Full Data
+11c,2018-19,E12000005,West Midlands,E06000019,Herefordshire,24m,%,HepB_Percent_Vaccinated,-2,Full Data
+11c,2018-19,E12000005,West Midlands,E06000020,Telford and Wrekin,24m,Number,HepB_Number_Eligible,6,Full Data
+11c,2018-19,E12000005,West Midlands,E06000020,Telford and Wrekin,24m,Number,HepB_Number_Vaccinated,6,Full Data
+11c,2018-19,E12000005,West Midlands,E06000020,Telford and Wrekin,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000005,West Midlands,E06000021,Stoke-on-Trent,24m,Number,HepB_Number_Eligible,9,Full Data
+11c,2018-19,E12000005,West Midlands,E06000021,Stoke-on-Trent,24m,Number,HepB_Number_Vaccinated,9,Full Data
+11c,2018-19,E12000005,West Midlands,E06000021,Stoke-on-Trent,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000005,West Midlands,E06000051,Shropshire,24m,Number,HepB_Number_Eligible,-2,Full Data
+11c,2018-19,E12000005,West Midlands,E06000051,Shropshire,24m,Number,HepB_Number_Vaccinated,-2,Full Data
+11c,2018-19,E12000005,West Midlands,E06000051,Shropshire,24m,%,HepB_Percent_Vaccinated,-2,Full Data
+11c,2018-19,E12000005,West Midlands,E08000025,Birmingham,24m,Number,HepB_Number_Eligible,118,Full Data
+11c,2018-19,E12000005,West Midlands,E08000025,Birmingham,24m,Number,HepB_Number_Vaccinated,118,Full Data
+11c,2018-19,E12000005,West Midlands,E08000025,Birmingham,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000005,West Midlands,E08000026,Coventry,24m,Number,HepB_Number_Eligible,17,Full Data
+11c,2018-19,E12000005,West Midlands,E08000026,Coventry,24m,Number,HepB_Number_Vaccinated,17,Full Data
+11c,2018-19,E12000005,West Midlands,E08000026,Coventry,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000005,West Midlands,E08000027,Dudley,24m,Number,HepB_Number_Eligible,8,Full Data
+11c,2018-19,E12000005,West Midlands,E08000027,Dudley,24m,Number,HepB_Number_Vaccinated,8,Full Data
+11c,2018-19,E12000005,West Midlands,E08000027,Dudley,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000005,West Midlands,E08000028,Sandwell,24m,Number,HepB_Number_Eligible,16,Full Data
+11c,2018-19,E12000005,West Midlands,E08000028,Sandwell,24m,Number,HepB_Number_Vaccinated,16,Full Data
+11c,2018-19,E12000005,West Midlands,E08000028,Sandwell,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000005,West Midlands,E08000029,Solihull,24m,Number,HepB_Number_Eligible,0,Full Data
+11c,2018-19,E12000005,West Midlands,E08000029,Solihull,24m,Number,HepB_Number_Vaccinated,0,Full Data
+11c,2018-19,E12000005,West Midlands,E08000029,Solihull,24m,%,HepB_Percent_Vaccinated,0,Full Data
+11c,2018-19,E12000005,West Midlands,E08000030,Walsall,24m,Number,HepB_Number_Eligible,6,Full Data
+11c,2018-19,E12000005,West Midlands,E08000030,Walsall,24m,Number,HepB_Number_Vaccinated,6,Full Data
+11c,2018-19,E12000005,West Midlands,E08000030,Walsall,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000005,West Midlands,E08000031,Wolverhampton,24m,Number,HepB_Number_Eligible,18,Full Data
+11c,2018-19,E12000005,West Midlands,E08000031,Wolverhampton,24m,Number,HepB_Number_Vaccinated,18,Full Data
+11c,2018-19,E12000005,West Midlands,E08000031,Wolverhampton,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000005,West Midlands,E10000028,Staffordshire,24m,Number,HepB_Number_Eligible,9,Full Data
+11c,2018-19,E12000005,West Midlands,E10000028,Staffordshire,24m,Number,HepB_Number_Vaccinated,9,Full Data
+11c,2018-19,E12000005,West Midlands,E10000028,Staffordshire,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000005,West Midlands,E10000031,Warwickshire,24m,Number,HepB_Number_Eligible,6,Full Data
+11c,2018-19,E12000005,West Midlands,E10000031,Warwickshire,24m,Number,HepB_Number_Vaccinated,6,Full Data
+11c,2018-19,E12000005,West Midlands,E10000031,Warwickshire,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000005,West Midlands,E10000034,Worcestershire,24m,Number,HepB_Number_Eligible,4,Full Data
+11c,2018-19,E12000005,West Midlands,E10000034,Worcestershire,24m,Number,HepB_Number_Vaccinated,4,Full Data
+11c,2018-19,E12000005,West Midlands,E10000034,Worcestershire,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000006,East of England,E06000031,Peterborough,24m,Number,HepB_Number_Eligible,12,Full Data
+11c,2018-19,E12000006,East of England,E06000031,Peterborough,24m,Number,HepB_Number_Vaccinated,9,Full Data
+11c,2018-19,E12000006,East of England,E06000031,Peterborough,24m,%,HepB_Percent_Vaccinated,75,Full Data
+11c,2018-19,E12000006,East of England,E06000032,Luton,24m,Number,HepB_Number_Eligible,44,Full Data
+11c,2018-19,E12000006,East of England,E06000032,Luton,24m,Number,HepB_Number_Vaccinated,33,Full Data
+11c,2018-19,E12000006,East of England,E06000032,Luton,24m,%,HepB_Percent_Vaccinated,75,Full Data
+11c,2018-19,E12000006,East of England,E06000033,Southend-on-Sea,24m,Number,HepB_Number_Eligible,3,Full Data
+11c,2018-19,E12000006,East of England,E06000033,Southend-on-Sea,24m,Number,HepB_Number_Vaccinated,2,Full Data
+11c,2018-19,E12000006,East of England,E06000033,Southend-on-Sea,24m,%,HepB_Percent_Vaccinated,66.6666666666666,Full Data
+11c,2018-19,E12000006,East of England,E06000034,Thurrock,24m,Number,HepB_Number_Eligible,19,Full Data
+11c,2018-19,E12000006,East of England,E06000034,Thurrock,24m,Number,HepB_Number_Vaccinated,17,Full Data
+11c,2018-19,E12000006,East of England,E06000034,Thurrock,24m,%,HepB_Percent_Vaccinated,89.4736842105263,Full Data
+11c,2018-19,E12000006,East of England,E06000055,Bedford,24m,Number,HepB_Number_Eligible,6,Full Data
+11c,2018-19,E12000006,East of England,E06000055,Bedford,24m,Number,HepB_Number_Vaccinated,4,Full Data
+11c,2018-19,E12000006,East of England,E06000055,Bedford,24m,%,HepB_Percent_Vaccinated,66.6666666666666,Full Data
+11c,2018-19,E12000006,East of England,E06000056,Central Bedfordshire,24m,Number,HepB_Number_Eligible,7,Full Data
+11c,2018-19,E12000006,East of England,E06000056,Central Bedfordshire,24m,Number,HepB_Number_Vaccinated,7,Full Data
+11c,2018-19,E12000006,East of England,E06000056,Central Bedfordshire,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000006,East of England,E10000003,Cambridgeshire,24m,Number,HepB_Number_Eligible,14,Full Data
+11c,2018-19,E12000006,East of England,E10000003,Cambridgeshire,24m,Number,HepB_Number_Vaccinated,10,Full Data
+11c,2018-19,E12000006,East of England,E10000003,Cambridgeshire,24m,%,HepB_Percent_Vaccinated,71.4285714285714,Full Data
+11c,2018-19,E12000006,East of England,E10000012,Essex,24m,Number,HepB_Number_Eligible,30,Full Data
+11c,2018-19,E12000006,East of England,E10000012,Essex,24m,Number,HepB_Number_Vaccinated,23,Full Data
+11c,2018-19,E12000006,East of England,E10000012,Essex,24m,%,HepB_Percent_Vaccinated,76.6666666666666,Full Data
+11c,2018-19,E12000006,East of England,E10000015,Hertfordshire,24m,Number,HepB_Number_Eligible,79,Full Data
+11c,2018-19,E12000006,East of England,E10000015,Hertfordshire,24m,Number,HepB_Number_Vaccinated,66,Full Data
+11c,2018-19,E12000006,East of England,E10000015,Hertfordshire,24m,%,HepB_Percent_Vaccinated,83.5443037974683,Full Data
+11c,2018-19,E12000006,East of England,E10000020,Norfolk,24m,Number,HepB_Number_Eligible,19,Full Data
+11c,2018-19,E12000006,East of England,E10000020,Norfolk,24m,Number,HepB_Number_Vaccinated,18,Full Data
+11c,2018-19,E12000006,East of England,E10000020,Norfolk,24m,%,HepB_Percent_Vaccinated,94.7368421052631,Full Data
+11c,2018-19,E12000006,East of England,E10000029,Suffolk,24m,Number,HepB_Number_Eligible,23,Full Data
+11c,2018-19,E12000006,East of England,E10000029,Suffolk,24m,Number,HepB_Number_Vaccinated,18,Full Data
+11c,2018-19,E12000006,East of England,E10000029,Suffolk,24m,%,HepB_Percent_Vaccinated,78.2608695652174,Full Data
+11c,2018-19,E12000007,London,E09000002,Barking and Dagenham,24m,Number,HepB_Number_Eligible,44,Full Data
+11c,2018-19,E12000007,London,E09000002,Barking and Dagenham,24m,Number,HepB_Number_Vaccinated,39,Full Data
+11c,2018-19,E12000007,London,E09000002,Barking and Dagenham,24m,%,HepB_Percent_Vaccinated,88.6363636363636,Full Data
+11c,2018-19,E12000007,London,E09000003,Barnet,24m,Number,HepB_Number_Eligible,9,Full Data
+11c,2018-19,E12000007,London,E09000003,Barnet,24m,Number,HepB_Number_Vaccinated,8,Full Data
+11c,2018-19,E12000007,London,E09000003,Barnet,24m,%,HepB_Percent_Vaccinated,88.8888888888888,Full Data
+11c,2018-19,E12000007,London,E09000004,Bexley,24m,Number,HepB_Number_Eligible,26,Full Data
+11c,2018-19,E12000007,London,E09000004,Bexley,24m,Number,HepB_Number_Vaccinated,26,Full Data
+11c,2018-19,E12000007,London,E09000004,Bexley,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000007,London,E09000005,Brent,24m,Number,HepB_Number_Eligible,17,Full Data
+11c,2018-19,E12000007,London,E09000005,Brent,24m,Number,HepB_Number_Vaccinated,15,Full Data
+11c,2018-19,E12000007,London,E09000005,Brent,24m,%,HepB_Percent_Vaccinated,88.235294117647,Full Data
+11c,2018-19,E12000007,London,E09000006,Bromley,24m,Number,HepB_Number_Eligible,14,Full Data
+11c,2018-19,E12000007,London,E09000006,Bromley,24m,Number,HepB_Number_Vaccinated,13,Full Data
+11c,2018-19,E12000007,London,E09000006,Bromley,24m,%,HepB_Percent_Vaccinated,92.8571428571428,Full Data
+11c,2018-19,E12000007,London,E09000007,Camden,24m,Number,HepB_Number_Eligible,10,Full Data
+11c,2018-19,E12000007,London,E09000007,Camden,24m,Number,HepB_Number_Vaccinated,8,Full Data
+11c,2018-19,E12000007,London,E09000007,Camden,24m,%,HepB_Percent_Vaccinated,80,Full Data
+11c,2018-19,E12000007,London,E09000008,Croydon,24m,Number,HepB_Number_Eligible,17,Full Data
+11c,2018-19,E12000007,London,E09000008,Croydon,24m,Number,HepB_Number_Vaccinated,16,Full Data
+11c,2018-19,E12000007,London,E09000008,Croydon,24m,%,HepB_Percent_Vaccinated,94.1176470588235,Full Data
+11c,2018-19,E12000007,London,E09000009,Ealing,24m,Number,HepB_Number_Eligible,18,Full Data
+11c,2018-19,E12000007,London,E09000009,Ealing,24m,Number,HepB_Number_Vaccinated,15,Full Data
+11c,2018-19,E12000007,London,E09000009,Ealing,24m,%,HepB_Percent_Vaccinated,83.3333333333333,Full Data
+11c,2018-19,E12000007,London,E09000010,Enfield,24m,Number,HepB_Number_Eligible,35,Full Data
+11c,2018-19,E12000007,London,E09000010,Enfield,24m,Number,HepB_Number_Vaccinated,23,Full Data
+11c,2018-19,E12000007,London,E09000010,Enfield,24m,%,HepB_Percent_Vaccinated,65.7142857142857,Full Data
+11c,2018-19,E12000007,London,E09000011,Greenwich,24m,Number,HepB_Number_Eligible,60,Full Data
+11c,2018-19,E12000007,London,E09000011,Greenwich,24m,Number,HepB_Number_Vaccinated,54,Full Data
+11c,2018-19,E12000007,London,E09000011,Greenwich,24m,%,HepB_Percent_Vaccinated,90,Full Data
+11c,2018-19,E12000007,London,E09000012,Hackney (inc. City of London),24m,Number,HepB_Number_Eligible,21,Full Data
+11c,2018-19,E12000007,London,E09000012,Hackney (inc. City of London),24m,Number,HepB_Number_Vaccinated,13,Full Data
+11c,2018-19,E12000007,London,E09000012,Hackney (inc. City of London),24m,%,HepB_Percent_Vaccinated,61.9047619047619,Full Data
+11c,2018-19,E12000007,London,E09000013,Hammersmith and Fulham,24m,Number,HepB_Number_Eligible,3,Full Data
+11c,2018-19,E12000007,London,E09000013,Hammersmith and Fulham,24m,Number,HepB_Number_Vaccinated,2,Full Data
+11c,2018-19,E12000007,London,E09000013,Hammersmith and Fulham,24m,%,HepB_Percent_Vaccinated,66.6666666666666,Full Data
+11c,2018-19,E12000007,London,E09000014,Haringey,24m,Number,HepB_Number_Eligible,44,Full Data
+11c,2018-19,E12000007,London,E09000014,Haringey,24m,Number,HepB_Number_Vaccinated,37,Full Data
+11c,2018-19,E12000007,London,E09000014,Haringey,24m,%,HepB_Percent_Vaccinated,84.0909090909091,Full Data
+11c,2018-19,E12000007,London,E09000015,Harrow,24m,Number,HepB_Number_Eligible,13,Full Data
+11c,2018-19,E12000007,London,E09000015,Harrow,24m,Number,HepB_Number_Vaccinated,12,Full Data
+11c,2018-19,E12000007,London,E09000015,Harrow,24m,%,HepB_Percent_Vaccinated,92.3076923076923,Full Data
+11c,2018-19,E12000007,London,E09000016,Havering,24m,Number,HepB_Number_Eligible,18,Full Data
+11c,2018-19,E12000007,London,E09000016,Havering,24m,Number,HepB_Number_Vaccinated,17,Full Data
+11c,2018-19,E12000007,London,E09000016,Havering,24m,%,HepB_Percent_Vaccinated,94.4444444444444,Full Data
+11c,2018-19,E12000007,London,E09000017,Hillingdon,24m,Number,HepB_Number_Eligible,31,Full Data
+11c,2018-19,E12000007,London,E09000017,Hillingdon,24m,Number,HepB_Number_Vaccinated,26,Full Data
+11c,2018-19,E12000007,London,E09000017,Hillingdon,24m,%,HepB_Percent_Vaccinated,83.8709677419355,Full Data
+11c,2018-19,E12000007,London,E09000018,Hounslow,24m,Number,HepB_Number_Eligible,20,Full Data
+11c,2018-19,E12000007,London,E09000018,Hounslow,24m,Number,HepB_Number_Vaccinated,17,Full Data
+11c,2018-19,E12000007,London,E09000018,Hounslow,24m,%,HepB_Percent_Vaccinated,85,Full Data
+11c,2018-19,E12000007,London,E09000019,Islington,24m,Number,HepB_Number_Eligible,11,Full Data
+11c,2018-19,E12000007,London,E09000019,Islington,24m,Number,HepB_Number_Vaccinated,9,Full Data
+11c,2018-19,E12000007,London,E09000019,Islington,24m,%,HepB_Percent_Vaccinated,81.8181818181818,Full Data
+11c,2018-19,E12000007,London,E09000020,Kensington and Chelsea,24m,Number,HepB_Number_Eligible,4,Full Data
+11c,2018-19,E12000007,London,E09000020,Kensington and Chelsea,24m,Number,HepB_Number_Vaccinated,3,Full Data
+11c,2018-19,E12000007,London,E09000020,Kensington and Chelsea,24m,%,HepB_Percent_Vaccinated,75,Full Data
+11c,2018-19,E12000007,London,E09000021,Kingston upon Thames,24m,Number,HepB_Number_Eligible,11,Full Data
+11c,2018-19,E12000007,London,E09000021,Kingston upon Thames,24m,Number,HepB_Number_Vaccinated,10,Full Data
+11c,2018-19,E12000007,London,E09000021,Kingston upon Thames,24m,%,HepB_Percent_Vaccinated,90.9090909090909,Full Data
+11c,2018-19,E12000007,London,E09000022,Lambeth,24m,Number,HepB_Number_Eligible,7,Full Data
+11c,2018-19,E12000007,London,E09000022,Lambeth,24m,Number,HepB_Number_Vaccinated,7,Full Data
+11c,2018-19,E12000007,London,E09000022,Lambeth,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000007,London,E09000023,Lewisham,24m,Number,HepB_Number_Eligible,26,Full Data
+11c,2018-19,E12000007,London,E09000023,Lewisham,24m,Number,HepB_Number_Vaccinated,25,Full Data
+11c,2018-19,E12000007,London,E09000023,Lewisham,24m,%,HepB_Percent_Vaccinated,96.1538461538461,Full Data
+11c,2018-19,E12000007,London,E09000024,Merton,24m,Number,HepB_Number_Eligible,16,Full Data
+11c,2018-19,E12000007,London,E09000024,Merton,24m,Number,HepB_Number_Vaccinated,15,Full Data
+11c,2018-19,E12000007,London,E09000024,Merton,24m,%,HepB_Percent_Vaccinated,93.75,Full Data
+11c,2018-19,E12000007,London,E09000025,Newham,24m,Number,HepB_Number_Eligible,53,Full Data
+11c,2018-19,E12000007,London,E09000025,Newham,24m,Number,HepB_Number_Vaccinated,42,Full Data
+11c,2018-19,E12000007,London,E09000025,Newham,24m,%,HepB_Percent_Vaccinated,79.2452830188679,Full Data
+11c,2018-19,E12000007,London,E09000026,Redbridge,24m,Number,HepB_Number_Eligible,33,Full Data
+11c,2018-19,E12000007,London,E09000026,Redbridge,24m,Number,HepB_Number_Vaccinated,25,Full Data
+11c,2018-19,E12000007,London,E09000026,Redbridge,24m,%,HepB_Percent_Vaccinated,75.7575757575757,Full Data
+11c,2018-19,E12000007,London,E09000027,Richmond upon Thames,24m,Number,HepB_Number_Eligible,-2,Full Data
+11c,2018-19,E12000007,London,E09000027,Richmond upon Thames,24m,Number,HepB_Number_Vaccinated,-2,Full Data
+11c,2018-19,E12000007,London,E09000027,Richmond upon Thames,24m,%,HepB_Percent_Vaccinated,-2,Full Data
+11c,2018-19,E12000007,London,E09000028,Southwark,24m,Number,HepB_Number_Eligible,10,Full Data
+11c,2018-19,E12000007,London,E09000028,Southwark,24m,Number,HepB_Number_Vaccinated,9,Full Data
+11c,2018-19,E12000007,London,E09000028,Southwark,24m,%,HepB_Percent_Vaccinated,90,Full Data
+11c,2018-19,E12000007,London,E09000029,Sutton,24m,Number,HepB_Number_Eligible,22,Full Data
+11c,2018-19,E12000007,London,E09000029,Sutton,24m,Number,HepB_Number_Vaccinated,20,Full Data
+11c,2018-19,E12000007,London,E09000029,Sutton,24m,%,HepB_Percent_Vaccinated,90.9090909090909,Full Data
+11c,2018-19,E12000007,London,E09000030,Tower Hamlets,24m,Number,HepB_Number_Eligible,13,Full Data
+11c,2018-19,E12000007,London,E09000030,Tower Hamlets,24m,Number,HepB_Number_Vaccinated,12,Full Data
+11c,2018-19,E12000007,London,E09000030,Tower Hamlets,24m,%,HepB_Percent_Vaccinated,92.3076923076923,Full Data
+11c,2018-19,E12000007,London,E09000031,Waltham Forest,24m,Number,HepB_Number_Eligible,42,Full Data
+11c,2018-19,E12000007,London,E09000031,Waltham Forest,24m,Number,HepB_Number_Vaccinated,32,Full Data
+11c,2018-19,E12000007,London,E09000031,Waltham Forest,24m,%,HepB_Percent_Vaccinated,76.1904761904762,Full Data
+11c,2018-19,E12000007,London,E09000032,Wandsworth,24m,Number,HepB_Number_Eligible,18,Full Data
+11c,2018-19,E12000007,London,E09000032,Wandsworth,24m,Number,HepB_Number_Vaccinated,17,Full Data
+11c,2018-19,E12000007,London,E09000032,Wandsworth,24m,%,HepB_Percent_Vaccinated,94.4444444444444,Full Data
+11c,2018-19,E12000007,London,E09000033,Westminster,24m,Number,HepB_Number_Eligible,-2,Full Data
+11c,2018-19,E12000007,London,E09000033,Westminster,24m,Number,HepB_Number_Vaccinated,-2,Full Data
+11c,2018-19,E12000007,London,E09000033,Westminster,24m,%,HepB_Percent_Vaccinated,-2,Full Data
+11c,2018-19,E12000008,South East,E06000035,Medway,24m,Number,HepB_Number_Eligible,9,Full Data
+11c,2018-19,E12000008,South East,E06000035,Medway,24m,Number,HepB_Number_Vaccinated,8,Full Data
+11c,2018-19,E12000008,South East,E06000035,Medway,24m,%,HepB_Percent_Vaccinated,88.8888888888888,Full Data
+11c,2018-19,E12000008,South East,E06000036,Bracknell Forest,24m,Number,HepB_Number_Eligible,-2,Full Data
+11c,2018-19,E12000008,South East,E06000036,Bracknell Forest,24m,Number,HepB_Number_Vaccinated,-2,Full Data
+11c,2018-19,E12000008,South East,E06000036,Bracknell Forest,24m,%,HepB_Percent_Vaccinated,-2,Full Data
+11c,2018-19,E12000008,South East,E06000037,West Berkshire,24m,Number,HepB_Number_Eligible,3,Full Data
+11c,2018-19,E12000008,South East,E06000037,West Berkshire,24m,Number,HepB_Number_Vaccinated,3,Full Data
+11c,2018-19,E12000008,South East,E06000037,West Berkshire,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000008,South East,E06000038,Reading,24m,Number,HepB_Number_Eligible,18,Full Data
+11c,2018-19,E12000008,South East,E06000038,Reading,24m,Number,HepB_Number_Vaccinated,18,Full Data
+11c,2018-19,E12000008,South East,E06000038,Reading,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000008,South East,E06000039,Slough,24m,Number,HepB_Number_Eligible,9,Full Data
+11c,2018-19,E12000008,South East,E06000039,Slough,24m,Number,HepB_Number_Vaccinated,9,Full Data
+11c,2018-19,E12000008,South East,E06000039,Slough,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000008,South East,E06000040,Windsor and Maidenhead,24m,Number,HepB_Number_Eligible,6,Full Data
+11c,2018-19,E12000008,South East,E06000040,Windsor and Maidenhead,24m,Number,HepB_Number_Vaccinated,6,Full Data
+11c,2018-19,E12000008,South East,E06000040,Windsor and Maidenhead,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000008,South East,E06000041,Wokingham,24m,Number,HepB_Number_Eligible,3,Full Data
+11c,2018-19,E12000008,South East,E06000041,Wokingham,24m,Number,HepB_Number_Vaccinated,3,Full Data
+11c,2018-19,E12000008,South East,E06000041,Wokingham,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000008,South East,E06000042,Milton Keynes,24m,Number,HepB_Number_Eligible,12,Full Data
+11c,2018-19,E12000008,South East,E06000042,Milton Keynes,24m,Number,HepB_Number_Vaccinated,6,Full Data
+11c,2018-19,E12000008,South East,E06000042,Milton Keynes,24m,%,HepB_Percent_Vaccinated,50,Full Data
+11c,2018-19,E12000008,South East,E06000043,Brighton and Hove,24m,Number,HepB_Number_Eligible,4,Full Data
+11c,2018-19,E12000008,South East,E06000043,Brighton and Hove,24m,Number,HepB_Number_Vaccinated,3,Full Data
+11c,2018-19,E12000008,South East,E06000043,Brighton and Hove,24m,%,HepB_Percent_Vaccinated,75,Full Data
+11c,2018-19,E12000008,South East,E06000044,Portsmouth,24m,Number,HepB_Number_Eligible,14,Full Data
+11c,2018-19,E12000008,South East,E06000044,Portsmouth,24m,Number,HepB_Number_Vaccinated,14,Full Data
+11c,2018-19,E12000008,South East,E06000044,Portsmouth,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000008,South East,E06000045,Southampton,24m,Number,HepB_Number_Eligible,7,Full Data
+11c,2018-19,E12000008,South East,E06000045,Southampton,24m,Number,HepB_Number_Vaccinated,7,Full Data
+11c,2018-19,E12000008,South East,E06000045,Southampton,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000008,South East,E06000046,Isle of Wight,24m,Number,HepB_Number_Eligible,-2,Full Data
+11c,2018-19,E12000008,South East,E06000046,Isle of Wight,24m,Number,HepB_Number_Vaccinated,-2,Full Data
+11c,2018-19,E12000008,South East,E06000046,Isle of Wight,24m,%,HepB_Percent_Vaccinated,-2,Full Data
+11c,2018-19,E12000008,South East,E10000002,Buckinghamshire,24m,Number,HepB_Number_Eligible,11,Full Data
+11c,2018-19,E12000008,South East,E10000002,Buckinghamshire,24m,Number,HepB_Number_Vaccinated,10,Full Data
+11c,2018-19,E12000008,South East,E10000002,Buckinghamshire,24m,%,HepB_Percent_Vaccinated,90.9090909090909,Full Data
+11c,2018-19,E12000008,South East,E10000011,East Sussex,24m,Number,HepB_Number_Eligible,10,Full Data
+11c,2018-19,E12000008,South East,E10000011,East Sussex,24m,Number,HepB_Number_Vaccinated,9,Full Data
+11c,2018-19,E12000008,South East,E10000011,East Sussex,24m,%,HepB_Percent_Vaccinated,90,Full Data
+11c,2018-19,E12000008,South East,E10000014,Hampshire,24m,Number,HepB_Number_Eligible,49,Full Data
+11c,2018-19,E12000008,South East,E10000014,Hampshire,24m,Number,HepB_Number_Vaccinated,49,Full Data
+11c,2018-19,E12000008,South East,E10000014,Hampshire,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000008,South East,E10000016,Kent,24m,Number,HepB_Number_Eligible,29,Full Data
+11c,2018-19,E12000008,South East,E10000016,Kent,24m,Number,HepB_Number_Vaccinated,28,Full Data
+11c,2018-19,E12000008,South East,E10000016,Kent,24m,%,HepB_Percent_Vaccinated,96.551724137931,Full Data
+11c,2018-19,E12000008,South East,E10000025,Oxfordshire,24m,Number,HepB_Number_Eligible,25,Full Data
+11c,2018-19,E12000008,South East,E10000025,Oxfordshire,24m,Number,HepB_Number_Vaccinated,23,Full Data
+11c,2018-19,E12000008,South East,E10000025,Oxfordshire,24m,%,HepB_Percent_Vaccinated,92,Full Data
+11c,2018-19,E12000008,South East,E10000030,Surrey,24m,Number,HepB_Number_Eligible,50,Full Data
+11c,2018-19,E12000008,South East,E10000030,Surrey,24m,Number,HepB_Number_Vaccinated,50,Full Data
+11c,2018-19,E12000008,South East,E10000030,Surrey,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000008,South East,E10000032,West Sussex,24m,Number,HepB_Number_Eligible,13,Full Data
+11c,2018-19,E12000008,South East,E10000032,West Sussex,24m,Number,HepB_Number_Vaccinated,13,Full Data
+11c,2018-19,E12000008,South East,E10000032,West Sussex,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000009,South West,E06000022,Bath and North East Somerset,24m,Number,HepB_Number_Eligible,9,Full Data
+11c,2018-19,E12000009,South West,E06000022,Bath and North East Somerset,24m,Number,HepB_Number_Vaccinated,8,Full Data
+11c,2018-19,E12000009,South West,E06000022,Bath and North East Somerset,24m,%,HepB_Percent_Vaccinated,88.8888888888888,Full Data
+11c,2018-19,E12000009,South West,E06000023,Bristol,24m,Number,HepB_Number_Eligible,24,Full Data
+11c,2018-19,E12000009,South West,E06000023,Bristol,24m,Number,HepB_Number_Vaccinated,23,Full Data
+11c,2018-19,E12000009,South West,E06000023,Bristol,24m,%,HepB_Percent_Vaccinated,95.8333333333333,Full Data
+11c,2018-19,E12000009,South West,E06000024,North Somerset,24m,Number,HepB_Number_Eligible,-2,Full Data
+11c,2018-19,E12000009,South West,E06000024,North Somerset,24m,Number,HepB_Number_Vaccinated,-2,Full Data
+11c,2018-19,E12000009,South West,E06000024,North Somerset,24m,%,HepB_Percent_Vaccinated,-2,Full Data
+11c,2018-19,E12000009,South West,E06000025,South Gloucestershire,24m,Number,HepB_Number_Eligible,6,Full Data
+11c,2018-19,E12000009,South West,E06000025,South Gloucestershire,24m,Number,HepB_Number_Vaccinated,5,Full Data
+11c,2018-19,E12000009,South West,E06000025,South Gloucestershire,24m,%,HepB_Percent_Vaccinated,83.3333333333333,Full Data
+11c,2018-19,E12000009,South West,E06000026,Plymouth,24m,Number,HepB_Number_Eligible,4,Full Data
+11c,2018-19,E12000009,South West,E06000026,Plymouth,24m,Number,HepB_Number_Vaccinated,4,Full Data
+11c,2018-19,E12000009,South West,E06000026,Plymouth,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000009,South West,E06000027,Torbay,24m,Number,HepB_Number_Eligible,-2,Full Data
+11c,2018-19,E12000009,South West,E06000027,Torbay,24m,Number,HepB_Number_Vaccinated,-2,Full Data
+11c,2018-19,E12000009,South West,E06000027,Torbay,24m,%,HepB_Percent_Vaccinated,-2,Full Data
+11c,2018-19,E12000009,South West,E06000028,Bournemouth,24m,Number,HepB_Number_Eligible,9,Full Data
+11c,2018-19,E12000009,South West,E06000028,Bournemouth,24m,Number,HepB_Number_Vaccinated,8,Full Data
+11c,2018-19,E12000009,South West,E06000028,Bournemouth,24m,%,HepB_Percent_Vaccinated,88.8888888888888,Full Data
+11c,2018-19,E12000009,South West,E06000029,Poole,24m,Number,HepB_Number_Eligible,0,Full Data
+11c,2018-19,E12000009,South West,E06000029,Poole,24m,Number,HepB_Number_Vaccinated,0,Full Data
+11c,2018-19,E12000009,South West,E06000029,Poole,24m,%,HepB_Percent_Vaccinated,0,Full Data
+11c,2018-19,E12000009,South West,E06000030,Swindon,24m,Number,HepB_Number_Eligible,5,Full Data
+11c,2018-19,E12000009,South West,E06000030,Swindon,24m,Number,HepB_Number_Vaccinated,4,Full Data
+11c,2018-19,E12000009,South West,E06000030,Swindon,24m,%,HepB_Percent_Vaccinated,80,Full Data
+11c,2018-19,E12000009,South West,E06000052,Cornwall,24m,Number,HepB_Number_Eligible,4,Full Data
+11c,2018-19,E12000009,South West,E06000052,Cornwall,24m,Number,HepB_Number_Vaccinated,4,Full Data
+11c,2018-19,E12000009,South West,E06000052,Cornwall,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000009,South West,E06000053,Isles of Scilly,24m,Number,HepB_Number_Eligible,0,Full Data
+11c,2018-19,E12000009,South West,E06000053,Isles of Scilly,24m,Number,HepB_Number_Vaccinated,0,Full Data
+11c,2018-19,E12000009,South West,E06000053,Isles of Scilly,24m,%,HepB_Percent_Vaccinated,0,Full Data
+11c,2018-19,E12000009,South West,E06000054,Wiltshire,24m,Number,HepB_Number_Eligible,4,Full Data
+11c,2018-19,E12000009,South West,E06000054,Wiltshire,24m,Number,HepB_Number_Vaccinated,4,Full Data
+11c,2018-19,E12000009,South West,E06000054,Wiltshire,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000009,South West,E10000008,Devon,24m,Number,HepB_Number_Eligible,7,Full Data
+11c,2018-19,E12000009,South West,E10000008,Devon,24m,Number,HepB_Number_Vaccinated,6,Full Data
+11c,2018-19,E12000009,South West,E10000008,Devon,24m,%,HepB_Percent_Vaccinated,85.7142857142857,Full Data
+11c,2018-19,E12000009,South West,E10000009,Dorset,24m,Number,HepB_Number_Eligible,3,Full Data
+11c,2018-19,E12000009,South West,E10000009,Dorset,24m,Number,HepB_Number_Vaccinated,3,Full Data
+11c,2018-19,E12000009,South West,E10000009,Dorset,24m,%,HepB_Percent_Vaccinated,100,Full Data
+11c,2018-19,E12000009,South West,E10000013,Gloucestershire,24m,Number,HepB_Number_Eligible,9,Full Data
+11c,2018-19,E12000009,South West,E10000013,Gloucestershire,24m,Number,HepB_Number_Vaccinated,7,Full Data
+11c,2018-19,E12000009,South West,E10000013,Gloucestershire,24m,%,HepB_Percent_Vaccinated,77.7777777777777,Full Data
+11c,2018-19,E12000009,South West,E10000027,Somerset,24m,Number,HepB_Number_Eligible,7,Full Data
+11c,2018-19,E12000009,South West,E10000027,Somerset,24m,Number,HepB_Number_Vaccinated,7,Full Data
+11c,2018-19,E12000009,South West,E10000027,Somerset,24m,%,HepB_Percent_Vaccinated,100,Full Data

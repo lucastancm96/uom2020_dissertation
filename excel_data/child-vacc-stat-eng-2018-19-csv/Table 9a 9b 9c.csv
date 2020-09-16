@@ -1,0 +1,895 @@
+Table_Ref,CollectionYearRange,Parent_Org_ONS_Code,Parent_Org_Name,Org_ONS_Code,Org_Name,Child_Age,Unit,Indicator,Value
+9a_9b_9c,2018-19,E12000001,North East,E06000001,Hartlepool,24m,Number,24m_Eligible_Pop,1057
+9a_9b_9c,2018-19,E12000001,North East,E06000001,Hartlepool,24m,Number,DTap_IPV_Hib,1003
+9a_9b_9c,2018-19,E12000001,North East,E06000001,Hartlepool,24m,Number,MMR,951
+9a_9b_9c,2018-19,E12000001,North East,E06000001,Hartlepool,24m,Number,Hib_MenC,958
+9a_9b_9c,2018-19,E12000001,North East,E06000001,Hartlepool,24m,Number,PCV,961
+9a_9b_9c,2018-19,E12000001,North East,E06000001,Hartlepool,24m,Number,MenB_booster,924
+9a_9b_9c,2018-19,E12000001,North East,E06000002,Middlesbrough,24m,Number,24m_Eligible_Pop,1964
+9a_9b_9c,2018-19,E12000001,North East,E06000002,Middlesbrough,24m,Number,DTap_IPV_Hib,1855
+9a_9b_9c,2018-19,E12000001,North East,E06000002,Middlesbrough,24m,Number,MMR,1774
+9a_9b_9c,2018-19,E12000001,North East,E06000002,Middlesbrough,24m,Number,Hib_MenC,1772
+9a_9b_9c,2018-19,E12000001,North East,E06000002,Middlesbrough,24m,Number,PCV,1778
+9a_9b_9c,2018-19,E12000001,North East,E06000002,Middlesbrough,24m,Number,MenB_booster,1749
+9a_9b_9c,2018-19,E12000001,North East,E06000003,Redcar and Cleveland,24m,Number,24m_Eligible_Pop,1484
+9a_9b_9c,2018-19,E12000001,North East,E06000003,Redcar and Cleveland,24m,Number,DTap_IPV_Hib,1438
+9a_9b_9c,2018-19,E12000001,North East,E06000003,Redcar and Cleveland,24m,Number,MMR,1394
+9a_9b_9c,2018-19,E12000001,North East,E06000003,Redcar and Cleveland,24m,Number,Hib_MenC,1395
+9a_9b_9c,2018-19,E12000001,North East,E06000003,Redcar and Cleveland,24m,Number,PCV,1397
+9a_9b_9c,2018-19,E12000001,North East,E06000003,Redcar and Cleveland,24m,Number,MenB_booster,1383
+9a_9b_9c,2018-19,E12000001,North East,E06000004,Stockton-on-Tees,24m,Number,24m_Eligible_Pop,2286
+9a_9b_9c,2018-19,E12000001,North East,E06000004,Stockton-on-Tees,24m,Number,DTap_IPV_Hib,2213
+9a_9b_9c,2018-19,E12000001,North East,E06000004,Stockton-on-Tees,24m,Number,MMR,2167
+9a_9b_9c,2018-19,E12000001,North East,E06000004,Stockton-on-Tees,24m,Number,Hib_MenC,2173
+9a_9b_9c,2018-19,E12000001,North East,E06000004,Stockton-on-Tees,24m,Number,PCV,2170
+9a_9b_9c,2018-19,E12000001,North East,E06000004,Stockton-on-Tees,24m,Number,MenB_booster,2136
+9a_9b_9c,2018-19,E12000001,North East,E06000005,Darlington,24m,Number,24m_Eligible_Pop,1054
+9a_9b_9c,2018-19,E12000001,North East,E06000005,Darlington,24m,Number,DTap_IPV_Hib,1024
+9a_9b_9c,2018-19,E12000001,North East,E06000005,Darlington,24m,Number,MMR,986
+9a_9b_9c,2018-19,E12000001,North East,E06000005,Darlington,24m,Number,Hib_MenC,992
+9a_9b_9c,2018-19,E12000001,North East,E06000005,Darlington,24m,Number,PCV,992
+9a_9b_9c,2018-19,E12000001,North East,E06000005,Darlington,24m,Number,MenB_booster,986
+9a_9b_9c,2018-19,E12000001,North East,E06000047,County Durham,24m,Number,24m_Eligible_Pop,5454
+9a_9b_9c,2018-19,E12000001,North East,E06000047,County Durham,24m,Number,DTap_IPV_Hib,5386
+9a_9b_9c,2018-19,E12000001,North East,E06000047,County Durham,24m,Number,MMR,5298
+9a_9b_9c,2018-19,E12000001,North East,E06000047,County Durham,24m,Number,Hib_MenC,5315
+9a_9b_9c,2018-19,E12000001,North East,E06000047,County Durham,24m,Number,PCV,5318
+9a_9b_9c,2018-19,E12000001,North East,E06000047,County Durham,24m,Number,MenB_booster,5281
+9a_9b_9c,2018-19,E12000001,North East,E06000057,Northumberland,24m,Number,24m_Eligible_Pop,3092
+9a_9b_9c,2018-19,E12000001,North East,E06000057,Northumberland,24m,Number,DTap_IPV_Hib,2960
+9a_9b_9c,2018-19,E12000001,North East,E06000057,Northumberland,24m,Number,MMR,2912
+9a_9b_9c,2018-19,E12000001,North East,E06000057,Northumberland,24m,Number,Hib_MenC,2914
+9a_9b_9c,2018-19,E12000001,North East,E06000057,Northumberland,24m,Number,PCV,2915
+9a_9b_9c,2018-19,E12000001,North East,E06000057,Northumberland,24m,Number,MenB_booster,2667
+9a_9b_9c,2018-19,E12000001,North East,E08000021,Newcastle upon Tyne,24m,Number,24m_Eligible_Pop,3230
+9a_9b_9c,2018-19,E12000001,North East,E08000021,Newcastle upon Tyne,24m,Number,DTap_IPV_Hib,3073
+9a_9b_9c,2018-19,E12000001,North East,E08000021,Newcastle upon Tyne,24m,Number,MMR,3000
+9a_9b_9c,2018-19,E12000001,North East,E08000021,Newcastle upon Tyne,24m,Number,Hib_MenC,2988
+9a_9b_9c,2018-19,E12000001,North East,E08000021,Newcastle upon Tyne,24m,Number,PCV,2992
+9a_9b_9c,2018-19,E12000001,North East,E08000021,Newcastle upon Tyne,24m,Number,MenB_booster,2871
+9a_9b_9c,2018-19,E12000001,North East,E08000022,North Tyneside,24m,Number,24m_Eligible_Pop,2276
+9a_9b_9c,2018-19,E12000001,North East,E08000022,North Tyneside,24m,Number,DTap_IPV_Hib,2227
+9a_9b_9c,2018-19,E12000001,North East,E08000022,North Tyneside,24m,Number,MMR,2193
+9a_9b_9c,2018-19,E12000001,North East,E08000022,North Tyneside,24m,Number,Hib_MenC,2196
+9a_9b_9c,2018-19,E12000001,North East,E08000022,North Tyneside,24m,Number,PCV,2198
+9a_9b_9c,2018-19,E12000001,North East,E08000022,North Tyneside,24m,Number,MenB_booster,2169
+9a_9b_9c,2018-19,E12000001,North East,E08000023,South Tyneside,24m,Number,24m_Eligible_Pop,1703
+9a_9b_9c,2018-19,E12000001,North East,E08000023,South Tyneside,24m,Number,DTap_IPV_Hib,1673
+9a_9b_9c,2018-19,E12000001,North East,E08000023,South Tyneside,24m,Number,MMR,1639
+9a_9b_9c,2018-19,E12000001,North East,E08000023,South Tyneside,24m,Number,Hib_MenC,1649
+9a_9b_9c,2018-19,E12000001,North East,E08000023,South Tyneside,24m,Number,PCV,1644
+9a_9b_9c,2018-19,E12000001,North East,E08000023,South Tyneside,24m,Number,MenB_booster,1629
+9a_9b_9c,2018-19,E12000001,North East,E08000024,Sunderland,24m,Number,24m_Eligible_Pop,2997
+9a_9b_9c,2018-19,E12000001,North East,E08000024,Sunderland,24m,Number,DTap_IPV_Hib,2898
+9a_9b_9c,2018-19,E12000001,North East,E08000024,Sunderland,24m,Number,MMR,2857
+9a_9b_9c,2018-19,E12000001,North East,E08000024,Sunderland,24m,Number,Hib_MenC,2861
+9a_9b_9c,2018-19,E12000001,North East,E08000024,Sunderland,24m,Number,PCV,2866
+9a_9b_9c,2018-19,E12000001,North East,E08000024,Sunderland,24m,Number,MenB_booster,2786
+9a_9b_9c,2018-19,E12000001,North East,E08000037,Gateshead,24m,Number,24m_Eligible_Pop,2254
+9a_9b_9c,2018-19,E12000001,North East,E08000037,Gateshead,24m,Number,DTap_IPV_Hib,2163
+9a_9b_9c,2018-19,E12000001,North East,E08000037,Gateshead,24m,Number,MMR,2105
+9a_9b_9c,2018-19,E12000001,North East,E08000037,Gateshead,24m,Number,Hib_MenC,2109
+9a_9b_9c,2018-19,E12000001,North East,E08000037,Gateshead,24m,Number,PCV,2092
+9a_9b_9c,2018-19,E12000001,North East,E08000037,Gateshead,24m,Number,MenB_booster,2054
+9a_9b_9c,2018-19,E12000002,North West,E06000006,Halton,24m,Number,24m_Eligible_Pop,1503
+9a_9b_9c,2018-19,E12000002,North West,E06000006,Halton,24m,Number,DTap_IPV_Hib,1437
+9a_9b_9c,2018-19,E12000002,North West,E06000006,Halton,24m,Number,MMR,1379
+9a_9b_9c,2018-19,E12000002,North West,E06000006,Halton,24m,Number,Hib_MenC,1392
+9a_9b_9c,2018-19,E12000002,North West,E06000006,Halton,24m,Number,PCV,1393
+9a_9b_9c,2018-19,E12000002,North West,E06000006,Halton,24m,Number,MenB_booster,1378
+9a_9b_9c,2018-19,E12000002,North West,E06000007,Warrington,24m,Number,24m_Eligible_Pop,2351
+9a_9b_9c,2018-19,E12000002,North West,E06000007,Warrington,24m,Number,DTap_IPV_Hib,2277
+9a_9b_9c,2018-19,E12000002,North West,E06000007,Warrington,24m,Number,MMR,2215
+9a_9b_9c,2018-19,E12000002,North West,E06000007,Warrington,24m,Number,Hib_MenC,2229
+9a_9b_9c,2018-19,E12000002,North West,E06000007,Warrington,24m,Number,PCV,2237
+9a_9b_9c,2018-19,E12000002,North West,E06000007,Warrington,24m,Number,MenB_booster,2200
+9a_9b_9c,2018-19,E12000002,North West,E06000008,Blackburn with Darwen,24m,Number,24m_Eligible_Pop,2193
+9a_9b_9c,2018-19,E12000002,North West,E06000008,Blackburn with Darwen,24m,Number,DTap_IPV_Hib,2070
+9a_9b_9c,2018-19,E12000002,North West,E06000008,Blackburn with Darwen,24m,Number,MMR,2004
+9a_9b_9c,2018-19,E12000002,North West,E06000008,Blackburn with Darwen,24m,Number,Hib_MenC,2017
+9a_9b_9c,2018-19,E12000002,North West,E06000008,Blackburn with Darwen,24m,Number,PCV,2010
+9a_9b_9c,2018-19,E12000002,North West,E06000008,Blackburn with Darwen,24m,Number,MenB_booster,1629
+9a_9b_9c,2018-19,E12000002,North West,E06000009,Blackpool,24m,Number,24m_Eligible_Pop,1756
+9a_9b_9c,2018-19,E12000002,North West,E06000009,Blackpool,24m,Number,DTap_IPV_Hib,1677
+9a_9b_9c,2018-19,E12000002,North West,E06000009,Blackpool,24m,Number,MMR,1625
+9a_9b_9c,2018-19,E12000002,North West,E06000009,Blackpool,24m,Number,Hib_MenC,1630
+9a_9b_9c,2018-19,E12000002,North West,E06000009,Blackpool,24m,Number,PCV,1623
+9a_9b_9c,2018-19,E12000002,North West,E06000009,Blackpool,24m,Number,MenB_booster,1550
+9a_9b_9c,2018-19,E12000002,North West,E06000049,Cheshire East,24m,Number,24m_Eligible_Pop,3783
+9a_9b_9c,2018-19,E12000002,North West,E06000049,Cheshire East,24m,Number,DTap_IPV_Hib,3635
+9a_9b_9c,2018-19,E12000002,North West,E06000049,Cheshire East,24m,Number,MMR,3570
+9a_9b_9c,2018-19,E12000002,North West,E06000049,Cheshire East,24m,Number,Hib_MenC,3583
+9a_9b_9c,2018-19,E12000002,North West,E06000049,Cheshire East,24m,Number,PCV,3563
+9a_9b_9c,2018-19,E12000002,North West,E06000049,Cheshire East,24m,Number,MenB_booster,3492
+9a_9b_9c,2018-19,E12000002,North West,E06000050,Cheshire West and Chester,24m,Number,24m_Eligible_Pop,3625
+9a_9b_9c,2018-19,E12000002,North West,E06000050,Cheshire West and Chester,24m,Number,DTap_IPV_Hib,3464
+9a_9b_9c,2018-19,E12000002,North West,E06000050,Cheshire West and Chester,24m,Number,MMR,3355
+9a_9b_9c,2018-19,E12000002,North West,E06000050,Cheshire West and Chester,24m,Number,Hib_MenC,3356
+9a_9b_9c,2018-19,E12000002,North West,E06000050,Cheshire West and Chester,24m,Number,PCV,3333
+9a_9b_9c,2018-19,E12000002,North West,E06000050,Cheshire West and Chester,24m,Number,MenB_booster,3370
+9a_9b_9c,2018-19,E12000002,North West,E08000001,Bolton,24m,Number,24m_Eligible_Pop,3905
+9a_9b_9c,2018-19,E12000002,North West,E08000001,Bolton,24m,Number,DTap_IPV_Hib,3772
+9a_9b_9c,2018-19,E12000002,North West,E08000001,Bolton,24m,Number,MMR,3668
+9a_9b_9c,2018-19,E12000002,North West,E08000001,Bolton,24m,Number,Hib_MenC,3637
+9a_9b_9c,2018-19,E12000002,North West,E08000001,Bolton,24m,Number,PCV,3633
+9a_9b_9c,2018-19,E12000002,North West,E08000001,Bolton,24m,Number,MenB_booster,3592
+9a_9b_9c,2018-19,E12000002,North West,E08000002,Bury,24m,Number,24m_Eligible_Pop,2360
+9a_9b_9c,2018-19,E12000002,North West,E08000002,Bury,24m,Number,DTap_IPV_Hib,2164
+9a_9b_9c,2018-19,E12000002,North West,E08000002,Bury,24m,Number,MMR,2160
+9a_9b_9c,2018-19,E12000002,North West,E08000002,Bury,24m,Number,Hib_MenC,2152
+9a_9b_9c,2018-19,E12000002,North West,E08000002,Bury,24m,Number,PCV,2075
+9a_9b_9c,2018-19,E12000002,North West,E08000002,Bury,24m,Number,MenB_booster,1596
+9a_9b_9c,2018-19,E12000002,North West,E08000003,Manchester,24m,Number,24m_Eligible_Pop,7898
+9a_9b_9c,2018-19,E12000002,North West,E08000003,Manchester,24m,Number,DTap_IPV_Hib,7317
+9a_9b_9c,2018-19,E12000002,North West,E08000003,Manchester,24m,Number,MMR,6938
+9a_9b_9c,2018-19,E12000002,North West,E08000003,Manchester,24m,Number,Hib_MenC,6937
+9a_9b_9c,2018-19,E12000002,North West,E08000003,Manchester,24m,Number,PCV,6944
+9a_9b_9c,2018-19,E12000002,North West,E08000003,Manchester,24m,Number,MenB_booster,6636
+9a_9b_9c,2018-19,E12000002,North West,E08000004,Oldham,24m,Number,24m_Eligible_Pop,3442
+9a_9b_9c,2018-19,E12000002,North West,E08000004,Oldham,24m,Number,DTap_IPV_Hib,3293
+9a_9b_9c,2018-19,E12000002,North West,E08000004,Oldham,24m,Number,MMR,3267
+9a_9b_9c,2018-19,E12000002,North West,E08000004,Oldham,24m,Number,Hib_MenC,3261
+9a_9b_9c,2018-19,E12000002,North West,E08000004,Oldham,24m,Number,PCV,3186
+9a_9b_9c,2018-19,E12000002,North West,E08000004,Oldham,24m,Number,MenB_booster,2827
+9a_9b_9c,2018-19,E12000002,North West,E08000005,Rochdale,24m,Number,24m_Eligible_Pop,3150
+9a_9b_9c,2018-19,E12000002,North West,E08000005,Rochdale,24m,Number,DTap_IPV_Hib,2974
+9a_9b_9c,2018-19,E12000002,North West,E08000005,Rochdale,24m,Number,MMR,2965
+9a_9b_9c,2018-19,E12000002,North West,E08000005,Rochdale,24m,Number,Hib_MenC,2961
+9a_9b_9c,2018-19,E12000002,North West,E08000005,Rochdale,24m,Number,PCV,2896
+9a_9b_9c,2018-19,E12000002,North West,E08000005,Rochdale,24m,Number,MenB_booster,2482
+9a_9b_9c,2018-19,E12000002,North West,E08000006,Salford,24m,Number,24m_Eligible_Pop,3491
+9a_9b_9c,2018-19,E12000002,North West,E08000006,Salford,24m,Number,DTap_IPV_Hib,3315
+9a_9b_9c,2018-19,E12000002,North West,E08000006,Salford,24m,Number,MMR,3206
+9a_9b_9c,2018-19,E12000002,North West,E08000006,Salford,24m,Number,Hib_MenC,3145
+9a_9b_9c,2018-19,E12000002,North West,E08000006,Salford,24m,Number,PCV,3197
+9a_9b_9c,2018-19,E12000002,North West,E08000006,Salford,24m,Number,MenB_booster,3064
+9a_9b_9c,2018-19,E12000002,North West,E08000007,Stockport,24m,Number,24m_Eligible_Pop,3533
+9a_9b_9c,2018-19,E12000002,North West,E08000007,Stockport,24m,Number,DTap_IPV_Hib,3433
+9a_9b_9c,2018-19,E12000002,North West,E08000007,Stockport,24m,Number,MMR,3355
+9a_9b_9c,2018-19,E12000002,North West,E08000007,Stockport,24m,Number,Hib_MenC,3346
+9a_9b_9c,2018-19,E12000002,North West,E08000007,Stockport,24m,Number,PCV,3342
+9a_9b_9c,2018-19,E12000002,North West,E08000007,Stockport,24m,Number,MenB_booster,3302
+9a_9b_9c,2018-19,E12000002,North West,E08000008,Tameside,24m,Number,24m_Eligible_Pop,2989
+9a_9b_9c,2018-19,E12000002,North West,E08000008,Tameside,24m,Number,DTap_IPV_Hib,2841
+9a_9b_9c,2018-19,E12000002,North West,E08000008,Tameside,24m,Number,MMR,2679
+9a_9b_9c,2018-19,E12000002,North West,E08000008,Tameside,24m,Number,Hib_MenC,2853
+9a_9b_9c,2018-19,E12000002,North West,E08000008,Tameside,24m,Number,PCV,2679
+9a_9b_9c,2018-19,E12000002,North West,E08000008,Tameside,24m,Number,MenB_booster,2637
+9a_9b_9c,2018-19,E12000002,North West,E08000009,Trafford,24m,Number,24m_Eligible_Pop,2744
+9a_9b_9c,2018-19,E12000002,North West,E08000009,Trafford,24m,Number,DTap_IPV_Hib,2653
+9a_9b_9c,2018-19,E12000002,North West,E08000009,Trafford,24m,Number,MMR,2628
+9a_9b_9c,2018-19,E12000002,North West,E08000009,Trafford,24m,Number,Hib_MenC,2635
+9a_9b_9c,2018-19,E12000002,North West,E08000009,Trafford,24m,Number,PCV,2598
+9a_9b_9c,2018-19,E12000002,North West,E08000009,Trafford,24m,Number,MenB_booster,2285
+9a_9b_9c,2018-19,E12000002,North West,E08000010,Wigan,24m,Number,24m_Eligible_Pop,3653
+9a_9b_9c,2018-19,E12000002,North West,E08000010,Wigan,24m,Number,DTap_IPV_Hib,3550
+9a_9b_9c,2018-19,E12000002,North West,E08000010,Wigan,24m,Number,MMR,3480
+9a_9b_9c,2018-19,E12000002,North West,E08000010,Wigan,24m,Number,Hib_MenC,3490
+9a_9b_9c,2018-19,E12000002,North West,E08000010,Wigan,24m,Number,PCV,3499
+9a_9b_9c,2018-19,E12000002,North West,E08000010,Wigan,24m,Number,MenB_booster,3456
+9a_9b_9c,2018-19,E12000002,North West,E08000011,Knowsley,24m,Number,24m_Eligible_Pop,2115
+9a_9b_9c,2018-19,E12000002,North West,E08000011,Knowsley,24m,Number,DTap_IPV_Hib,2003
+9a_9b_9c,2018-19,E12000002,North West,E08000011,Knowsley,24m,Number,MMR,1936
+9a_9b_9c,2018-19,E12000002,North West,E08000011,Knowsley,24m,Number,Hib_MenC,1942
+9a_9b_9c,2018-19,E12000002,North West,E08000011,Knowsley,24m,Number,PCV,1942
+9a_9b_9c,2018-19,E12000002,North West,E08000011,Knowsley,24m,Number,MenB_booster,1932
+9a_9b_9c,2018-19,E12000002,North West,E08000012,Liverpool,24m,Number,24m_Eligible_Pop,5945
+9a_9b_9c,2018-19,E12000002,North West,E08000012,Liverpool,24m,Number,DTap_IPV_Hib,5663
+9a_9b_9c,2018-19,E12000002,North West,E08000012,Liverpool,24m,Number,MMR,5415
+9a_9b_9c,2018-19,E12000002,North West,E08000012,Liverpool,24m,Number,Hib_MenC,5466
+9a_9b_9c,2018-19,E12000002,North West,E08000012,Liverpool,24m,Number,PCV,5450
+9a_9b_9c,2018-19,E12000002,North West,E08000012,Liverpool,24m,Number,MenB_booster,5590
+9a_9b_9c,2018-19,E12000002,North West,E08000013,St Helens,24m,Number,24m_Eligible_Pop,2129
+9a_9b_9c,2018-19,E12000002,North West,E08000013,St Helens,24m,Number,DTap_IPV_Hib,2022
+9a_9b_9c,2018-19,E12000002,North West,E08000013,St Helens,24m,Number,MMR,1915
+9a_9b_9c,2018-19,E12000002,North West,E08000013,St Helens,24m,Number,Hib_MenC,1914
+9a_9b_9c,2018-19,E12000002,North West,E08000013,St Helens,24m,Number,PCV,1915
+9a_9b_9c,2018-19,E12000002,North West,E08000013,St Helens,24m,Number,MenB_booster,1885
+9a_9b_9c,2018-19,E12000002,North West,E08000014,Sefton,24m,Number,24m_Eligible_Pop,2671
+9a_9b_9c,2018-19,E12000002,North West,E08000014,Sefton,24m,Number,DTap_IPV_Hib,2559
+9a_9b_9c,2018-19,E12000002,North West,E08000014,Sefton,24m,Number,MMR,2372
+9a_9b_9c,2018-19,E12000002,North West,E08000014,Sefton,24m,Number,Hib_MenC,2389
+9a_9b_9c,2018-19,E12000002,North West,E08000014,Sefton,24m,Number,PCV,2390
+9a_9b_9c,2018-19,E12000002,North West,E08000014,Sefton,24m,Number,MenB_booster,2545
+9a_9b_9c,2018-19,E12000002,North West,E08000015,Wirral,24m,Number,24m_Eligible_Pop,3451
+9a_9b_9c,2018-19,E12000002,North West,E08000015,Wirral,24m,Number,DTap_IPV_Hib,3358
+9a_9b_9c,2018-19,E12000002,North West,E08000015,Wirral,24m,Number,MMR,3261
+9a_9b_9c,2018-19,E12000002,North West,E08000015,Wirral,24m,Number,Hib_MenC,3267
+9a_9b_9c,2018-19,E12000002,North West,E08000015,Wirral,24m,Number,PCV,3277
+9a_9b_9c,2018-19,E12000002,North West,E08000015,Wirral,24m,Number,MenB_booster,3235
+9a_9b_9c,2018-19,E12000002,North West,E10000006,Cumbria,24m,Number,24m_Eligible_Pop,4933
+9a_9b_9c,2018-19,E12000002,North West,E10000006,Cumbria,24m,Number,DTap_IPV_Hib,4790
+9a_9b_9c,2018-19,E12000002,North West,E10000006,Cumbria,24m,Number,MMR,4774
+9a_9b_9c,2018-19,E12000002,North West,E10000006,Cumbria,24m,Number,Hib_MenC,4783
+9a_9b_9c,2018-19,E12000002,North West,E10000006,Cumbria,24m,Number,PCV,4760
+9a_9b_9c,2018-19,E12000002,North West,E10000006,Cumbria,24m,Number,MenB_booster,4746
+9a_9b_9c,2018-19,E12000002,North West,E10000017,Lancashire,24m,Number,24m_Eligible_Pop,13055
+9a_9b_9c,2018-19,E12000002,North West,E10000017,Lancashire,24m,Number,DTap_IPV_Hib,11661
+9a_9b_9c,2018-19,E12000002,North West,E10000017,Lancashire,24m,Number,MMR,11935
+9a_9b_9c,2018-19,E12000002,North West,E10000017,Lancashire,24m,Number,Hib_MenC,12024
+9a_9b_9c,2018-19,E12000002,North West,E10000017,Lancashire,24m,Number,PCV,11924
+9a_9b_9c,2018-19,E12000002,North West,E10000017,Lancashire,24m,Number,MenB_booster,10838
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000010,Kingston upon Hull,24m,Number,24m_Eligible_Pop,3707
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000010,Kingston upon Hull,24m,Number,DTap_IPV_Hib,3446
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000010,Kingston upon Hull,24m,Number,MMR,3381
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000010,Kingston upon Hull,24m,Number,Hib_MenC,3416
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000010,Kingston upon Hull,24m,Number,PCV,3386
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000010,Kingston upon Hull,24m,Number,MenB_booster,3386
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000011,East Riding of Yorkshire,24m,Number,24m_Eligible_Pop,2902
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000011,East Riding of Yorkshire,24m,Number,DTap_IPV_Hib,2776
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000011,East Riding of Yorkshire,24m,Number,MMR,2731
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000011,East Riding of Yorkshire,24m,Number,Hib_MenC,2754
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000011,East Riding of Yorkshire,24m,Number,PCV,2745
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000011,East Riding of Yorkshire,24m,Number,MenB_booster,2744
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000012,North East Lincolnshire,24m,Number,24m_Eligible_Pop,1909
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000012,North East Lincolnshire,24m,Number,DTap_IPV_Hib,1858
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000012,North East Lincolnshire,24m,Number,MMR,1829
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000012,North East Lincolnshire,24m,Number,Hib_MenC,1828
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000012,North East Lincolnshire,24m,Number,PCV,1825
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000012,North East Lincolnshire,24m,Number,MenB_booster,1788
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000013,North Lincolnshire,24m,Number,24m_Eligible_Pop,1880
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000013,North Lincolnshire,24m,Number,DTap_IPV_Hib,1793
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000013,North Lincolnshire,24m,Number,MMR,1719
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000013,North Lincolnshire,24m,Number,Hib_MenC,1721
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000013,North Lincolnshire,24m,Number,PCV,1724
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000013,North Lincolnshire,24m,Number,MenB_booster,1698
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000014,York,24m,Number,24m_Eligible_Pop,1981
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000014,York,24m,Number,DTap_IPV_Hib,1899
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000014,York,24m,Number,MMR,1843
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000014,York,24m,Number,Hib_MenC,1843
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000014,York,24m,Number,PCV,1844
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E06000014,York,24m,Number,MenB_booster,1791
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000016,Barnsley,24m,Number,24m_Eligible_Pop,2983
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000016,Barnsley,24m,Number,DTap_IPV_Hib,2927
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000016,Barnsley,24m,Number,MMR,2861
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000016,Barnsley,24m,Number,Hib_MenC,2878
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000016,Barnsley,24m,Number,PCV,2877
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000016,Barnsley,24m,Number,MenB_booster,2857
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000017,Doncaster,24m,Number,24m_Eligible_Pop,3588
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000017,Doncaster,24m,Number,DTap_IPV_Hib,3380
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000017,Doncaster,24m,Number,MMR,3226
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000017,Doncaster,24m,Number,Hib_MenC,3221
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000017,Doncaster,24m,Number,PCV,3230
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000017,Doncaster,24m,Number,MenB_booster,3163
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000018,Rotherham,24m,Number,24m_Eligible_Pop,3071
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000018,Rotherham,24m,Number,DTap_IPV_Hib,2967
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000018,Rotherham,24m,Number,MMR,2904
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000018,Rotherham,24m,Number,Hib_MenC,2910
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000018,Rotherham,24m,Number,PCV,2913
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000018,Rotherham,24m,Number,MenB_booster,2868
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000019,Sheffield,24m,Number,24m_Eligible_Pop,6590
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000019,Sheffield,24m,Number,DTap_IPV_Hib,6289
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000019,Sheffield,24m,Number,MMR,6080
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000019,Sheffield,24m,Number,Hib_MenC,6090
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000019,Sheffield,24m,Number,PCV,6094
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000019,Sheffield,24m,Number,MenB_booster,5914
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000032,Bradford,24m,Number,24m_Eligible_Pop,7439
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000032,Bradford,24m,Number,DTap_IPV_Hib,7060
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000032,Bradford,24m,Number,MMR,6860
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000032,Bradford,24m,Number,Hib_MenC,6881
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000032,Bradford,24m,Number,PCV,6879
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000032,Bradford,24m,Number,MenB_booster,6775
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000033,Calderdale,24m,Number,24m_Eligible_Pop,2509
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000033,Calderdale,24m,Number,DTap_IPV_Hib,2395
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000033,Calderdale,24m,Number,MMR,2319
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000033,Calderdale,24m,Number,Hib_MenC,2322
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000033,Calderdale,24m,Number,PCV,2328
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000033,Calderdale,24m,Number,MenB_booster,2284
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000034,Kirklees,24m,Number,24m_Eligible_Pop,5285
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000034,Kirklees,24m,Number,DTap_IPV_Hib,5081
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000034,Kirklees,24m,Number,MMR,4927
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000034,Kirklees,24m,Number,Hib_MenC,4933
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000034,Kirklees,24m,Number,PCV,4945
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000034,Kirklees,24m,Number,MenB_booster,4878
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000035,Leeds,24m,Number,24m_Eligible_Pop,10293
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000035,Leeds,24m,Number,DTap_IPV_Hib,9732
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000035,Leeds,24m,Number,MMR,9492
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000035,Leeds,24m,Number,Hib_MenC,9458
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000035,Leeds,24m,Number,PCV,9485
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000035,Leeds,24m,Number,MenB_booster,9241
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000036,Wakefield,24m,Number,24m_Eligible_Pop,4342
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000036,Wakefield,24m,Number,DTap_IPV_Hib,4205
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000036,Wakefield,24m,Number,MMR,4122
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000036,Wakefield,24m,Number,Hib_MenC,4142
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000036,Wakefield,24m,Number,PCV,4143
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E08000036,Wakefield,24m,Number,MenB_booster,4106
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E10000023,North Yorkshire,24m,Number,24m_Eligible_Pop,5647
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E10000023,North Yorkshire,24m,Number,DTap_IPV_Hib,5426
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E10000023,North Yorkshire,24m,Number,MMR,5233
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E10000023,North Yorkshire,24m,Number,Hib_MenC,5237
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E10000023,North Yorkshire,24m,Number,PCV,5252
+9a_9b_9c,2018-19,E12000003,Yorkshire and the Humber,E10000023,North Yorkshire,24m,Number,MenB_booster,5125
+9a_9b_9c,2018-19,E12000004,East Midlands,E06000015,Derby,24m,Number,24m_Eligible_Pop,3535
+9a_9b_9c,2018-19,E12000004,East Midlands,E06000015,Derby,24m,Number,DTap_IPV_Hib,3318
+9a_9b_9c,2018-19,E12000004,East Midlands,E06000015,Derby,24m,Number,MMR,3142
+9a_9b_9c,2018-19,E12000004,East Midlands,E06000015,Derby,24m,Number,Hib_MenC,3123
+9a_9b_9c,2018-19,E12000004,East Midlands,E06000015,Derby,24m,Number,PCV,3130
+9a_9b_9c,2018-19,E12000004,East Midlands,E06000015,Derby,24m,Number,MenB_booster,3038
+9a_9b_9c,2018-19,E12000004,East Midlands,E06000016,Leicester,24m,Number,24m_Eligible_Pop,5119
+9a_9b_9c,2018-19,E12000004,East Midlands,E06000016,Leicester,24m,Number,DTap_IPV_Hib,4860
+9a_9b_9c,2018-19,E12000004,East Midlands,E06000016,Leicester,24m,Number,MMR,4685
+9a_9b_9c,2018-19,E12000004,East Midlands,E06000016,Leicester,24m,Number,Hib_MenC,4654
+9a_9b_9c,2018-19,E12000004,East Midlands,E06000016,Leicester,24m,Number,PCV,4672
+9a_9b_9c,2018-19,E12000004,East Midlands,E06000016,Leicester,24m,Number,MenB_booster,4530
+9a_9b_9c,2018-19,E12000004,East Midlands,E06000018,Nottingham,24m,Number,24m_Eligible_Pop,4141
+9a_9b_9c,2018-19,E12000004,East Midlands,E06000018,Nottingham,24m,Number,DTap_IPV_Hib,3783
+9a_9b_9c,2018-19,E12000004,East Midlands,E06000018,Nottingham,24m,Number,MMR,3509
+9a_9b_9c,2018-19,E12000004,East Midlands,E06000018,Nottingham,24m,Number,Hib_MenC,3503
+9a_9b_9c,2018-19,E12000004,East Midlands,E06000018,Nottingham,24m,Number,PCV,3507
+9a_9b_9c,2018-19,E12000004,East Midlands,E06000018,Nottingham,24m,Number,MenB_booster,3320
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000007,Derbyshire,24m,Number,24m_Eligible_Pop,7886
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000007,Derbyshire,24m,Number,DTap_IPV_Hib,7659
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000007,Derbyshire,24m,Number,MMR,7483
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000007,Derbyshire,24m,Number,Hib_MenC,7499
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000007,Derbyshire,24m,Number,PCV,7497
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000007,Derbyshire,24m,Number,MenB_booster,7368
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000018,Leicestershire (inc. Rutland),24m,Number,24m_Eligible_Pop,7657
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000018,Leicestershire (inc. Rutland),24m,Number,DTap_IPV_Hib,7466
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000018,Leicestershire (inc. Rutland),24m,Number,MMR,7334
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000018,Leicestershire (inc. Rutland),24m,Number,Hib_MenC,7340
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000018,Leicestershire (inc. Rutland),24m,Number,PCV,7348
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000018,Leicestershire (inc. Rutland),24m,Number,MenB_booster,7228
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000019,Lincolnshire,24m,Number,24m_Eligible_Pop,7806
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000019,Lincolnshire,24m,Number,DTap_IPV_Hib,7335
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000019,Lincolnshire,24m,Number,MMR,7062
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000019,Lincolnshire,24m,Number,Hib_MenC,7017
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000019,Lincolnshire,24m,Number,PCV,6964
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000019,Lincolnshire,24m,Number,MenB_booster,6720
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000021,Northamptonshire,24m,Number,24m_Eligible_Pop,9330
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000021,Northamptonshire,24m,Number,DTap_IPV_Hib,8887
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000021,Northamptonshire,24m,Number,MMR,8516
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000021,Northamptonshire,24m,Number,Hib_MenC,8531
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000021,Northamptonshire,24m,Number,PCV,8551
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000021,Northamptonshire,24m,Number,MenB_booster,8408
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000024,Nottinghamshire,24m,Number,24m_Eligible_Pop,8828
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000024,Nottinghamshire,24m,Number,DTap_IPV_Hib,8545
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000024,Nottinghamshire,24m,Number,MMR,8221
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000024,Nottinghamshire,24m,Number,Hib_MenC,8247
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000024,Nottinghamshire,24m,Number,PCV,8261
+9a_9b_9c,2018-19,E12000004,East Midlands,E10000024,Nottinghamshire,24m,Number,MenB_booster,8123
+9a_9b_9c,2018-19,E12000005,West Midlands,E06000019,Herefordshire,24m,Number,24m_Eligible_Pop,1778
+9a_9b_9c,2018-19,E12000005,West Midlands,E06000019,Herefordshire,24m,Number,DTap_IPV_Hib,1651
+9a_9b_9c,2018-19,E12000005,West Midlands,E06000019,Herefordshire,24m,Number,MMR,1616
+9a_9b_9c,2018-19,E12000005,West Midlands,E06000019,Herefordshire,24m,Number,Hib_MenC,1610
+9a_9b_9c,2018-19,E12000005,West Midlands,E06000019,Herefordshire,24m,Number,PCV,1612
+9a_9b_9c,2018-19,E12000005,West Midlands,E06000019,Herefordshire,24m,Number,MenB_booster,1574
+9a_9b_9c,2018-19,E12000005,West Midlands,E06000020,Telford and Wrekin,24m,Number,24m_Eligible_Pop,2180
+9a_9b_9c,2018-19,E12000005,West Midlands,E06000020,Telford and Wrekin,24m,Number,DTap_IPV_Hib,2094
+9a_9b_9c,2018-19,E12000005,West Midlands,E06000020,Telford and Wrekin,24m,Number,MMR,2005
+9a_9b_9c,2018-19,E12000005,West Midlands,E06000020,Telford and Wrekin,24m,Number,Hib_MenC,1998
+9a_9b_9c,2018-19,E12000005,West Midlands,E06000020,Telford and Wrekin,24m,Number,PCV,2009
+9a_9b_9c,2018-19,E12000005,West Midlands,E06000020,Telford and Wrekin,24m,Number,MenB_booster,1968
+9a_9b_9c,2018-19,E12000005,West Midlands,E06000021,Stoke-on-Trent,24m,Number,24m_Eligible_Pop,3566
+9a_9b_9c,2018-19,E12000005,West Midlands,E06000021,Stoke-on-Trent,24m,Number,DTap_IPV_Hib,3375
+9a_9b_9c,2018-19,E12000005,West Midlands,E06000021,Stoke-on-Trent,24m,Number,MMR,3263
+9a_9b_9c,2018-19,E12000005,West Midlands,E06000021,Stoke-on-Trent,24m,Number,Hib_MenC,3246
+9a_9b_9c,2018-19,E12000005,West Midlands,E06000021,Stoke-on-Trent,24m,Number,PCV,3256
+9a_9b_9c,2018-19,E12000005,West Midlands,E06000021,Stoke-on-Trent,24m,Number,MenB_booster,3188
+9a_9b_9c,2018-19,E12000005,West Midlands,E06000051,Shropshire,24m,Number,24m_Eligible_Pop,3062
+9a_9b_9c,2018-19,E12000005,West Midlands,E06000051,Shropshire,24m,Number,DTap_IPV_Hib,2953
+9a_9b_9c,2018-19,E12000005,West Midlands,E06000051,Shropshire,24m,Number,MMR,2875
+9a_9b_9c,2018-19,E12000005,West Midlands,E06000051,Shropshire,24m,Number,Hib_MenC,2876
+9a_9b_9c,2018-19,E12000005,West Midlands,E06000051,Shropshire,24m,Number,PCV,2872
+9a_9b_9c,2018-19,E12000005,West Midlands,E06000051,Shropshire,24m,Number,MenB_booster,2837
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000025,Birmingham,24m,Number,24m_Eligible_Pop,17264
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000025,Birmingham,24m,Number,DTap_IPV_Hib,15892
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000025,Birmingham,24m,Number,MMR,14982
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000025,Birmingham,24m,Number,Hib_MenC,15028
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000025,Birmingham,24m,Number,PCV,14999
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000025,Birmingham,24m,Number,MenB_booster,14618
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000026,Coventry,24m,Number,24m_Eligible_Pop,4742
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000026,Coventry,24m,Number,DTap_IPV_Hib,4369
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000026,Coventry,24m,Number,MMR,4109
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000026,Coventry,24m,Number,Hib_MenC,4055
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000026,Coventry,24m,Number,PCV,4056
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000026,Coventry,24m,Number,MenB_booster,3975
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000027,Dudley,24m,Number,24m_Eligible_Pop,3822
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000027,Dudley,24m,Number,DTap_IPV_Hib,3696
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000027,Dudley,24m,Number,MMR,3604
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000027,Dudley,24m,Number,Hib_MenC,3599
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000027,Dudley,24m,Number,PCV,3603
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000027,Dudley,24m,Number,MenB_booster,3574
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000028,Sandwell,24m,Number,24m_Eligible_Pop,4692
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000028,Sandwell,24m,Number,DTap_IPV_Hib,4433
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000028,Sandwell,24m,Number,MMR,4233
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000028,Sandwell,24m,Number,Hib_MenC,4216
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000028,Sandwell,24m,Number,PCV,4233
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000028,Sandwell,24m,Number,MenB_booster,4127
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000029,Solihull,24m,Number,24m_Eligible_Pop,2405
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000029,Solihull,24m,Number,DTap_IPV_Hib,2307
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000029,Solihull,24m,Number,MMR,2245
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000029,Solihull,24m,Number,Hib_MenC,2241
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000029,Solihull,24m,Number,PCV,2231
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000029,Solihull,24m,Number,MenB_booster,2190
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000030,Walsall,24m,Number,24m_Eligible_Pop,3845
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000030,Walsall,24m,Number,DTap_IPV_Hib,3708
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000030,Walsall,24m,Number,MMR,3587
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000030,Walsall,24m,Number,Hib_MenC,3584
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000030,Walsall,24m,Number,PCV,3586
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000030,Walsall,24m,Number,MenB_booster,3533
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000031,Wolverhampton,24m,Number,24m_Eligible_Pop,3495
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000031,Wolverhampton,24m,Number,DTap_IPV_Hib,3284
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000031,Wolverhampton,24m,Number,MMR,3137
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000031,Wolverhampton,24m,Number,Hib_MenC,3125
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000031,Wolverhampton,24m,Number,PCV,3126
+9a_9b_9c,2018-19,E12000005,West Midlands,E08000031,Wolverhampton,24m,Number,MenB_booster,3085
+9a_9b_9c,2018-19,E12000005,West Midlands,E10000028,Staffordshire,24m,Number,24m_Eligible_Pop,8869
+9a_9b_9c,2018-19,E12000005,West Midlands,E10000028,Staffordshire,24m,Number,DTap_IPV_Hib,8585
+9a_9b_9c,2018-19,E12000005,West Midlands,E10000028,Staffordshire,24m,Number,MMR,8277
+9a_9b_9c,2018-19,E12000005,West Midlands,E10000028,Staffordshire,24m,Number,Hib_MenC,8272
+9a_9b_9c,2018-19,E12000005,West Midlands,E10000028,Staffordshire,24m,Number,PCV,8278
+9a_9b_9c,2018-19,E12000005,West Midlands,E10000028,Staffordshire,24m,Number,MenB_booster,8220
+9a_9b_9c,2018-19,E12000005,West Midlands,E10000031,Warwickshire,24m,Number,24m_Eligible_Pop,6125
+9a_9b_9c,2018-19,E12000005,West Midlands,E10000031,Warwickshire,24m,Number,DTap_IPV_Hib,5846
+9a_9b_9c,2018-19,E12000005,West Midlands,E10000031,Warwickshire,24m,Number,MMR,5667
+9a_9b_9c,2018-19,E12000005,West Midlands,E10000031,Warwickshire,24m,Number,Hib_MenC,5630
+9a_9b_9c,2018-19,E12000005,West Midlands,E10000031,Warwickshire,24m,Number,PCV,5632
+9a_9b_9c,2018-19,E12000005,West Midlands,E10000031,Warwickshire,24m,Number,MenB_booster,5521
+9a_9b_9c,2018-19,E12000005,West Midlands,E10000034,Worcestershire,24m,Number,24m_Eligible_Pop,6249
+9a_9b_9c,2018-19,E12000005,West Midlands,E10000034,Worcestershire,24m,Number,DTap_IPV_Hib,5952
+9a_9b_9c,2018-19,E12000005,West Midlands,E10000034,Worcestershire,24m,Number,MMR,5744
+9a_9b_9c,2018-19,E12000005,West Midlands,E10000034,Worcestershire,24m,Number,Hib_MenC,5731
+9a_9b_9c,2018-19,E12000005,West Midlands,E10000034,Worcestershire,24m,Number,PCV,5737
+9a_9b_9c,2018-19,E12000005,West Midlands,E10000034,Worcestershire,24m,Number,MenB_booster,5641
+9a_9b_9c,2018-19,E12000006,East of England,E06000031,Peterborough,24m,Number,24m_Eligible_Pop,2939
+9a_9b_9c,2018-19,E12000006,East of England,E06000031,Peterborough,24m,Number,DTap_IPV_Hib,2725
+9a_9b_9c,2018-19,E12000006,East of England,E06000031,Peterborough,24m,Number,MMR,2556
+9a_9b_9c,2018-19,E12000006,East of England,E06000031,Peterborough,24m,Number,Hib_MenC,2558
+9a_9b_9c,2018-19,E12000006,East of England,E06000031,Peterborough,24m,Number,PCV,2565
+9a_9b_9c,2018-19,E12000006,East of England,E06000031,Peterborough,24m,Number,MenB_booster,2514
+9a_9b_9c,2018-19,E12000006,East of England,E06000032,Luton,24m,Number,24m_Eligible_Pop,3654
+9a_9b_9c,2018-19,E12000006,East of England,E06000032,Luton,24m,Number,DTap_IPV_Hib,3324
+9a_9b_9c,2018-19,E12000006,East of England,E06000032,Luton,24m,Number,MMR,3023
+9a_9b_9c,2018-19,E12000006,East of England,E06000032,Luton,24m,Number,Hib_MenC,3078
+9a_9b_9c,2018-19,E12000006,East of England,E06000032,Luton,24m,Number,PCV,3049
+9a_9b_9c,2018-19,E12000006,East of England,E06000032,Luton,24m,Number,MenB_booster,2942
+9a_9b_9c,2018-19,E12000006,East of England,E06000033,Southend-on-Sea,24m,Number,24m_Eligible_Pop,2135
+9a_9b_9c,2018-19,E12000006,East of England,E06000033,Southend-on-Sea,24m,Number,DTap_IPV_Hib,2019
+9a_9b_9c,2018-19,E12000006,East of England,E06000033,Southend-on-Sea,24m,Number,MMR,1945
+9a_9b_9c,2018-19,E12000006,East of England,E06000033,Southend-on-Sea,24m,Number,Hib_MenC,1960
+9a_9b_9c,2018-19,E12000006,East of England,E06000033,Southend-on-Sea,24m,Number,PCV,1961
+9a_9b_9c,2018-19,E12000006,East of England,E06000033,Southend-on-Sea,24m,Number,MenB_booster,1909
+9a_9b_9c,2018-19,E12000006,East of England,E06000034,Thurrock,24m,Number,24m_Eligible_Pop,2587
+9a_9b_9c,2018-19,E12000006,East of England,E06000034,Thurrock,24m,Number,DTap_IPV_Hib,2398
+9a_9b_9c,2018-19,E12000006,East of England,E06000034,Thurrock,24m,Number,MMR,2282
+9a_9b_9c,2018-19,E12000006,East of England,E06000034,Thurrock,24m,Number,Hib_MenC,2308
+9a_9b_9c,2018-19,E12000006,East of England,E06000034,Thurrock,24m,Number,PCV,2296
+9a_9b_9c,2018-19,E12000006,East of England,E06000034,Thurrock,24m,Number,MenB_booster,2201
+9a_9b_9c,2018-19,E12000006,East of England,E06000055,Bedford,24m,Number,24m_Eligible_Pop,2168
+9a_9b_9c,2018-19,E12000006,East of England,E06000055,Bedford,24m,Number,DTap_IPV_Hib,2076
+9a_9b_9c,2018-19,E12000006,East of England,E06000055,Bedford,24m,Number,MMR,2021
+9a_9b_9c,2018-19,E12000006,East of England,E06000055,Bedford,24m,Number,Hib_MenC,2034
+9a_9b_9c,2018-19,E12000006,East of England,E06000055,Bedford,24m,Number,PCV,2030
+9a_9b_9c,2018-19,E12000006,East of England,E06000055,Bedford,24m,Number,MenB_booster,1980
+9a_9b_9c,2018-19,E12000006,East of England,E06000056,Central Bedfordshire,24m,Number,24m_Eligible_Pop,3310
+9a_9b_9c,2018-19,E12000006,East of England,E06000056,Central Bedfordshire,24m,Number,DTap_IPV_Hib,3205
+9a_9b_9c,2018-19,E12000006,East of England,E06000056,Central Bedfordshire,24m,Number,MMR,3128
+9a_9b_9c,2018-19,E12000006,East of England,E06000056,Central Bedfordshire,24m,Number,Hib_MenC,3150
+9a_9b_9c,2018-19,E12000006,East of England,E06000056,Central Bedfordshire,24m,Number,PCV,3142
+9a_9b_9c,2018-19,E12000006,East of England,E06000056,Central Bedfordshire,24m,Number,MenB_booster,3098
+9a_9b_9c,2018-19,E12000006,East of England,E10000003,Cambridgeshire,24m,Number,24m_Eligible_Pop,7377
+9a_9b_9c,2018-19,E12000006,East of England,E10000003,Cambridgeshire,24m,Number,DTap_IPV_Hib,7025
+9a_9b_9c,2018-19,E12000006,East of England,E10000003,Cambridgeshire,24m,Number,MMR,6786
+9a_9b_9c,2018-19,E12000006,East of England,E10000003,Cambridgeshire,24m,Number,Hib_MenC,6797
+9a_9b_9c,2018-19,E12000006,East of England,E10000003,Cambridgeshire,24m,Number,PCV,6801
+9a_9b_9c,2018-19,E12000006,East of England,E10000003,Cambridgeshire,24m,Number,MenB_booster,6648
+9a_9b_9c,2018-19,E12000006,East of England,E10000012,Essex,24m,Number,24m_Eligible_Pop,17545
+9a_9b_9c,2018-19,E12000006,East of England,E10000012,Essex,24m,Number,DTap_IPV_Hib,16781
+9a_9b_9c,2018-19,E12000006,East of England,E10000012,Essex,24m,Number,MMR,16113
+9a_9b_9c,2018-19,E12000006,East of England,E10000012,Essex,24m,Number,Hib_MenC,16185
+9a_9b_9c,2018-19,E12000006,East of England,E10000012,Essex,24m,Number,PCV,16180
+9a_9b_9c,2018-19,E12000006,East of England,E10000012,Essex,24m,Number,MenB_booster,15740
+9a_9b_9c,2018-19,E12000006,East of England,E10000015,Hertfordshire,24m,Number,24m_Eligible_Pop,14573
+9a_9b_9c,2018-19,E12000006,East of England,E10000015,Hertfordshire,24m,Number,DTap_IPV_Hib,13671
+9a_9b_9c,2018-19,E12000006,East of England,E10000015,Hertfordshire,24m,Number,MMR,13180
+9a_9b_9c,2018-19,E12000006,East of England,E10000015,Hertfordshire,24m,Number,Hib_MenC,13315
+9a_9b_9c,2018-19,E12000006,East of England,E10000015,Hertfordshire,24m,Number,PCV,13222
+9a_9b_9c,2018-19,E12000006,East of England,E10000015,Hertfordshire,24m,Number,MenB_booster,12836
+9a_9b_9c,2018-19,E12000006,East of England,E10000020,Norfolk,24m,Number,24m_Eligible_Pop,9089
+9a_9b_9c,2018-19,E12000006,East of England,E10000020,Norfolk,24m,Number,DTap_IPV_Hib,8761
+9a_9b_9c,2018-19,E12000006,East of England,E10000020,Norfolk,24m,Number,MMR,8513
+9a_9b_9c,2018-19,E12000006,East of England,E10000020,Norfolk,24m,Number,Hib_MenC,8520
+9a_9b_9c,2018-19,E12000006,East of England,E10000020,Norfolk,24m,Number,PCV,8534
+9a_9b_9c,2018-19,E12000006,East of England,E10000020,Norfolk,24m,Number,MenB_booster,8425
+9a_9b_9c,2018-19,E12000006,East of England,E10000029,Suffolk,24m,Number,24m_Eligible_Pop,7824
+9a_9b_9c,2018-19,E12000006,East of England,E10000029,Suffolk,24m,Number,DTap_IPV_Hib,7503
+9a_9b_9c,2018-19,E12000006,East of England,E10000029,Suffolk,24m,Number,MMR,7285
+9a_9b_9c,2018-19,E12000006,East of England,E10000029,Suffolk,24m,Number,Hib_MenC,7273
+9a_9b_9c,2018-19,E12000006,East of England,E10000029,Suffolk,24m,Number,PCV,7289
+9a_9b_9c,2018-19,E12000006,East of England,E10000029,Suffolk,24m,Number,MenB_booster,7167
+9a_9b_9c,2018-19,E12000007,London,E09000002,Barking and Dagenham,24m,Number,24m_Eligible_Pop,3753
+9a_9b_9c,2018-19,E12000007,London,E09000002,Barking and Dagenham,24m,Number,DTap_IPV_Hib,3430
+9a_9b_9c,2018-19,E12000007,London,E09000002,Barking and Dagenham,24m,Number,MMR,3024
+9a_9b_9c,2018-19,E12000007,London,E09000002,Barking and Dagenham,24m,Number,Hib_MenC,3052
+9a_9b_9c,2018-19,E12000007,London,E09000002,Barking and Dagenham,24m,Number,PCV,3059
+9a_9b_9c,2018-19,E12000007,London,E09000002,Barking and Dagenham,24m,Number,MenB_booster,2937
+9a_9b_9c,2018-19,E12000007,London,E09000003,Barnet,24m,Number,24m_Eligible_Pop,5449
+9a_9b_9c,2018-19,E12000007,London,E09000003,Barnet,24m,Number,DTap_IPV_Hib,4922
+9a_9b_9c,2018-19,E12000007,London,E09000003,Barnet,24m,Number,MMR,4461
+9a_9b_9c,2018-19,E12000007,London,E09000003,Barnet,24m,Number,Hib_MenC,4444
+9a_9b_9c,2018-19,E12000007,London,E09000003,Barnet,24m,Number,PCV,4471
+9a_9b_9c,2018-19,E12000007,London,E09000003,Barnet,24m,Number,MenB_booster,4309
+9a_9b_9c,2018-19,E12000007,London,E09000004,Bexley,24m,Number,24m_Eligible_Pop,3132
+9a_9b_9c,2018-19,E12000007,London,E09000004,Bexley,24m,Number,DTap_IPV_Hib,2956
+9a_9b_9c,2018-19,E12000007,London,E09000004,Bexley,24m,Number,MMR,2797
+9a_9b_9c,2018-19,E12000007,London,E09000004,Bexley,24m,Number,Hib_MenC,2818
+9a_9b_9c,2018-19,E12000007,London,E09000004,Bexley,24m,Number,PCV,2763
+9a_9b_9c,2018-19,E12000007,London,E09000004,Bexley,24m,Number,MenB_booster,2645
+9a_9b_9c,2018-19,E12000007,London,E09000005,Brent,24m,Number,24m_Eligible_Pop,4834
+9a_9b_9c,2018-19,E12000007,London,E09000005,Brent,24m,Number,DTap_IPV_Hib,4364
+9a_9b_9c,2018-19,E12000007,London,E09000005,Brent,24m,Number,MMR,4000
+9a_9b_9c,2018-19,E12000007,London,E09000005,Brent,24m,Number,Hib_MenC,4096
+9a_9b_9c,2018-19,E12000007,London,E09000005,Brent,24m,Number,PCV,3993
+9a_9b_9c,2018-19,E12000007,London,E09000005,Brent,24m,Number,MenB_booster,3871
+9a_9b_9c,2018-19,E12000007,London,E09000006,Bromley,24m,Number,24m_Eligible_Pop,4351
+9a_9b_9c,2018-19,E12000007,London,E09000006,Bromley,24m,Number,DTap_IPV_Hib,4128
+9a_9b_9c,2018-19,E12000007,London,E09000006,Bromley,24m,Number,MMR,3956
+9a_9b_9c,2018-19,E12000007,London,E09000006,Bromley,24m,Number,Hib_MenC,3979
+9a_9b_9c,2018-19,E12000007,London,E09000006,Bromley,24m,Number,PCV,3930
+9a_9b_9c,2018-19,E12000007,London,E09000006,Bromley,24m,Number,MenB_booster,3871
+9a_9b_9c,2018-19,E12000007,London,E09000007,Camden,24m,Number,24m_Eligible_Pop,2657
+9a_9b_9c,2018-19,E12000007,London,E09000007,Camden,24m,Number,DTap_IPV_Hib,2390
+9a_9b_9c,2018-19,E12000007,London,E09000007,Camden,24m,Number,MMR,2090
+9a_9b_9c,2018-19,E12000007,London,E09000007,Camden,24m,Number,Hib_MenC,2090
+9a_9b_9c,2018-19,E12000007,London,E09000007,Camden,24m,Number,PCV,2072
+9a_9b_9c,2018-19,E12000007,London,E09000007,Camden,24m,Number,MenB_booster,1995
+9a_9b_9c,2018-19,E12000007,London,E09000008,Croydon,24m,Number,24m_Eligible_Pop,5463
+9a_9b_9c,2018-19,E12000007,London,E09000008,Croydon,24m,Number,DTap_IPV_Hib,4913
+9a_9b_9c,2018-19,E12000007,London,E09000008,Croydon,24m,Number,MMR,4427
+9a_9b_9c,2018-19,E12000007,London,E09000008,Croydon,24m,Number,Hib_MenC,4428
+9a_9b_9c,2018-19,E12000007,London,E09000008,Croydon,24m,Number,PCV,4462
+9a_9b_9c,2018-19,E12000007,London,E09000008,Croydon,24m,Number,MenB_booster,4227
+9a_9b_9c,2018-19,E12000007,London,E09000009,Ealing,24m,Number,24m_Eligible_Pop,5342
+9a_9b_9c,2018-19,E12000007,London,E09000009,Ealing,24m,Number,DTap_IPV_Hib,4917
+9a_9b_9c,2018-19,E12000007,London,E09000009,Ealing,24m,Number,MMR,4464
+9a_9b_9c,2018-19,E12000007,London,E09000009,Ealing,24m,Number,Hib_MenC,4495
+9a_9b_9c,2018-19,E12000007,London,E09000009,Ealing,24m,Number,PCV,4333
+9a_9b_9c,2018-19,E12000007,London,E09000009,Ealing,24m,Number,MenB_booster,4169
+9a_9b_9c,2018-19,E12000007,London,E09000010,Enfield,24m,Number,24m_Eligible_Pop,4750
+9a_9b_9c,2018-19,E12000007,London,E09000010,Enfield,24m,Number,DTap_IPV_Hib,4321
+9a_9b_9c,2018-19,E12000007,London,E09000010,Enfield,24m,Number,MMR,3748
+9a_9b_9c,2018-19,E12000007,London,E09000010,Enfield,24m,Number,Hib_MenC,3804
+9a_9b_9c,2018-19,E12000007,London,E09000010,Enfield,24m,Number,PCV,3826
+9a_9b_9c,2018-19,E12000007,London,E09000010,Enfield,24m,Number,MenB_booster,3680
+9a_9b_9c,2018-19,E12000007,London,E09000011,Greenwich,24m,Number,24m_Eligible_Pop,4556
+9a_9b_9c,2018-19,E12000007,London,E09000011,Greenwich,24m,Number,DTap_IPV_Hib,4205
+9a_9b_9c,2018-19,E12000007,London,E09000011,Greenwich,24m,Number,MMR,3961
+9a_9b_9c,2018-19,E12000007,London,E09000011,Greenwich,24m,Number,Hib_MenC,3985
+9a_9b_9c,2018-19,E12000007,London,E09000011,Greenwich,24m,Number,PCV,3890
+9a_9b_9c,2018-19,E12000007,London,E09000011,Greenwich,24m,Number,MenB_booster,3760
+9a_9b_9c,2018-19,E12000007,London,E09000012,Hackney (inc. City of London),24m,Number,24m_Eligible_Pop,4357
+9a_9b_9c,2018-19,E12000007,London,E09000012,Hackney (inc. City of London),24m,Number,DTap_IPV_Hib,3557
+9a_9b_9c,2018-19,E12000007,London,E09000012,Hackney (inc. City of London),24m,Number,MMR,3236
+9a_9b_9c,2018-19,E12000007,London,E09000012,Hackney (inc. City of London),24m,Number,Hib_MenC,3104
+9a_9b_9c,2018-19,E12000007,London,E09000012,Hackney (inc. City of London),24m,Number,PCV,3226
+9a_9b_9c,2018-19,E12000007,London,E09000012,Hackney (inc. City of London),24m,Number,MenB_booster,2997
+9a_9b_9c,2018-19,E12000007,London,E09000013,Hammersmith and Fulham,24m,Number,24m_Eligible_Pop,2472
+9a_9b_9c,2018-19,E12000007,London,E09000013,Hammersmith and Fulham,24m,Number,DTap_IPV_Hib,2193
+9a_9b_9c,2018-19,E12000007,London,E09000013,Hammersmith and Fulham,24m,Number,MMR,1975
+9a_9b_9c,2018-19,E12000007,London,E09000013,Hammersmith and Fulham,24m,Number,Hib_MenC,2003
+9a_9b_9c,2018-19,E12000007,London,E09000013,Hammersmith and Fulham,24m,Number,PCV,1930
+9a_9b_9c,2018-19,E12000007,London,E09000013,Hammersmith and Fulham,24m,Number,MenB_booster,1847
+9a_9b_9c,2018-19,E12000007,London,E09000014,Haringey,24m,Number,24m_Eligible_Pop,3974
+9a_9b_9c,2018-19,E12000007,London,E09000014,Haringey,24m,Number,DTap_IPV_Hib,3508
+9a_9b_9c,2018-19,E12000007,London,E09000014,Haringey,24m,Number,MMR,3091
+9a_9b_9c,2018-19,E12000007,London,E09000014,Haringey,24m,Number,Hib_MenC,3119
+9a_9b_9c,2018-19,E12000007,London,E09000014,Haringey,24m,Number,PCV,3113
+9a_9b_9c,2018-19,E12000007,London,E09000014,Haringey,24m,Number,MenB_booster,3013
+9a_9b_9c,2018-19,E12000007,London,E09000015,Harrow,24m,Number,24m_Eligible_Pop,3525
+9a_9b_9c,2018-19,E12000007,London,E09000015,Harrow,24m,Number,DTap_IPV_Hib,3192
+9a_9b_9c,2018-19,E12000007,London,E09000015,Harrow,24m,Number,MMR,3002
+9a_9b_9c,2018-19,E12000007,London,E09000015,Harrow,24m,Number,Hib_MenC,2996
+9a_9b_9c,2018-19,E12000007,London,E09000015,Harrow,24m,Number,PCV,2945
+9a_9b_9c,2018-19,E12000007,London,E09000015,Harrow,24m,Number,MenB_booster,2852
+9a_9b_9c,2018-19,E12000007,London,E09000016,Havering,24m,Number,24m_Eligible_Pop,3608
+9a_9b_9c,2018-19,E12000007,London,E09000016,Havering,24m,Number,DTap_IPV_Hib,3400
+9a_9b_9c,2018-19,E12000007,London,E09000016,Havering,24m,Number,MMR,3135
+9a_9b_9c,2018-19,E12000007,London,E09000016,Havering,24m,Number,Hib_MenC,3174
+9a_9b_9c,2018-19,E12000007,London,E09000016,Havering,24m,Number,PCV,3182
+9a_9b_9c,2018-19,E12000007,London,E09000016,Havering,24m,Number,MenB_booster,3099
+9a_9b_9c,2018-19,E12000007,London,E09000017,Hillingdon,24m,Number,24m_Eligible_Pop,4374
+9a_9b_9c,2018-19,E12000007,London,E09000017,Hillingdon,24m,Number,DTap_IPV_Hib,4027
+9a_9b_9c,2018-19,E12000007,London,E09000017,Hillingdon,24m,Number,MMR,3695
+9a_9b_9c,2018-19,E12000007,London,E09000017,Hillingdon,24m,Number,Hib_MenC,3736
+9a_9b_9c,2018-19,E12000007,London,E09000017,Hillingdon,24m,Number,PCV,3652
+9a_9b_9c,2018-19,E12000007,London,E09000017,Hillingdon,24m,Number,MenB_booster,3567
+9a_9b_9c,2018-19,E12000007,London,E09000018,Hounslow,24m,Number,24m_Eligible_Pop,4477
+9a_9b_9c,2018-19,E12000007,London,E09000018,Hounslow,24m,Number,DTap_IPV_Hib,4042
+9a_9b_9c,2018-19,E12000007,London,E09000018,Hounslow,24m,Number,MMR,3783
+9a_9b_9c,2018-19,E12000007,London,E09000018,Hounslow,24m,Number,Hib_MenC,3796
+9a_9b_9c,2018-19,E12000007,London,E09000018,Hounslow,24m,Number,PCV,3642
+9a_9b_9c,2018-19,E12000007,London,E09000018,Hounslow,24m,Number,MenB_booster,3435
+9a_9b_9c,2018-19,E12000007,London,E09000019,Islington,24m,Number,24m_Eligible_Pop,2889
+9a_9b_9c,2018-19,E12000007,London,E09000019,Islington,24m,Number,DTap_IPV_Hib,2637
+9a_9b_9c,2018-19,E12000007,London,E09000019,Islington,24m,Number,MMR,2336
+9a_9b_9c,2018-19,E12000007,London,E09000019,Islington,24m,Number,Hib_MenC,2349
+9a_9b_9c,2018-19,E12000007,London,E09000019,Islington,24m,Number,PCV,2345
+9a_9b_9c,2018-19,E12000007,London,E09000019,Islington,24m,Number,MenB_booster,2304
+9a_9b_9c,2018-19,E12000007,London,E09000020,Kensington and Chelsea,24m,Number,24m_Eligible_Pop,2433
+9a_9b_9c,2018-19,E12000007,London,E09000020,Kensington and Chelsea,24m,Number,DTap_IPV_Hib,2040
+9a_9b_9c,2018-19,E12000007,London,E09000020,Kensington and Chelsea,24m,Number,MMR,1851
+9a_9b_9c,2018-19,E12000007,London,E09000020,Kensington and Chelsea,24m,Number,Hib_MenC,1828
+9a_9b_9c,2018-19,E12000007,London,E09000020,Kensington and Chelsea,24m,Number,PCV,1785
+9a_9b_9c,2018-19,E12000007,London,E09000020,Kensington and Chelsea,24m,Number,MenB_booster,1690
+9a_9b_9c,2018-19,E12000007,London,E09000021,Kingston upon Thames,24m,Number,24m_Eligible_Pop,2529
+9a_9b_9c,2018-19,E12000007,London,E09000021,Kingston upon Thames,24m,Number,DTap_IPV_Hib,2318
+9a_9b_9c,2018-19,E12000007,London,E09000021,Kingston upon Thames,24m,Number,MMR,2214
+9a_9b_9c,2018-19,E12000007,London,E09000021,Kingston upon Thames,24m,Number,Hib_MenC,2179
+9a_9b_9c,2018-19,E12000007,London,E09000021,Kingston upon Thames,24m,Number,PCV,2193
+9a_9b_9c,2018-19,E12000007,London,E09000021,Kingston upon Thames,24m,Number,MenB_booster,2106
+9a_9b_9c,2018-19,E12000007,London,E09000022,Lambeth,24m,Number,24m_Eligible_Pop,4555
+9a_9b_9c,2018-19,E12000007,London,E09000022,Lambeth,24m,Number,DTap_IPV_Hib,4038
+9a_9b_9c,2018-19,E12000007,London,E09000022,Lambeth,24m,Number,MMR,3705
+9a_9b_9c,2018-19,E12000007,London,E09000022,Lambeth,24m,Number,Hib_MenC,3707
+9a_9b_9c,2018-19,E12000007,London,E09000022,Lambeth,24m,Number,PCV,3652
+9a_9b_9c,2018-19,E12000007,London,E09000022,Lambeth,24m,Number,MenB_booster,3605
+9a_9b_9c,2018-19,E12000007,London,E09000023,Lewisham,24m,Number,24m_Eligible_Pop,4652
+9a_9b_9c,2018-19,E12000007,London,E09000023,Lewisham,24m,Number,DTap_IPV_Hib,4194
+9a_9b_9c,2018-19,E12000007,London,E09000023,Lewisham,24m,Number,MMR,3946
+9a_9b_9c,2018-19,E12000007,London,E09000023,Lewisham,24m,Number,Hib_MenC,3948
+9a_9b_9c,2018-19,E12000007,London,E09000023,Lewisham,24m,Number,PCV,3889
+9a_9b_9c,2018-19,E12000007,London,E09000023,Lewisham,24m,Number,MenB_booster,3837
+9a_9b_9c,2018-19,E12000007,London,E09000024,Merton,24m,Number,24m_Eligible_Pop,2654
+9a_9b_9c,2018-19,E12000007,London,E09000024,Merton,24m,Number,DTap_IPV_Hib,2469
+9a_9b_9c,2018-19,E12000007,London,E09000024,Merton,24m,Number,MMR,2212
+9a_9b_9c,2018-19,E12000007,London,E09000024,Merton,24m,Number,Hib_MenC,2223
+9a_9b_9c,2018-19,E12000007,London,E09000024,Merton,24m,Number,PCV,2224
+9a_9b_9c,2018-19,E12000007,London,E09000024,Merton,24m,Number,MenB_booster,2149
+9a_9b_9c,2018-19,E12000007,London,E09000025,Newham,24m,Number,24m_Eligible_Pop,5866
+9a_9b_9c,2018-19,E12000007,London,E09000025,Newham,24m,Number,DTap_IPV_Hib,5297
+9a_9b_9c,2018-19,E12000007,London,E09000025,Newham,24m,Number,MMR,4716
+9a_9b_9c,2018-19,E12000007,London,E09000025,Newham,24m,Number,Hib_MenC,4711
+9a_9b_9c,2018-19,E12000007,London,E09000025,Newham,24m,Number,PCV,4683
+9a_9b_9c,2018-19,E12000007,London,E09000025,Newham,24m,Number,MenB_booster,4530
+9a_9b_9c,2018-19,E12000007,London,E09000026,Redbridge,24m,Number,24m_Eligible_Pop,4962
+9a_9b_9c,2018-19,E12000007,London,E09000026,Redbridge,24m,Number,DTap_IPV_Hib,4476
+9a_9b_9c,2018-19,E12000007,London,E09000026,Redbridge,24m,Number,MMR,4036
+9a_9b_9c,2018-19,E12000007,London,E09000026,Redbridge,24m,Number,Hib_MenC,4047
+9a_9b_9c,2018-19,E12000007,London,E09000026,Redbridge,24m,Number,PCV,4036
+9a_9b_9c,2018-19,E12000007,London,E09000026,Redbridge,24m,Number,MenB_booster,3875
+9a_9b_9c,2018-19,E12000007,London,E09000027,Richmond upon Thames,24m,Number,24m_Eligible_Pop,2609
+9a_9b_9c,2018-19,E12000007,London,E09000027,Richmond upon Thames,24m,Number,DTap_IPV_Hib,2420
+9a_9b_9c,2018-19,E12000007,London,E09000027,Richmond upon Thames,24m,Number,MMR,2269
+9a_9b_9c,2018-19,E12000007,London,E09000027,Richmond upon Thames,24m,Number,Hib_MenC,2274
+9a_9b_9c,2018-19,E12000007,London,E09000027,Richmond upon Thames,24m,Number,PCV,2275
+9a_9b_9c,2018-19,E12000007,London,E09000027,Richmond upon Thames,24m,Number,MenB_booster,2192
+9a_9b_9c,2018-19,E12000007,London,E09000028,Southwark,24m,Number,24m_Eligible_Pop,4029
+9a_9b_9c,2018-19,E12000007,London,E09000028,Southwark,24m,Number,DTap_IPV_Hib,3695
+9a_9b_9c,2018-19,E12000007,London,E09000028,Southwark,24m,Number,MMR,3459
+9a_9b_9c,2018-19,E12000007,London,E09000028,Southwark,24m,Number,Hib_MenC,3475
+9a_9b_9c,2018-19,E12000007,London,E09000028,Southwark,24m,Number,PCV,3413
+9a_9b_9c,2018-19,E12000007,London,E09000028,Southwark,24m,Number,MenB_booster,3326
+9a_9b_9c,2018-19,E12000007,London,E09000029,Sutton,24m,Number,24m_Eligible_Pop,2585
+9a_9b_9c,2018-19,E12000007,London,E09000029,Sutton,24m,Number,DTap_IPV_Hib,2425
+9a_9b_9c,2018-19,E12000007,London,E09000029,Sutton,24m,Number,MMR,2314
+9a_9b_9c,2018-19,E12000007,London,E09000029,Sutton,24m,Number,Hib_MenC,2327
+9a_9b_9c,2018-19,E12000007,London,E09000029,Sutton,24m,Number,PCV,2322
+9a_9b_9c,2018-19,E12000007,London,E09000029,Sutton,24m,Number,MenB_booster,2150
+9a_9b_9c,2018-19,E12000007,London,E09000030,Tower Hamlets,24m,Number,24m_Eligible_Pop,4661
+9a_9b_9c,2018-19,E12000007,London,E09000030,Tower Hamlets,24m,Number,DTap_IPV_Hib,4360
+9a_9b_9c,2018-19,E12000007,London,E09000030,Tower Hamlets,24m,Number,MMR,4030
+9a_9b_9c,2018-19,E12000007,London,E09000030,Tower Hamlets,24m,Number,Hib_MenC,4055
+9a_9b_9c,2018-19,E12000007,London,E09000030,Tower Hamlets,24m,Number,PCV,4060
+9a_9b_9c,2018-19,E12000007,London,E09000030,Tower Hamlets,24m,Number,MenB_booster,3965
+9a_9b_9c,2018-19,E12000007,London,E09000031,Waltham Forest,24m,Number,24m_Eligible_Pop,4478
+9a_9b_9c,2018-19,E12000007,London,E09000031,Waltham Forest,24m,Number,DTap_IPV_Hib,4043
+9a_9b_9c,2018-19,E12000007,London,E09000031,Waltham Forest,24m,Number,MMR,3684
+9a_9b_9c,2018-19,E12000007,London,E09000031,Waltham Forest,24m,Number,Hib_MenC,3702
+9a_9b_9c,2018-19,E12000007,London,E09000031,Waltham Forest,24m,Number,PCV,3703
+9a_9b_9c,2018-19,E12000007,London,E09000031,Waltham Forest,24m,Number,MenB_booster,3577
+9a_9b_9c,2018-19,E12000007,London,E09000032,Wandsworth,24m,Number,24m_Eligible_Pop,4824
+9a_9b_9c,2018-19,E12000007,London,E09000032,Wandsworth,24m,Number,DTap_IPV_Hib,4409
+9a_9b_9c,2018-19,E12000007,London,E09000032,Wandsworth,24m,Number,MMR,4113
+9a_9b_9c,2018-19,E12000007,London,E09000032,Wandsworth,24m,Number,Hib_MenC,4069
+9a_9b_9c,2018-19,E12000007,London,E09000032,Wandsworth,24m,Number,PCV,4061
+9a_9b_9c,2018-19,E12000007,London,E09000032,Wandsworth,24m,Number,MenB_booster,3916
+9a_9b_9c,2018-19,E12000007,London,E09000033,Westminster,24m,Number,24m_Eligible_Pop,2095
+9a_9b_9c,2018-19,E12000007,London,E09000033,Westminster,24m,Number,DTap_IPV_Hib,1734
+9a_9b_9c,2018-19,E12000007,London,E09000033,Westminster,24m,Number,MMR,1585
+9a_9b_9c,2018-19,E12000007,London,E09000033,Westminster,24m,Number,Hib_MenC,1572
+9a_9b_9c,2018-19,E12000007,London,E09000033,Westminster,24m,Number,PCV,1544
+9a_9b_9c,2018-19,E12000007,London,E09000033,Westminster,24m,Number,MenB_booster,1439
+9a_9b_9c,2018-19,E12000008,South East,E06000035,Medway,24m,Number,24m_Eligible_Pop,3901
+9a_9b_9c,2018-19,E12000008,South East,E06000035,Medway,24m,Number,DTap_IPV_Hib,3678
+9a_9b_9c,2018-19,E12000008,South East,E06000035,Medway,24m,Number,MMR,3549
+9a_9b_9c,2018-19,E12000008,South East,E06000035,Medway,24m,Number,Hib_MenC,3560
+9a_9b_9c,2018-19,E12000008,South East,E06000035,Medway,24m,Number,PCV,3554
+9a_9b_9c,2018-19,E12000008,South East,E06000035,Medway,24m,Number,MenB_booster,3403
+9a_9b_9c,2018-19,E12000008,South East,E06000036,Bracknell Forest,24m,Number,24m_Eligible_Pop,1459
+9a_9b_9c,2018-19,E12000008,South East,E06000036,Bracknell Forest,24m,Number,DTap_IPV_Hib,1387
+9a_9b_9c,2018-19,E12000008,South East,E06000036,Bracknell Forest,24m,Number,MMR,1350
+9a_9b_9c,2018-19,E12000008,South East,E06000036,Bracknell Forest,24m,Number,Hib_MenC,1344
+9a_9b_9c,2018-19,E12000008,South East,E06000036,Bracknell Forest,24m,Number,PCV,1337
+9a_9b_9c,2018-19,E12000008,South East,E06000036,Bracknell Forest,24m,Number,MenB_booster,1316
+9a_9b_9c,2018-19,E12000008,South East,E06000037,West Berkshire,24m,Number,24m_Eligible_Pop,1641
+9a_9b_9c,2018-19,E12000008,South East,E06000037,West Berkshire,24m,Number,DTap_IPV_Hib,1584
+9a_9b_9c,2018-19,E12000008,South East,E06000037,West Berkshire,24m,Number,MMR,1539
+9a_9b_9c,2018-19,E12000008,South East,E06000037,West Berkshire,24m,Number,Hib_MenC,1539
+9a_9b_9c,2018-19,E12000008,South East,E06000037,West Berkshire,24m,Number,PCV,1534
+9a_9b_9c,2018-19,E12000008,South East,E06000037,West Berkshire,24m,Number,MenB_booster,1453
+9a_9b_9c,2018-19,E12000008,South East,E06000038,Reading,24m,Number,24m_Eligible_Pop,2882
+9a_9b_9c,2018-19,E12000008,South East,E06000038,Reading,24m,Number,DTap_IPV_Hib,2699
+9a_9b_9c,2018-19,E12000008,South East,E06000038,Reading,24m,Number,MMR,2576
+9a_9b_9c,2018-19,E12000008,South East,E06000038,Reading,24m,Number,Hib_MenC,2565
+9a_9b_9c,2018-19,E12000008,South East,E06000038,Reading,24m,Number,PCV,2560
+9a_9b_9c,2018-19,E12000008,South East,E06000038,Reading,24m,Number,MenB_booster,2471
+9a_9b_9c,2018-19,E12000008,South East,E06000039,Slough,24m,Number,24m_Eligible_Pop,2506
+9a_9b_9c,2018-19,E12000008,South East,E06000039,Slough,24m,Number,DTap_IPV_Hib,2364
+9a_9b_9c,2018-19,E12000008,South East,E06000039,Slough,24m,Number,MMR,2215
+9a_9b_9c,2018-19,E12000008,South East,E06000039,Slough,24m,Number,Hib_MenC,2228
+9a_9b_9c,2018-19,E12000008,South East,E06000039,Slough,24m,Number,PCV,2222
+9a_9b_9c,2018-19,E12000008,South East,E06000039,Slough,24m,Number,MenB_booster,2173
+9a_9b_9c,2018-19,E12000008,South East,E06000040,Windsor and Maidenhead,24m,Number,24m_Eligible_Pop,1806
+9a_9b_9c,2018-19,E12000008,South East,E06000040,Windsor and Maidenhead,24m,Number,DTap_IPV_Hib,1733
+9a_9b_9c,2018-19,E12000008,South East,E06000040,Windsor and Maidenhead,24m,Number,MMR,1653
+9a_9b_9c,2018-19,E12000008,South East,E06000040,Windsor and Maidenhead,24m,Number,Hib_MenC,1665
+9a_9b_9c,2018-19,E12000008,South East,E06000040,Windsor and Maidenhead,24m,Number,PCV,1662
+9a_9b_9c,2018-19,E12000008,South East,E06000040,Windsor and Maidenhead,24m,Number,MenB_booster,1640
+9a_9b_9c,2018-19,E12000008,South East,E06000041,Wokingham,24m,Number,24m_Eligible_Pop,1628
+9a_9b_9c,2018-19,E12000008,South East,E06000041,Wokingham,24m,Number,DTap_IPV_Hib,1566
+9a_9b_9c,2018-19,E12000008,South East,E06000041,Wokingham,24m,Number,MMR,1539
+9a_9b_9c,2018-19,E12000008,South East,E06000041,Wokingham,24m,Number,Hib_MenC,1540
+9a_9b_9c,2018-19,E12000008,South East,E06000041,Wokingham,24m,Number,PCV,1535
+9a_9b_9c,2018-19,E12000008,South East,E06000041,Wokingham,24m,Number,MenB_booster,1505
+9a_9b_9c,2018-19,E12000008,South East,E06000042,Milton Keynes,24m,Number,24m_Eligible_Pop,3796
+9a_9b_9c,2018-19,E12000008,South East,E06000042,Milton Keynes,24m,Number,DTap_IPV_Hib,3646
+9a_9b_9c,2018-19,E12000008,South East,E06000042,Milton Keynes,24m,Number,MMR,3451
+9a_9b_9c,2018-19,E12000008,South East,E06000042,Milton Keynes,24m,Number,Hib_MenC,3496
+9a_9b_9c,2018-19,E12000008,South East,E06000042,Milton Keynes,24m,Number,PCV,3471
+9a_9b_9c,2018-19,E12000008,South East,E06000042,Milton Keynes,24m,Number,MenB_booster,3385
+9a_9b_9c,2018-19,E12000008,South East,E06000043,Brighton and Hove,24m,Number,24m_Eligible_Pop,2671
+9a_9b_9c,2018-19,E12000008,South East,E06000043,Brighton and Hove,24m,Number,DTap_IPV_Hib,2449
+9a_9b_9c,2018-19,E12000008,South East,E06000043,Brighton and Hove,24m,Number,MMR,2352
+9a_9b_9c,2018-19,E12000008,South East,E06000043,Brighton and Hove,24m,Number,Hib_MenC,2358
+9a_9b_9c,2018-19,E12000008,South East,E06000043,Brighton and Hove,24m,Number,PCV,2349
+9a_9b_9c,2018-19,E12000008,South East,E06000043,Brighton and Hove,24m,Number,MenB_booster,2302
+9a_9b_9c,2018-19,E12000008,South East,E06000044,Portsmouth,24m,Number,24m_Eligible_Pop,2535
+9a_9b_9c,2018-19,E12000008,South East,E06000044,Portsmouth,24m,Number,DTap_IPV_Hib,2441
+9a_9b_9c,2018-19,E12000008,South East,E06000044,Portsmouth,24m,Number,MMR,2344
+9a_9b_9c,2018-19,E12000008,South East,E06000044,Portsmouth,24m,Number,Hib_MenC,2351
+9a_9b_9c,2018-19,E12000008,South East,E06000044,Portsmouth,24m,Number,PCV,2355
+9a_9b_9c,2018-19,E12000008,South East,E06000044,Portsmouth,24m,Number,MenB_booster,2283
+9a_9b_9c,2018-19,E12000008,South East,E06000045,Southampton,24m,Number,24m_Eligible_Pop,3193
+9a_9b_9c,2018-19,E12000008,South East,E06000045,Southampton,24m,Number,DTap_IPV_Hib,3047
+9a_9b_9c,2018-19,E12000008,South East,E06000045,Southampton,24m,Number,MMR,2915
+9a_9b_9c,2018-19,E12000008,South East,E06000045,Southampton,24m,Number,Hib_MenC,2901
+9a_9b_9c,2018-19,E12000008,South East,E06000045,Southampton,24m,Number,PCV,2902
+9a_9b_9c,2018-19,E12000008,South East,E06000045,Southampton,24m,Number,MenB_booster,2821
+9a_9b_9c,2018-19,E12000008,South East,E06000046,Isle of Wight,24m,Number,24m_Eligible_Pop,1222
+9a_9b_9c,2018-19,E12000008,South East,E06000046,Isle of Wight,24m,Number,DTap_IPV_Hib,1144
+9a_9b_9c,2018-19,E12000008,South East,E06000046,Isle of Wight,24m,Number,MMR,1080
+9a_9b_9c,2018-19,E12000008,South East,E06000046,Isle of Wight,24m,Number,Hib_MenC,1090
+9a_9b_9c,2018-19,E12000008,South East,E06000046,Isle of Wight,24m,Number,PCV,1039
+9a_9b_9c,2018-19,E12000008,South East,E06000046,Isle of Wight,24m,Number,MenB_booster,995
+9a_9b_9c,2018-19,E12000008,South East,E10000002,Buckinghamshire,24m,Number,24m_Eligible_Pop,6288
+9a_9b_9c,2018-19,E12000008,South East,E10000002,Buckinghamshire,24m,Number,DTap_IPV_Hib,6065
+9a_9b_9c,2018-19,E12000008,South East,E10000002,Buckinghamshire,24m,Number,MMR,5864
+9a_9b_9c,2018-19,E12000008,South East,E10000002,Buckinghamshire,24m,Number,Hib_MenC,5858
+9a_9b_9c,2018-19,E12000008,South East,E10000002,Buckinghamshire,24m,Number,PCV,5837
+9a_9b_9c,2018-19,E12000008,South East,E10000002,Buckinghamshire,24m,Number,MenB_booster,5781
+9a_9b_9c,2018-19,E12000008,South East,E10000011,East Sussex,24m,Number,24m_Eligible_Pop,5193
+9a_9b_9c,2018-19,E12000008,South East,E10000011,East Sussex,24m,Number,DTap_IPV_Hib,4944
+9a_9b_9c,2018-19,E12000008,South East,E10000011,East Sussex,24m,Number,MMR,4802
+9a_9b_9c,2018-19,E12000008,South East,E10000011,East Sussex,24m,Number,Hib_MenC,4809
+9a_9b_9c,2018-19,E12000008,South East,E10000011,East Sussex,24m,Number,PCV,4819
+9a_9b_9c,2018-19,E12000008,South East,E10000011,East Sussex,24m,Number,MenB_booster,4751
+9a_9b_9c,2018-19,E12000008,South East,E10000014,Hampshire,24m,Number,24m_Eligible_Pop,14863
+9a_9b_9c,2018-19,E12000008,South East,E10000014,Hampshire,24m,Number,DTap_IPV_Hib,14272
+9a_9b_9c,2018-19,E12000008,South East,E10000014,Hampshire,24m,Number,MMR,13853
+9a_9b_9c,2018-19,E12000008,South East,E10000014,Hampshire,24m,Number,Hib_MenC,13894
+9a_9b_9c,2018-19,E12000008,South East,E10000014,Hampshire,24m,Number,PCV,13825
+9a_9b_9c,2018-19,E12000008,South East,E10000014,Hampshire,24m,Number,MenB_booster,13823
+9a_9b_9c,2018-19,E12000008,South East,E10000016,Kent,24m,Number,24m_Eligible_Pop,17818
+9a_9b_9c,2018-19,E12000008,South East,E10000016,Kent,24m,Number,DTap_IPV_Hib,16849
+9a_9b_9c,2018-19,E12000008,South East,E10000016,Kent,24m,Number,MMR,16178
+9a_9b_9c,2018-19,E12000008,South East,E10000016,Kent,24m,Number,Hib_MenC,16269
+9a_9b_9c,2018-19,E12000008,South East,E10000016,Kent,24m,Number,PCV,16264
+9a_9b_9c,2018-19,E12000008,South East,E10000016,Kent,24m,Number,MenB_booster,15685
+9a_9b_9c,2018-19,E12000008,South East,E10000025,Oxfordshire,24m,Number,24m_Eligible_Pop,7892
+9a_9b_9c,2018-19,E12000008,South East,E10000025,Oxfordshire,24m,Number,DTap_IPV_Hib,7662
+9a_9b_9c,2018-19,E12000008,South East,E10000025,Oxfordshire,24m,Number,MMR,7420
+9a_9b_9c,2018-19,E12000008,South East,E10000025,Oxfordshire,24m,Number,Hib_MenC,7388
+9a_9b_9c,2018-19,E12000008,South East,E10000025,Oxfordshire,24m,Number,PCV,7402
+9a_9b_9c,2018-19,E12000008,South East,E10000025,Oxfordshire,24m,Number,MenB_booster,7295
+9a_9b_9c,2018-19,E12000008,South East,E10000030,Surrey,24m,Number,24m_Eligible_Pop,14916
+9a_9b_9c,2018-19,E12000008,South East,E10000030,Surrey,24m,Number,DTap_IPV_Hib,12929
+9a_9b_9c,2018-19,E12000008,South East,E10000030,Surrey,24m,Number,MMR,13035
+9a_9b_9c,2018-19,E12000008,South East,E10000030,Surrey,24m,Number,Hib_MenC,12774
+9a_9b_9c,2018-19,E12000008,South East,E10000030,Surrey,24m,Number,PCV,12987
+9a_9b_9c,2018-19,E12000008,South East,E10000030,Surrey,24m,Number,MenB_booster,12356
+9a_9b_9c,2018-19,E12000008,South East,E10000032,West Sussex,24m,Number,24m_Eligible_Pop,9200
+9a_9b_9c,2018-19,E12000008,South East,E10000032,West Sussex,24m,Number,DTap_IPV_Hib,8806
+9a_9b_9c,2018-19,E12000008,South East,E10000032,West Sussex,24m,Number,MMR,8639
+9a_9b_9c,2018-19,E12000008,South East,E10000032,West Sussex,24m,Number,Hib_MenC,8632
+9a_9b_9c,2018-19,E12000008,South East,E10000032,West Sussex,24m,Number,PCV,8621
+9a_9b_9c,2018-19,E12000008,South East,E10000032,West Sussex,24m,Number,MenB_booster,8468
+9a_9b_9c,2018-19,E12000009,South West,E06000022,Bath and North East Somerset,24m,Number,24m_Eligible_Pop,1972
+9a_9b_9c,2018-19,E12000009,South West,E06000022,Bath and North East Somerset,24m,Number,DTap_IPV_Hib,1906
+9a_9b_9c,2018-19,E12000009,South West,E06000022,Bath and North East Somerset,24m,Number,MMR,1866
+9a_9b_9c,2018-19,E12000009,South West,E06000022,Bath and North East Somerset,24m,Number,Hib_MenC,1866
+9a_9b_9c,2018-19,E12000009,South West,E06000022,Bath and North East Somerset,24m,Number,PCV,1870
+9a_9b_9c,2018-19,E12000009,South West,E06000022,Bath and North East Somerset,24m,Number,MenB_booster,1842
+9a_9b_9c,2018-19,E12000009,South West,E06000023,Bristol,24m,Number,24m_Eligible_Pop,6099
+9a_9b_9c,2018-19,E12000009,South West,E06000023,Bristol,24m,Number,DTap_IPV_Hib,5769
+9a_9b_9c,2018-19,E12000009,South West,E06000023,Bristol,24m,Number,MMR,5439
+9a_9b_9c,2018-19,E12000009,South West,E06000023,Bristol,24m,Number,Hib_MenC,5465
+9a_9b_9c,2018-19,E12000009,South West,E06000023,Bristol,24m,Number,PCV,5457
+9a_9b_9c,2018-19,E12000009,South West,E06000023,Bristol,24m,Number,MenB_booster,5386
+9a_9b_9c,2018-19,E12000009,South West,E06000024,North Somerset,24m,Number,24m_Eligible_Pop,2258
+9a_9b_9c,2018-19,E12000009,South West,E06000024,North Somerset,24m,Number,DTap_IPV_Hib,2176
+9a_9b_9c,2018-19,E12000009,South West,E06000024,North Somerset,24m,Number,MMR,2117
+9a_9b_9c,2018-19,E12000009,South West,E06000024,North Somerset,24m,Number,Hib_MenC,2123
+9a_9b_9c,2018-19,E12000009,South West,E06000024,North Somerset,24m,Number,PCV,2119
+9a_9b_9c,2018-19,E12000009,South West,E06000024,North Somerset,24m,Number,MenB_booster,2104
+9a_9b_9c,2018-19,E12000009,South West,E06000025,South Gloucestershire,24m,Number,24m_Eligible_Pop,3096
+9a_9b_9c,2018-19,E12000009,South West,E06000025,South Gloucestershire,24m,Number,DTap_IPV_Hib,3002
+9a_9b_9c,2018-19,E12000009,South West,E06000025,South Gloucestershire,24m,Number,MMR,2957
+9a_9b_9c,2018-19,E12000009,South West,E06000025,South Gloucestershire,24m,Number,Hib_MenC,2949
+9a_9b_9c,2018-19,E12000009,South West,E06000025,South Gloucestershire,24m,Number,PCV,2948
+9a_9b_9c,2018-19,E12000009,South West,E06000025,South Gloucestershire,24m,Number,MenB_booster,2910
+9a_9b_9c,2018-19,E12000009,South West,E06000026,Plymouth,24m,Number,24m_Eligible_Pop,2966
+9a_9b_9c,2018-19,E12000009,South West,E06000026,Plymouth,24m,Number,DTap_IPV_Hib,2868
+9a_9b_9c,2018-19,E12000009,South West,E06000026,Plymouth,24m,Number,MMR,2814
+9a_9b_9c,2018-19,E12000009,South West,E06000026,Plymouth,24m,Number,Hib_MenC,2809
+9a_9b_9c,2018-19,E12000009,South West,E06000026,Plymouth,24m,Number,PCV,2799
+9a_9b_9c,2018-19,E12000009,South West,E06000026,Plymouth,24m,Number,MenB_booster,2780
+9a_9b_9c,2018-19,E12000009,South West,E06000027,Torbay,24m,Number,24m_Eligible_Pop,1363
+9a_9b_9c,2018-19,E12000009,South West,E06000027,Torbay,24m,Number,DTap_IPV_Hib,1306
+9a_9b_9c,2018-19,E12000009,South West,E06000027,Torbay,24m,Number,MMR,1271
+9a_9b_9c,2018-19,E12000009,South West,E06000027,Torbay,24m,Number,Hib_MenC,1272
+9a_9b_9c,2018-19,E12000009,South West,E06000027,Torbay,24m,Number,PCV,1268
+9a_9b_9c,2018-19,E12000009,South West,E06000027,Torbay,24m,Number,MenB_booster,1256
+9a_9b_9c,2018-19,E12000009,South West,E06000028,Bournemouth,24m,Number,24m_Eligible_Pop,2087
+9a_9b_9c,2018-19,E12000009,South West,E06000028,Bournemouth,24m,Number,DTap_IPV_Hib,1980
+9a_9b_9c,2018-19,E12000009,South West,E06000028,Bournemouth,24m,Number,MMR,1895
+9a_9b_9c,2018-19,E12000009,South West,E06000028,Bournemouth,24m,Number,Hib_MenC,1910
+9a_9b_9c,2018-19,E12000009,South West,E06000028,Bournemouth,24m,Number,PCV,1916
+9a_9b_9c,2018-19,E12000009,South West,E06000028,Bournemouth,24m,Number,MenB_booster,1892
+9a_9b_9c,2018-19,E12000009,South West,E06000029,Poole,24m,Number,24m_Eligible_Pop,1833
+9a_9b_9c,2018-19,E12000009,South West,E06000029,Poole,24m,Number,DTap_IPV_Hib,1778
+9a_9b_9c,2018-19,E12000009,South West,E06000029,Poole,24m,Number,MMR,1746
+9a_9b_9c,2018-19,E12000009,South West,E06000029,Poole,24m,Number,Hib_MenC,1751
+9a_9b_9c,2018-19,E12000009,South West,E06000029,Poole,24m,Number,PCV,1743
+9a_9b_9c,2018-19,E12000009,South West,E06000029,Poole,24m,Number,MenB_booster,1740
+9a_9b_9c,2018-19,E12000009,South West,E06000030,Swindon,24m,Number,24m_Eligible_Pop,2993
+9a_9b_9c,2018-19,E12000009,South West,E06000030,Swindon,24m,Number,DTap_IPV_Hib,2832
+9a_9b_9c,2018-19,E12000009,South West,E06000030,Swindon,24m,Number,MMR,2768
+9a_9b_9c,2018-19,E12000009,South West,E06000030,Swindon,24m,Number,Hib_MenC,2748
+9a_9b_9c,2018-19,E12000009,South West,E06000030,Swindon,24m,Number,PCV,2766
+9a_9b_9c,2018-19,E12000009,South West,E06000030,Swindon,24m,Number,MenB_booster,2695
+9a_9b_9c,2018-19,E12000009,South West,E06000052,Cornwall (inc. Isles of Scilly),24m,Number,24m_Eligible_Pop,5488
+9a_9b_9c,2018-19,E12000009,South West,E06000052,Cornwall (inc. Isles of Scilly),24m,Number,DTap_IPV_Hib,5210
+9a_9b_9c,2018-19,E12000009,South West,E06000052,Cornwall (inc. Isles of Scilly),24m,Number,MMR,5020
+9a_9b_9c,2018-19,E12000009,South West,E06000052,Cornwall (inc. Isles of Scilly),24m,Number,Hib_MenC,5031
+9a_9b_9c,2018-19,E12000009,South West,E06000052,Cornwall (inc. Isles of Scilly),24m,Number,PCV,5041
+9a_9b_9c,2018-19,E12000009,South West,E06000052,Cornwall (inc. Isles of Scilly),24m,Number,MenB_booster,4966
+9a_9b_9c,2018-19,E12000009,South West,E06000054,Wiltshire,24m,Number,24m_Eligible_Pop,5149
+9a_9b_9c,2018-19,E12000009,South West,E06000054,Wiltshire,24m,Number,DTap_IPV_Hib,5016
+9a_9b_9c,2018-19,E12000009,South West,E06000054,Wiltshire,24m,Number,MMR,4895
+9a_9b_9c,2018-19,E12000009,South West,E06000054,Wiltshire,24m,Number,Hib_MenC,4897
+9a_9b_9c,2018-19,E12000009,South West,E06000054,Wiltshire,24m,Number,PCV,4903
+9a_9b_9c,2018-19,E12000009,South West,E06000054,Wiltshire,24m,Number,MenB_booster,4800
+9a_9b_9c,2018-19,E12000009,South West,E10000008,Devon,24m,Number,24m_Eligible_Pop,7209
+9a_9b_9c,2018-19,E12000009,South West,E10000008,Devon,24m,Number,DTap_IPV_Hib,6911
+9a_9b_9c,2018-19,E12000009,South West,E10000008,Devon,24m,Number,MMR,6744
+9a_9b_9c,2018-19,E12000009,South West,E10000008,Devon,24m,Number,Hib_MenC,6722
+9a_9b_9c,2018-19,E12000009,South West,E10000008,Devon,24m,Number,PCV,6732
+9a_9b_9c,2018-19,E12000009,South West,E10000008,Devon,24m,Number,MenB_booster,6673
+9a_9b_9c,2018-19,E12000009,South West,E10000009,Dorset,24m,Number,24m_Eligible_Pop,3310
+9a_9b_9c,2018-19,E12000009,South West,E10000009,Dorset,24m,Number,DTap_IPV_Hib,3199
+9a_9b_9c,2018-19,E12000009,South West,E10000009,Dorset,24m,Number,MMR,3128
+9a_9b_9c,2018-19,E12000009,South West,E10000009,Dorset,24m,Number,Hib_MenC,3146
+9a_9b_9c,2018-19,E12000009,South West,E10000009,Dorset,24m,Number,PCV,3150
+9a_9b_9c,2018-19,E12000009,South West,E10000009,Dorset,24m,Number,MenB_booster,3110
+9a_9b_9c,2018-19,E12000009,South West,E10000013,Gloucestershire,24m,Number,24m_Eligible_Pop,6843
+9a_9b_9c,2018-19,E12000009,South West,E10000013,Gloucestershire,24m,Number,DTap_IPV_Hib,6544
+9a_9b_9c,2018-19,E12000009,South West,E10000013,Gloucestershire,24m,Number,MMR,6379
+9a_9b_9c,2018-19,E12000009,South West,E10000013,Gloucestershire,24m,Number,Hib_MenC,6353
+9a_9b_9c,2018-19,E12000009,South West,E10000013,Gloucestershire,24m,Number,PCV,6332
+9a_9b_9c,2018-19,E12000009,South West,E10000013,Gloucestershire,24m,Number,MenB_booster,6260
+9a_9b_9c,2018-19,E12000009,South West,E10000027,Somerset,24m,Number,24m_Eligible_Pop,5638
+9a_9b_9c,2018-19,E12000009,South West,E10000027,Somerset,24m,Number,DTap_IPV_Hib,5441
+9a_9b_9c,2018-19,E12000009,South West,E10000027,Somerset,24m,Number,MMR,5192
+9a_9b_9c,2018-19,E12000009,South West,E10000027,Somerset,24m,Number,Hib_MenC,5199
+9a_9b_9c,2018-19,E12000009,South West,E10000027,Somerset,24m,Number,PCV,5193
+9a_9b_9c,2018-19,E12000009,South West,E10000027,Somerset,24m,Number,MenB_booster,5119

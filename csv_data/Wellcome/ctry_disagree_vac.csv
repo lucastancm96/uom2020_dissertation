@@ -1,0 +1,134 @@
+Country,Country Name,Total,VAC_IMPTCH,VAC_SF,VAC_EFF
+1,United States,983,46,100,49
+3,Morocco,978,16,32,40
+5,Saudi Arabia,951,18,41,36
+6,Jordan,981,10,31,25
+8,Turkey,887,25,58,30
+9,Pakistan,758,21,36,37
+10,Indonesia,692,20,40,81
+11,Bangladesh,982,4,8,4
+12,United Kingdom,968,38,78,25
+13,France,973,78,309,155
+14,Germany,947,44,136,36
+15,Netherlands,869,46,160,105
+16,Belgium,940,43,202,53
+17,Spain,988,40,54,46
+18,Italy,991,74,135,49
+19,Poland,863,37,52,37
+20,Hungary,957,10,24,14
+21,Czech Republic,976,27,60,26
+22,Romania,950,32,104,49
+23,Sweden,983,19,107,25
+24,Greece,970,19,40,24
+25,Denmark,958,24,86,42
+26,Iran,938,13,78,19
+28,Singapore,846,14,24,19
+29,Japan,943,38,77,27
+30,China,3168,54,249,93
+31,India,2695,37,56,51
+32,Venezuela,898,2,34,20
+33,Brazil,949,6,88,63
+34,Mexico,958,10,65,52
+35,Nigeria,825,26,50,138
+36,Kenya,913,11,43,68
+37,Tanzania,936,4,17,33
+38,Israel,999,9,47,17
+40,Ghana,714,20,28,33
+41,Uganda,836,11,73,108
+42,Benin,804,18,121,63
+43,Madagascar,840,26,90,48
+44,Malawi,884,8,25,16
+45,South Africa,423,18,37,48
+46,Canada,991,54,83,62
+47,Australia,982,25,59,32
+48,Philippines,935,49,133,92
+49,Sri Lanka,967,7,69,28
+50,Vietnam,441,7,40,14
+51,Thailand,781,10,22,18
+54,Myanmar,976,6,36,22
+55,New Zealand,974,47,91,59
+57,Botswana,412,11,38,17
+61,Mali,823,20,133,45
+62,Mauritania,837,15,86,39
+63,Mozambique,928,10,49,89
+64,Niger,722,29,53,29
+65,Rwanda,840,5,15,7
+66,Senegal,855,22,122,82
+67,Zambia,791,19,68,77
+68,South Korea,883,49,61,19
+69,Taiwan,992,38,188,68
+70,Afghanistan,993,21,45,19
+71,Belarus,993,73,153,99
+72,Georgia,866,36,80,40
+73,Kazakhstan,929,40,103,54
+74,Kyrgyzstan,827,39,78,65
+75,Moldova,942,70,106,76
+76,Russia,1840,176,431,225
+77,Ukraine,948,45,151,74
+78,Burkina Faso,854,29,181,77
+79,Cameroon,945,18,145,85
+80,Sierra Leone,910,6,38,42
+81,Zimbabwe,886,7,36,17
+82,Costa Rica,956,11,49,44
+83,Albania,845,11,130,71
+84,Algeria,935,39,100,73
+87,Argentina,964,14,45,32
+88,Armenia,877,108,182,115
+89,Austria,886,105,186,99
+90,Azerbaijan,917,75,99,76
+96,Bolivia,928,19,114,72
+97,Bosnia and Herzegovina,923,48,73,54
+99,Bulgaria,934,72,144,70
+100,Burundi,922,6,54,29
+103,Chad,739,23,85,64
+104,Chile,917,39,105,61
+105,Colombia,919,9,92,67
+106,Comoros,900,8,76,24
+108,Republic of Congo,787,18,145,31
+109,Croatia,950,42,70,43
+111,Cyprus,728,33,57,34
+115,Ecuador,924,12,54,60
+116,El Salvador,919,9,106,73
+119,Estonia,924,52,118,58
+121,Finland,995,13,77,41
+122,Gabon,966,27,260,109
+124,Guatemala,845,7,64,57
+125,Guinea,837,32,129,61
+128,Haiti,391,8,83,37
+130,Iceland,484,6,103,7
+131,Iraq,860,21,39,31
+132,Ireland,955,31,76,33
+134,Ivory Coast,925,15,167,74
+137,Kuwait,877,18,35,23
+138,Latvia,984,53,167,98
+140,Liberia,941,14,22,271
+141,Libya,896,35,64,42
+143,Lithuania,797,31,63,31
+144,Luxembourg,944,52,129,53
+145,Macedonia,950,49,119,73
+146,Malaysia,611,21,18,28
+148,Malta,933,19,63,47
+150,Mauritius,972,16,159,48
+153,Mongolia,936,40,141,51
+154,Montenegro,945,69,124,68
+155,Namibia,647,28,71,103
+157,Nepal,856,9,34,59
+160,Norway,888,14,55,25
+163,Panama,866,13,43,48
+164,Paraguay,881,13,62,65
+165,Peru,922,34,162,140
+173,Serbia,968,44,78,44
+175,Slovakia,888,23,49,20
+176,Slovenia,906,52,107,71
+183,Eswatini,914,7,95,66
+184,Switzerland,953,78,214,87
+185,Tajikistan,923,4,12,9
+186,The Gambia,826,20,42,42
+187,Togo,820,17,203,84
+190,Tunisia,897,21,42,28
+191,Turkmenistan,874,39,37,42
+193,United Arab Emirates,776,20,35,29
+194,Uruguay,960,21,93,65
+195,Uzbekistan,909,5,32,12
+197,Yemen,992,19,35,36
+198,Kosovo,918,11,53,50

@@ -1,0 +1,79 @@
+Table_Ref,CollectionYearRange,Parent_Org_Code,Parent_Org_Name,Parent_Org_ONS_Code,Org_Code,Org_Name,Org_ONS_Code,Child_Age,Unit,Indicator,Value
+10d,2018-19,Y54,North Of England,E40000001,Q75,Cheshire and Merseyside,E39000026,5yr,Number,5yr_Eligible_Pop,28701
+10d,2018-19,Y54,North Of England,E40000001,Q75,Cheshire and Merseyside,E39000026,5yr,Number,DTaP_IPV,25624
+10d,2018-19,Y54,North Of England,E40000001,Q75,Cheshire and Merseyside,E39000026,5yr,Number,DTaP_IPV_Hib,27648
+10d,2018-19,Y54,North Of England,E40000001,Q75,Cheshire and Merseyside,E39000026,5yr,Number,Hib_MenC,26910
+10d,2018-19,Y54,North Of England,E40000001,Q75,Cheshire and Merseyside,E39000026,5yr,Number,MMR1,27476
+10d,2018-19,Y54,North Of England,E40000001,Q75,Cheshire and Merseyside,E39000026,5yr,Number,MMR2,25577
+10d,2018-19,Y54,North Of England,E40000001,Q74,Cumbria and North East,E39000027,5yr,Number,5yr_Eligible_Pop,34994
+10d,2018-19,Y54,North Of England,E40000001,Q74,Cumbria and North East,E39000027,5yr,Number,DTaP_IPV,31786
+10d,2018-19,Y54,North Of England,E40000001,Q74,Cumbria and North East,E39000027,5yr,Number,DTaP_IPV_Hib,34015
+10d,2018-19,Y54,North Of England,E40000001,Q74,Cumbria and North East,E39000027,5yr,Number,Hib_MenC,33338
+10d,2018-19,Y54,North Of England,E40000001,Q74,Cumbria and North East,E39000027,5yr,Number,MMR1,33895
+10d,2018-19,Y54,North Of England,E40000001,Q74,Cumbria and North East,E39000027,5yr,Number,MMR2,32211
+10d,2018-19,Y54,North Of England,E40000001,Q73,Lancashire and Greater Manchester,E39000028,5yr,Number,5yr_Eligible_Pop,56432
+10d,2018-19,Y54,North Of England,E40000001,Q73,Lancashire and Greater Manchester,E39000028,5yr,Number,DTaP_IPV,49152
+10d,2018-19,Y54,North Of England,E40000001,Q73,Lancashire and Greater Manchester,E39000028,5yr,Number,DTaP_IPV_Hib,53209
+10d,2018-19,Y54,North Of England,E40000001,Q73,Lancashire and Greater Manchester,E39000028,5yr,Number,Hib_MenC,52562
+10d,2018-19,Y54,North Of England,E40000001,Q73,Lancashire and Greater Manchester,E39000028,5yr,Number,MMR1,53513
+10d,2018-19,Y54,North Of England,E40000001,Q73,Lancashire and Greater Manchester,E39000028,5yr,Number,MMR2,49804
+10d,2018-19,Y54,North Of England,E40000001,Q72,Yorkshire and Humber,E39000029,5yr,Number,5yr_Eligible_Pop,66695
+10d,2018-19,Y54,North Of England,E40000001,Q72,Yorkshire and Humber,E39000029,5yr,Number,DTaP_IPV,59279
+10d,2018-19,Y54,North Of England,E40000001,Q72,Yorkshire and Humber,E39000029,5yr,Number,DTaP_IPV_Hib,64133
+10d,2018-19,Y54,North Of England,E40000001,Q72,Yorkshire and Humber,E39000029,5yr,Number,Hib_MenC,62277
+10d,2018-19,Y54,North Of England,E40000001,Q72,Yorkshire and Humber,E39000029,5yr,Number,MMR1,63907
+10d,2018-19,Y54,North Of England,E40000001,Q72,Yorkshire and Humber,E39000029,5yr,Number,MMR2,59964
+10d,2018-19,Y55,Midlands and East of England,E40000002,Q78,Central Midlands,E39000030,5yr,Number,5yr_Eligible_Pop,59835
+10d,2018-19,Y55,Midlands and East of England,E40000002,Q78,Central Midlands,E39000030,5yr,Number,DTaP_IPV,52154
+10d,2018-19,Y55,Midlands and East of England,E40000002,Q78,Central Midlands,E39000030,5yr,Number,DTaP_IPV_Hib,57605
+10d,2018-19,Y55,Midlands and East of England,E40000002,Q78,Central Midlands,E39000030,5yr,Number,Hib_MenC,55885
+10d,2018-19,Y55,Midlands and East of England,E40000002,Q78,Central Midlands,E39000030,5yr,Number,MMR1,57290
+10d,2018-19,Y55,Midlands and East of England,E40000002,Q78,Central Midlands,E39000030,5yr,Number,MMR2,53123
+10d,2018-19,Y55,Midlands and East of England,E40000002,Q79,East of England,E39000031,5yr,Number,5yr_Eligible_Pop,52481
+10d,2018-19,Y55,Midlands and East of England,E40000002,Q79,East of England,E39000031,5yr,Number,DTaP_IPV,45704
+10d,2018-19,Y55,Midlands and East of England,E40000002,Q79,East of England,E39000031,5yr,Number,DTaP_IPV_Hib,50488
+10d,2018-19,Y55,Midlands and East of England,E40000002,Q79,East of England,E39000031,5yr,Number,Hib_MenC,48884
+10d,2018-19,Y55,Midlands and East of England,E40000002,Q79,East of England,E39000031,5yr,Number,MMR1,50063
+10d,2018-19,Y55,Midlands and East of England,E40000002,Q79,East of England,E39000031,5yr,Number,MMR2,46193
+10d,2018-19,Y55,Midlands and East of England,E40000002,Q76,North Midlands,E39000032,5yr,Number,5yr_Eligible_Pop,43872
+10d,2018-19,Y55,Midlands and East of England,E40000002,Q76,North Midlands,E39000032,5yr,Number,DTaP_IPV,38559
+10d,2018-19,Y55,Midlands and East of England,E40000002,Q76,North Midlands,E39000032,5yr,Number,DTaP_IPV_Hib,42569
+10d,2018-19,Y55,Midlands and East of England,E40000002,Q76,North Midlands,E39000032,5yr,Number,Hib_MenC,41468
+10d,2018-19,Y55,Midlands and East of England,E40000002,Q76,North Midlands,E39000032,5yr,Number,MMR1,42321
+10d,2018-19,Y55,Midlands and East of England,E40000002,Q76,North Midlands,E39000032,5yr,Number,MMR2,39001
+10d,2018-19,Y55,Midlands and East of England,E40000002,Q77,West Midlands,E39000033,5yr,Number,5yr_Eligible_Pop,57207
+10d,2018-19,Y55,Midlands and East of England,E40000002,Q77,West Midlands,E39000033,5yr,Number,DTaP_IPV,48349
+10d,2018-19,Y55,Midlands and East of England,E40000002,Q77,West Midlands,E39000033,5yr,Number,DTaP_IPV_Hib,54527
+10d,2018-19,Y55,Midlands and East of England,E40000002,Q77,West Midlands,E39000033,5yr,Number,Hib_MenC,53376
+10d,2018-19,Y55,Midlands and East of England,E40000002,Q77,West Midlands,E39000033,5yr,Number,MMR1,54274
+10d,2018-19,Y55,Midlands and East of England,E40000002,Q77,West Midlands,E39000033,5yr,Number,MMR2,49044
+10d,2018-19,Y56,London,E40000003,Q71,London,E39000018,5yr,Number,5yr_Eligible_Pop,124342
+10d,2018-19,Y56,London,E40000003,Q71,London,E39000018,5yr,Number,DTaP_IPV,91889
+10d,2018-19,Y56,London,E40000003,Q71,London,E39000018,5yr,Number,DTaP_IPV_Hib,114358
+10d,2018-19,Y56,London,E40000003,Q71,London,E39000018,5yr,Number,Hib_MenC,108809
+10d,2018-19,Y56,London,E40000003,Q71,London,E39000018,5yr,Number,MMR1,112379
+10d,2018-19,Y56,London,E40000003,Q71,London,E39000018,5yr,Number,MMR2,94886
+10d,2018-19,Y58,South West,E40000006,Q86,South West North,E39000043,5yr,Number,5yr_Eligible_Pop,29681
+10d,2018-19,Y58,South West,E40000006,Q86,South West North,E39000043,5yr,Number,DTaP_IPV,26431
+10d,2018-19,Y58,South West,E40000006,Q86,South West North,E39000043,5yr,Number,DTaP_IPV_Hib,28733
+10d,2018-19,Y58,South West,E40000006,Q86,South West North,E39000043,5yr,Number,Hib_MenC,28240
+10d,2018-19,Y58,South West,E40000006,Q86,South West North,E39000043,5yr,Number,MMR1,28506
+10d,2018-19,Y58,South West,E40000006,Q86,South West North,E39000043,5yr,Number,MMR2,26746
+10d,2018-19,Y58,South West,E40000006,Q85,South West South,E39000044,5yr,Number,5yr_Eligible_Pop,32740
+10d,2018-19,Y58,South West,E40000006,Q85,South West South,E39000044,5yr,Number,DTaP_IPV,29382
+10d,2018-19,Y58,South West,E40000006,Q85,South West South,E39000044,5yr,Number,DTaP_IPV_Hib,31682
+10d,2018-19,Y58,South West,E40000006,Q85,South West South,E39000044,5yr,Number,Hib_MenC,31038
+10d,2018-19,Y58,South West,E40000006,Q85,South West South,E39000044,5yr,Number,MMR1,31438
+10d,2018-19,Y58,South West,E40000006,Q85,South West South,E39000044,5yr,Number,MMR2,29871
+10d,2018-19,Y59,South East,E40000005,Q87,"Hampshire, Isle of Wight and Thames Valley",E39000041,5yr,Number,5yr_Eligible_Pop,50535
+10d,2018-19,Y59,South East,E40000005,Q87,"Hampshire, Isle of Wight and Thames Valley",E39000041,5yr,Number,DTaP_IPV,43708
+10d,2018-19,Y59,South East,E40000005,Q87,"Hampshire, Isle of Wight and Thames Valley",E39000041,5yr,Number,DTaP_IPV_Hib,48731
+10d,2018-19,Y59,South East,E40000005,Q87,"Hampshire, Isle of Wight and Thames Valley",E39000041,5yr,Number,Hib_MenC,47159
+10d,2018-19,Y59,South East,E40000005,Q87,"Hampshire, Isle of Wight and Thames Valley",E39000041,5yr,Number,MMR1,48115
+10d,2018-19,Y59,South East,E40000005,Q87,"Hampshire, Isle of Wight and Thames Valley",E39000041,5yr,Number,MMR2,45001
+10d,2018-19,Y59,South East,E40000005,Q88,"Kent, Surrey and Sussex",E39000042,5yr,Number,5yr_Eligible_Pop,57733
+10d,2018-19,Y59,South East,E40000005,Q88,"Kent, Surrey and Sussex",E39000042,5yr,Number,DTaP_IPV,47742
+10d,2018-19,Y59,South East,E40000005,Q88,"Kent, Surrey and Sussex",E39000042,5yr,Number,DTaP_IPV_Hib,53058
+10d,2018-19,Y59,South East,E40000005,Q88,"Kent, Surrey and Sussex",E39000042,5yr,Number,Hib_MenC,51337
+10d,2018-19,Y59,South East,E40000005,Q88,"Kent, Surrey and Sussex",E39000042,5yr,Number,MMR1,53645
+10d,2018-19,Y59,South East,E40000005,Q88,"Kent, Surrey and Sussex",E39000042,5yr,Number,MMR2,49485

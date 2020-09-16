@@ -1,0 +1,88 @@
+iso3code,area_name,who_region,indicator,sex,year,value_str
+AND,Andorra,EURO,prHPVc_F,Female,2019,64.0
+ARE,United Arab Emirates (the),EMRO,prHPVc_F,Female,2019,27.0
+ARG,Argentina,AMRO,prHPVc_F,Female,2019,57.0
+ARM,Armenia,EURO,prHPVc_F,Female,2019,7.0
+AUS,Australia,WPRO,prHPVc_F,Female,2019,79.0
+BEL,Belgium,EURO,prHPVc_F,Female,2019,67.0
+BGR,Bulgaria,EURO,prHPVc_F,Female,2019,5.0
+BHS,Bahamas (the),AMRO,prHPVc_F,Female,2019,9.0
+BLZ,Belize,AMRO,prHPVc_F,Female,2019,89.0
+BOL,Bolivia (Plurinational State of),AMRO,prHPVc_F,Female,2019,80.0
+BRA,Brazil,AMRO,prHPVc_F,Female,2019,69.0
+BRB,Barbados,AMRO,prHPVc_F,Female,2019,29.0
+BRN,Brunei Darussalam,WPRO,prHPVc_F,Female,2019,90.0
+BTN,Bhutan,SEARO,prHPVc_F,Female,2019,73.0
+BWA,Botswana,AFRO,prHPVc_F,Female,2019,47.0
+CAN,Canada,AMRO,prHPVc_F,Female,2019,83.0
+CHE,Switzerland,EURO,prHPVc_F,Female,2019,59.0
+CHL,Chile,AMRO,prHPVc_F,Female,2019,82.0
+COK,Cook Islands,WPRO,prHPVc_F,Female,2019,73.0
+COL,Colombia,AMRO,prHPVc_F,Female,2019,39.0
+CRI,Costa Rica,AMRO,prHPVc_F,Female,2019,39.0
+CYP,Cyprus,EURO,prHPVc_F,Female,2019,64.0
+DEU,Germany,EURO,prHPVc_F,Female,2019,31.0
+DNK,Denmark,EURO,prHPVc_F,Female,2019,62.0
+DOM,Dominican Republic (the),AMRO,prHPVc_F,Female,2019,7.0
+ECU,Ecuador,AMRO,prHPVc_F,Female,2019,54.0
+ESP,Spain,EURO,prHPVc_F,Female,2019,79.0
+EST,Estonia,EURO,prHPVc_F,Female,2019,45.0
+ETH,Ethiopia,AFRO,prHPVc_F,Female,2019,84.0
+FIN,Finland,EURO,prHPVc_F,Female,2019,60.0
+FJI,Fiji,WPRO,prHPVc_F,Female,2019,56.0
+FRA,France,EURO,prHPVc_F,Female,2019,24.0
+FSM,Micronesia (Federated States of),WPRO,prHPVc_F,Female,2019,57.0
+GBR,United Kingdom of Great Britain and Northern Ireland (the),EURO,prHPVc_F,Female,2019,82.0
+GEO,Georgia,EURO,prHPVc_F,Female,2019,11.0
+GRD,Grenada,AMRO,prHPVc_F,Female,2019,41.0
+GTM,Guatemala,AMRO,prHPVc_F,Female,2019,24.0
+GUY,Guyana,AMRO,prHPVc_F,Female,2019,13.0
+HND,Honduras,AMRO,prHPVc_F,Female,2019,59.0
+HUN,Hungary,EURO,prHPVc_F,Female,2019,78.0
+IDN,Indonesia,SEARO,prHPVc_F,Female,2019,0.5
+IRL,Ireland,EURO,prHPVc_F,Female,2019,69.0
+ISL,Iceland,EURO,prHPVc_F,Female,2019,85.0
+ISR,Israel,EURO,prHPVc_F,Female,2019,52.0
+ITA,Italy,EURO,prHPVc_F,Female,2019,40.0
+JAM,Jamaica,AMRO,prHPVc_F,Female,2019,9.0
+JPN,Japan,WPRO,prHPVc_F,Female,2019,0.3
+KOR,Republic of Korea (the),WPRO,prHPVc_F,Female,2019,52.0
+LCA,Saint Lucia,AMRO,prHPVc_F,Female,2019,46.0
+LKA,Sri Lanka,SEARO,prHPVc_F,Female,2019,82.0
+LTU,Lithuania,EURO,prHPVc_F,Female,2019,66.0
+LUX,Luxembourg,EURO,prHPVc_F,Female,2019,14.0
+LVA,Latvia,EURO,prHPVc_F,Female,2019,54.0
+MDA,Republic of Moldova (the),EURO,prHPVc_F,Female,2019,31.0
+MEX,Mexico,AMRO,prHPVc_F,Female,2019,95.0
+MHL,Marshall Islands (the),WPRO,prHPVc_F,Female,2019,24.0
+MKD,North Macedonia,EURO,prHPVc_F,Female,2019,40.0
+MLT,Malta,EURO,prHPVc_F,Female,2019,81.0
+MUS,Mauritius,AFRO,prHPVc_F,Female,2019,80.0
+MYS,Malaysia,WPRO,prHPVc_F,Female,2019,85.0
+NLD,Netherlands (the),EURO,prHPVc_F,Female,2019,53.0
+NOR,Norway,EURO,prHPVc_F,Female,2019,91.0
+NZL,New Zealand,WPRO,prHPVc_F,Female,2019,67.0
+PAN,Panama,AMRO,prHPVc_F,Female,2019,73.0
+PER,Peru,AMRO,prHPVc_F,Female,2019,76.0
+PHL,Philippines (the),WPRO,prHPVc_F,Female,2019,0.2
+PLW,Palau,WPRO,prHPVc_F,Female,2019,67.0
+PRT,Portugal,EURO,prHPVc_F,Female,2019,81.0
+PRY,Paraguay,AMRO,prHPVc_F,Female,2019,61.0
+RWA,Rwanda,AFRO,prHPVc_F,Female,2019,94.0
+SEN,Senegal,AFRO,prHPVc_F,Female,2019,25.0
+SGP,Singapore,WPRO,prHPVc_F,Female,2019,0.1
+SMR,San Marino,EURO,prHPVc_F,Female,2019,50.0
+SUR,Suriname,AMRO,prHPVc_F,Female,2019,38.0
+SVN,Slovenia,EURO,prHPVc_F,Female,2019,59.0
+SWE,Sweden,EURO,prHPVc_F,Female,2019,80.0
+SYC,Seychelles,AFRO,prHPVc_F,Female,2019,68.0
+THA,Thailand,SEARO,prHPVc_F,Female,2019,66.0
+TKM,Turkmenistan,EURO,prHPVc_F,Female,2019,99.0
+TTO,Trinidad and Tobago,AMRO,prHPVc_F,Female,2019,9.0
+TZA,United Republic of Tanzania,AFRO,prHPVc_F,Female,2019,49.0
+UGA,Uganda,AFRO,prHPVc_F,Female,2019,64.0
+URY,Uruguay,AMRO,prHPVc_F,Female,2019,38.0
+USA,United States of America (the),AMRO,prHPVc_F,Female,2019,39.0
+VCT,Saint Vincent and the Grenadines,AMRO,prHPVc_F,Female,2019,10.0
+ZAF,South Africa,AFRO,prHPVc_F,Female,2019,56.0
+ZWE,Zimbabwe,AFRO,prHPVc_F,Female,2019,67.0

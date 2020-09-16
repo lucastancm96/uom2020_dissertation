@@ -1,0 +1,3803 @@
+,region,vaccine,year,coverage
+0,Global,BCG,1980,15
+1,Global,DTP1,1980,30
+2,Global,DTP3,1980,20
+3,Global,MCV1,1980,16
+4,Global,POL3,1980,21
+5,Global,RCV1,1980,3
+6,Global,BCG,1981,21
+7,Global,DTP1,1981,35
+8,Global,DTP3,1981,23
+9,Global,MCV1,1981,19
+10,Global,POL3,1981,23
+11,Global,RCV1,1981,3
+12,Global,BCG,1982,23
+13,Global,DTP1,1982,38
+14,Global,DTP3,1982,25
+15,Global,MCV1,1982,20
+16,Global,POL3,1982,41
+17,Global,RCV1,1982,4
+18,Global,BCG,1983,36
+19,Global,DTP1,1983,56
+20,Global,DTP3,1983,38
+21,Global,MCV1,1983,37
+22,Global,POL3,1983,43
+23,Global,RCV1,1983,4
+24,Global,BCG,1984,44
+25,Global,DTP1,1984,62
+26,Global,DTP3,1984,45
+27,Global,MCV1,1984,41
+28,Global,POL3,1984,47
+29,Global,RCV1,1984,5
+30,Global,BCG,1985,48
+31,Global,DTP1,1985,67
+32,Global,DTP3,1985,49
+33,Global,HEPB3,1985,0
+34,Global,MCV1,1985,47
+35,Global,POL3,1985,52
+36,Global,RCV1,1985,5
+37,Global,BCG,1986,52
+38,Global,DTP1,1986,70
+39,Global,DTP3,1986,52
+40,Global,HEPB3,1986,0
+41,Global,MCV1,1986,47
+42,Global,POL3,1986,51
+43,Global,RCV1,1986,5
+44,Global,BCG,1987,61
+45,Global,DTP1,1987,74
+46,Global,DTP3,1987,56
+47,Global,HEPB3,1987,0
+48,Global,MCV1,1987,54
+49,Global,POL3,1987,57
+50,Global,RCV1,1987,5
+51,Global,BCG,1988,67
+52,Global,DTP1,1988,79
+53,Global,DTP3,1988,64
+54,Global,HEPB3,1988,0
+55,Global,MCV1,1988,63
+56,Global,POL3,1988,65
+57,Global,RCV1,1988,6
+58,Global,BCG,1989,70
+59,Global,DTP1,1989,83
+60,Global,DTP3,1989,68
+61,Global,HEPB3,1989,0
+62,Global,MCV1,1989,68
+63,Global,POL3,1989,70
+64,Global,RCV1,1989,7
+65,Global,BCG,1990,81
+66,Global,DTP1,1990,88
+67,Global,DTP3,1990,75
+68,Global,HEPB3,1990,1
+69,Global,HIB3,1990,0
+70,Global,MCV1,1990,73
+71,Global,POL3,1990,75
+72,Global,RCV1,1990,8
+73,Global,BCG,1991,78
+74,Global,DTP1,1991,86
+75,Global,DTP3,1991,71
+76,Global,HEPB3,1991,1
+77,Global,HIB3,1991,0
+78,Global,MCV1,1991,69
+79,Global,POL3,1991,72
+80,Global,RCV1,1991,9
+81,Global,BCG,1992,78
+82,Global,DTP1,1992,85
+83,Global,DTP3,1992,70
+84,Global,HEPB3,1992,3
+85,Global,HIB3,1992,1
+86,Global,MCV1,1992,69
+87,Global,POL3,1992,70
+88,Global,RCV1,1992,9
+89,Global,BCG,1993,79
+90,Global,DTP1,1993,85
+91,Global,DTP3,1993,70
+92,Global,HEPB3,1993,4
+93,Global,HIB3,1993,1
+94,Global,MCV1,1993,70
+95,Global,POL3,1993,70
+96,Global,RCV1,1993,10
+97,Global,BCG,1994,80
+98,Global,DTP1,1994,86
+99,Global,DTP3,1994,73
+100,Global,HEPB3,1994,8
+101,Global,HIB3,1994,1
+102,Global,MCV1,1994,71
+103,Global,POL3,1994,73
+104,Global,RCV1,1994,10
+105,Global,BCG,1995,80
+106,Global,DTP1,1995,87
+107,Global,DTP3,1995,73
+108,Global,HEPB3,1995,11
+109,Global,HIB3,1995,4
+110,Global,MCV1,1995,73
+111,Global,POL3,1995,74
+112,Global,RCV1,1995,12
+113,Global,BCG,1996,80
+114,Global,DTP1,1996,86
+115,Global,DTP3,1996,72
+116,Global,HEPB3,1996,13
+117,Global,HIB3,1996,5
+118,Global,MCV1,1996,73
+119,Global,POL3,1996,74
+120,Global,RCV1,1996,12
+121,Global,BCG,1997,78
+122,Global,DTP1,1997,86
+123,Global,DTP3,1997,71
+124,Global,HEPB3,1997,15
+125,Global,HIB3,1997,5
+126,Global,MCV1,1997,71
+127,Global,POL3,1997,74
+128,Global,RCV1,1997,12
+129,Global,YFV,1997,3
+130,Global,BCG,1998,79
+131,Global,DTP1,1998,84
+132,Global,DTP3,1998,72
+133,Global,HEPB3,1998,15
+134,Global,HIB3,1998,7
+135,Global,MCV1,1998,71
+136,Global,POL3,1998,73
+137,Global,RCV1,1998,15
+138,Global,YFV,1998,9
+139,Global,BCG,1999,80
+140,Global,DTP1,1999,83
+141,Global,DTP3,1999,72
+142,Global,HEPB3,1999,18
+143,Global,HIB3,1999,8
+144,Global,MCV1,1999,71
+145,Global,POL3,1999,73
+146,Global,RCV1,1999,17
+147,Global,YFV,1999,10
+148,Global,BCG,2000,80
+149,Global,DTP1,2000,83
+150,Global,DTP3,2000,72
+151,Global,HEPB3,2000,30
+152,Global,HEPBB,2000,5
+153,Global,HIB3,2000,13
+154,Global,MCV1,2000,72
+155,Global,MCV2,2000,18
+156,Global,POL3,2000,73
+157,Global,RCV1,2000,21
+158,Global,YFV,2000,11
+159,Global,BCG,2001,80
+160,Global,DTP1,2001,83
+161,Global,DTP3,2001,73
+162,Global,HEPB3,2001,32
+163,Global,HEPBB,2001,6
+164,Global,HIB3,2001,14
+165,Global,MCV1,2001,73
+166,Global,MCV2,2001,20
+167,Global,POL3,2001,73
+168,Global,RCV1,2001,22
+169,Global,YFV,2001,13
+170,Global,BCG,2002,80
+171,Global,DTP1,2002,83
+172,Global,DTP3,2002,73
+173,Global,HEPB3,2002,38
+174,Global,HEPBB,2002,7
+175,Global,HIB3,2002,17
+176,Global,MCV1,2002,72
+177,Global,MCV2,2002,20
+178,Global,POL3,2002,74
+179,Global,RCV1,2002,22
+180,Global,YFV,2002,12
+181,Global,BCG,2003,81
+182,Global,DTP1,2003,84
+183,Global,DTP3,2003,75
+184,Global,HEPB3,2003,44
+185,Global,HEPBB,2003,9
+186,Global,HIB3,2003,18
+187,Global,MCV1,2003,74
+188,Global,MCV2,2003,21
+189,Global,POL3,2003,75
+190,Global,RCV1,2003,22
+191,Global,YFV,2003,17
+192,Global,BCG,2004,83
+193,Global,DTP1,2004,85
+194,Global,DTP3,2004,77
+195,Global,HEPB3,2004,49
+196,Global,HEPBB,2004,21
+197,Global,HIB3,2004,19
+198,Global,MCV1,2004,76
+199,Global,MCV2,2004,22
+200,Global,POL3,2004,76
+201,Global,RCV1,2004,24
+202,Global,YFV,2004,25
+203,Global,BCG,2005,85
+204,Global,DTP1,2005,87
+205,Global,DTP3,2005,77
+206,Global,HEPB3,2005,54
+207,Global,HEPBB,2005,23
+208,Global,HIB3,2005,20
+209,Global,MCV1,2005,77
+210,Global,MCV2,2005,33
+211,Global,POL3,2005,78
+212,Global,RCV1,2005,24
+213,Global,YFV,2005,32
+214,Global,BCG,2006,86
+215,Global,DTP1,2006,87
+216,Global,DTP3,2006,79
+217,Global,HEPB3,2006,58
+218,Global,HEPBB,2006,23
+219,Global,HIB3,2006,21
+220,Global,MCV1,2006,79
+221,Global,MCV2,2006,35
+222,Global,POL3,2006,79
+223,Global,RCV1,2006,26
+224,Global,ROTAC,2006,1
+225,Global,YFV,2006,36
+226,Global,BCG,2007,87
+227,Global,DTP1,2007,88
+228,Global,DTP3,2007,79
+229,Global,HEPB3,2007,63
+230,Global,HEPBB,2007,23
+231,Global,HIB3,2007,25
+232,Global,MCV1,2007,80
+233,Global,MCV2,2007,36
+234,Global,POL3,2007,80
+235,Global,RCV1,2007,26
+236,Global,ROTAC,2007,2
+237,Global,YFV,2007,39
+238,Global,BCG,2008,88
+239,Global,DTP1,2008,88
+240,Global,DTP3,2008,81
+241,Global,HEPB3,2008,69
+242,Global,HEPBB,2008,26
+243,Global,HIB3,2008,28
+244,Global,MCV1,2008,81
+245,Global,MCV2,2008,38
+246,Global,PCV3,2008,4
+247,Global,POL3,2008,82
+248,Global,RCV1,2008,25
+249,Global,ROTAC,2008,4
+250,Global,YFV,2008,38
+251,Global,BCG,2009,89
+252,Global,DTP1,2009,89
+253,Global,DTP3,2009,83
+254,Global,HEPB3,2009,73
+255,Global,HEPBB,2009,27
+256,Global,HIB3,2009,38
+257,Global,MCV1,2009,83
+258,Global,MCV2,2009,41
+259,Global,PCV3,2009,7
+260,Global,POL3,2009,84
+261,Global,RCV1,2009,26
+262,Global,ROTAC,2009,7
+263,Global,YFV,2009,41
+264,Global,BCG,2010,89
+265,Global,DTP1,2010,89
+266,Global,DTP3,2010,84
+267,Global,HEPB3,2010,73
+268,Global,HEPBB,2010,26
+269,Global,HIB3,2010,40
+270,Global,MCV1,2010,84
+271,Global,MCV2,2010,42
+272,Global,PCV3,2010,11
+273,Global,POL3,2010,84
+274,Global,RCV1,2010,35
+275,Global,ROTAC,2010,8
+276,Global,YFV,2010,39
+277,Global,BCG,2011,90
+278,Global,DTP1,2011,90
+279,Global,DTP3,2011,85
+280,Global,HEPB3,2011,75
+281,Global,HEPBB,2011,27
+282,Global,HIB3,2011,43
+283,Global,MCV1,2011,85
+284,Global,MCV2,2011,48
+285,Global,PCV3,2011,16
+286,Global,POL3,2011,84
+287,Global,RCV1,2011,38
+288,Global,ROTAC,2011,9
+289,Global,YFV,2011,36
+290,Global,BCG,2012,89
+291,Global,DTP1,2012,90
+292,Global,DTP3,2012,85
+293,Global,HEPB3,2012,80
+294,Global,HEPBB,2012,31
+295,Global,HIB3,2012,45
+296,Global,MCV1,2012,84
+297,Global,MCV2,2012,51
+298,Global,PCV3,2012,20
+299,Global,POL3,2012,84
+300,Global,RCV1,2012,40
+301,Global,ROTAC,2012,11
+302,Global,YFV,2012,36
+303,Global,BCG,2013,89
+304,Global,DTP1,2013,89
+305,Global,DTP3,2013,84
+306,Global,HEPB3,2013,80
+307,Global,HEPBB,2013,34
+308,Global,HIB3,2013,51
+309,Global,MCV1,2013,84
+310,Global,MCV2,2013,56
+311,Global,PCV3,2013,26
+312,Global,POL3,2013,84
+313,Global,RCV1,2013,43
+314,Global,ROTAC,2013,14
+315,Global,YFV,2013,40
+316,Global,BCG,2014,88
+317,Global,DTP1,2014,89
+318,Global,DTP3,2014,84
+319,Global,HEPB3,2014,81
+320,Global,HEPBB,2014,34
+321,Global,HIB3,2014,55
+322,Global,MCV1,2014,84
+323,Global,MCV2,2014,59
+324,Global,PCV3,2014,32
+325,Global,POL3,2014,84
+326,Global,RCV1,2014,45
+327,Global,ROTAC,2014,19
+328,Global,YFV,2014,41
+329,Global,BCG,2015,87
+330,Global,DTP1,2015,89
+331,Global,DTP3,2015,85
+332,Global,HEPB3,2015,83
+333,Global,HEPBB,2015,35
+334,Global,HIB3,2015,63
+335,Global,IPV1,2015,22
+336,Global,MCV1,2015,85
+337,Global,MCV2,2015,63
+338,Global,PCV3,2015,37
+339,Global,POL3,2015,85
+340,Global,RCV1,2015,47
+341,Global,ROTAC,2015,22
+342,Global,YFV,2015,41
+343,Global,BCG,2016,89
+344,Global,DTP1,2016,90
+345,Global,DTP3,2016,86
+346,Global,HEPB3,2016,84
+347,Global,HEPBB,2016,35
+348,Global,HIB3,2016,70
+349,Global,IPV1,2016,46
+350,Global,MCV1,2016,85
+351,Global,MCV2,2016,67
+352,Global,PCV3,2016,42
+353,Global,POL3,2016,85
+354,Global,RCV1,2016,48
+355,Global,ROTAC,2016,24
+356,Global,YFV,2016,42
+357,Global,BCG,2017,89
+358,Global,DTP1,2017,90
+359,Global,DTP3,2017,86
+360,Global,HEPB3,2017,84
+361,Global,HEPBB,2017,40
+362,Global,HIB3,2017,71
+363,Global,IPV1,2017,57
+364,Global,MCV1,2017,85
+365,Global,MCV2,2017,68
+366,Global,PCV3,2017,44
+367,Global,POL3,2017,85
+368,Global,RCV1,2017,52
+369,Global,ROTAC,2017,27
+370,Global,YFV,2017,44
+371,Global,BCG,2018,89
+372,Global,DTP1,2018,90
+373,Global,DTP3,2018,85
+374,Global,HEPB3,2018,83
+375,Global,HEPBB,2018,41
+376,Global,HIB3,2018,71
+377,Global,IPV1,2018,72
+378,Global,MCV1,2018,85
+379,Global,MCV2,2018,69
+380,Global,PCV3,2018,46
+381,Global,POL3,2018,85
+382,Global,RCV1,2018,69
+383,Global,ROTAC,2018,34
+384,Global,YFV,2018,45
+385,Global,BCG,2019,88
+386,Global,DTP1,2019,90
+387,Global,DTP3,2019,85
+388,Global,HEPB3,2019,85
+389,Global,HEPBB,2019,43
+390,Global,HIB3,2019,72
+391,Global,IPV1,2019,82
+392,Global,MCV1,2019,85
+393,Global,MCV2,2019,71
+394,Global,PCV3,2019,48
+395,Global,POL3,2019,86
+396,Global,RCV1,2019,71
+397,Global,ROTAC,2019,39
+398,Global,YFV,2019,46
+399,East Asia & Pacific,BCG,1980,16
+400,East Asia & Pacific,DTP1,1980,14
+401,East Asia & Pacific,DTP3,1980,9
+402,East Asia & Pacific,MCV1,1980,4
+403,East Asia & Pacific,POL3,1980,5
+404,East Asia & Pacific,RCV1,1980,0
+405,East Asia & Pacific,BCG,1981,20
+406,East Asia & Pacific,DTP1,1981,19
+407,East Asia & Pacific,DTP3,1981,12
+408,East Asia & Pacific,MCV1,1981,4
+409,East Asia & Pacific,POL3,1981,7
+410,East Asia & Pacific,RCV1,1981,0
+411,East Asia & Pacific,BCG,1982,21
+412,East Asia & Pacific,DTP1,1982,18
+413,East Asia & Pacific,DTP3,1982,12
+414,East Asia & Pacific,MCV1,1982,4
+415,East Asia & Pacific,POL3,1982,59
+416,East Asia & Pacific,RCV1,1982,0
+417,East Asia & Pacific,BCG,1983,42
+418,East Asia & Pacific,DTP1,1983,68
+419,East Asia & Pacific,DTP3,1983,47
+420,East Asia & Pacific,MCV1,1983,54
+421,East Asia & Pacific,POL3,1983,62
+422,East Asia & Pacific,RCV1,1983,1
+423,East Asia & Pacific,BCG,1984,59
+424,East Asia & Pacific,DTP1,1984,77
+425,East Asia & Pacific,DTP3,1984,59
+426,East Asia & Pacific,MCV1,1984,61
+427,East Asia & Pacific,POL3,1984,65
+428,East Asia & Pacific,RCV1,1984,2
+429,East Asia & Pacific,BCG,1985,64
+430,East Asia & Pacific,DTP1,1985,83
+431,East Asia & Pacific,DTP3,1985,66
+432,East Asia & Pacific,HEPB3,1985,0
+433,East Asia & Pacific,MCV1,1985,68
+434,East Asia & Pacific,POL3,1985,71
+435,East Asia & Pacific,RCV1,1985,2
+436,East Asia & Pacific,BCG,1986,68
+437,East Asia & Pacific,DTP1,1986,86
+438,East Asia & Pacific,DTP3,1986,69
+439,East Asia & Pacific,HEPB3,1986,0
+440,East Asia & Pacific,MCV1,1986,57
+441,East Asia & Pacific,POL3,1986,63
+442,East Asia & Pacific,RCV1,1986,2
+443,East Asia & Pacific,BCG,1987,80
+444,East Asia & Pacific,DTP1,1987,86
+445,East Asia & Pacific,DTP3,1987,69
+446,East Asia & Pacific,HEPB3,1987,0
+447,East Asia & Pacific,MCV1,1987,68
+448,East Asia & Pacific,POL3,1987,71
+449,East Asia & Pacific,RCV1,1987,2
+450,East Asia & Pacific,BCG,1988,91
+451,East Asia & Pacific,DTP1,1988,92
+452,East Asia & Pacific,DTP3,1988,84
+453,East Asia & Pacific,HEPB3,1988,0
+454,East Asia & Pacific,MCV1,1988,82
+455,East Asia & Pacific,POL3,1988,84
+456,East Asia & Pacific,RCV1,1988,2
+457,East Asia & Pacific,BCG,1989,92
+458,East Asia & Pacific,DTP1,1989,94
+459,East Asia & Pacific,DTP3,1989,87
+460,East Asia & Pacific,HEPB3,1989,1
+461,East Asia & Pacific,MCV1,1989,85
+462,East Asia & Pacific,POL3,1989,87
+463,East Asia & Pacific,RCV1,1989,5
+464,East Asia & Pacific,BCG,1990,94
+465,East Asia & Pacific,DTP1,1990,95
+466,East Asia & Pacific,DTP3,1990,90
+467,East Asia & Pacific,HEPB3,1990,1
+468,East Asia & Pacific,HIB3,1990,0
+469,East Asia & Pacific,MCV1,1990,89
+470,East Asia & Pacific,POL3,1990,90
+471,East Asia & Pacific,RCV1,1990,5
+472,East Asia & Pacific,BCG,1991,92
+473,East Asia & Pacific,DTP1,1991,94
+474,East Asia & Pacific,DTP3,1991,87
+475,East Asia & Pacific,HEPB3,1991,1
+476,East Asia & Pacific,HIB3,1991,0
+477,East Asia & Pacific,MCV1,1991,85
+478,East Asia & Pacific,POL3,1991,88
+479,East Asia & Pacific,RCV1,1991,5
+480,East Asia & Pacific,BCG,1992,90
+481,East Asia & Pacific,DTP1,1992,94
+482,East Asia & Pacific,DTP3,1992,85
+483,East Asia & Pacific,HEPB3,1992,6
+484,East Asia & Pacific,HIB3,1992,0
+485,East Asia & Pacific,MCV1,1992,82
+486,East Asia & Pacific,POL3,1992,86
+487,East Asia & Pacific,RCV1,1992,5
+488,East Asia & Pacific,BCG,1993,89
+489,East Asia & Pacific,DTP1,1993,93
+490,East Asia & Pacific,DTP3,1993,83
+491,East Asia & Pacific,HEPB3,1993,9
+492,East Asia & Pacific,HIB3,1993,0
+493,East Asia & Pacific,MCV1,1993,79
+494,East Asia & Pacific,POL3,1993,85
+495,East Asia & Pacific,RCV1,1993,8
+496,East Asia & Pacific,BCG,1994,87
+497,East Asia & Pacific,DTP1,1994,93
+498,East Asia & Pacific,DTP3,1994,82
+499,East Asia & Pacific,HEPB3,1994,10
+500,East Asia & Pacific,HIB3,1994,0
+501,East Asia & Pacific,MCV1,1994,76
+502,East Asia & Pacific,POL3,1994,84
+503,East Asia & Pacific,RCV1,1994,8
+504,East Asia & Pacific,BCG,1995,81
+505,East Asia & Pacific,DTP1,1995,91
+506,East Asia & Pacific,DTP3,1995,79
+507,East Asia & Pacific,HEPB3,1995,16
+508,East Asia & Pacific,HIB3,1995,0
+509,East Asia & Pacific,MCV1,1995,79
+510,East Asia & Pacific,POL3,1995,81
+511,East Asia & Pacific,RCV1,1995,9
+512,East Asia & Pacific,BCG,1996,86
+513,East Asia & Pacific,DTP1,1996,92
+514,East Asia & Pacific,DTP3,1996,82
+515,East Asia & Pacific,HEPB3,1996,18
+516,East Asia & Pacific,HIB3,1996,0
+517,East Asia & Pacific,MCV1,1996,83
+518,East Asia & Pacific,POL3,1996,84
+519,East Asia & Pacific,RCV1,1996,9
+520,East Asia & Pacific,BCG,1997,85
+521,East Asia & Pacific,DTP1,1997,92
+522,East Asia & Pacific,DTP3,1997,82
+523,East Asia & Pacific,HEPB3,1997,18
+524,East Asia & Pacific,HIB3,1997,1
+525,East Asia & Pacific,MCV1,1997,83
+526,East Asia & Pacific,POL3,1997,85
+527,East Asia & Pacific,RCV1,1997,9
+528,East Asia & Pacific,BCG,1998,85
+529,East Asia & Pacific,DTP1,1998,92
+530,East Asia & Pacific,DTP3,1998,82
+531,East Asia & Pacific,HEPB3,1998,20
+532,East Asia & Pacific,HIB3,1998,1
+533,East Asia & Pacific,MCV1,1998,83
+534,East Asia & Pacific,POL3,1998,86
+535,East Asia & Pacific,RCV1,1998,11
+536,East Asia & Pacific,BCG,1999,85
+537,East Asia & Pacific,DTP1,1999,92
+538,East Asia & Pacific,DTP3,1999,83
+539,East Asia & Pacific,HEPB3,1999,20
+540,East Asia & Pacific,HIB3,1999,1
+541,East Asia & Pacific,MCV1,1999,84
+542,East Asia & Pacific,POL3,1999,86
+543,East Asia & Pacific,RCV1,1999,11
+544,East Asia & Pacific,BCG,2000,85
+545,East Asia & Pacific,DTP1,2000,92
+546,East Asia & Pacific,DTP3,2000,83
+547,East Asia & Pacific,HEPB3,2000,50
+548,East Asia & Pacific,HEPBB,2000,2
+549,East Asia & Pacific,HIB3,2000,1
+550,East Asia & Pacific,MCV1,2000,84
+551,East Asia & Pacific,MCV2,2000,4
+552,East Asia & Pacific,POL3,2000,84
+553,East Asia & Pacific,RCV1,2000,11
+554,East Asia & Pacific,BCG,2001,85
+555,East Asia & Pacific,DTP1,2001,92
+556,East Asia & Pacific,DTP3,2001,84
+557,East Asia & Pacific,HEPB3,2001,56
+558,East Asia & Pacific,HEPBB,2001,2
+559,East Asia & Pacific,HIB3,2001,1
+560,East Asia & Pacific,MCV1,2001,84
+561,East Asia & Pacific,MCV2,2001,4
+562,East Asia & Pacific,POL3,2001,84
+563,East Asia & Pacific,RCV1,2001,11
+564,East Asia & Pacific,BCG,2002,85
+565,East Asia & Pacific,DTP1,2002,91
+566,East Asia & Pacific,DTP3,2002,82
+567,East Asia & Pacific,HEPB3,2002,58
+568,East Asia & Pacific,HEPBB,2002,2
+569,East Asia & Pacific,HIB3,2002,1
+570,East Asia & Pacific,MCV1,2002,84
+571,East Asia & Pacific,MCV2,2002,5
+572,East Asia & Pacific,POL3,2002,85
+573,East Asia & Pacific,RCV1,2002,11
+574,East Asia & Pacific,BCG,2003,86
+575,East Asia & Pacific,DTP1,2003,92
+576,East Asia & Pacific,DTP3,2003,84
+577,East Asia & Pacific,HEPB3,2003,66
+578,East Asia & Pacific,HEPBB,2003,2
+579,East Asia & Pacific,HIB3,2003,1
+580,East Asia & Pacific,MCV1,2003,84
+581,East Asia & Pacific,MCV2,2003,8
+582,East Asia & Pacific,POL3,2003,87
+583,East Asia & Pacific,RCV1,2003,11
+584,East Asia & Pacific,BCG,2004,87
+585,East Asia & Pacific,DTP1,2004,93
+586,East Asia & Pacific,DTP3,2004,85
+587,East Asia & Pacific,HEPB3,2004,71
+588,East Asia & Pacific,HEPBB,2004,44
+589,East Asia & Pacific,HIB3,2004,2
+590,East Asia & Pacific,MCV1,2004,86
+591,East Asia & Pacific,MCV2,2004,10
+592,East Asia & Pacific,POL3,2004,87
+593,East Asia & Pacific,RCV1,2004,10
+594,East Asia & Pacific,BCG,2005,87
+595,East Asia & Pacific,DTP1,2005,92
+596,East Asia & Pacific,DTP3,2005,85
+597,East Asia & Pacific,HEPB3,2005,75
+598,East Asia & Pacific,HEPBB,2005,50
+599,East Asia & Pacific,HIB3,2005,2
+600,East Asia & Pacific,MCV1,2005,86
+601,East Asia & Pacific,MCV2,2005,57
+602,East Asia & Pacific,POL3,2005,87
+603,East Asia & Pacific,RCV1,2005,10
+604,East Asia & Pacific,BCG,2006,91
+605,East Asia & Pacific,DTP1,2006,95
+606,East Asia & Pacific,DTP3,2006,89
+607,East Asia & Pacific,HEPB3,2006,82
+608,East Asia & Pacific,HEPBB,2006,51
+609,East Asia & Pacific,HIB3,2006,3
+610,East Asia & Pacific,MCV1,2006,90
+611,East Asia & Pacific,MCV2,2006,66
+612,East Asia & Pacific,POL3,2006,90
+613,East Asia & Pacific,RCV1,2006,10
+614,East Asia & Pacific,ROTAC,2006,0
+615,East Asia & Pacific,BCG,2007,92
+616,East Asia & Pacific,DTP1,2007,95
+617,East Asia & Pacific,DTP3,2007,89
+618,East Asia & Pacific,HEPB3,2007,84
+619,East Asia & Pacific,HEPBB,2007,52
+620,East Asia & Pacific,HIB3,2007,3
+621,East Asia & Pacific,MCV1,2007,90
+622,East Asia & Pacific,MCV2,2007,69
+623,East Asia & Pacific,POL3,2007,90
+624,East Asia & Pacific,RCV1,2007,10
+625,East Asia & Pacific,ROTAC,2007,0
+626,East Asia & Pacific,BCG,2008,93
+627,East Asia & Pacific,DTP1,2008,96
+628,East Asia & Pacific,DTP3,2008,92
+629,East Asia & Pacific,HEPB3,2008,88
+630,East Asia & Pacific,HEPBB,2008,56
+631,East Asia & Pacific,HIB3,2008,3
+632,East Asia & Pacific,MCV1,2008,92
+633,East Asia & Pacific,MCV2,2008,79
+634,East Asia & Pacific,PCV3,2008,1
+635,East Asia & Pacific,POL3,2008,94
+636,East Asia & Pacific,RCV1,2008,10
+637,East Asia & Pacific,ROTAC,2008,1
+638,East Asia & Pacific,BCG,2009,94
+639,East Asia & Pacific,DTP1,2009,96
+640,East Asia & Pacific,DTP3,2009,94
+641,East Asia & Pacific,HEPB3,2009,91
+642,East Asia & Pacific,HEPBB,2009,59
+643,East Asia & Pacific,HIB3,2009,3
+644,East Asia & Pacific,MCV1,2009,93
+645,East Asia & Pacific,MCV2,2009,83
+646,East Asia & Pacific,PCV3,2009,1
+647,East Asia & Pacific,POL3,2009,95
+648,East Asia & Pacific,RCV1,2009,10
+649,East Asia & Pacific,ROTAC,2009,1
+650,East Asia & Pacific,BCG,2010,95
+651,East Asia & Pacific,DTP1,2010,95
+652,East Asia & Pacific,DTP3,2010,93
+653,East Asia & Pacific,HEPB3,2010,90
+654,East Asia & Pacific,HEPBB,2010,58
+655,East Asia & Pacific,HIB3,2010,8
+656,East Asia & Pacific,MCV1,2010,93
+657,East Asia & Pacific,MCV2,2010,85
+658,East Asia & Pacific,PCV3,2010,1
+659,East Asia & Pacific,POL3,2010,94
+660,East Asia & Pacific,RCV1,2010,50
+661,East Asia & Pacific,ROTAC,2010,1
+662,East Asia & Pacific,BCG,2011,98
+663,East Asia & Pacific,DTP1,2011,96
+664,East Asia & Pacific,DTP3,2011,94
+665,East Asia & Pacific,HEPB3,2011,89
+666,East Asia & Pacific,HEPBB,2011,62
+667,East Asia & Pacific,HIB3,2011,14
+668,East Asia & Pacific,MCV1,2011,94
+669,East Asia & Pacific,MCV2,2011,87
+670,East Asia & Pacific,PCV3,2011,5
+671,East Asia & Pacific,POL3,2011,94
+672,East Asia & Pacific,RCV1,2011,64
+673,East Asia & Pacific,ROTAC,2011,1
+674,East Asia & Pacific,BCG,2012,96
+675,East Asia & Pacific,DTP1,2012,96
+676,East Asia & Pacific,DTP3,2012,95
+677,East Asia & Pacific,HEPB3,2012,91
+678,East Asia & Pacific,HEPBB,2012,63
+679,East Asia & Pacific,HIB3,2012,15
+680,East Asia & Pacific,MCV1,2012,94
+681,East Asia & Pacific,MCV2,2012,85
+682,East Asia & Pacific,PCV3,2012,5
+683,East Asia & Pacific,POL3,2012,95
+684,East Asia & Pacific,RCV1,2012,69
+685,East Asia & Pacific,ROTAC,2012,1
+686,East Asia & Pacific,BCG,2013,96
+687,East Asia & Pacific,DTP1,2013,97
+688,East Asia & Pacific,DTP3,2013,94
+689,East Asia & Pacific,HEPB3,2013,91
+690,East Asia & Pacific,HEPBB,2013,65
+691,East Asia & Pacific,HIB3,2013,22
+692,East Asia & Pacific,MCV1,2013,95
+693,East Asia & Pacific,MCV2,2013,88
+694,East Asia & Pacific,PCV3,2013,5
+695,East Asia & Pacific,POL3,2013,95
+696,East Asia & Pacific,RCV1,2013,71
+697,East Asia & Pacific,ROTAC,2013,3
+698,East Asia & Pacific,BCG,2014,95
+699,East Asia & Pacific,DTP1,2014,96
+700,East Asia & Pacific,DTP3,2014,94
+701,East Asia & Pacific,HEPB3,2014,90
+702,East Asia & Pacific,HEPBB,2014,64
+703,East Asia & Pacific,HIB3,2014,28
+704,East Asia & Pacific,MCV1,2014,94
+705,East Asia & Pacific,MCV2,2014,82
+706,East Asia & Pacific,PCV3,2014,7
+707,East Asia & Pacific,POL3,2014,95
+708,East Asia & Pacific,RCV1,2014,71
+709,East Asia & Pacific,ROTAC,2014,1
+710,East Asia & Pacific,BCG,2015,95
+711,East Asia & Pacific,DTP1,2015,95
+712,East Asia & Pacific,DTP3,2015,93
+713,East Asia & Pacific,HEPB3,2015,90
+714,East Asia & Pacific,HEPBB,2015,66
+715,East Asia & Pacific,HIB3,2015,36
+716,East Asia & Pacific,IPV1,2015,4
+717,East Asia & Pacific,MCV1,2015,94
+718,East Asia & Pacific,MCV2,2015,82
+719,East Asia & Pacific,PCV3,2015,8
+720,East Asia & Pacific,POL3,2015,94
+721,East Asia & Pacific,RCV1,2015,77
+722,East Asia & Pacific,ROTAC,2015,1
+723,East Asia & Pacific,BCG,2016,96
+724,East Asia & Pacific,DTP1,2016,96
+725,East Asia & Pacific,DTP3,2016,94
+726,East Asia & Pacific,HEPB3,2016,91
+727,East Asia & Pacific,HEPBB,2016,66
+728,East Asia & Pacific,HIB3,2016,37
+729,East Asia & Pacific,IPV1,2016,20
+730,East Asia & Pacific,MCV1,2016,95
+731,East Asia & Pacific,MCV2,2016,86
+732,East Asia & Pacific,PCV3,2016,10
+733,East Asia & Pacific,POL3,2016,94
+734,East Asia & Pacific,RCV1,2016,80
+735,East Asia & Pacific,ROTAC,2016,1
+736,East Asia & Pacific,BCG,2017,96
+737,East Asia & Pacific,DTP1,2017,95
+738,East Asia & Pacific,DTP3,2017,94
+739,East Asia & Pacific,HEPB3,2017,90
+740,East Asia & Pacific,HEPBB,2017,74
+741,East Asia & Pacific,HIB3,2017,37
+742,East Asia & Pacific,IPV1,2017,75
+743,East Asia & Pacific,MCV1,2017,94
+744,East Asia & Pacific,MCV2,2017,87
+745,East Asia & Pacific,PCV3,2017,13
+746,East Asia & Pacific,POL3,2017,94
+747,East Asia & Pacific,RCV1,2017,81
+748,East Asia & Pacific,ROTAC,2017,1
+749,East Asia & Pacific,BCG,2018,95
+750,East Asia & Pacific,DTP1,2018,93
+751,East Asia & Pacific,DTP3,2018,92
+752,East Asia & Pacific,HEPB3,2018,89
+753,East Asia & Pacific,HEPBB,2018,78
+754,East Asia & Pacific,HIB3,2018,35
+755,East Asia & Pacific,IPV1,2018,82
+756,East Asia & Pacific,MCV1,2018,94
+757,East Asia & Pacific,MCV2,2018,87
+758,East Asia & Pacific,PCV3,2018,13
+759,East Asia & Pacific,POL3,2018,93
+760,East Asia & Pacific,RCV1,2018,85
+761,East Asia & Pacific,ROTAC,2018,1
+762,East Asia & Pacific,BCG,2019,95
+763,East Asia & Pacific,DTP1,2019,94
+764,East Asia & Pacific,DTP3,2019,93
+765,East Asia & Pacific,HEPB3,2019,93
+766,East Asia & Pacific,HEPBB,2019,82
+767,East Asia & Pacific,HIB3,2019,36
+768,East Asia & Pacific,IPV1,2019,88
+769,East Asia & Pacific,MCV1,2019,93
+770,East Asia & Pacific,MCV2,2019,87
+771,East Asia & Pacific,PCV3,2019,14
+772,East Asia & Pacific,POL3,2019,93
+773,East Asia & Pacific,RCV1,2019,92
+774,East Asia & Pacific,ROTAC,2019,1
+775,Eastern & Southern Africa,BCG,1980,9
+776,Eastern & Southern Africa,DTP1,1980,13
+777,Eastern & Southern Africa,DTP3,1980,8
+778,Eastern & Southern Africa,MCV1,1980,8
+779,Eastern & Southern Africa,POL3,1980,8
+780,Eastern & Southern Africa,RCV1,1980,0
+781,Eastern & Southern Africa,BCG,1981,25
+782,Eastern & Southern Africa,DTP1,1981,29
+783,Eastern & Southern Africa,DTP3,1981,16
+784,Eastern & Southern Africa,MCV1,1981,16
+785,Eastern & Southern Africa,POL3,1981,13
+786,Eastern & Southern Africa,RCV1,1981,0
+787,Eastern & Southern Africa,BCG,1982,25
+788,Eastern & Southern Africa,DTP1,1982,31
+789,Eastern & Southern Africa,DTP3,1982,16
+790,Eastern & Southern Africa,MCV1,1982,18
+791,Eastern & Southern Africa,POL3,1982,15
+792,Eastern & Southern Africa,RCV1,1982,0
+793,Eastern & Southern Africa,BCG,1983,37
+794,Eastern & Southern Africa,DTP1,1983,47
+795,Eastern & Southern Africa,DTP3,1983,29
+796,Eastern & Southern Africa,MCV1,1983,31
+797,Eastern & Southern Africa,POL3,1983,27
+798,Eastern & Southern Africa,RCV1,1983,0
+799,Eastern & Southern Africa,BCG,1984,43
+800,Eastern & Southern Africa,DTP1,1984,55
+801,Eastern & Southern Africa,DTP3,1984,35
+802,Eastern & Southern Africa,MCV1,1984,35
+803,Eastern & Southern Africa,POL3,1984,32
+804,Eastern & Southern Africa,RCV1,1984,0
+805,Eastern & Southern Africa,BCG,1985,49
+806,Eastern & Southern Africa,DTP1,1985,58
+807,Eastern & Southern Africa,DTP3,1985,38
+808,Eastern & Southern Africa,HEPB3,1985,0
+809,Eastern & Southern Africa,MCV1,1985,39
+810,Eastern & Southern Africa,POL3,1985,38
+811,Eastern & Southern Africa,RCV1,1985,0
+812,Eastern & Southern Africa,BCG,1986,52
+813,Eastern & Southern Africa,DTP1,1986,62
+814,Eastern & Southern Africa,DTP3,1986,42
+815,Eastern & Southern Africa,HEPB3,1986,0
+816,Eastern & Southern Africa,MCV1,1986,45
+817,Eastern & Southern Africa,POL3,1986,42
+818,Eastern & Southern Africa,RCV1,1986,0
+819,Eastern & Southern Africa,BCG,1987,61
+820,Eastern & Southern Africa,DTP1,1987,68
+821,Eastern & Southern Africa,DTP3,1987,49
+822,Eastern & Southern Africa,HEPB3,1987,0
+823,Eastern & Southern Africa,MCV1,1987,49
+824,Eastern & Southern Africa,POL3,1987,50
+825,Eastern & Southern Africa,RCV1,1987,0
+826,Eastern & Southern Africa,BCG,1988,61
+827,Eastern & Southern Africa,DTP1,1988,70
+828,Eastern & Southern Africa,DTP3,1988,52
+829,Eastern & Southern Africa,HEPB3,1988,0
+830,Eastern & Southern Africa,MCV1,1988,53
+831,Eastern & Southern Africa,POL3,1988,51
+832,Eastern & Southern Africa,RCV1,1988,0
+833,Eastern & Southern Africa,BCG,1989,71
+834,Eastern & Southern Africa,DTP1,1989,75
+835,Eastern & Southern Africa,DTP3,1989,57
+836,Eastern & Southern Africa,HEPB3,1989,0
+837,Eastern & Southern Africa,MCV1,1989,59
+838,Eastern & Southern Africa,POL3,1989,56
+839,Eastern & Southern Africa,RCV1,1989,0
+840,Eastern & Southern Africa,BCG,1990,73
+841,Eastern & Southern Africa,DTP1,1990,81
+842,Eastern & Southern Africa,DTP3,1990,62
+843,Eastern & Southern Africa,HEPB3,1990,0
+844,Eastern & Southern Africa,HIB3,1990,0
+845,Eastern & Southern Africa,MCV1,1990,62
+846,Eastern & Southern Africa,POL3,1990,63
+847,Eastern & Southern Africa,RCV1,1990,0
+848,Eastern & Southern Africa,BCG,1991,69
+849,Eastern & Southern Africa,DTP1,1991,76
+850,Eastern & Southern Africa,DTP3,1991,58
+851,Eastern & Southern Africa,HEPB3,1991,0
+852,Eastern & Southern Africa,HIB3,1991,0
+853,Eastern & Southern Africa,MCV1,1991,58
+854,Eastern & Southern Africa,POL3,1991,59
+855,Eastern & Southern Africa,RCV1,1991,0
+856,Eastern & Southern Africa,BCG,1992,68
+857,Eastern & Southern Africa,DTP1,1992,74
+858,Eastern & Southern Africa,DTP3,1992,56
+859,Eastern & Southern Africa,HEPB3,1992,0
+860,Eastern & Southern Africa,HIB3,1992,0
+861,Eastern & Southern Africa,MCV1,1992,57
+862,Eastern & Southern Africa,POL3,1992,57
+863,Eastern & Southern Africa,RCV1,1992,0
+864,Eastern & Southern Africa,BCG,1993,72
+865,Eastern & Southern Africa,DTP1,1993,78
+866,Eastern & Southern Africa,DTP3,1993,60
+867,Eastern & Southern Africa,HEPB3,1993,0
+868,Eastern & Southern Africa,HIB3,1993,0
+869,Eastern & Southern Africa,MCV1,1993,59
+870,Eastern & Southern Africa,POL3,1993,59
+871,Eastern & Southern Africa,RCV1,1993,0
+872,Eastern & Southern Africa,BCG,1994,76
+873,Eastern & Southern Africa,DTP1,1994,81
+874,Eastern & Southern Africa,DTP3,1994,64
+875,Eastern & Southern Africa,HEPB3,1994,0
+876,Eastern & Southern Africa,HIB3,1994,0
+877,Eastern & Southern Africa,MCV1,1994,64
+878,Eastern & Southern Africa,POL3,1994,63
+879,Eastern & Southern Africa,RCV1,1994,0
+880,Eastern & Southern Africa,BCG,1995,79
+881,Eastern & Southern Africa,DTP1,1995,82
+882,Eastern & Southern Africa,DTP3,1995,65
+883,Eastern & Southern Africa,HEPB3,1995,0
+884,Eastern & Southern Africa,HIB3,1995,0
+885,Eastern & Southern Africa,MCV1,1995,62
+886,Eastern & Southern Africa,POL3,1995,66
+887,Eastern & Southern Africa,RCV1,1995,0
+888,Eastern & Southern Africa,BCG,1996,77
+889,Eastern & Southern Africa,DTP1,1996,82
+890,Eastern & Southern Africa,DTP3,1996,65
+891,Eastern & Southern Africa,HEPB3,1996,1
+892,Eastern & Southern Africa,HIB3,1996,0
+893,Eastern & Southern Africa,MCV1,1996,65
+894,Eastern & Southern Africa,POL3,1996,68
+895,Eastern & Southern Africa,RCV1,1996,0
+896,Eastern & Southern Africa,BCG,1997,77
+897,Eastern & Southern Africa,DTP1,1997,83
+898,Eastern & Southern Africa,DTP3,1997,64
+899,Eastern & Southern Africa,HEPB3,1997,7
+900,Eastern & Southern Africa,HIB3,1997,0
+901,Eastern & Southern Africa,MCV1,1997,65
+902,Eastern & Southern Africa,POL3,1997,69
+903,Eastern & Southern Africa,RCV1,1997,0
+904,Eastern & Southern Africa,YFV,1997,1
+905,Eastern & Southern Africa,BCG,1998,75
+906,Eastern & Southern Africa,DTP1,1998,78
+907,Eastern & Southern Africa,DTP3,1998,61
+908,Eastern & Southern Africa,HEPB3,1998,7
+909,Eastern & Southern Africa,HIB3,1998,0
+910,Eastern & Southern Africa,MCV1,1998,62
+911,Eastern & Southern Africa,POL3,1998,66
+912,Eastern & Southern Africa,RCV1,1998,0
+913,Eastern & Southern Africa,YFV,1998,2
+914,Eastern & Southern Africa,BCG,1999,75
+915,Eastern & Southern Africa,DTP1,1999,73
+916,Eastern & Southern Africa,DTP3,1999,58
+917,Eastern & Southern Africa,HEPB3,1999,7
+918,Eastern & Southern Africa,HIB3,1999,0
+919,Eastern & Southern Africa,MCV1,1999,59
+920,Eastern & Southern Africa,POL3,1999,65
+921,Eastern & Southern Africa,RCV1,1999,0
+922,Eastern & Southern Africa,YFV,1999,2
+923,Eastern & Southern Africa,BCG,2000,74
+924,Eastern & Southern Africa,DTP1,2000,74
+925,Eastern & Southern Africa,DTP3,2000,60
+926,Eastern & Southern Africa,HEPB3,2000,8
+927,Eastern & Southern Africa,HEPBB,2000,0
+928,Eastern & Southern Africa,HIB3,2000,6
+929,Eastern & Southern Africa,MCV1,2000,60
+930,Eastern & Southern Africa,MCV2,2000,5
+931,Eastern & Southern Africa,POL3,2000,63
+932,Eastern & Southern Africa,RCV1,2000,0
+933,Eastern & Southern Africa,YFV,2000,2
+934,Eastern & Southern Africa,BCG,2001,77
+935,Eastern & Southern Africa,DTP1,2001,76
+936,Eastern & Southern Africa,DTP3,2001,62
+937,Eastern & Southern Africa,HEPB3,2001,9
+938,Eastern & Southern Africa,HEPBB,2001,0
+939,Eastern & Southern Africa,HIB3,2001,5
+940,Eastern & Southern Africa,MCV1,2001,62
+941,Eastern & Southern Africa,MCV2,2001,4
+942,Eastern & Southern Africa,POL3,2001,64
+943,Eastern & Southern Africa,RCV1,2001,0
+944,Eastern & Southern Africa,YFV,2001,2
+945,Eastern & Southern Africa,BCG,2002,77
+946,Eastern & Southern Africa,DTP1,2002,77
+947,Eastern & Southern Africa,DTP3,2002,63
+948,Eastern & Southern Africa,HEPB3,2002,39
+949,Eastern & Southern Africa,HEPBB,2002,0
+950,Eastern & Southern Africa,HIB3,2002,19
+951,Eastern & Southern Africa,MCV1,2002,63
+952,Eastern & Southern Africa,MCV2,2002,4
+953,Eastern & Southern Africa,POL3,2002,66
+954,Eastern & Southern Africa,RCV1,2002,0
+955,Eastern & Southern Africa,YFV,2002,2
+956,Eastern & Southern Africa,BCG,2003,77
+957,Eastern & Southern Africa,DTP1,2003,80
+958,Eastern & Southern Africa,DTP3,2003,66
+959,Eastern & Southern Africa,HEPB3,2003,41
+960,Eastern & Southern Africa,HEPBB,2003,0
+961,Eastern & Southern Africa,HIB3,2003,21
+962,Eastern & Southern Africa,MCV1,2003,64
+963,Eastern & Southern Africa,MCV2,2003,4
+964,Eastern & Southern Africa,POL3,2003,67
+965,Eastern & Southern Africa,RCV1,2003,0
+966,Eastern & Southern Africa,YFV,2003,3
+967,Eastern & Southern Africa,BCG,2004,77
+968,Eastern & Southern Africa,DTP1,2004,80
+969,Eastern & Southern Africa,DTP3,2004,68
+970,Eastern & Southern Africa,HEPB3,2004,45
+971,Eastern & Southern Africa,HEPBB,2004,0
+972,Eastern & Southern Africa,HIB3,2004,27
+973,Eastern & Southern Africa,MCV1,2004,65
+974,Eastern & Southern Africa,MCV2,2004,4
+975,Eastern & Southern Africa,POL3,2004,68
+976,Eastern & Southern Africa,RCV1,2004,0
+977,Eastern & Southern Africa,YFV,2004,3
+978,Eastern & Southern Africa,BCG,2005,79
+979,Eastern & Southern Africa,DTP1,2005,81
+980,Eastern & Southern Africa,DTP3,2005,70
+981,Eastern & Southern Africa,HEPB3,2005,51
+982,Eastern & Southern Africa,HEPBB,2005,0
+983,Eastern & Southern Africa,HIB3,2005,28
+984,Eastern & Southern Africa,MCV1,2005,64
+985,Eastern & Southern Africa,MCV2,2005,4
+986,Eastern & Southern Africa,POL3,2005,68
+987,Eastern & Southern Africa,RCV1,2005,0
+988,Eastern & Southern Africa,YFV,2005,2
+989,Eastern & Southern Africa,BCG,2006,80
+990,Eastern & Southern Africa,DTP1,2006,83
+991,Eastern & Southern Africa,DTP3,2006,71
+992,Eastern & Southern Africa,HEPB3,2006,56
+993,Eastern & Southern Africa,HEPBB,2006,0
+994,Eastern & Southern Africa,HIB3,2006,29
+995,Eastern & Southern Africa,MCV1,2006,67
+996,Eastern & Southern Africa,MCV2,2006,5
+997,Eastern & Southern Africa,POL3,2006,70
+998,Eastern & Southern Africa,RCV1,2006,0
+999,Eastern & Southern Africa,ROTAC,2006,0
+1000,Eastern & Southern Africa,YFV,2006,2
+1001,Eastern & Southern Africa,BCG,2007,82
+1002,Eastern & Southern Africa,DTP1,2007,85
+1003,Eastern & Southern Africa,DTP3,2007,73
+1004,Eastern & Southern Africa,HEPB3,2007,69
+1005,Eastern & Southern Africa,HEPBB,2007,0
+1006,Eastern & Southern Africa,HIB3,2007,41
+1007,Eastern & Southern Africa,MCV1,2007,72
+1008,Eastern & Southern Africa,MCV2,2007,4
+1009,Eastern & Southern Africa,POL3,2007,74
+1010,Eastern & Southern Africa,RCV1,2007,0
+1011,Eastern & Southern Africa,ROTAC,2007,0
+1012,Eastern & Southern Africa,YFV,2007,4
+1013,Eastern & Southern Africa,BCG,2008,84
+1014,Eastern & Southern Africa,DTP1,2008,84
+1015,Eastern & Southern Africa,DTP3,2008,74
+1016,Eastern & Southern Africa,HEPB3,2008,71
+1017,Eastern & Southern Africa,HEPBB,2008,0
+1018,Eastern & Southern Africa,HIB3,2008,56
+1019,Eastern & Southern Africa,MCV1,2008,72
+1020,Eastern & Southern Africa,MCV2,2008,5
+1021,Eastern & Southern Africa,PCV3,2008,0
+1022,Eastern & Southern Africa,POL3,2008,75
+1023,Eastern & Southern Africa,RCV1,2008,0
+1024,Eastern & Southern Africa,ROTAC,2008,0
+1025,Eastern & Southern Africa,YFV,2008,3
+1026,Eastern & Southern Africa,BCG,2009,84
+1027,Eastern & Southern Africa,DTP1,2009,85
+1028,Eastern & Southern Africa,DTP3,2009,75
+1029,Eastern & Southern Africa,HEPB3,2009,72
+1030,Eastern & Southern Africa,HEPBB,2009,0
+1031,Eastern & Southern Africa,HIB3,2009,72
+1032,Eastern & Southern Africa,MCV1,2009,75
+1033,Eastern & Southern Africa,MCV2,2009,5
+1034,Eastern & Southern Africa,PCV3,2009,1
+1035,Eastern & Southern Africa,POL3,2009,75
+1036,Eastern & Southern Africa,RCV1,2009,0
+1037,Eastern & Southern Africa,ROTAC,2009,1
+1038,Eastern & Southern Africa,YFV,2009,2
+1039,Eastern & Southern Africa,BCG,2010,86
+1040,Eastern & Southern Africa,DTP1,2010,87
+1041,Eastern & Southern Africa,DTP3,2010,77
+1042,Eastern & Southern Africa,HEPB3,2010,74
+1043,Eastern & Southern Africa,HEPBB,2010,0
+1044,Eastern & Southern Africa,HIB3,2010,74
+1045,Eastern & Southern Africa,MCV1,2010,78
+1046,Eastern & Southern Africa,MCV2,2010,5
+1047,Eastern & Southern Africa,PCV3,2010,6
+1048,Eastern & Southern Africa,POL3,2010,79
+1049,Eastern & Southern Africa,RCV1,2010,0
+1050,Eastern & Southern Africa,ROTAC,2010,4
+1051,Eastern & Southern Africa,YFV,2010,2
+1052,Eastern & Southern Africa,BCG,2011,88
+1053,Eastern & Southern Africa,DTP1,2011,87
+1054,Eastern & Southern Africa,DTP3,2011,79
+1055,Eastern & Southern Africa,HEPB3,2011,76
+1056,Eastern & Southern Africa,HEPBB,2011,0
+1057,Eastern & Southern Africa,HIB3,2011,76
+1058,Eastern & Southern Africa,MCV1,2011,78
+1059,Eastern & Southern Africa,MCV2,2011,5
+1060,Eastern & Southern Africa,PCV3,2011,17
+1061,Eastern & Southern Africa,POL3,2011,79
+1062,Eastern & Southern Africa,RCV1,2011,0
+1063,Eastern & Southern Africa,ROTAC,2011,7
+1064,Eastern & Southern Africa,YFV,2011,3
+1065,Eastern & Southern Africa,BCG,2012,86
+1066,Eastern & Southern Africa,DTP1,2012,86
+1067,Eastern & Southern Africa,DTP3,2012,78
+1068,Eastern & Southern Africa,HEPB3,2012,75
+1069,Eastern & Southern Africa,HEPBB,2012,0
+1070,Eastern & Southern Africa,HIB3,2012,75
+1071,Eastern & Southern Africa,MCV1,2012,79
+1072,Eastern & Southern Africa,MCV2,2012,6
+1073,Eastern & Southern Africa,PCV3,2012,27
+1074,Eastern & Southern Africa,POL3,2012,79
+1075,Eastern & Southern Africa,RCV1,2012,0
+1076,Eastern & Southern Africa,ROTAC,2012,12
+1077,Eastern & Southern Africa,YFV,2012,3
+1078,Eastern & Southern Africa,BCG,2013,84
+1079,Eastern & Southern Africa,DTP1,2013,84
+1080,Eastern & Southern Africa,DTP3,2013,77
+1081,Eastern & Southern Africa,HEPB3,2013,76
+1082,Eastern & Southern Africa,HEPBB,2013,0
+1083,Eastern & Southern Africa,HIB3,2013,77
+1084,Eastern & Southern Africa,MCV1,2013,77
+1085,Eastern & Southern Africa,MCV2,2013,10
+1086,Eastern & Southern Africa,PCV3,2013,49
+1087,Eastern & Southern Africa,POL3,2013,79
+1088,Eastern & Southern Africa,RCV1,2013,0
+1089,Eastern & Southern Africa,ROTAC,2013,26
+1090,Eastern & Southern Africa,YFV,2013,2
+1091,Eastern & Southern Africa,BCG,2014,85
+1092,Eastern & Southern Africa,DTP1,2014,87
+1093,Eastern & Southern Africa,DTP3,2014,80
+1094,Eastern & Southern Africa,HEPB3,2014,79
+1095,Eastern & Southern Africa,HEPBB,2014,0
+1096,Eastern & Southern Africa,HIB3,2014,79
+1097,Eastern & Southern Africa,MCV1,2014,77
+1098,Eastern & Southern Africa,MCV2,2014,15
+1099,Eastern & Southern Africa,PCV3,2014,69
+1100,Eastern & Southern Africa,POL3,2014,80
+1101,Eastern & Southern Africa,RCV1,2014,11
+1102,Eastern & Southern Africa,ROTAC,2014,50
+1103,Eastern & Southern Africa,YFV,2014,5
+1104,Eastern & Southern Africa,BCG,2015,82
+1105,Eastern & Southern Africa,DTP1,2015,87
+1106,Eastern & Southern Africa,DTP3,2015,80
+1107,Eastern & Southern Africa,HEPB3,2015,79
+1108,Eastern & Southern Africa,HEPBB,2015,0
+1109,Eastern & Southern Africa,HIB3,2015,79
+1110,Eastern & Southern Africa,IPV1,2015,13
+1111,Eastern & Southern Africa,MCV1,2015,77
+1112,Eastern & Southern Africa,MCV2,2015,26
+1113,Eastern & Southern Africa,PCV3,2015,71
+1114,Eastern & Southern Africa,POL3,2015,81
+1115,Eastern & Southern Africa,RCV1,2015,13
+1116,Eastern & Southern Africa,ROTAC,2015,60
+1117,Eastern & Southern Africa,YFV,2015,5
+1118,Eastern & Southern Africa,BCG,2016,83
+1119,Eastern & Southern Africa,DTP1,2016,87
+1120,Eastern & Southern Africa,DTP3,2016,80
+1121,Eastern & Southern Africa,HEPB3,2016,80
+1122,Eastern & Southern Africa,HEPBB,2016,0
+1123,Eastern & Southern Africa,HIB3,2016,80
+1124,Eastern & Southern Africa,IPV1,2016,30
+1125,Eastern & Southern Africa,MCV1,2016,75
+1126,Eastern & Southern Africa,MCV2,2016,34
+1127,Eastern & Southern Africa,PCV3,2016,73
+1128,Eastern & Southern Africa,POL3,2016,80
+1129,Eastern & Southern Africa,RCV1,2016,14
+1130,Eastern & Southern Africa,ROTAC,2016,64
+1131,Eastern & Southern Africa,YFV,2016,3
+1132,Eastern & Southern Africa,BCG,2017,82
+1133,Eastern & Southern Africa,DTP1,2017,86
+1134,Eastern & Southern Africa,DTP3,2017,80
+1135,Eastern & Southern Africa,HEPB3,2017,79
+1136,Eastern & Southern Africa,HEPBB,2017,0
+1137,Eastern & Southern Africa,HIB3,2017,79
+1138,Eastern & Southern Africa,IPV1,2017,36
+1139,Eastern & Southern Africa,MCV1,2017,75
+1140,Eastern & Southern Africa,MCV2,2017,35
+1141,Eastern & Southern Africa,PCV3,2017,74
+1142,Eastern & Southern Africa,POL3,2017,79
+1143,Eastern & Southern Africa,RCV1,2017,31
+1144,Eastern & Southern Africa,ROTAC,2017,65
+1145,Eastern & Southern Africa,YFV,2017,4
+1146,Eastern & Southern Africa,BCG,2018,81
+1147,Eastern & Southern Africa,DTP1,2018,87
+1148,Eastern & Southern Africa,DTP3,2018,80
+1149,Eastern & Southern Africa,HEPB3,2018,80
+1150,Eastern & Southern Africa,HEPBB,2018,0
+1151,Eastern & Southern Africa,HIB3,2018,80
+1152,Eastern & Southern Africa,IPV1,2018,60
+1153,Eastern & Southern Africa,MCV1,2018,75
+1154,Eastern & Southern Africa,MCV2,2018,38
+1155,Eastern & Southern Africa,PCV3,2018,75
+1156,Eastern & Southern Africa,POL3,2018,80
+1157,Eastern & Southern Africa,RCV1,2018,40
+1158,Eastern & Southern Africa,ROTAC,2018,70
+1159,Eastern & Southern Africa,YFV,2018,6
+1160,Eastern & Southern Africa,BCG,2019,82
+1161,Eastern & Southern Africa,DTP1,2019,87
+1162,Eastern & Southern Africa,DTP3,2019,81
+1163,Eastern & Southern Africa,HEPB3,2019,80
+1164,Eastern & Southern Africa,HEPBB,2019,4
+1165,Eastern & Southern Africa,HIB3,2019,80
+1166,Eastern & Southern Africa,IPV1,2019,77
+1167,Eastern & Southern Africa,MCV1,2019,76
+1168,Eastern & Southern Africa,MCV2,2019,49
+1169,Eastern & Southern Africa,PCV3,2019,75
+1170,Eastern & Southern Africa,POL3,2019,81
+1171,Eastern & Southern Africa,RCV1,2019,40
+1172,Eastern & Southern Africa,ROTAC,2019,77
+1173,Eastern & Southern Africa,YFV,2019,6
+1174,Eastern Europe & Central Asia,BCG,1980,9
+1175,Eastern Europe & Central Asia,DTP1,1980,57
+1176,Eastern Europe & Central Asia,DTP3,1980,39
+1177,Eastern Europe & Central Asia,MCV1,1980,29
+1178,Eastern Europe & Central Asia,POL3,1980,54
+1179,Eastern Europe & Central Asia,RCV1,1980,0
+1180,Eastern Europe & Central Asia,BCG,1981,40
+1181,Eastern Europe & Central Asia,DTP1,1981,69
+1182,Eastern Europe & Central Asia,DTP3,1981,55
+1183,Eastern Europe & Central Asia,MCV1,1981,46
+1184,Eastern Europe & Central Asia,POL3,1981,59
+1185,Eastern Europe & Central Asia,RCV1,1981,0
+1186,Eastern Europe & Central Asia,BCG,1982,43
+1187,Eastern Europe & Central Asia,DTP1,1982,67
+1188,Eastern Europe & Central Asia,DTP3,1982,51
+1189,Eastern Europe & Central Asia,MCV1,1982,55
+1190,Eastern Europe & Central Asia,POL3,1982,53
+1191,Eastern Europe & Central Asia,RCV1,1982,0
+1192,Eastern Europe & Central Asia,BCG,1983,56
+1193,Eastern Europe & Central Asia,DTP1,1983,66
+1194,Eastern Europe & Central Asia,DTP3,1983,50
+1195,Eastern Europe & Central Asia,MCV1,1983,70
+1196,Eastern Europe & Central Asia,POL3,1983,52
+1197,Eastern Europe & Central Asia,RCV1,1983,0
+1198,Eastern Europe & Central Asia,BCG,1984,61
+1199,Eastern Europe & Central Asia,DTP1,1984,66
+1200,Eastern Europe & Central Asia,DTP3,1984,50
+1201,Eastern Europe & Central Asia,MCV1,1984,70
+1202,Eastern Europe & Central Asia,POL3,1984,50
+1203,Eastern Europe & Central Asia,RCV1,1984,0
+1204,Eastern Europe & Central Asia,BCG,1985,64
+1205,Eastern Europe & Central Asia,DTP1,1985,84
+1206,Eastern Europe & Central Asia,DTP3,1985,67
+1207,Eastern Europe & Central Asia,HEPB3,1985,0
+1208,Eastern Europe & Central Asia,MCV1,1985,70
+1209,Eastern Europe & Central Asia,POL3,1985,66
+1210,Eastern Europe & Central Asia,RCV1,1985,0
+1211,Eastern Europe & Central Asia,BCG,1986,85
+1212,Eastern Europe & Central Asia,DTP1,1986,78
+1213,Eastern Europe & Central Asia,DTP3,1986,59
+1214,Eastern Europe & Central Asia,HEPB3,1986,0
+1215,Eastern Europe & Central Asia,MCV1,1986,71
+1216,Eastern Europe & Central Asia,POL3,1986,59
+1217,Eastern Europe & Central Asia,RCV1,1986,0
+1218,Eastern Europe & Central Asia,BCG,1987,89
+1219,Eastern Europe & Central Asia,DTP1,1987,96
+1220,Eastern Europe & Central Asia,DTP3,1987,88
+1221,Eastern Europe & Central Asia,HEPB3,1987,0
+1222,Eastern Europe & Central Asia,MCV1,1987,75
+1223,Eastern Europe & Central Asia,POL3,1987,88
+1224,Eastern Europe & Central Asia,RCV1,1987,0
+1225,Eastern Europe & Central Asia,BCG,1988,96
+1226,Eastern Europe & Central Asia,DTP1,1988,96
+1227,Eastern Europe & Central Asia,DTP3,1988,89
+1228,Eastern Europe & Central Asia,HEPB3,1988,0
+1229,Eastern Europe & Central Asia,MCV1,1988,83
+1230,Eastern Europe & Central Asia,POL3,1988,88
+1231,Eastern Europe & Central Asia,RCV1,1988,0
+1232,Eastern Europe & Central Asia,BCG,1989,94
+1233,Eastern Europe & Central Asia,DTP1,1989,94
+1234,Eastern Europe & Central Asia,DTP3,1989,84
+1235,Eastern Europe & Central Asia,HEPB3,1989,0
+1236,Eastern Europe & Central Asia,MCV1,1989,77
+1237,Eastern Europe & Central Asia,POL3,1989,84
+1238,Eastern Europe & Central Asia,RCV1,1989,0
+1239,Eastern Europe & Central Asia,BCG,1990,93
+1240,Eastern Europe & Central Asia,DTP1,1990,95
+1241,Eastern Europe & Central Asia,DTP3,1990,87
+1242,Eastern Europe & Central Asia,HEPB3,1990,0
+1243,Eastern Europe & Central Asia,HIB3,1990,0
+1244,Eastern Europe & Central Asia,MCV1,1990,82
+1245,Eastern Europe & Central Asia,POL3,1990,86
+1246,Eastern Europe & Central Asia,RCV1,1990,0
+1247,Eastern Europe & Central Asia,BCG,1991,92
+1248,Eastern Europe & Central Asia,DTP1,1991,91
+1249,Eastern Europe & Central Asia,DTP3,1991,78
+1250,Eastern Europe & Central Asia,HEPB3,1991,0
+1251,Eastern Europe & Central Asia,HIB3,1991,0
+1252,Eastern Europe & Central Asia,MCV1,1991,78
+1253,Eastern Europe & Central Asia,POL3,1991,76
+1254,Eastern Europe & Central Asia,RCV1,1991,0
+1255,Eastern Europe & Central Asia,BCG,1992,89
+1256,Eastern Europe & Central Asia,DTP1,1992,91
+1257,Eastern Europe & Central Asia,DTP3,1992,80
+1258,Eastern Europe & Central Asia,HEPB3,1992,1
+1259,Eastern Europe & Central Asia,HIB3,1992,0
+1260,Eastern Europe & Central Asia,MCV1,1992,81
+1261,Eastern Europe & Central Asia,POL3,1992,79
+1262,Eastern Europe & Central Asia,RCV1,1992,1
+1263,Eastern Europe & Central Asia,BCG,1993,89
+1264,Eastern Europe & Central Asia,DTP1,1993,90
+1265,Eastern Europe & Central Asia,DTP3,1993,75
+1266,Eastern Europe & Central Asia,HEPB3,1993,1
+1267,Eastern Europe & Central Asia,HIB3,1993,0
+1268,Eastern Europe & Central Asia,MCV1,1993,83
+1269,Eastern Europe & Central Asia,POL3,1993,77
+1270,Eastern Europe & Central Asia,RCV1,1993,3
+1271,Eastern Europe & Central Asia,BCG,1994,91
+1272,Eastern Europe & Central Asia,DTP1,1994,94
+1273,Eastern Europe & Central Asia,DTP3,1994,85
+1274,Eastern Europe & Central Asia,HEPB3,1994,2
+1275,Eastern Europe & Central Asia,HIB3,1994,0
+1276,Eastern Europe & Central Asia,MCV1,1994,81
+1277,Eastern Europe & Central Asia,POL3,1994,82
+1278,Eastern Europe & Central Asia,RCV1,1994,5
+1279,Eastern Europe & Central Asia,BCG,1995,92
+1280,Eastern Europe & Central Asia,DTP1,1995,92
+1281,Eastern Europe & Central Asia,DTP3,1995,82
+1282,Eastern Europe & Central Asia,HEPB3,1995,3
+1283,Eastern Europe & Central Asia,HIB3,1995,0
+1284,Eastern Europe & Central Asia,MCV1,1995,82
+1285,Eastern Europe & Central Asia,POL3,1995,82
+1286,Eastern Europe & Central Asia,RCV1,1995,5
+1287,Eastern Europe & Central Asia,BCG,1996,93
+1288,Eastern Europe & Central Asia,DTP1,1996,94
+1289,Eastern Europe & Central Asia,DTP3,1996,85
+1290,Eastern Europe & Central Asia,HEPB3,1996,7
+1291,Eastern Europe & Central Asia,HIB3,1996,0
+1292,Eastern Europe & Central Asia,MCV1,1996,85
+1293,Eastern Europe & Central Asia,POL3,1996,87
+1294,Eastern Europe & Central Asia,RCV1,1996,7
+1295,Eastern Europe & Central Asia,BCG,1997,93
+1296,Eastern Europe & Central Asia,DTP1,1997,95
+1297,Eastern Europe & Central Asia,DTP3,1997,89
+1298,Eastern Europe & Central Asia,HEPB3,1997,7
+1299,Eastern Europe & Central Asia,HIB3,1997,0
+1300,Eastern Europe & Central Asia,MCV1,1997,89
+1301,Eastern Europe & Central Asia,POL3,1997,90
+1302,Eastern Europe & Central Asia,RCV1,1997,7
+1303,Eastern Europe & Central Asia,BCG,1998,94
+1304,Eastern Europe & Central Asia,DTP1,1998,95
+1305,Eastern Europe & Central Asia,DTP3,1998,90
+1306,Eastern Europe & Central Asia,HEPB3,1998,10
+1307,Eastern Europe & Central Asia,HIB3,1998,0
+1308,Eastern Europe & Central Asia,MCV1,1998,90
+1309,Eastern Europe & Central Asia,POL3,1998,91
+1310,Eastern Europe & Central Asia,RCV1,1998,7
+1311,Eastern Europe & Central Asia,BCG,1999,95
+1312,Eastern Europe & Central Asia,DTP1,1999,95
+1313,Eastern Europe & Central Asia,DTP3,1999,91
+1314,Eastern Europe & Central Asia,HEPB3,1999,11
+1315,Eastern Europe & Central Asia,HIB3,1999,0
+1316,Eastern Europe & Central Asia,MCV1,1999,91
+1317,Eastern Europe & Central Asia,POL3,1999,91
+1318,Eastern Europe & Central Asia,RCV1,1999,7
+1319,Eastern Europe & Central Asia,BCG,2000,96
+1320,Eastern Europe & Central Asia,DTP1,2000,95
+1321,Eastern Europe & Central Asia,DTP3,2000,93
+1322,Eastern Europe & Central Asia,HEPB3,2000,33
+1323,Eastern Europe & Central Asia,HEPBB,2000,13
+1324,Eastern Europe & Central Asia,HIB3,2000,0
+1325,Eastern Europe & Central Asia,MCV1,2000,93
+1326,Eastern Europe & Central Asia,MCV2,2000,63
+1327,Eastern Europe & Central Asia,POL3,2000,93
+1328,Eastern Europe & Central Asia,RCV1,2000,32
+1329,Eastern Europe & Central Asia,BCG,2001,96
+1330,Eastern Europe & Central Asia,DTP1,2001,96
+1331,Eastern Europe & Central Asia,DTP3,2001,93
+1332,Eastern Europe & Central Asia,HEPB3,2001,47
+1333,Eastern Europe & Central Asia,HEPBB,2001,17
+1334,Eastern Europe & Central Asia,HIB3,2001,0
+1335,Eastern Europe & Central Asia,MCV1,2001,94
+1336,Eastern Europe & Central Asia,MCV2,2001,89
+1337,Eastern Europe & Central Asia,POL3,2001,94
+1338,Eastern Europe & Central Asia,RCV1,2001,43
+1339,Eastern Europe & Central Asia,BCG,2002,95
+1340,Eastern Europe & Central Asia,DTP1,2002,93
+1341,Eastern Europe & Central Asia,DTP3,2002,91
+1342,Eastern Europe & Central Asia,HEPB3,2002,71
+1343,Eastern Europe & Central Asia,HEPBB,2002,38
+1344,Eastern Europe & Central Asia,HIB3,2002,1
+1345,Eastern Europe & Central Asia,MCV1,2002,92
+1346,Eastern Europe & Central Asia,MCV2,2002,90
+1347,Eastern Europe & Central Asia,POL3,2002,91
+1348,Eastern Europe & Central Asia,RCV1,2002,49
+1349,Eastern Europe & Central Asia,BCG,2003,95
+1350,Eastern Europe & Central Asia,DTP1,2003,91
+1351,Eastern Europe & Central Asia,DTP3,2003,87
+1352,Eastern Europe & Central Asia,HEPB3,2003,80
+1353,Eastern Europe & Central Asia,HEPBB,2003,59
+1354,Eastern Europe & Central Asia,HIB3,2003,1
+1355,Eastern Europe & Central Asia,MCV1,2003,91
+1356,Eastern Europe & Central Asia,MCV2,2003,95
+1357,Eastern Europe & Central Asia,POL3,2003,88
+1358,Eastern Europe & Central Asia,RCV1,2003,51
+1359,Eastern Europe & Central Asia,BCG,2004,92
+1360,Eastern Europe & Central Asia,DTP1,2004,93
+1361,Eastern Europe & Central Asia,DTP3,2004,92
+1362,Eastern Europe & Central Asia,HEPB3,2004,88
+1363,Eastern Europe & Central Asia,HEPBB,2004,65
+1364,Eastern Europe & Central Asia,HIB3,2004,1
+1365,Eastern Europe & Central Asia,MCV1,2004,92
+1366,Eastern Europe & Central Asia,MCV2,2004,96
+1367,Eastern Europe & Central Asia,POL3,2004,93
+1368,Eastern Europe & Central Asia,RCV1,2004,57
+1369,Eastern Europe & Central Asia,BCG,2005,93
+1370,Eastern Europe & Central Asia,DTP1,2005,96
+1371,Eastern Europe & Central Asia,DTP3,2005,95
+1372,Eastern Europe & Central Asia,HEPB3,2005,91
+1373,Eastern Europe & Central Asia,HEPBB,2005,68
+1374,Eastern Europe & Central Asia,HIB3,2005,1
+1375,Eastern Europe & Central Asia,MCV1,2005,95
+1376,Eastern Europe & Central Asia,MCV2,2005,94
+1377,Eastern Europe & Central Asia,POL3,2005,95
+1378,Eastern Europe & Central Asia,RCV1,2005,58
+1379,Eastern Europe & Central Asia,BCG,2006,95
+1380,Eastern Europe & Central Asia,DTP1,2006,96
+1381,Eastern Europe & Central Asia,DTP3,2006,94
+1382,Eastern Europe & Central Asia,HEPB3,2006,91
+1383,Eastern Europe & Central Asia,HEPBB,2006,67
+1384,Eastern Europe & Central Asia,HIB3,2006,3
+1385,Eastern Europe & Central Asia,MCV1,2006,96
+1386,Eastern Europe & Central Asia,MCV2,2006,89
+1387,Eastern Europe & Central Asia,POL3,2006,94
+1388,Eastern Europe & Central Asia,RCV1,2006,92
+1389,Eastern Europe & Central Asia,ROTAC,2006,0
+1390,Eastern Europe & Central Asia,BCG,2007,96
+1391,Eastern Europe & Central Asia,DTP1,2007,98
+1392,Eastern Europe & Central Asia,DTP3,2007,96
+1393,Eastern Europe & Central Asia,HEPB3,2007,95
+1394,Eastern Europe & Central Asia,HEPBB,2007,66
+1395,Eastern Europe & Central Asia,HIB3,2007,24
+1396,Eastern Europe & Central Asia,MCV1,2007,97
+1397,Eastern Europe & Central Asia,MCV2,2007,90
+1398,Eastern Europe & Central Asia,POL3,2007,96
+1399,Eastern Europe & Central Asia,RCV1,2007,93
+1400,Eastern Europe & Central Asia,ROTAC,2007,0
+1401,Eastern Europe & Central Asia,BCG,2008,96
+1402,Eastern Europe & Central Asia,DTP1,2008,97
+1403,Eastern Europe & Central Asia,DTP3,2008,96
+1404,Eastern Europe & Central Asia,HEPB3,2008,93
+1405,Eastern Europe & Central Asia,HEPBB,2008,66
+1406,Eastern Europe & Central Asia,HIB3,2008,36
+1407,Eastern Europe & Central Asia,MCV1,2008,97
+1408,Eastern Europe & Central Asia,MCV2,2008,87
+1409,Eastern Europe & Central Asia,PCV3,2008,0
+1410,Eastern Europe & Central Asia,POL3,2008,96
+1411,Eastern Europe & Central Asia,RCV1,2008,93
+1412,Eastern Europe & Central Asia,ROTAC,2008,0
+1413,Eastern Europe & Central Asia,BCG,2009,96
+1414,Eastern Europe & Central Asia,DTP1,2009,95
+1415,Eastern Europe & Central Asia,DTP3,2009,94
+1416,Eastern Europe & Central Asia,HEPB3,2009,93
+1417,Eastern Europe & Central Asia,HEPBB,2009,65
+1418,Eastern Europe & Central Asia,HIB3,2009,51
+1419,Eastern Europe & Central Asia,MCV1,2009,95
+1420,Eastern Europe & Central Asia,MCV2,2009,83
+1421,Eastern Europe & Central Asia,PCV3,2009,21
+1422,Eastern Europe & Central Asia,POL3,2009,95
+1423,Eastern Europe & Central Asia,RCV1,2009,95
+1424,Eastern Europe & Central Asia,ROTAC,2009,0
+1425,Eastern Europe & Central Asia,BCG,2010,97
+1426,Eastern Europe & Central Asia,DTP1,2010,94
+1427,Eastern Europe & Central Asia,DTP3,2010,93
+1428,Eastern Europe & Central Asia,HEPB3,2010,92
+1429,Eastern Europe & Central Asia,HEPBB,2010,59
+1430,Eastern Europe & Central Asia,HIB3,2010,55
+1431,Eastern Europe & Central Asia,MCV1,2010,94
+1432,Eastern Europe & Central Asia,MCV2,2010,87
+1433,Eastern Europe & Central Asia,PCV3,2010,21
+1434,Eastern Europe & Central Asia,POL3,2010,93
+1435,Eastern Europe & Central Asia,RCV1,2010,94
+1436,Eastern Europe & Central Asia,ROTAC,2010,0
+1437,Eastern Europe & Central Asia,BCG,2011,96
+1438,Eastern Europe & Central Asia,DTP1,2011,94
+1439,Eastern Europe & Central Asia,DTP3,2011,93
+1440,Eastern Europe & Central Asia,HEPB3,2011,90
+1441,Eastern Europe & Central Asia,HEPBB,2011,64
+1442,Eastern Europe & Central Asia,HIB3,2011,58
+1443,Eastern Europe & Central Asia,MCV1,2011,95
+1444,Eastern Europe & Central Asia,MCV2,2011,91
+1445,Eastern Europe & Central Asia,PCV3,2011,22
+1446,Eastern Europe & Central Asia,POL3,2011,93
+1447,Eastern Europe & Central Asia,RCV1,2011,95
+1448,Eastern Europe & Central Asia,ROTAC,2011,0
+1449,Eastern Europe & Central Asia,BCG,2012,97
+1450,Eastern Europe & Central Asia,DTP1,2012,95
+1451,Eastern Europe & Central Asia,DTP3,2012,95
+1452,Eastern Europe & Central Asia,HEPB3,2012,92
+1453,Eastern Europe & Central Asia,HEPBB,2012,64
+1454,Eastern Europe & Central Asia,HIB3,2012,65
+1455,Eastern Europe & Central Asia,MCV1,2012,95
+1456,Eastern Europe & Central Asia,MCV2,2012,90
+1457,Eastern Europe & Central Asia,PCV3,2012,24
+1458,Eastern Europe & Central Asia,POL3,2012,95
+1459,Eastern Europe & Central Asia,RCV1,2012,95
+1460,Eastern Europe & Central Asia,ROTAC,2012,0
+1461,Eastern Europe & Central Asia,BCG,2013,97
+1462,Eastern Europe & Central Asia,DTP1,2013,96
+1463,Eastern Europe & Central Asia,DTP3,2013,95
+1464,Eastern Europe & Central Asia,HEPB3,2013,93
+1465,Eastern Europe & Central Asia,HEPBB,2013,64
+1466,Eastern Europe & Central Asia,HIB3,2013,65
+1467,Eastern Europe & Central Asia,MCV1,2013,96
+1468,Eastern Europe & Central Asia,MCV2,2013,93
+1469,Eastern Europe & Central Asia,PCV3,2013,25
+1470,Eastern Europe & Central Asia,POL3,2013,95
+1471,Eastern Europe & Central Asia,RCV1,2013,96
+1472,Eastern Europe & Central Asia,ROTAC,2013,1
+1473,Eastern Europe & Central Asia,BCG,2014,92
+1474,Eastern Europe & Central Asia,DTP1,2014,94
+1475,Eastern Europe & Central Asia,DTP3,2014,91
+1476,Eastern Europe & Central Asia,HEPB3,2014,91
+1477,Eastern Europe & Central Asia,HEPBB,2014,64
+1478,Eastern Europe & Central Asia,HIB3,2014,61
+1479,Eastern Europe & Central Asia,MCV1,2014,93
+1480,Eastern Europe & Central Asia,MCV2,2014,91
+1481,Eastern Europe & Central Asia,PCV3,2014,27
+1482,Eastern Europe & Central Asia,POL3,2014,92
+1483,Eastern Europe & Central Asia,RCV1,2014,93
+1484,Eastern Europe & Central Asia,ROTAC,2014,7
+1485,Eastern Europe & Central Asia,BCG,2015,92
+1486,Eastern Europe & Central Asia,DTP1,2015,95
+1487,Eastern Europe & Central Asia,DTP3,2015,91
+1488,Eastern Europe & Central Asia,HEPB3,2015,91
+1489,Eastern Europe & Central Asia,HEPBB,2015,64
+1490,Eastern Europe & Central Asia,HIB3,2015,61
+1491,Eastern Europe & Central Asia,IPV1,2015,68
+1492,Eastern Europe & Central Asia,MCV1,2015,94
+1493,Eastern Europe & Central Asia,MCV2,2015,90
+1494,Eastern Europe & Central Asia,PCV3,2015,30
+1495,Eastern Europe & Central Asia,POL3,2015,93
+1496,Eastern Europe & Central Asia,RCV1,2015,94
+1497,Eastern Europe & Central Asia,ROTAC,2015,16
+1498,Eastern Europe & Central Asia,BCG,2016,95
+1499,Eastern Europe & Central Asia,DTP1,2016,93
+1500,Eastern Europe & Central Asia,DTP3,2016,90
+1501,Eastern Europe & Central Asia,HEPB3,2016,91
+1502,Eastern Europe & Central Asia,HEPBB,2016,62
+1503,Eastern Europe & Central Asia,HIB3,2016,61
+1504,Eastern Europe & Central Asia,IPV1,2016,72
+1505,Eastern Europe & Central Asia,MCV1,2016,93
+1506,Eastern Europe & Central Asia,MCV2,2016,88
+1507,Eastern Europe & Central Asia,PCV3,2016,55
+1508,Eastern Europe & Central Asia,POL3,2016,93
+1509,Eastern Europe & Central Asia,RCV1,2016,93
+1510,Eastern Europe & Central Asia,ROTAC,2016,17
+1511,Eastern Europe & Central Asia,BCG,2017,95
+1512,Eastern Europe & Central Asia,DTP1,2017,95
+1513,Eastern Europe & Central Asia,DTP3,2017,93
+1514,Eastern Europe & Central Asia,HEPB3,2017,93
+1515,Eastern Europe & Central Asia,HEPBB,2017,62
+1516,Eastern Europe & Central Asia,HIB3,2017,61
+1517,Eastern Europe & Central Asia,IPV1,2017,70
+1518,Eastern Europe & Central Asia,MCV1,2017,96
+1519,Eastern Europe & Central Asia,MCV2,2017,93
+1520,Eastern Europe & Central Asia,PCV3,2017,67
+1521,Eastern Europe & Central Asia,POL3,2017,93
+1522,Eastern Europe & Central Asia,RCV1,2017,96
+1523,Eastern Europe & Central Asia,ROTAC,2017,17
+1524,Eastern Europe & Central Asia,BCG,2018,96
+1525,Eastern Europe & Central Asia,DTP1,2018,97
+1526,Eastern Europe & Central Asia,DTP3,2018,95
+1527,Eastern Europe & Central Asia,HEPB3,2018,95
+1528,Eastern Europe & Central Asia,HEPBB,2018,63
+1529,Eastern Europe & Central Asia,HIB3,2018,64
+1530,Eastern Europe & Central Asia,IPV1,2018,88
+1531,Eastern Europe & Central Asia,MCV1,2018,96
+1532,Eastern Europe & Central Asia,MCV2,2018,94
+1533,Eastern Europe & Central Asia,PCV3,2018,72
+1534,Eastern Europe & Central Asia,POL3,2018,95
+1535,Eastern Europe & Central Asia,RCV1,2018,96
+1536,Eastern Europe & Central Asia,ROTAC,2018,16
+1537,Eastern Europe & Central Asia,BCG,2019,95
+1538,Eastern Europe & Central Asia,DTP1,2019,97
+1539,Eastern Europe & Central Asia,DTP3,2019,96
+1540,Eastern Europe & Central Asia,HEPB3,2019,95
+1541,Eastern Europe & Central Asia,HEPBB,2019,65
+1542,Eastern Europe & Central Asia,HIB3,2019,66
+1543,Eastern Europe & Central Asia,IPV1,2019,95
+1544,Eastern Europe & Central Asia,MCV1,2019,97
+1545,Eastern Europe & Central Asia,MCV2,2019,94
+1546,Eastern Europe & Central Asia,PCV3,2019,76
+1547,Eastern Europe & Central Asia,POL3,2019,95
+1548,Eastern Europe & Central Asia,RCV1,2019,97
+1549,Eastern Europe & Central Asia,ROTAC,2019,12
+1550,Latin America & Caribbean,BCG,1980,53
+1551,Latin America & Caribbean,DTP1,1980,61
+1552,Latin America & Caribbean,DTP3,1980,37
+1553,Latin America & Caribbean,MCV1,1980,42
+1554,Latin America & Caribbean,POL3,1980,60
+1555,Latin America & Caribbean,RCV1,1980,0
+1556,Latin America & Caribbean,BCG,1981,58
+1557,Latin America & Caribbean,DTP1,1981,66
+1558,Latin America & Caribbean,DTP3,1981,42
+1559,Latin America & Caribbean,MCV1,1981,48
+1560,Latin America & Caribbean,POL3,1981,52
+1561,Latin America & Caribbean,RCV1,1981,0
+1562,Latin America & Caribbean,BCG,1982,62
+1563,Latin America & Caribbean,DTP1,1982,69
+1564,Latin America & Caribbean,DTP3,1982,47
+1565,Latin America & Caribbean,MCV1,1982,48
+1566,Latin America & Caribbean,POL3,1982,58
+1567,Latin America & Caribbean,RCV1,1982,0
+1568,Latin America & Caribbean,BCG,1983,64
+1569,Latin America & Caribbean,DTP1,1983,72
+1570,Latin America & Caribbean,DTP3,1983,49
+1571,Latin America & Caribbean,MCV1,1983,47
+1572,Latin America & Caribbean,POL3,1983,60
+1573,Latin America & Caribbean,RCV1,1983,0
+1574,Latin America & Caribbean,BCG,1984,67
+1575,Latin America & Caribbean,DTP1,1984,77
+1576,Latin America & Caribbean,DTP3,1984,56
+1577,Latin America & Caribbean,MCV1,1984,52
+1578,Latin America & Caribbean,POL3,1984,67
+1579,Latin America & Caribbean,RCV1,1984,0
+1580,Latin America & Caribbean,BCG,1985,58
+1581,Latin America & Caribbean,DTP1,1985,77
+1582,Latin America & Caribbean,DTP3,1985,55
+1583,Latin America & Caribbean,HEPB3,1985,0
+1584,Latin America & Caribbean,MCV1,1985,60
+1585,Latin America & Caribbean,POL3,1985,59
+1586,Latin America & Caribbean,RCV1,1985,0
+1587,Latin America & Caribbean,BCG,1986,67
+1588,Latin America & Caribbean,DTP1,1986,78
+1589,Latin America & Caribbean,DTP3,1986,56
+1590,Latin America & Caribbean,HEPB3,1986,0
+1591,Latin America & Caribbean,MCV1,1986,61
+1592,Latin America & Caribbean,POL3,1986,65
+1593,Latin America & Caribbean,RCV1,1986,2
+1594,Latin America & Caribbean,BCG,1987,71
+1595,Latin America & Caribbean,DTP1,1987,80
+1596,Latin America & Caribbean,DTP3,1987,59
+1597,Latin America & Caribbean,HEPB3,1987,0
+1598,Latin America & Caribbean,MCV1,1987,60
+1599,Latin America & Caribbean,POL3,1987,68
+1600,Latin America & Caribbean,RCV1,1987,3
+1601,Latin America & Caribbean,BCG,1988,76
+1602,Latin America & Caribbean,DTP1,1988,82
+1603,Latin America & Caribbean,DTP3,1988,62
+1604,Latin America & Caribbean,HEPB3,1988,0
+1605,Latin America & Caribbean,MCV1,1988,66
+1606,Latin America & Caribbean,POL3,1988,74
+1607,Latin America & Caribbean,RCV1,1988,3
+1608,Latin America & Caribbean,BCG,1989,78
+1609,Latin America & Caribbean,DTP1,1989,84
+1610,Latin America & Caribbean,DTP3,1989,64
+1611,Latin America & Caribbean,HEPB3,1989,0
+1612,Latin America & Caribbean,MCV1,1989,70
+1613,Latin America & Caribbean,POL3,1989,73
+1614,Latin America & Caribbean,RCV1,1989,3
+1615,Latin America & Caribbean,BCG,1990,79
+1616,Latin America & Caribbean,DTP1,1990,86
+1617,Latin America & Caribbean,DTP3,1990,68
+1618,Latin America & Caribbean,HEPB3,1990,0
+1619,Latin America & Caribbean,HIB3,1990,0
+1620,Latin America & Caribbean,MCV1,1990,76
+1621,Latin America & Caribbean,POL3,1990,70
+1622,Latin America & Caribbean,RCV1,1990,5
+1623,Latin America & Caribbean,BCG,1991,86
+1624,Latin America & Caribbean,DTP1,1991,91
+1625,Latin America & Caribbean,DTP3,1991,78
+1626,Latin America & Caribbean,HEPB3,1991,0
+1627,Latin America & Caribbean,HIB3,1991,0
+1628,Latin America & Caribbean,MCV1,1991,80
+1629,Latin America & Caribbean,POL3,1991,76
+1630,Latin America & Caribbean,RCV1,1991,6
+1631,Latin America & Caribbean,BCG,1992,89
+1632,Latin America & Caribbean,DTP1,1992,91
+1633,Latin America & Caribbean,DTP3,1992,77
+1634,Latin America & Caribbean,HEPB3,1992,0
+1635,Latin America & Caribbean,HIB3,1992,0
+1636,Latin America & Caribbean,MCV1,1992,83
+1637,Latin America & Caribbean,POL3,1992,77
+1638,Latin America & Caribbean,RCV1,1992,6
+1639,Latin America & Caribbean,BCG,1993,92
+1640,Latin America & Caribbean,DTP1,1993,92
+1641,Latin America & Caribbean,DTP3,1993,79
+1642,Latin America & Caribbean,HEPB3,1993,1
+1643,Latin America & Caribbean,HIB3,1993,0
+1644,Latin America & Caribbean,MCV1,1993,82
+1645,Latin America & Caribbean,POL3,1993,76
+1646,Latin America & Caribbean,RCV1,1993,6
+1647,Latin America & Caribbean,BCG,1994,94
+1648,Latin America & Caribbean,DTP1,1994,80
+1649,Latin America & Caribbean,DTP3,1994,80
+1650,Latin America & Caribbean,HEPB3,1994,3
+1651,Latin America & Caribbean,HIB3,1994,0
+1652,Latin America & Caribbean,MCV1,1994,82
+1653,Latin America & Caribbean,POL3,1994,80
+1654,Latin America & Caribbean,RCV1,1994,6
+1655,Latin America & Caribbean,BCG,1995,96
+1656,Latin America & Caribbean,DTP1,1995,91
+1657,Latin America & Caribbean,DTP3,1995,83
+1658,Latin America & Caribbean,HEPB3,1995,10
+1659,Latin America & Caribbean,HIB3,1995,0
+1660,Latin America & Caribbean,MCV1,1995,86
+1661,Latin America & Caribbean,POL3,1995,84
+1662,Latin America & Caribbean,RCV1,1995,14
+1663,Latin America & Caribbean,BCG,1996,96
+1664,Latin America & Caribbean,DTP1,1996,88
+1665,Latin America & Caribbean,DTP3,1996,82
+1666,Latin America & Caribbean,HEPB3,1996,13
+1667,Latin America & Caribbean,HIB3,1996,2
+1668,Latin America & Caribbean,MCV1,1996,84
+1669,Latin America & Caribbean,POL3,1996,84
+1670,Latin America & Caribbean,RCV1,1996,13
+1671,Latin America & Caribbean,BCG,1997,96
+1672,Latin America & Caribbean,DTP1,1997,95
+1673,Latin America & Caribbean,DTP3,1997,83
+1674,Latin America & Caribbean,HEPB3,1997,10
+1675,Latin America & Caribbean,HIB3,1997,3
+1676,Latin America & Caribbean,MCV1,1997,89
+1677,Latin America & Caribbean,POL3,1997,87
+1678,Latin America & Caribbean,RCV1,1997,23
+1679,Latin America & Caribbean,YFV,1997,0
+1680,Latin America & Caribbean,BCG,1998,95
+1681,Latin America & Caribbean,DTP1,1998,96
+1682,Latin America & Caribbean,DTP3,1998,86
+1683,Latin America & Caribbean,HEPB3,1998,13
+1684,Latin America & Caribbean,HIB3,1998,11
+1685,Latin America & Caribbean,MCV1,1998,91
+1686,Latin America & Caribbean,POL3,1998,88
+1687,Latin America & Caribbean,RCV1,1998,49
+1688,Latin America & Caribbean,YFV,1998,22
+1689,Latin America & Caribbean,BCG,1999,96
+1690,Latin America & Caribbean,DTP1,1999,97
+1691,Latin America & Caribbean,DTP3,1999,89
+1692,Latin America & Caribbean,HEPB3,1999,36
+1693,Latin America & Caribbean,HIB3,1999,17
+1694,Latin America & Caribbean,MCV1,1999,92
+1695,Latin America & Caribbean,POL3,1999,91
+1696,Latin America & Caribbean,RCV1,1999,49
+1697,Latin America & Caribbean,YFV,1999,22
+1698,Latin America & Caribbean,BCG,2000,96
+1699,Latin America & Caribbean,DTP1,2000,96
+1700,Latin America & Caribbean,DTP3,2000,91
+1701,Latin America & Caribbean,HEPB3,2000,65
+1702,Latin America & Caribbean,HEPBB,2000,32
+1703,Latin America & Caribbean,HIB3,2000,69
+1704,Latin America & Caribbean,MCV1,2000,93
+1705,Latin America & Caribbean,MCV2,2000,60
+1706,Latin America & Caribbean,POL3,2000,91
+1707,Latin America & Caribbean,RCV1,2000,82
+1708,Latin America & Caribbean,YFV,2000,24
+1709,Latin America & Caribbean,BCG,2001,95
+1710,Latin America & Caribbean,DTP1,2001,95
+1711,Latin America & Caribbean,DTP3,2001,90
+1712,Latin America & Caribbean,HEPB3,2001,68
+1713,Latin America & Caribbean,HEPBB,2001,34
+1714,Latin America & Caribbean,HIB3,2001,72
+1715,Latin America & Caribbean,MCV1,2001,95
+1716,Latin America & Caribbean,MCV2,2001,61
+1717,Latin America & Caribbean,POL3,2001,92
+1718,Latin America & Caribbean,RCV1,2001,87
+1719,Latin America & Caribbean,YFV,2001,28
+1720,Latin America & Caribbean,BCG,2002,95
+1721,Latin America & Caribbean,DTP1,2002,96
+1722,Latin America & Caribbean,DTP3,2002,91
+1723,Latin America & Caribbean,HEPB3,2002,73
+1724,Latin America & Caribbean,HEPBB,2002,33
+1725,Latin America & Caribbean,HIB3,2002,76
+1726,Latin America & Caribbean,MCV1,2002,93
+1727,Latin America & Caribbean,MCV2,2002,57
+1728,Latin America & Caribbean,POL3,2002,92
+1729,Latin America & Caribbean,RCV1,2002,86
+1730,Latin America & Caribbean,YFV,2002,18
+1731,Latin America & Caribbean,BCG,2003,97
+1732,Latin America & Caribbean,DTP1,2003,96
+1733,Latin America & Caribbean,DTP3,2003,93
+1734,Latin America & Caribbean,HEPB3,2003,82
+1735,Latin America & Caribbean,HEPBB,2003,36
+1736,Latin America & Caribbean,HIB3,2003,82
+1737,Latin America & Caribbean,MCV1,2003,94
+1738,Latin America & Caribbean,MCV2,2003,55
+1739,Latin America & Caribbean,POL3,2003,94
+1740,Latin America & Caribbean,RCV1,2003,91
+1741,Latin America & Caribbean,YFV,2003,32
+1742,Latin America & Caribbean,BCG,2004,97
+1743,Latin America & Caribbean,DTP1,2004,96
+1744,Latin America & Caribbean,DTP3,2004,93
+1745,Latin America & Caribbean,HEPB3,2004,85
+1746,Latin America & Caribbean,HEPBB,2004,42
+1747,Latin America & Caribbean,HIB3,2004,87
+1748,Latin America & Caribbean,MCV1,2004,93
+1749,Latin America & Caribbean,MCV2,2004,57
+1750,Latin America & Caribbean,POL3,2004,92
+1751,Latin America & Caribbean,RCV1,2004,92
+1752,Latin America & Caribbean,YFV,2004,34
+1753,Latin America & Caribbean,BCG,2005,97
+1754,Latin America & Caribbean,DTP1,2005,97
+1755,Latin America & Caribbean,DTP3,2005,94
+1756,Latin America & Caribbean,HEPB3,2005,90
+1757,Latin America & Caribbean,HEPBB,2005,43
+1758,Latin America & Caribbean,HIB3,2005,92
+1759,Latin America & Caribbean,MCV1,2005,93
+1760,Latin America & Caribbean,MCV2,2005,55
+1761,Latin America & Caribbean,POL3,2005,92
+1762,Latin America & Caribbean,RCV1,2005,91
+1763,Latin America & Caribbean,YFV,2005,40
+1764,Latin America & Caribbean,BCG,2006,96
+1765,Latin America & Caribbean,DTP1,2006,96
+1766,Latin America & Caribbean,DTP3,2006,93
+1767,Latin America & Caribbean,HEPB3,2006,91
+1768,Latin America & Caribbean,HEPBB,2006,43
+1769,Latin America & Caribbean,HIB3,2006,91
+1770,Latin America & Caribbean,MCV1,2006,94
+1771,Latin America & Caribbean,MCV2,2006,54
+1772,Latin America & Caribbean,POL3,2006,94
+1773,Latin America & Caribbean,RCV1,2006,93
+1774,Latin America & Caribbean,ROTAC,2006,15
+1775,Latin America & Caribbean,YFV,2006,52
+1776,Latin America & Caribbean,BCG,2007,96
+1777,Latin America & Caribbean,DTP1,2007,95
+1778,Latin America & Caribbean,DTP3,2007,93
+1779,Latin America & Caribbean,HEPB3,2007,90
+1780,Latin America & Caribbean,HEPBB,2007,44
+1781,Latin America & Caribbean,HIB3,2007,91
+1782,Latin America & Caribbean,MCV1,2007,94
+1783,Latin America & Caribbean,MCV2,2007,52
+1784,Latin America & Caribbean,POL3,2007,93
+1785,Latin America & Caribbean,RCV1,2007,92
+1786,Latin America & Caribbean,ROTAC,2007,27
+1787,Latin America & Caribbean,YFV,2007,52
+1788,Latin America & Caribbean,BCG,2008,97
+1789,Latin America & Caribbean,DTP1,2008,97
+1790,Latin America & Caribbean,DTP3,2008,92
+1791,Latin America & Caribbean,HEPB3,2008,90
+1792,Latin America & Caribbean,HEPBB,2008,45
+1793,Latin America & Caribbean,HIB3,2008,90
+1794,Latin America & Caribbean,MCV1,2008,95
+1795,Latin America & Caribbean,MCV2,2008,55
+1796,Latin America & Caribbean,PCV3,2008,3
+1797,Latin America & Caribbean,POL3,2008,94
+1798,Latin America & Caribbean,RCV1,2008,95
+1799,Latin America & Caribbean,ROTAC,2008,42
+1800,Latin America & Caribbean,YFV,2008,51
+1801,Latin America & Caribbean,BCG,2009,97
+1802,Latin America & Caribbean,DTP1,2009,96
+1803,Latin America & Caribbean,DTP3,2009,94
+1804,Latin America & Caribbean,HEPB3,2009,92
+1805,Latin America & Caribbean,HEPBB,2009,44
+1806,Latin America & Caribbean,HIB3,2009,92
+1807,Latin America & Caribbean,MCV1,2009,94
+1808,Latin America & Caribbean,MCV2,2009,60
+1809,Latin America & Caribbean,PCV3,2009,11
+1810,Latin America & Caribbean,POL3,2009,93
+1811,Latin America & Caribbean,RCV1,2009,94
+1812,Latin America & Caribbean,ROTAC,2009,62
+1813,Latin America & Caribbean,YFV,2009,44
+1814,Latin America & Caribbean,BCG,2010,96
+1815,Latin America & Caribbean,DTP1,2010,96
+1816,Latin America & Caribbean,DTP3,2010,93
+1817,Latin America & Caribbean,HEPB3,2010,90
+1818,Latin America & Caribbean,HEPBB,2010,45
+1819,Latin America & Caribbean,HIB3,2010,91
+1820,Latin America & Caribbean,MCV1,2010,93
+1821,Latin America & Caribbean,MCV2,2010,60
+1822,Latin America & Caribbean,PCV3,2010,35
+1823,Latin America & Caribbean,POL3,2010,93
+1824,Latin America & Caribbean,RCV1,2010,93
+1825,Latin America & Caribbean,ROTAC,2010,66
+1826,Latin America & Caribbean,YFV,2010,46
+1827,Latin America & Caribbean,BCG,2011,96
+1828,Latin America & Caribbean,DTP1,2011,96
+1829,Latin America & Caribbean,DTP3,2011,93
+1830,Latin America & Caribbean,HEPB3,2011,91
+1831,Latin America & Caribbean,HEPBB,2011,46
+1832,Latin America & Caribbean,HIB3,2011,91
+1833,Latin America & Caribbean,MCV1,2011,95
+1834,Latin America & Caribbean,MCV2,2011,67
+1835,Latin America & Caribbean,PCV3,2011,60
+1836,Latin America & Caribbean,POL3,2011,93
+1837,Latin America & Caribbean,RCV1,2011,95
+1838,Latin America & Caribbean,ROTAC,2011,73
+1839,Latin America & Caribbean,YFV,2011,49
+1840,Latin America & Caribbean,BCG,2012,97
+1841,Latin America & Caribbean,DTP1,2012,96
+1842,Latin America & Caribbean,DTP3,2012,93
+1843,Latin America & Caribbean,HEPB3,2012,92
+1844,Latin America & Caribbean,HEPBB,2012,46
+1845,Latin America & Caribbean,HIB3,2012,91
+1846,Latin America & Caribbean,MCV1,2012,95
+1847,Latin America & Caribbean,MCV2,2012,66
+1848,Latin America & Caribbean,PCV3,2012,71
+1849,Latin America & Caribbean,POL3,2012,93
+1850,Latin America & Caribbean,RCV1,2012,95
+1851,Latin America & Caribbean,ROTAC,2012,75
+1852,Latin America & Caribbean,YFV,2012,54
+1853,Latin America & Caribbean,BCG,2013,94
+1854,Latin America & Caribbean,DTP1,2013,94
+1855,Latin America & Caribbean,DTP3,2013,90
+1856,Latin America & Caribbean,HEPB3,2013,89
+1857,Latin America & Caribbean,HEPBB,2013,48
+1858,Latin America & Caribbean,HIB3,2013,90
+1859,Latin America & Caribbean,MCV1,2013,92
+1860,Latin America & Caribbean,MCV2,2013,61
+1861,Latin America & Caribbean,PCV3,2013,74
+1862,Latin America & Caribbean,POL3,2013,88
+1863,Latin America & Caribbean,RCV1,2013,92
+1864,Latin America & Caribbean,ROTAC,2013,73
+1865,Latin America & Caribbean,YFV,2013,55
+1866,Latin America & Caribbean,BCG,2014,96
+1867,Latin America & Caribbean,DTP1,2014,95
+1868,Latin America & Caribbean,DTP3,2014,89
+1869,Latin America & Caribbean,HEPB3,2014,89
+1870,Latin America & Caribbean,HEPBB,2014,47
+1871,Latin America & Caribbean,HIB3,2014,89
+1872,Latin America & Caribbean,MCV1,2014,93
+1873,Latin America & Caribbean,MCV2,2014,73
+1874,Latin America & Caribbean,PCV3,2014,79
+1875,Latin America & Caribbean,POL3,2014,89
+1876,Latin America & Caribbean,RCV1,2014,93
+1877,Latin America & Caribbean,ROTAC,2014,74
+1878,Latin America & Caribbean,YFV,2014,56
+1879,Latin America & Caribbean,BCG,2015,96
+1880,Latin America & Caribbean,DTP1,2015,96
+1881,Latin America & Caribbean,DTP3,2015,90
+1882,Latin America & Caribbean,HEPB3,2015,89
+1883,Latin America & Caribbean,HEPBB,2015,49
+1884,Latin America & Caribbean,HIB3,2015,90
+1885,Latin America & Caribbean,IPV1,2015,62
+1886,Latin America & Caribbean,MCV1,2015,93
+1887,Latin America & Caribbean,MCV2,2015,71
+1888,Latin America & Caribbean,PCV3,2015,82
+1889,Latin America & Caribbean,POL3,2015,91
+1890,Latin America & Caribbean,RCV1,2015,93
+1891,Latin America & Caribbean,ROTAC,2015,80
+1892,Latin America & Caribbean,YFV,2015,55
+1893,Latin America & Caribbean,BCG,2016,93
+1894,Latin America & Caribbean,DTP1,2016,95
+1895,Latin America & Caribbean,DTP3,2016,89
+1896,Latin America & Caribbean,HEPB3,2016,89
+1897,Latin America & Caribbean,HEPBB,2016,46
+1898,Latin America & Caribbean,HIB3,2016,89
+1899,Latin America & Caribbean,IPV1,2016,85
+1900,Latin America & Caribbean,MCV1,2016,92
+1901,Latin America & Caribbean,MCV2,2016,74
+1902,Latin America & Caribbean,PCV3,2016,78
+1903,Latin America & Caribbean,POL3,2016,85
+1904,Latin America & Caribbean,RCV1,2016,92
+1905,Latin America & Caribbean,ROTAC,2016,76
+1906,Latin America & Caribbean,YFV,2016,53
+1907,Latin America & Caribbean,BCG,2017,92
+1908,Latin America & Caribbean,DTP1,2017,95
+1909,Latin America & Caribbean,DTP3,2017,86
+1910,Latin America & Caribbean,HEPB3,2017,81
+1911,Latin America & Caribbean,HEPBB,2017,51
+1912,Latin America & Caribbean,HIB3,2017,87
+1913,Latin America & Caribbean,IPV1,2017,92
+1914,Latin America & Caribbean,MCV1,2017,87
+1915,Latin America & Caribbean,MCV2,2017,69
+1916,Latin America & Caribbean,PCV3,2017,78
+1917,Latin America & Caribbean,POL3,2017,82
+1918,Latin America & Caribbean,RCV1,2017,87
+1919,Latin America & Caribbean,ROTAC,2017,69
+1920,Latin America & Caribbean,YFV,2017,59
+1921,Latin America & Caribbean,BCG,2018,92
+1922,Latin America & Caribbean,DTP1,2018,90
+1923,Latin America & Caribbean,DTP3,2018,86
+1924,Latin America & Caribbean,HEPB3,2018,81
+1925,Latin America & Caribbean,HEPBB,2018,53
+1926,Latin America & Caribbean,HIB3,2018,85
+1927,Latin America & Caribbean,IPV1,2018,86
+1928,Latin America & Caribbean,MCV1,2018,91
+1929,Latin America & Caribbean,MCV2,2018,80
+1930,Latin America & Caribbean,PCV3,2018,79
+1931,Latin America & Caribbean,POL3,2018,85
+1932,Latin America & Caribbean,RCV1,2018,91
+1933,Latin America & Caribbean,ROTAC,2018,73
+1934,Latin America & Caribbean,YFV,2018,57
+1935,Latin America & Caribbean,BCG,2019,83
+1936,Latin America & Caribbean,DTP1,2019,87
+1937,Latin America & Caribbean,DTP3,2019,81
+1938,Latin America & Caribbean,HEPB3,2019,77
+1939,Latin America & Caribbean,HEPBB,2019,52
+1940,Latin America & Caribbean,HIB3,2019,82
+1941,Latin America & Caribbean,IPV1,2019,86
+1942,Latin America & Caribbean,MCV1,2019,86
+1943,Latin America & Caribbean,MCV2,2019,67
+1944,Latin America & Caribbean,PCV3,2019,79
+1945,Latin America & Caribbean,POL3,2019,84
+1946,Latin America & Caribbean,RCV1,2019,86
+1947,Latin America & Caribbean,ROTAC,2019,74
+1948,Latin America & Caribbean,YFV,2019,60
+1949,Middle East & North Africa,BCG,1980,26
+1950,Middle East & North Africa,DTP1,1980,45
+1951,Middle East & North Africa,DTP3,1980,27
+1952,Middle East & North Africa,MCV1,1980,23
+1953,Middle East & North Africa,POL3,1980,31
+1954,Middle East & North Africa,RCV1,1980,0
+1955,Middle East & North Africa,BCG,1981,27
+1956,Middle East & North Africa,DTP1,1981,46
+1957,Middle East & North Africa,DTP3,1981,29
+1958,Middle East & North Africa,MCV1,1981,26
+1959,Middle East & North Africa,POL3,1981,38
+1960,Middle East & North Africa,RCV1,1981,0
+1961,Middle East & North Africa,BCG,1982,37
+1962,Middle East & North Africa,DTP1,1982,55
+1963,Middle East & North Africa,DTP3,1982,36
+1964,Middle East & North Africa,MCV1,1982,34
+1965,Middle East & North Africa,POL3,1982,49
+1966,Middle East & North Africa,RCV1,1982,0
+1967,Middle East & North Africa,BCG,1983,40
+1968,Middle East & North Africa,DTP1,1983,57
+1969,Middle East & North Africa,DTP3,1983,37
+1970,Middle East & North Africa,MCV1,1983,33
+1971,Middle East & North Africa,POL3,1983,43
+1972,Middle East & North Africa,RCV1,1983,0
+1973,Middle East & North Africa,BCG,1984,43
+1974,Middle East & North Africa,DTP1,1984,63
+1975,Middle East & North Africa,DTP3,1984,45
+1976,Middle East & North Africa,MCV1,1984,37
+1977,Middle East & North Africa,POL3,1984,50
+1978,Middle East & North Africa,RCV1,1984,0
+1979,Middle East & North Africa,BCG,1985,77
+1980,Middle East & North Africa,DTP1,1985,81
+1981,Middle East & North Africa,DTP3,1985,63
+1982,Middle East & North Africa,HEPB3,1985,0
+1983,Middle East & North Africa,MCV1,1985,61
+1984,Middle East & North Africa,POL3,1985,66
+1985,Middle East & North Africa,RCV1,1985,0
+1986,Middle East & North Africa,BCG,1986,74
+1987,Middle East & North Africa,DTP1,1986,85
+1988,Middle East & North Africa,DTP3,1986,69
+1989,Middle East & North Africa,HEPB3,1986,0
+1990,Middle East & North Africa,MCV1,1986,64
+1991,Middle East & North Africa,POL3,1986,72
+1992,Middle East & North Africa,RCV1,1986,0
+1993,Middle East & North Africa,BCG,1987,74
+1994,Middle East & North Africa,DTP1,1987,86
+1995,Middle East & North Africa,DTP3,1987,71
+1996,Middle East & North Africa,HEPB3,1987,0
+1997,Middle East & North Africa,MCV1,1987,66
+1998,Middle East & North Africa,POL3,1987,71
+1999,Middle East & North Africa,RCV1,1987,1
+2000,Middle East & North Africa,BCG,1988,86
+2001,Middle East & North Africa,DTP1,1988,92
+2002,Middle East & North Africa,DTP3,1988,82
+2003,Middle East & North Africa,HEPB3,1988,0
+2004,Middle East & North Africa,MCV1,1988,78
+2005,Middle East & North Africa,POL3,1988,83
+2006,Middle East & North Africa,RCV1,1988,1
+2007,Middle East & North Africa,BCG,1989,88
+2008,Middle East & North Africa,DTP1,1989,94
+2009,Middle East & North Africa,DTP3,1989,85
+2010,Middle East & North Africa,HEPB3,1989,0
+2011,Middle East & North Africa,MCV1,1989,81
+2012,Middle East & North Africa,POL3,1989,85
+2013,Middle East & North Africa,RCV1,1989,1
+2014,Middle East & North Africa,BCG,1990,94
+2015,Middle East & North Africa,DTP1,1990,95
+2016,Middle East & North Africa,DTP3,1990,88
+2017,Middle East & North Africa,HEPB3,1990,5
+2018,Middle East & North Africa,HIB3,1990,0
+2019,Middle East & North Africa,MCV1,1990,83
+2020,Middle East & North Africa,POL3,1990,88
+2021,Middle East & North Africa,RCV1,1990,1
+2022,Middle East & North Africa,BCG,1991,91
+2023,Middle East & North Africa,DTP1,1991,92
+2024,Middle East & North Africa,DTP3,1991,81
+2025,Middle East & North Africa,HEPB3,1991,7
+2026,Middle East & North Africa,HIB3,1991,0
+2027,Middle East & North Africa,MCV1,1991,83
+2028,Middle East & North Africa,POL3,1991,84
+2029,Middle East & North Africa,RCV1,1991,7
+2030,Middle East & North Africa,BCG,1992,92
+2031,Middle East & North Africa,DTP1,1992,93
+2032,Middle East & North Africa,DTP3,1992,84
+2033,Middle East & North Africa,HEPB3,1992,11
+2034,Middle East & North Africa,HIB3,1992,0
+2035,Middle East & North Africa,MCV1,1992,84
+2036,Middle East & North Africa,POL3,1992,87
+2037,Middle East & North Africa,RCV1,1992,7
+2038,Middle East & North Africa,BCG,1993,91
+2039,Middle East & North Africa,DTP1,1993,93
+2040,Middle East & North Africa,DTP3,1993,85
+2041,Middle East & North Africa,HEPB3,1993,13
+2042,Middle East & North Africa,HIB3,1993,0
+2043,Middle East & North Africa,MCV1,1993,85
+2044,Middle East & North Africa,POL3,1993,87
+2045,Middle East & North Africa,RCV1,1993,7
+2046,Middle East & North Africa,BCG,1994,91
+2047,Middle East & North Africa,DTP1,1994,92
+2048,Middle East & North Africa,DTP3,1994,83
+2049,Middle East & North Africa,HEPB3,1994,43
+2050,Middle East & North Africa,HIB3,1994,1
+2051,Middle East & North Africa,MCV1,1994,84
+2052,Middle East & North Africa,POL3,1994,85
+2053,Middle East & North Africa,RCV1,1994,8
+2054,Middle East & North Africa,BCG,1995,91
+2055,Middle East & North Africa,DTP1,1995,93
+2056,Middle East & North Africa,DTP3,1995,86
+2057,Middle East & North Africa,HEPB3,1995,51
+2058,Middle East & North Africa,HIB3,1995,1
+2059,Middle East & North Africa,MCV1,1995,85
+2060,Middle East & North Africa,POL3,1995,87
+2061,Middle East & North Africa,RCV1,1995,20
+2062,Middle East & North Africa,BCG,1996,91
+2063,Middle East & North Africa,DTP1,1996,94
+2064,Middle East & North Africa,DTP3,1996,88
+2065,Middle East & North Africa,HEPB3,1996,55
+2066,Middle East & North Africa,HIB3,1996,1
+2067,Middle East & North Africa,MCV1,1996,88
+2068,Middle East & North Africa,POL3,1996,88
+2069,Middle East & North Africa,RCV1,1996,21
+2070,Middle East & North Africa,BCG,1997,91
+2071,Middle East & North Africa,DTP1,1997,93
+2072,Middle East & North Africa,DTP3,1997,87
+2073,Middle East & North Africa,HEPB3,1997,62
+2074,Middle East & North Africa,HIB3,1997,2
+2075,Middle East & North Africa,MCV1,1997,87
+2076,Middle East & North Africa,POL3,1997,88
+2077,Middle East & North Africa,RCV1,1997,13
+2078,Middle East & North Africa,BCG,1998,93
+2079,Middle East & North Africa,DTP1,1998,93
+2080,Middle East & North Africa,DTP3,1998,89
+2081,Middle East & North Africa,HEPB3,1998,58
+2082,Middle East & North Africa,HIB3,1998,2
+2083,Middle East & North Africa,MCV1,1998,91
+2084,Middle East & North Africa,POL3,1998,90
+2085,Middle East & North Africa,RCV1,1998,13
+2086,Middle East & North Africa,BCG,1999,94
+2087,Middle East & North Africa,DTP1,1999,95
+2088,Middle East & North Africa,DTP3,1999,90
+2089,Middle East & North Africa,HEPB3,1999,67
+2090,Middle East & North Africa,HIB3,1999,3
+2091,Middle East & North Africa,MCV1,1999,91
+2092,Middle East & North Africa,POL3,1999,91
+2093,Middle East & North Africa,RCV1,1999,40
+2094,Middle East & North Africa,BCG,2000,95
+2095,Middle East & North Africa,DTP1,2000,95
+2096,Middle East & North Africa,DTP3,2000,91
+2097,Middle East & North Africa,HEPB3,2000,73
+2098,Middle East & North Africa,HEPBB,2000,21
+2099,Middle East & North Africa,HIB3,2000,3
+2100,Middle East & North Africa,MCV1,2000,91
+2101,Middle East & North Africa,MCV2,2000,57
+2102,Middle East & North Africa,POL3,2000,92
+2103,Middle East & North Africa,RCV1,2000,44
+2104,Middle East & North Africa,BCG,2001,93
+2105,Middle East & North Africa,DTP1,2001,95
+2106,Middle East & North Africa,DTP3,2001,91
+2107,Middle East & North Africa,HEPB3,2001,77
+2108,Middle East & North Africa,HEPBB,2001,27
+2109,Middle East & North Africa,HIB3,2001,10
+2110,Middle East & North Africa,MCV1,2001,90
+2111,Middle East & North Africa,MCV2,2001,72
+2112,Middle East & North Africa,POL3,2001,91
+2113,Middle East & North Africa,RCV1,2001,50
+2114,Middle East & North Africa,BCG,2002,92
+2115,Middle East & North Africa,DTP1,2002,94
+2116,Middle East & North Africa,DTP3,2002,90
+2117,Middle East & North Africa,HEPB3,2002,78
+2118,Middle East & North Africa,HEPBB,2002,28
+2119,Middle East & North Africa,HIB3,2002,18
+2120,Middle East & North Africa,MCV1,2002,89
+2121,Middle East & North Africa,MCV2,2002,73
+2122,Middle East & North Africa,POL3,2002,90
+2123,Middle East & North Africa,RCV1,2002,49
+2124,Middle East & North Africa,BCG,2003,93
+2125,Middle East & North Africa,DTP1,2003,93
+2126,Middle East & North Africa,DTP3,2003,89
+2127,Middle East & North Africa,HEPB3,2003,79
+2128,Middle East & North Africa,HEPBB,2003,27
+2129,Middle East & North Africa,HIB3,2003,21
+2130,Middle East & North Africa,MCV1,2003,89
+2131,Middle East & North Africa,MCV2,2003,72
+2132,Middle East & North Africa,POL3,2003,89
+2133,Middle East & North Africa,RCV1,2003,49
+2134,Middle East & North Africa,BCG,2004,93
+2135,Middle East & North Africa,DTP1,2004,95
+2136,Middle East & North Africa,DTP3,2004,90
+2137,Middle East & North Africa,HEPB3,2004,85
+2138,Middle East & North Africa,HEPBB,2004,46
+2139,Middle East & North Africa,HIB3,2004,21
+2140,Middle East & North Africa,MCV1,2004,89
+2141,Middle East & North Africa,MCV2,2004,79
+2142,Middle East & North Africa,POL3,2004,90
+2143,Middle East & North Africa,RCV1,2004,70
+2144,Middle East & North Africa,BCG,2005,93
+2145,Middle East & North Africa,DTP1,2005,94
+2146,Middle East & North Africa,DTP3,2005,90
+2147,Middle East & North Africa,HEPB3,2005,89
+2148,Middle East & North Africa,HEPBB,2005,46
+2149,Middle East & North Africa,HIB3,2005,25
+2150,Middle East & North Africa,MCV1,2005,89
+2151,Middle East & North Africa,MCV2,2005,83
+2152,Middle East & North Africa,POL3,2005,90
+2153,Middle East & North Africa,RCV1,2005,72
+2154,Middle East & North Africa,BCG,2006,94
+2155,Middle East & North Africa,DTP1,2006,94
+2156,Middle East & North Africa,DTP3,2006,90
+2157,Middle East & North Africa,HEPB3,2006,89
+2158,Middle East & North Africa,HEPBB,2006,45
+2159,Middle East & North Africa,HIB3,2006,26
+2160,Middle East & North Africa,MCV1,2006,89
+2161,Middle East & North Africa,MCV2,2006,83
+2162,Middle East & North Africa,POL3,2006,91
+2163,Middle East & North Africa,RCV1,2006,71
+2164,Middle East & North Africa,ROTAC,2006,0
+2165,Middle East & North Africa,BCG,2007,94
+2166,Middle East & North Africa,DTP1,2007,93
+2167,Middle East & North Africa,DTP3,2007,90
+2168,Middle East & North Africa,HEPB3,2007,89
+2169,Middle East & North Africa,HEPBB,2007,48
+2170,Middle East & North Africa,HIB3,2007,35
+2171,Middle East & North Africa,MCV1,2007,89
+2172,Middle East & North Africa,MCV2,2007,85
+2173,Middle East & North Africa,POL3,2007,92
+2174,Middle East & North Africa,RCV1,2007,72
+2175,Middle East & North Africa,ROTAC,2007,0
+2176,Middle East & North Africa,BCG,2008,93
+2177,Middle East & North Africa,DTP1,2008,94
+2178,Middle East & North Africa,DTP3,2008,91
+2179,Middle East & North Africa,HEPB3,2008,91
+2180,Middle East & North Africa,HEPBB,2008,48
+2181,Middle East & North Africa,HIB3,2008,44
+2182,Middle East & North Africa,MCV1,2008,89
+2183,Middle East & North Africa,MCV2,2008,79
+2184,Middle East & North Africa,PCV3,2008,1
+2185,Middle East & North Africa,POL3,2008,92
+2186,Middle East & North Africa,RCV1,2008,66
+2187,Middle East & North Africa,ROTAC,2008,0
+2188,Middle East & North Africa,BCG,2009,94
+2189,Middle East & North Africa,DTP1,2009,95
+2190,Middle East & North Africa,DTP3,2009,92
+2191,Middle East & North Africa,HEPB3,2009,92
+2192,Middle East & North Africa,HEPBB,2009,45
+2193,Middle East & North Africa,HIB3,2009,44
+2194,Middle East & North Africa,MCV1,2009,91
+2195,Middle East & North Africa,MCV2,2009,82
+2196,Middle East & North Africa,PCV3,2009,8
+2197,Middle East & North Africa,POL3,2009,92
+2198,Middle East & North Africa,RCV1,2009,68
+2199,Middle East & North Africa,ROTAC,2009,0
+2200,Middle East & North Africa,BCG,2010,94
+2201,Middle East & North Africa,DTP1,2010,95
+2202,Middle East & North Africa,DTP3,2010,92
+2203,Middle East & North Africa,HEPB3,2010,92
+2204,Middle East & North Africa,HEPBB,2010,42
+2205,Middle East & North Africa,HIB3,2010,44
+2206,Middle East & North Africa,MCV1,2010,91
+2207,Middle East & North Africa,MCV2,2010,81
+2208,Middle East & North Africa,PCV3,2010,9
+2209,Middle East & North Africa,POL3,2010,92
+2210,Middle East & North Africa,RCV1,2010,67
+2211,Middle East & North Africa,ROTAC,2010,0
+2212,Middle East & North Africa,BCG,2011,94
+2213,Middle East & North Africa,DTP1,2011,95
+2214,Middle East & North Africa,DTP3,2011,91
+2215,Middle East & North Africa,HEPB3,2011,91
+2216,Middle East & North Africa,HEPBB,2011,42
+2217,Middle East & North Africa,HIB3,2011,44
+2218,Middle East & North Africa,MCV1,2011,92
+2219,Middle East & North Africa,MCV2,2011,81
+2220,Middle East & North Africa,PCV3,2011,16
+2221,Middle East & North Africa,POL3,2011,91
+2222,Middle East & North Africa,RCV1,2011,67
+2223,Middle East & North Africa,ROTAC,2011,6
+2224,Middle East & North Africa,BCG,2012,94
+2225,Middle East & North Africa,DTP1,2012,93
+2226,Middle East & North Africa,DTP3,2012,88
+2227,Middle East & North Africa,HEPB3,2012,87
+2228,Middle East & North Africa,HEPBB,2012,42
+2229,Middle East & North Africa,HIB3,2012,47
+2230,Middle East & North Africa,MCV1,2012,89
+2231,Middle East & North Africa,MCV2,2012,77
+2232,Middle East & North Africa,PCV3,2012,22
+2233,Middle East & North Africa,POL3,2012,88
+2234,Middle East & North Africa,RCV1,2012,67
+2235,Middle East & North Africa,ROTAC,2012,13
+2236,Middle East & North Africa,BCG,2013,95
+2237,Middle East & North Africa,DTP1,2013,93
+2238,Middle East & North Africa,DTP3,2013,90
+2239,Middle East & North Africa,HEPB3,2013,91
+2240,Middle East & North Africa,HEPBB,2013,44
+2241,Middle East & North Africa,HIB3,2013,50
+2242,Middle East & North Africa,MCV1,2013,90
+2243,Middle East & North Africa,MCV2,2013,78
+2244,Middle East & North Africa,PCV3,2013,24
+2245,Middle East & North Africa,POL3,2013,90
+2246,Middle East & North Africa,RCV1,2013,66
+2247,Middle East & North Africa,ROTAC,2013,24
+2248,Middle East & North Africa,BCG,2014,95
+2249,Middle East & North Africa,DTP1,2014,93
+2250,Middle East & North Africa,DTP3,2014,89
+2251,Middle East & North Africa,HEPB3,2014,89
+2252,Middle East & North Africa,HEPBB,2014,44
+2253,Middle East & North Africa,HIB3,2014,74
+2254,Middle East & North Africa,MCV1,2014,88
+2255,Middle East & North Africa,MCV2,2014,83
+2256,Middle East & North Africa,PCV3,2014,25
+2257,Middle East & North Africa,POL3,2014,89
+2258,Middle East & North Africa,RCV1,2014,73
+2259,Middle East & North Africa,ROTAC,2014,23
+2260,Middle East & North Africa,BCG,2015,91
+2261,Middle East & North Africa,DTP1,2015,92
+2262,Middle East & North Africa,DTP3,2015,88
+2263,Middle East & North Africa,HEPB3,2015,88
+2264,Middle East & North Africa,HEPBB,2015,44
+2265,Middle East & North Africa,HIB3,2015,88
+2266,Middle East & North Africa,IPV1,2015,27
+2267,Middle East & North Africa,MCV1,2015,89
+2268,Middle East & North Africa,MCV2,2015,86
+2269,Middle East & North Africa,PCV3,2015,25
+2270,Middle East & North Africa,POL3,2015,88
+2271,Middle East & North Africa,RCV1,2015,79
+2272,Middle East & North Africa,ROTAC,2015,27
+2273,Middle East & North Africa,BCG,2016,94
+2274,Middle East & North Africa,DTP1,2016,93
+2275,Middle East & North Africa,DTP3,2016,89
+2276,Middle East & North Africa,HEPB3,2016,89
+2277,Middle East & North Africa,HEPBB,2016,45
+2278,Middle East & North Africa,HIB3,2016,89
+2279,Middle East & North Africa,IPV1,2016,46
+2280,Middle East & North Africa,MCV1,2016,91
+2281,Middle East & North Africa,MCV2,2016,89
+2282,Middle East & North Africa,PCV3,2016,32
+2283,Middle East & North Africa,POL3,2016,89
+2284,Middle East & North Africa,RCV1,2016,81
+2285,Middle East & North Africa,ROTAC,2016,29
+2286,Middle East & North Africa,BCG,2017,91
+2287,Middle East & North Africa,DTP1,2017,93
+2288,Middle East & North Africa,DTP3,2017,90
+2289,Middle East & North Africa,HEPB3,2017,90
+2290,Middle East & North Africa,HEPBB,2017,67
+2291,Middle East & North Africa,HIB3,2017,90
+2292,Middle East & North Africa,IPV1,2017,46
+2293,Middle East & North Africa,MCV1,2017,90
+2294,Middle East & North Africa,MCV2,2017,89
+2295,Middle East & North Africa,PCV3,2017,39
+2296,Middle East & North Africa,POL3,2017,90
+2297,Middle East & North Africa,RCV1,2017,90
+2298,Middle East & North Africa,ROTAC,2017,32
+2299,Middle East & North Africa,BCG,2018,93
+2300,Middle East & North Africa,DTP1,2018,93
+2301,Middle East & North Africa,DTP3,2018,89
+2302,Middle East & North Africa,HEPB3,2018,89
+2303,Middle East & North Africa,HEPBB,2018,68
+2304,Middle East & North Africa,HIB3,2018,89
+2305,Middle East & North Africa,IPV1,2018,56
+2306,Middle East & North Africa,MCV1,2018,89
+2307,Middle East & North Africa,MCV2,2018,86
+2308,Middle East & North Africa,PCV3,2018,38
+2309,Middle East & North Africa,POL3,2018,88
+2310,Middle East & North Africa,RCV1,2018,88
+2311,Middle East & North Africa,ROTAC,2018,32
+2312,Middle East & North Africa,BCG,2019,91
+2313,Middle East & North Africa,DTP1,2019,94
+2314,Middle East & North Africa,DTP3,2019,90
+2315,Middle East & North Africa,HEPB3,2019,90
+2316,Middle East & North Africa,HEPBB,2019,69
+2317,Middle East & North Africa,HIB3,2019,90
+2318,Middle East & North Africa,IPV1,2019,92
+2319,Middle East & North Africa,MCV1,2019,89
+2320,Middle East & North Africa,MCV2,2019,87
+2321,Middle East & North Africa,PCV3,2019,39
+2322,Middle East & North Africa,POL3,2019,90
+2323,Middle East & North Africa,RCV1,2019,89
+2324,Middle East & North Africa,ROTAC,2019,26
+2325,North America,DTP1,1980,89
+2326,North America,DTP3,1980,87
+2327,North America,MCV1,1980,78
+2328,North America,POL3,1980,86
+2329,North America,RCV1,1980,78
+2330,North America,DTP1,1981,89
+2331,North America,DTP3,1981,87
+2332,North America,MCV1,1981,88
+2333,North America,POL3,1981,87
+2334,North America,RCV1,1981,88
+2335,North America,DTP1,1982,89
+2336,North America,DTP3,1982,87
+2337,North America,MCV1,1982,88
+2338,North America,POL3,1982,88
+2339,North America,RCV1,1982,88
+2340,North America,DTP1,1983,89
+2341,North America,DTP3,1983,88
+2342,North America,MCV1,1983,89
+2343,North America,POL3,1983,88
+2344,North America,RCV1,1983,89
+2345,North America,DTP1,1984,89
+2346,North America,DTP3,1984,88
+2347,North America,MCV1,1984,89
+2348,North America,POL3,1984,88
+2349,North America,RCV1,1984,89
+2350,North America,DTP1,1985,89
+2351,North America,DTP3,1985,87
+2352,North America,HEPB3,1985,0
+2353,North America,MCV1,1985,88
+2354,North America,POL3,1985,87
+2355,North America,RCV1,1985,88
+2356,North America,DTP1,1986,89
+2357,North America,DTP3,1986,88
+2358,North America,HEPB3,1986,0
+2359,North America,MCV1,1986,88
+2360,North America,POL3,1986,88
+2361,North America,RCV1,1986,88
+2362,North America,DTP1,1987,98
+2363,North America,DTP3,1987,96
+2364,North America,HEPB3,1987,0
+2365,North America,MCV1,1987,81
+2366,North America,POL3,1987,96
+2367,North America,RCV1,1987,81
+2368,North America,DTP1,1988,98
+2369,North America,DTP3,1988,96
+2370,North America,HEPB3,1988,0
+2371,North America,MCV1,1988,97
+2372,North America,POL3,1988,96
+2373,North America,RCV1,1988,97
+2374,North America,DTP1,1989,97
+2375,North America,DTP3,1989,93
+2376,North America,HEPB3,1989,0
+2377,North America,MCV1,1989,93
+2378,North America,POL3,1989,91
+2379,North America,RCV1,1989,93
+2380,North America,DTP1,1990,96
+2381,North America,DTP3,1990,90
+2382,North America,HEPB3,1990,0
+2383,North America,HIB3,1990,0
+2384,North America,MCV1,1990,90
+2385,North America,POL3,1990,85
+2386,North America,RCV1,1990,90
+2387,North America,DTP1,1991,95
+2388,North America,DTP3,1991,86
+2389,North America,HEPB3,1991,0
+2390,North America,HIB3,1991,0
+2391,North America,MCV1,1991,87
+2392,North America,POL3,1991,79
+2393,North America,RCV1,1991,87
+2394,North America,DTP1,1992,94
+2395,North America,DTP3,1992,84
+2396,North America,HEPB3,1992,0
+2397,North America,HIB3,1992,0
+2398,North America,MCV1,1992,84
+2399,North America,POL3,1992,74
+2400,North America,RCV1,1992,84
+2401,North America,DTP1,1993,96
+2402,North America,DTP3,1993,88
+2403,North America,HEPB3,1993,15
+2404,North America,HIB3,1993,0
+2405,North America,MCV1,1993,85
+2406,North America,POL3,1993,80
+2407,North America,RCV1,1993,85
+2408,North America,DTP1,1994,97
+2409,North America,DTP3,1994,94
+2410,North America,HEPB3,1994,38
+2411,North America,HIB3,1994,0
+2412,North America,MCV1,1994,90
+2413,North America,POL3,1994,84
+2414,North America,RCV1,1994,90
+2415,North America,DTP1,1995,98
+2416,North America,DTP3,1995,94
+2417,North America,HEPB3,1995,62
+2418,North America,HIB3,1995,83
+2419,North America,MCV1,1995,89
+2420,North America,POL3,1995,88
+2421,North America,RCV1,1995,89
+2422,North America,DTP1,1996,98
+2423,North America,DTP3,1996,95
+2424,North America,HEPB3,1996,75
+2425,North America,HIB3,1996,90
+2426,North America,MCV1,1996,92
+2427,North America,POL3,1996,91
+2428,North America,RCV1,1996,92
+2429,North America,DTP1,1997,98
+2430,North America,DTP3,1997,95
+2431,North America,HEPB3,1997,77
+2432,North America,HIB3,1997,93
+2433,North America,MCV1,1997,91
+2434,North America,POL3,1997,91
+2435,North America,RCV1,1997,91
+2436,North America,DTP1,1998,98
+2437,North America,DTP3,1998,96
+2438,North America,HEPB3,1998,80
+2439,North America,HIB3,1998,93
+2440,North America,MCV1,1998,92
+2441,North America,POL3,1998,91
+2442,North America,RCV1,1998,92
+2443,North America,DTP1,1999,99
+2444,North America,DTP3,1999,96
+2445,North America,HEPB3,1999,81
+2446,North America,HIB3,1999,94
+2447,North America,MCV1,1999,92
+2448,North America,POL3,1999,90
+2449,North America,RCV1,1999,92
+2450,North America,DTP1,2000,99
+2451,North America,DTP3,2000,94
+2452,North America,HEPB3,2000,83
+2453,North America,HEPBB,2000,0
+2454,North America,HIB3,2000,93
+2455,North America,MCV1,2000,91
+2456,North America,MCV2,2000,78
+2457,North America,POL3,2000,90
+2458,North America,RCV1,2000,91
+2459,North America,DTP1,2001,98
+2460,North America,DTP3,2001,94
+2461,North America,HEPB3,2001,82
+2462,North America,HEPBB,2001,0
+2463,North America,HIB3,2001,93
+2464,North America,MCV1,2001,91
+2465,North America,MCV2,2001,79
+2466,North America,POL3,2001,89
+2467,North America,RCV1,2001,91
+2468,North America,DTP1,2002,97
+2469,North America,DTP3,2002,94
+2470,North America,HEPB3,2002,81
+2471,North America,HEPBB,2002,19
+2472,North America,HIB3,2002,93
+2473,North America,MCV1,2002,91
+2474,North America,MCV2,2002,80
+2475,North America,POL3,2002,90
+2476,North America,RCV1,2002,91
+2477,North America,DTP1,2003,99
+2478,North America,DTP3,2003,96
+2479,North America,HEPB3,2003,86
+2480,North America,HEPBB,2003,36
+2481,North America,HIB3,2003,94
+2482,North America,MCV1,2003,93
+2483,North America,MCV2,2003,79
+2484,North America,POL3,2003,91
+2485,North America,RCV1,2003,93
+2486,North America,DTP1,2004,99
+2487,North America,DTP3,2004,96
+2488,North America,HEPB3,2004,86
+2489,North America,HEPBB,2004,44
+2490,North America,HIB3,2004,94
+2491,North America,MCV1,2004,93
+2492,North America,MCV2,2004,79
+2493,North America,POL3,2004,92
+2494,North America,RCV1,2004,93
+2495,North America,DTP1,2005,99
+2496,North America,DTP3,2005,96
+2497,North America,HEPB3,2005,87
+2498,North America,HEPBB,2005,46
+2499,North America,HIB3,2005,94
+2500,North America,MCV1,2005,92
+2501,North America,MCV2,2005,79
+2502,North America,POL3,2005,92
+2503,North America,RCV1,2005,92
+2504,North America,DTP1,2006,99
+2505,North America,DTP3,2006,96
+2506,North America,HEPB3,2006,87
+2507,North America,HEPBB,2006,46
+2508,North America,HIB3,2006,93
+2509,North America,MCV1,2006,92
+2510,North America,MCV2,2006,79
+2511,North America,POL3,2006,93
+2512,North America,RCV1,2006,92
+2513,North America,ROTAC,2006,0
+2514,North America,DTP1,2007,99
+2515,North America,DTP3,2007,96
+2516,North America,HEPB3,2007,87
+2517,North America,HEPBB,2007,49
+2518,North America,HIB3,2007,93
+2519,North America,MCV1,2007,92
+2520,North America,MCV2,2007,79
+2521,North America,POL3,2007,93
+2522,North America,RCV1,2007,92
+2523,North America,ROTAC,2007,0
+2524,North America,DTP1,2008,99
+2525,North America,DTP3,2008,96
+2526,North America,HEPB3,2008,89
+2527,North America,HEPBB,2008,50
+2528,North America,HIB3,2008,91
+2529,North America,MCV1,2008,92
+2530,North America,MCV2,2008,80
+2531,North America,PCV3,2008,89
+2532,North America,POL3,2008,94
+2533,North America,RCV1,2008,92
+2534,North America,ROTAC,2008,0
+2535,North America,DTP1,2009,98
+2536,North America,DTP3,2009,95
+2537,North America,HEPB3,2009,88
+2538,North America,HEPBB,2009,56
+2539,North America,HIB3,2009,85
+2540,North America,MCV1,2009,90
+2541,North America,MCV2,2009,81
+2542,North America,PCV3,2009,89
+2543,North America,POL3,2009,93
+2544,North America,RCV1,2009,90
+2545,North America,ROTAC,2009,40
+2546,North America,DTP1,2010,98
+2547,North America,DTP3,2010,94
+2548,North America,HEPB3,2010,89
+2549,North America,HEPBB,2010,59
+2550,North America,HIB3,2010,90
+2551,North America,MCV1,2010,92
+2552,North America,MCV2,2010,82
+2553,North America,PCV3,2010,90
+2554,North America,POL3,2010,93
+2555,North America,RCV1,2010,92
+2556,North America,ROTAC,2010,54
+2557,North America,DTP1,2011,98
+2558,North America,DTP3,2011,95
+2559,North America,HEPB3,2011,89
+2560,North America,HEPBB,2011,63
+2561,North America,HIB3,2011,94
+2562,North America,MCV1,2011,92
+2563,North America,MCV2,2011,82
+2564,North America,PCV3,2011,92
+2565,North America,POL3,2011,93
+2566,North America,RCV1,2011,92
+2567,North America,ROTAC,2011,61
+2568,North America,DTP1,2012,97
+2569,North America,DTP3,2012,94
+2570,North America,HEPB3,2012,88
+2571,North America,HEPBB,2012,66
+2572,North America,HIB3,2012,93
+2573,North America,MCV1,2012,91
+2574,North America,MCV2,2012,90
+2575,North America,PCV3,2012,90
+2576,North America,POL3,2012,93
+2577,North America,RCV1,2012,91
+2578,North America,ROTAC,2012,63
+2579,North America,DTP1,2013,98
+2580,North America,DTP3,2013,94
+2581,North America,HEPB3,2013,88
+2582,North America,HEPBB,2013,67
+2583,North America,HIB3,2013,93
+2584,North America,MCV1,2013,92
+2585,North America,MCV2,2013,91
+2586,North America,PCV3,2013,91
+2587,North America,POL3,2013,93
+2588,North America,RCV1,2013,92
+2589,North America,ROTAC,2013,67
+2590,North America,DTP1,2014,98
+2591,North America,DTP3,2014,95
+2592,North America,HEPB3,2014,89
+2593,North America,HEPBB,2014,66
+2594,North America,HIB3,2014,93
+2595,North America,MCV1,2014,92
+2596,North America,MCV2,2014,91
+2597,North America,PCV3,2014,92
+2598,North America,POL3,2014,93
+2599,North America,RCV1,2014,92
+2600,North America,ROTAC,2014,66
+2601,North America,DTP1,2015,98
+2602,North America,DTP3,2015,95
+2603,North America,HEPB3,2015,90
+2604,North America,HEPBB,2015,66
+2605,North America,HIB3,2015,93
+2606,North America,MCV1,2015,92
+2607,North America,MCV2,2015,92
+2608,North America,PCV3,2015,92
+2609,North America,POL3,2015,93
+2610,North America,RCV1,2015,92
+2611,North America,ROTAC,2015,66
+2612,North America,DTP1,2016,98
+2613,North America,DTP3,2016,95
+2614,North America,HEPB3,2016,91
+2615,North America,HEPBB,2016,58
+2616,North America,HIB3,2016,93
+2617,North America,MCV1,2016,92
+2618,North America,MCV2,2016,93
+2619,North America,PCV3,2016,92
+2620,North America,POL3,2016,94
+2621,North America,RCV1,2016,92
+2622,North America,ROTAC,2016,66
+2623,North America,DTP1,2017,98
+2624,North America,DTP3,2017,95
+2625,North America,HEPB3,2017,91
+2626,North America,HEPBB,2017,58
+2627,North America,HIB3,2017,93
+2628,North America,MCV1,2017,92
+2629,North America,MCV2,2017,93
+2630,North America,PCV3,2017,92
+2631,North America,POL3,2017,94
+2632,North America,RCV1,2017,92
+2633,North America,ROTAC,2017,74
+2634,North America,DTP1,2018,97
+2635,North America,DTP3,2018,94
+2636,North America,HEPB3,2018,89
+2637,North America,HEPBB,2018,60
+2638,North America,HIB3,2018,92
+2639,North America,MCV1,2018,92
+2640,North America,MCV2,2018,93
+2641,North America,PCV3,2018,91
+2642,North America,POL3,2018,93
+2643,North America,RCV1,2018,92
+2644,North America,ROTAC,2018,74
+2645,North America,DTP1,2019,97
+2646,North America,DTP3,2019,94
+2647,North America,HEPB3,2019,89
+2648,North America,HEPBB,2019,61
+2649,North America,HIB3,2019,91
+2650,North America,MCV1,2019,90
+2651,North America,MCV2,2019,94
+2652,North America,PCV3,2019,91
+2653,North America,POL3,2019,93
+2654,North America,RCV1,2019,90
+2655,North America,ROTAC,2019,74
+2656,South Asia,BCG,1980,2
+2657,South Asia,DTP1,1980,23
+2658,South Asia,DTP3,1980,6
+2659,South Asia,MCV1,1980,0
+2660,South Asia,POL3,1980,2
+2661,South Asia,RCV1,1980,0
+2662,South Asia,BCG,1981,5
+2663,South Asia,DTP1,1981,24
+2664,South Asia,DTP3,1981,6
+2665,South Asia,MCV1,1981,0
+2666,South Asia,POL3,1981,3
+2667,South Asia,RCV1,1981,0
+2668,South Asia,BCG,1982,6
+2669,South Asia,DTP1,1982,31
+2670,South Asia,DTP3,1982,11
+2671,South Asia,MCV1,1982,1
+2672,South Asia,POL3,1982,7
+2673,South Asia,RCV1,1982,0
+2674,South Asia,BCG,1983,10
+2675,South Asia,DTP1,1983,35
+2676,South Asia,DTP3,1983,13
+2677,South Asia,MCV1,1983,2
+2678,South Asia,POL3,1983,10
+2679,South Asia,RCV1,1983,0
+2680,South Asia,BCG,1984,13
+2681,South Asia,DTP1,1984,39
+2682,South Asia,DTP3,1984,16
+2683,South Asia,MCV1,1984,4
+2684,South Asia,POL3,1984,13
+2685,South Asia,RCV1,1984,0
+2686,South Asia,BCG,1985,15
+2687,South Asia,DTP1,1985,41
+2688,South Asia,DTP3,1985,19
+2689,South Asia,HEPB3,1985,0
+2690,South Asia,MCV1,1985,6
+2691,South Asia,POL3,1985,15
+2692,South Asia,RCV1,1985,0
+2693,South Asia,BCG,1986,17
+2694,South Asia,DTP1,1986,44
+2695,South Asia,DTP3,1986,21
+2696,South Asia,HEPB3,1986,0
+2697,South Asia,MCV1,1986,14
+2698,South Asia,POL3,1986,18
+2699,South Asia,RCV1,1986,0
+2700,South Asia,BCG,1987,29
+2701,South Asia,DTP1,1987,54
+2702,South Asia,DTP3,1987,29
+2703,South Asia,HEPB3,1987,0
+2704,South Asia,MCV1,1987,25
+2705,South Asia,POL3,1987,27
+2706,South Asia,RCV1,1987,0
+2707,South Asia,BCG,1988,31
+2708,South Asia,DTP1,1988,63
+2709,South Asia,DTP3,1988,38
+2710,South Asia,HEPB3,1988,0
+2711,South Asia,MCV1,1988,33
+2712,South Asia,POL3,1988,36
+2713,South Asia,RCV1,1988,0
+2714,South Asia,BCG,1989,38
+2715,South Asia,DTP1,1989,73
+2716,South Asia,DTP3,1989,49
+2717,South Asia,HEPB3,1989,0
+2718,South Asia,MCV1,1989,44
+2719,South Asia,POL3,1989,52
+2720,South Asia,RCV1,1989,0
+2721,South Asia,BCG,1990,69
+2722,South Asia,DTP1,1990,86
+2723,South Asia,DTP3,1990,67
+2724,South Asia,HEPB3,1990,0
+2725,South Asia,HIB3,1990,0
+2726,South Asia,MCV1,1990,56
+2727,South Asia,POL3,1990,64
+2728,South Asia,RCV1,1990,0
+2729,South Asia,BCG,1991,66
+2730,South Asia,DTP1,1991,79
+2731,South Asia,DTP3,1991,57
+2732,South Asia,HEPB3,1991,0
+2733,South Asia,HIB3,1991,0
+2734,South Asia,MCV1,1991,47
+2735,South Asia,POL3,1991,58
+2736,South Asia,RCV1,1991,0
+2737,South Asia,BCG,1992,69
+2738,South Asia,DTP1,1992,78
+2739,South Asia,DTP3,1992,55
+2740,South Asia,HEPB3,1992,0
+2741,South Asia,HIB3,1992,0
+2742,South Asia,MCV1,1992,53
+2743,South Asia,POL3,1992,55
+2744,South Asia,RCV1,1992,0
+2745,South Asia,BCG,1993,72
+2746,South Asia,DTP1,1993,78
+2747,South Asia,DTP3,1993,59
+2748,South Asia,HEPB3,1993,0
+2749,South Asia,HIB3,1993,0
+2750,South Asia,MCV1,1993,59
+2751,South Asia,POL3,1993,59
+2752,South Asia,RCV1,1993,0
+2753,South Asia,BCG,1994,73
+2754,South Asia,DTP1,1994,83
+2755,South Asia,DTP3,1994,64
+2756,South Asia,HEPB3,1994,0
+2757,South Asia,HIB3,1994,0
+2758,South Asia,MCV1,1994,66
+2759,South Asia,POL3,1994,64
+2760,South Asia,RCV1,1994,0
+2761,South Asia,BCG,1995,80
+2762,South Asia,DTP1,1995,85
+2763,South Asia,DTP3,1995,68
+2764,South Asia,HEPB3,1995,0
+2765,South Asia,HIB3,1995,0
+2766,South Asia,MCV1,1995,69
+2767,South Asia,POL3,1995,68
+2768,South Asia,RCV1,1995,0
+2769,South Asia,BCG,1996,77
+2770,South Asia,DTP1,1996,83
+2771,South Asia,DTP3,1996,64
+2772,South Asia,HEPB3,1996,0
+2773,South Asia,HIB3,1996,0
+2774,South Asia,MCV1,1996,64
+2775,South Asia,POL3,1996,65
+2776,South Asia,RCV1,1996,1
+2777,South Asia,BCG,1997,72
+2778,South Asia,DTP1,1997,80
+2779,South Asia,DTP3,1997,62
+2780,South Asia,HEPB3,1997,0
+2781,South Asia,HIB3,1997,0
+2782,South Asia,MCV1,1997,57
+2783,South Asia,POL3,1997,63
+2784,South Asia,RCV1,1997,1
+2785,South Asia,BCG,1998,73
+2786,South Asia,DTP1,1998,77
+2787,South Asia,DTP3,1998,61
+2788,South Asia,HEPB3,1998,0
+2789,South Asia,HIB3,1998,0
+2790,South Asia,MCV1,1998,55
+2791,South Asia,POL3,1998,61
+2792,South Asia,RCV1,1998,1
+2793,South Asia,BCG,1999,75
+2794,South Asia,DTP1,1999,75
+2795,South Asia,DTP3,1999,60
+2796,South Asia,HEPB3,1999,0
+2797,South Asia,HIB3,1999,0
+2798,South Asia,MCV1,1999,58
+2799,South Asia,POL3,1999,60
+2800,South Asia,RCV1,1999,1
+2801,South Asia,BCG,2000,75
+2802,South Asia,DTP1,2000,75
+2803,South Asia,DTP3,2000,60
+2804,South Asia,HEPB3,2000,0
+2805,South Asia,HEPBB,2000,0
+2806,South Asia,HIB3,2000,0
+2807,South Asia,MCV1,2000,58
+2808,South Asia,MCV2,2000,0
+2809,South Asia,POL3,2000,60
+2810,South Asia,RCV1,2000,1
+2811,South Asia,BCG,2001,77
+2812,South Asia,DTP1,2001,76
+2813,South Asia,DTP3,2001,62
+2814,South Asia,HEPB3,2001,0
+2815,South Asia,HEPBB,2001,0
+2816,South Asia,HIB3,2001,0
+2817,South Asia,MCV1,2001,59
+2818,South Asia,MCV2,2001,0
+2819,South Asia,POL3,2001,61
+2820,South Asia,RCV1,2001,1
+2821,South Asia,BCG,2002,77
+2822,South Asia,DTP1,2002,76
+2823,South Asia,DTP3,2002,62
+2824,South Asia,HEPB3,2002,0
+2825,South Asia,HEPBB,2002,0
+2826,South Asia,HIB3,2002,0
+2827,South Asia,MCV1,2002,58
+2828,South Asia,MCV2,2002,1
+2829,South Asia,POL3,2002,61
+2830,South Asia,RCV1,2002,1
+2831,South Asia,BCG,2003,78
+2832,South Asia,DTP1,2003,77
+2833,South Asia,DTP3,2003,64
+2834,South Asia,HEPB3,2003,9
+2835,South Asia,HEPBB,2003,0
+2836,South Asia,HIB3,2003,0
+2837,South Asia,MCV1,2003,62
+2838,South Asia,MCV2,2003,1
+2839,South Asia,POL3,2003,61
+2840,South Asia,RCV1,2003,1
+2841,South Asia,BCG,2004,81
+2842,South Asia,DTP1,2004,79
+2843,South Asia,DTP3,2004,67
+2844,South Asia,HEPB3,2004,14
+2845,South Asia,HEPBB,2004,0
+2846,South Asia,HIB3,2004,0
+2847,South Asia,MCV1,2004,65
+2848,South Asia,MCV2,2004,1
+2849,South Asia,POL3,2004,62
+2850,South Asia,RCV1,2004,1
+2851,South Asia,BCG,2005,85
+2852,South Asia,DTP1,2005,82
+2853,South Asia,DTP3,2005,68
+2854,South Asia,HEPB3,2005,20
+2855,South Asia,HEPBB,2005,0
+2856,South Asia,HIB3,2005,0
+2857,South Asia,MCV1,2005,69
+2858,South Asia,MCV2,2005,1
+2859,South Asia,POL3,2005,68
+2860,South Asia,RCV1,2005,1
+2861,South Asia,BCG,2006,85
+2862,South Asia,DTP1,2006,81
+2863,South Asia,DTP3,2006,67
+2864,South Asia,HEPB3,2006,22
+2865,South Asia,HEPBB,2006,0
+2866,South Asia,HIB3,2006,0
+2867,South Asia,MCV1,2006,69
+2868,South Asia,MCV2,2006,1
+2869,South Asia,POL3,2006,68
+2870,South Asia,RCV1,2006,1
+2871,South Asia,ROTAC,2006,0
+2872,South Asia,BCG,2007,86
+2873,South Asia,DTP1,2007,81
+2874,South Asia,DTP3,2007,66
+2875,South Asia,HEPB3,2007,24
+2876,South Asia,HEPBB,2007,0
+2877,South Asia,HIB3,2007,0
+2878,South Asia,MCV1,2007,70
+2879,South Asia,MCV2,2007,1
+2880,South Asia,POL3,2007,68
+2881,South Asia,RCV1,2007,1
+2882,South Asia,ROTAC,2007,0
+2883,South Asia,BCG,2008,85
+2884,South Asia,DTP1,2008,81
+2885,South Asia,DTP3,2008,70
+2886,South Asia,HEPB3,2008,41
+2887,South Asia,HEPBB,2008,6
+2888,South Asia,HIB3,2008,0
+2889,South Asia,MCV1,2008,72
+2890,South Asia,MCV2,2008,2
+2891,South Asia,PCV3,2008,0
+2892,South Asia,POL3,2008,70
+2893,South Asia,RCV1,2008,1
+2894,South Asia,ROTAC,2008,0
+2895,South Asia,BCG,2009,86
+2896,South Asia,DTP1,2009,83
+2897,South Asia,DTP3,2009,73
+2898,South Asia,HEPB3,2009,47
+2899,South Asia,HEPBB,2009,6
+2900,South Asia,HIB3,2009,18
+2901,South Asia,MCV1,2009,76
+2902,South Asia,MCV2,2009,6
+2903,South Asia,PCV3,2009,0
+2904,South Asia,POL3,2009,72
+2905,South Asia,RCV1,2009,1
+2906,South Asia,ROTAC,2009,0
+2907,South Asia,BCG,2010,87
+2908,South Asia,DTP1,2010,84
+2909,South Asia,DTP3,2010,76
+2910,South Asia,HEPB3,2010,47
+2911,South Asia,HEPBB,2010,6
+2912,South Asia,HIB3,2010,19
+2913,South Asia,MCV1,2010,79
+2914,South Asia,MCV2,2010,6
+2915,South Asia,PCV3,2010,0
+2916,South Asia,POL3,2010,74
+2917,South Asia,RCV1,2010,1
+2918,South Asia,ROTAC,2010,0
+2919,South Asia,BCG,2011,89
+2920,South Asia,DTP1,2011,88
+2921,South Asia,DTP3,2011,80
+2922,South Asia,HEPB3,2011,53
+2923,South Asia,HEPBB,2011,6
+2924,South Asia,HIB3,2011,21
+2925,South Asia,MCV1,2011,81
+2926,South Asia,MCV2,2011,27
+2927,South Asia,PCV3,2011,0
+2928,South Asia,POL3,2011,78
+2929,South Asia,RCV1,2011,1
+2930,South Asia,ROTAC,2011,0
+2931,South Asia,BCG,2012,90
+2932,South Asia,DTP1,2012,88
+2933,South Asia,DTP3,2012,80
+2934,South Asia,HEPB3,2012,74
+2935,South Asia,HEPBB,2012,16
+2936,South Asia,HIB3,2012,22
+2937,South Asia,MCV1,2012,80
+2938,South Asia,MCV2,2012,37
+2939,South Asia,PCV3,2012,0
+2940,South Asia,POL3,2012,78
+2941,South Asia,RCV1,2012,3
+2942,South Asia,ROTAC,2012,0
+2943,South Asia,BCG,2013,90
+2944,South Asia,DTP1,2013,89
+2945,South Asia,DTP3,2013,81
+2946,South Asia,HEPB3,2013,72
+2947,South Asia,HEPBB,2013,26
+2948,South Asia,HIB3,2013,37
+2949,South Asia,MCV1,2013,81
+2950,South Asia,MCV2,2013,52
+2951,South Asia,PCV3,2013,10
+2952,South Asia,POL3,2013,80
+2953,South Asia,RCV1,2013,10
+2954,South Asia,ROTAC,2013,0
+2955,South Asia,BCG,2014,89
+2956,South Asia,DTP1,2014,89
+2957,South Asia,DTP3,2014,83
+2958,South Asia,HEPB3,2014,79
+2959,South Asia,HEPBB,2014,29
+2960,South Asia,HIB3,2014,38
+2961,South Asia,MCV1,2014,83
+2962,South Asia,MCV2,2014,59
+2963,South Asia,PCV3,2014,12
+2964,South Asia,POL3,2014,82
+2965,South Asia,RCV1,2014,11
+2966,South Asia,ROTAC,2014,0
+2967,South Asia,BCG,2015,88
+2968,South Asia,DTP1,2015,89
+2969,South Asia,DTP3,2015,85
+2970,South Asia,HEPB3,2015,85
+2971,South Asia,HEPBB,2015,31
+2972,South Asia,HIB3,2015,56
+2973,South Asia,IPV1,2015,10
+2974,South Asia,MCV1,2015,85
+2975,South Asia,MCV2,2015,67
+2976,South Asia,PCV3,2015,19
+2977,South Asia,POL3,2015,84
+2978,South Asia,RCV1,2015,11
+2979,South Asia,ROTAC,2015,0
+2980,South Asia,BCG,2016,89
+2981,South Asia,DTP1,2016,90
+2982,South Asia,DTP3,2016,86
+2983,South Asia,HEPB3,2016,86
+2984,South Asia,HEPBB,2016,33
+2985,South Asia,HIB3,2016,81
+2986,South Asia,IPV1,2016,47
+2987,South Asia,MCV1,2016,86
+2988,South Asia,MCV2,2016,74
+2989,South Asia,PCV3,2016,24
+2990,South Asia,POL3,2016,85
+2991,South Asia,RCV1,2016,11
+2992,South Asia,ROTAC,2016,3
+2993,South Asia,BCG,2017,91
+2994,South Asia,DTP1,2017,91
+2995,South Asia,DTP3,2017,87
+2996,South Asia,HEPB3,2017,87
+2997,South Asia,HEPBB,2017,38
+2998,South Asia,HIB3,2017,87
+2999,South Asia,IPV1,2017,50
+3000,South Asia,MCV1,2017,88
+3001,South Asia,MCV2,2017,78
+3002,South Asia,PCV3,2017,25
+3003,South Asia,POL3,2017,87
+3004,South Asia,RCV1,2017,15
+3005,South Asia,ROTAC,2017,11
+3006,South Asia,BCG,2018,91
+3007,South Asia,DTP1,2018,92
+3008,South Asia,DTP3,2018,87
+3009,South Asia,HEPB3,2018,87
+3010,South Asia,HEPBB,2018,38
+3011,South Asia,HIB3,2018,87
+3012,South Asia,IPV1,2018,74
+3013,South Asia,MCV1,2018,89
+3014,South Asia,MCV2,2018,79
+3015,South Asia,PCV3,2018,28
+3016,South Asia,POL3,2018,88
+3017,South Asia,RCV1,2018,75
+3018,South Asia,ROTAC,2018,35
+3019,South Asia,BCG,2019,92
+3020,South Asia,DTP1,2019,92
+3021,South Asia,DTP3,2019,88
+3022,South Asia,HEPB3,2019,88
+3023,South Asia,HEPBB,2019,40
+3024,South Asia,HIB3,2019,88
+3025,South Asia,IPV1,2019,81
+3026,South Asia,MCV1,2019,91
+3027,South Asia,MCV2,2019,81
+3028,South Asia,PCV3,2019,35
+3029,South Asia,POL3,2019,88
+3030,South Asia,RCV1,2019,76
+3031,South Asia,ROTAC,2019,51
+3032,West & Central Africa,BCG,1980,9
+3033,West & Central Africa,DTP1,1980,3
+3034,West & Central Africa,DTP3,1980,1
+3035,West & Central Africa,MCV1,1980,4
+3036,West & Central Africa,POL3,1980,3
+3037,West & Central Africa,RCV1,1980,0
+3038,West & Central Africa,BCG,1981,22
+3039,West & Central Africa,DTP1,1981,12
+3040,West & Central Africa,DTP3,1981,5
+3041,West & Central Africa,MCV1,1981,8
+3042,West & Central Africa,POL3,1981,6
+3043,West & Central Africa,RCV1,1981,0
+3044,West & Central Africa,BCG,1982,24
+3045,West & Central Africa,DTP1,1982,14
+3046,West & Central Africa,DTP3,1982,6
+3047,West & Central Africa,MCV1,1982,9
+3048,West & Central Africa,POL3,1982,7
+3049,West & Central Africa,RCV1,1982,0
+3050,West & Central Africa,BCG,1983,26
+3051,West & Central Africa,DTP1,1983,16
+3052,West & Central Africa,DTP3,1983,7
+3053,West & Central Africa,MCV1,1983,9
+3054,West & Central Africa,POL3,1983,8
+3055,West & Central Africa,RCV1,1983,0
+3056,West & Central Africa,BCG,1984,27
+3057,West & Central Africa,DTP1,1984,31
+3058,West & Central Africa,DTP3,1984,13
+3059,West & Central Africa,MCV1,1984,15
+3060,West & Central Africa,POL3,1984,12
+3061,West & Central Africa,RCV1,1984,0
+3062,West & Central Africa,BCG,1985,34
+3063,West & Central Africa,DTP1,1985,41
+3064,West & Central Africa,DTP3,1985,19
+3065,West & Central Africa,HEPB3,1985,0
+3066,West & Central Africa,MCV1,1985,24
+3067,West & Central Africa,POL3,1985,18
+3068,West & Central Africa,RCV1,1985,0
+3069,West & Central Africa,BCG,1986,44
+3070,West & Central Africa,DTP1,1986,48
+3071,West & Central Africa,DTP3,1986,25
+3072,West & Central Africa,HEPB3,1986,0
+3073,West & Central Africa,MCV1,1986,32
+3074,West & Central Africa,POL3,1986,25
+3075,West & Central Africa,RCV1,1986,0
+3076,West & Central Africa,BCG,1987,51
+3077,West & Central Africa,DTP1,1987,54
+3078,West & Central Africa,DTP3,1987,31
+3079,West & Central Africa,HEPB3,1987,0
+3080,West & Central Africa,MCV1,1987,37
+3081,West & Central Africa,POL3,1987,30
+3082,West & Central Africa,RCV1,1987,0
+3083,West & Central Africa,BCG,1988,56
+3084,West & Central Africa,DTP1,1988,60
+3085,West & Central Africa,DTP3,1988,36
+3086,West & Central Africa,HEPB3,1988,0
+3087,West & Central Africa,MCV1,1988,43
+3088,West & Central Africa,POL3,1988,36
+3089,West & Central Africa,RCV1,1988,0
+3090,West & Central Africa,BCG,1989,61
+3091,West & Central Africa,DTP1,1989,66
+3092,West & Central Africa,DTP3,1989,42
+3093,West & Central Africa,HEPB3,1989,0
+3094,West & Central Africa,MCV1,1989,50
+3095,West & Central Africa,POL3,1989,42
+3096,West & Central Africa,RCV1,1989,0
+3097,West & Central Africa,BCG,1990,73
+3098,West & Central Africa,DTP1,1990,71
+3099,West & Central Africa,DTP3,1990,49
+3100,West & Central Africa,HEPB3,1990,0
+3101,West & Central Africa,HIB3,1990,0
+3102,West & Central Africa,MCV1,1990,50
+3103,West & Central Africa,POL3,1990,49
+3104,West & Central Africa,RCV1,1990,0
+3105,West & Central Africa,BCG,1991,57
+3106,West & Central Africa,DTP1,1991,61
+3107,West & Central Africa,DTP3,1991,37
+3108,West & Central Africa,HEPB3,1991,0
+3109,West & Central Africa,HIB3,1991,0
+3110,West & Central Africa,MCV1,1991,47
+3111,West & Central Africa,POL3,1991,39
+3112,West & Central Africa,RCV1,1991,0
+3113,West & Central Africa,BCG,1992,57
+3114,West & Central Africa,DTP1,1992,64
+3115,West & Central Africa,DTP3,1992,40
+3116,West & Central Africa,HEPB3,1992,0
+3117,West & Central Africa,HIB3,1992,0
+3118,West & Central Africa,MCV1,1992,42
+3119,West & Central Africa,POL3,1992,40
+3120,West & Central Africa,RCV1,1992,0
+3121,West & Central Africa,BCG,1993,57
+3122,West & Central Africa,DTP1,1993,60
+3123,West & Central Africa,DTP3,1993,36
+3124,West & Central Africa,HEPB3,1993,0
+3125,West & Central Africa,HIB3,1993,0
+3126,West & Central Africa,MCV1,1993,42
+3127,West & Central Africa,POL3,1993,36
+3128,West & Central Africa,RCV1,1993,0
+3129,West & Central Africa,BCG,1994,59
+3130,West & Central Africa,DTP1,1994,65
+3131,West & Central Africa,DTP3,1994,42
+3132,West & Central Africa,HEPB3,1994,0
+3133,West & Central Africa,HIB3,1994,0
+3134,West & Central Africa,MCV1,1994,44
+3135,West & Central Africa,POL3,1994,43
+3136,West & Central Africa,RCV1,1994,0
+3137,West & Central Africa,BCG,1995,53
+3138,West & Central Africa,DTP1,1995,62
+3139,West & Central Africa,DTP3,1995,39
+3140,West & Central Africa,HEPB3,1995,0
+3141,West & Central Africa,HIB3,1995,0
+3142,West & Central Africa,MCV1,1995,45
+3143,West & Central Africa,POL3,1995,38
+3144,West & Central Africa,RCV1,1995,0
+3145,West & Central Africa,BCG,1996,52
+3146,West & Central Africa,DTP1,1996,58
+3147,West & Central Africa,DTP3,1996,35
+3148,West & Central Africa,HEPB3,1996,0
+3149,West & Central Africa,HIB3,1996,0
+3150,West & Central Africa,MCV1,1996,41
+3151,West & Central Africa,POL3,1996,35
+3152,West & Central Africa,RCV1,1996,0
+3153,West & Central Africa,BCG,1997,47
+3154,West & Central Africa,DTP1,1997,65
+3155,West & Central Africa,DTP3,1997,32
+3156,West & Central Africa,HEPB3,1997,0
+3157,West & Central Africa,HIB3,1997,0
+3158,West & Central Africa,MCV1,1997,41
+3159,West & Central Africa,POL3,1997,34
+3160,West & Central Africa,RCV1,1997,0
+3161,West & Central Africa,YFV,1997,6
+3162,West & Central Africa,BCG,1998,54
+3163,West & Central Africa,DTP1,1998,56
+3164,West & Central Africa,DTP3,1998,37
+3165,West & Central Africa,HEPB3,1998,0
+3166,West & Central Africa,HIB3,1998,0
+3167,West & Central Africa,MCV1,1998,40
+3168,West & Central Africa,POL3,1998,33
+3169,West & Central Africa,RCV1,1998,0
+3170,West & Central Africa,YFV,1998,9
+3171,West & Central Africa,BCG,1999,57
+3172,West & Central Africa,DTP1,1999,55
+3173,West & Central Africa,DTP3,1999,39
+3174,West & Central Africa,HEPB3,1999,0
+3175,West & Central Africa,HIB3,1999,0
+3176,West & Central Africa,MCV1,1999,40
+3177,West & Central Africa,POL3,1999,38
+3178,West & Central Africa,RCV1,1999,0
+3179,West & Central Africa,YFV,1999,10
+3180,West & Central Africa,BCG,2000,61
+3181,West & Central Africa,DTP1,2000,57
+3182,West & Central Africa,DTP3,2000,43
+3183,West & Central Africa,HEPB3,2000,0
+3184,West & Central Africa,HEPBB,2000,0
+3185,West & Central Africa,HIB3,2000,0
+3186,West & Central Africa,MCV1,2000,45
+3187,West & Central Africa,MCV2,2000,0
+3188,West & Central Africa,POL3,2000,44
+3189,West & Central Africa,RCV1,2000,0
+3190,West & Central Africa,YFV,2000,12
+3191,West & Central Africa,BCG,2001,58
+3192,West & Central Africa,DTP1,2001,57
+3193,West & Central Africa,DTP3,2001,40
+3194,West & Central Africa,HEPB3,2001,1
+3195,West & Central Africa,HEPBB,2001,0
+3196,West & Central Africa,HIB3,2001,0
+3197,West & Central Africa,MCV1,2001,43
+3198,West & Central Africa,MCV2,2001,0
+3199,West & Central Africa,POL3,2001,45
+3200,West & Central Africa,RCV1,2001,0
+3201,West & Central Africa,YFV,2001,13
+3202,West & Central Africa,BCG,2002,58
+3203,West & Central Africa,DTP1,2002,58
+3204,West & Central Africa,DTP3,2002,43
+3205,West & Central Africa,HEPB3,2002,7
+3206,West & Central Africa,HEPBB,2002,0
+3207,West & Central Africa,HIB3,2002,4
+3208,West & Central Africa,MCV1,2002,44
+3209,West & Central Africa,MCV2,2002,0
+3210,West & Central Africa,POL3,2002,50
+3211,West & Central Africa,RCV1,2002,0
+3212,West & Central Africa,YFV,2002,17
+3213,West & Central Africa,BCG,2003,61
+3214,West & Central Africa,DTP1,2003,60
+3215,West & Central Africa,DTP3,2003,46
+3216,West & Central Africa,HEPB3,2003,12
+3217,West & Central Africa,HEPBB,2003,0
+3218,West & Central Africa,HIB3,2003,4
+3219,West & Central Africa,MCV1,2003,49
+3220,West & Central Africa,MCV2,2003,0
+3221,West & Central Africa,POL3,2003,54
+3222,West & Central Africa,RCV1,2003,0
+3223,West & Central Africa,YFV,2003,20
+3224,West & Central Africa,BCG,2004,64
+3225,West & Central Africa,DTP1,2004,63
+3226,West & Central Africa,DTP3,2004,51
+3227,West & Central Africa,HEPB3,2004,14
+3228,West & Central Africa,HEPBB,2004,0
+3229,West & Central Africa,HIB3,2004,4
+3230,West & Central Africa,MCV1,2004,52
+3231,West & Central Africa,MCV2,2004,0
+3232,West & Central Africa,POL3,2004,56
+3233,West & Central Africa,RCV1,2004,0
+3234,West & Central Africa,YFV,2004,37
+3235,West & Central Africa,BCG,2005,68
+3236,West & Central Africa,DTP1,2005,66
+3237,West & Central Africa,DTP3,2005,55
+3238,West & Central Africa,HEPB3,2005,26
+3239,West & Central Africa,HEPBB,2005,0
+3240,West & Central Africa,HIB3,2005,6
+3241,West & Central Africa,MCV1,2005,56
+3242,West & Central Africa,MCV2,2005,0
+3243,West & Central Africa,POL3,2005,60
+3244,West & Central Africa,RCV1,2005,0
+3245,West & Central Africa,YFV,2005,49
+3246,West & Central Africa,BCG,2006,70
+3247,West & Central Africa,DTP1,2006,68
+3248,West & Central Africa,DTP3,2006,58
+3249,West & Central Africa,HEPB3,2006,34
+3250,West & Central Africa,HEPBB,2006,0
+3251,West & Central Africa,HIB3,2006,12
+3252,West & Central Africa,MCV1,2006,58
+3253,West & Central Africa,MCV2,2006,0
+3254,West & Central Africa,POL3,2006,61
+3255,West & Central Africa,RCV1,2006,0
+3256,West & Central Africa,ROTAC,2006,0
+3257,West & Central Africa,YFV,2006,54
+3258,West & Central Africa,BCG,2007,72
+3259,West & Central Africa,DTP1,2007,71
+3260,West & Central Africa,DTP3,2007,61
+3261,West & Central Africa,HEPB3,2007,55
+3262,West & Central Africa,HEPBB,2007,0
+3263,West & Central Africa,HIB3,2007,16
+3264,West & Central Africa,MCV1,2007,59
+3265,West & Central Africa,MCV2,2007,0
+3266,West & Central Africa,POL3,2007,66
+3267,West & Central Africa,RCV1,2007,0
+3268,West & Central Africa,ROTAC,2007,0
+3269,West & Central Africa,YFV,2007,59
+3270,West & Central Africa,BCG,2008,77
+3271,West & Central Africa,DTP1,2008,74
+3272,West & Central Africa,DTP3,2008,65
+3273,West & Central Africa,HEPB3,2008,55
+3274,West & Central Africa,HEPBB,2008,0
+3275,West & Central Africa,HIB3,2008,18
+3276,West & Central Africa,MCV1,2008,63
+3277,West & Central Africa,MCV2,2008,0
+3278,West & Central Africa,PCV3,2008,0
+3279,West & Central Africa,POL3,2008,67
+3280,West & Central Africa,RCV1,2008,0
+3281,West & Central Africa,ROTAC,2008,0
+3282,West & Central Africa,YFV,2008,58
+3283,West & Central Africa,BCG,2009,83
+3284,West & Central Africa,DTP1,2009,80
+3285,West & Central Africa,DTP3,2009,70
+3286,West & Central Africa,HEPB3,2009,70
+3287,West & Central Africa,HEPBB,2009,0
+3288,West & Central Africa,HIB3,2009,46
+3289,West & Central Africa,MCV1,2009,69
+3290,West & Central Africa,MCV2,2009,0
+3291,West & Central Africa,PCV3,2009,0
+3292,West & Central Africa,POL3,2009,72
+3293,West & Central Africa,RCV1,2009,0
+3294,West & Central Africa,ROTAC,2009,0
+3295,West & Central Africa,YFV,2009,68
+3296,West & Central Africa,BCG,2010,77
+3297,West & Central Africa,DTP1,2010,74
+3298,West & Central Africa,DTP3,2010,65
+3299,West & Central Africa,HEPB3,2010,63
+3300,West & Central Africa,HEPBB,2010,0
+3301,West & Central Africa,HIB3,2010,45
+3302,West & Central Africa,MCV1,2010,67
+3303,West & Central Africa,MCV2,2010,0
+3304,West & Central Africa,PCV3,2010,0
+3305,West & Central Africa,POL3,2010,68
+3306,West & Central Africa,RCV1,2010,0
+3307,West & Central Africa,ROTAC,2010,0
+3308,West & Central Africa,YFV,2010,62
+3309,West & Central Africa,BCG,2011,70
+3310,West & Central Africa,DTP1,2011,74
+3311,West & Central Africa,DTP3,2011,64
+3312,West & Central Africa,HEPB3,2011,63
+3313,West & Central Africa,HEPBB,2011,0
+3314,West & Central Africa,HIB3,2011,46
+3315,West & Central Africa,MCV1,2011,64
+3316,West & Central Africa,MCV2,2011,0
+3317,West & Central Africa,PCV3,2011,7
+3318,West & Central Africa,POL3,2011,63
+3319,West & Central Africa,RCV1,2011,0
+3320,West & Central Africa,ROTAC,2011,0
+3321,West & Central Africa,YFV,2011,53
+3322,West & Central Africa,BCG,2012,73
+3323,West & Central Africa,DTP1,2012,72
+3324,West & Central Africa,DTP3,2012,63
+3325,West & Central Africa,HEPB3,2012,63
+3326,West & Central Africa,HEPBB,2012,0
+3327,West & Central Africa,HIB3,2012,51
+3328,West & Central Africa,MCV1,2012,62
+3329,West & Central Africa,MCV2,2012,3
+3330,West & Central Africa,PCV3,2012,14
+3331,West & Central Africa,POL3,2012,63
+3332,West & Central Africa,RCV1,2012,0
+3333,West & Central Africa,ROTAC,2012,2
+3334,West & Central Africa,YFV,2012,52
+3335,West & Central Africa,BCG,2013,69
+3336,West & Central Africa,DTP1,2013,70
+3337,West & Central Africa,DTP3,2013,62
+3338,West & Central Africa,HEPB3,2013,62
+3339,West & Central Africa,HEPBB,2013,0
+3340,West & Central Africa,HIB3,2013,56
+3341,West & Central Africa,MCV1,2013,62
+3342,West & Central Africa,MCV2,2013,3
+3343,West & Central Africa,PCV3,2013,20
+3344,West & Central Africa,POL3,2013,60
+3345,West & Central Africa,RCV1,2013,7
+3346,West & Central Africa,ROTAC,2013,4
+3347,West & Central Africa,YFV,2013,60
+3348,West & Central Africa,BCG,2014,71
+3349,West & Central Africa,DTP1,2014,69
+3350,West & Central Africa,DTP3,2014,62
+3351,West & Central Africa,HEPB3,2014,62
+3352,West & Central Africa,HEPBB,2014,0
+3353,West & Central Africa,HIB3,2014,62
+3354,West & Central Africa,MCV1,2014,60
+3355,West & Central Africa,MCV2,2014,5
+3356,West & Central Africa,PCV3,2014,33
+3357,West & Central Africa,POL3,2014,61
+3358,West & Central Africa,RCV1,2014,7
+3359,West & Central Africa,ROTAC,2014,14
+3360,West & Central Africa,YFV,2014,57
+3361,West & Central Africa,BCG,2015,71
+3362,West & Central Africa,DTP1,2015,69
+3363,West & Central Africa,DTP3,2015,61
+3364,West & Central Africa,HEPB3,2015,61
+3365,West & Central Africa,HEPBB,2015,0
+3366,West & Central Africa,HIB3,2015,61
+3367,West & Central Africa,IPV1,2015,28
+3368,West & Central Africa,MCV1,2015,60
+3369,West & Central Africa,MCV2,2015,9
+3370,West & Central Africa,PCV3,2015,53
+3371,West & Central Africa,POL3,2015,61
+3372,West & Central Africa,RCV1,2015,9
+3373,West & Central Africa,ROTAC,2015,20
+3374,West & Central Africa,YFV,2015,58
+3375,West & Central Africa,BCG,2016,76
+3376,West & Central Africa,DTP1,2016,74
+3377,West & Central Africa,DTP3,2016,65
+3378,West & Central Africa,HEPB3,2016,65
+3379,West & Central Africa,HEPBB,2016,2
+3380,West & Central Africa,HIB3,2016,65
+3381,West & Central Africa,IPV1,2016,47
+3382,West & Central Africa,MCV1,2016,62
+3383,West & Central Africa,MCV2,2016,11
+3384,West & Central Africa,PCV3,2016,60
+3385,West & Central Africa,POL3,2016,65
+3386,West & Central Africa,RCV1,2016,10
+3387,West & Central Africa,ROTAC,2016,25
+3388,West & Central Africa,YFV,2016,58
+3389,West & Central Africa,BCG,2017,77
+3390,West & Central Africa,DTP1,2017,75
+3391,West & Central Africa,DTP3,2017,66
+3392,West & Central Africa,HEPB3,2017,66
+3393,West & Central Africa,HEPBB,2017,2
+3394,West & Central Africa,HIB3,2017,66
+3395,West & Central Africa,IPV1,2017,45
+3396,West & Central Africa,MCV1,2017,63
+3397,West & Central Africa,MCV2,2017,12
+3398,West & Central Africa,PCV3,2017,62
+3399,West & Central Africa,POL3,2017,66
+3400,West & Central Africa,RCV1,2017,14
+3401,West & Central Africa,ROTAC,2017,27
+3402,West & Central Africa,YFV,2017,59
+3403,West & Central Africa,BCG,2018,76
+3404,West & Central Africa,DTP1,2018,74
+3405,West & Central Africa,DTP3,2018,66
+3406,West & Central Africa,HEPB3,2018,66
+3407,West & Central Africa,HEPBB,2018,2
+3408,West & Central Africa,HIB3,2018,66
+3409,West & Central Africa,IPV1,2018,58
+3410,West & Central Africa,MCV1,2018,63
+3411,West & Central Africa,MCV2,2018,12
+3412,West & Central Africa,PCV3,2018,62
+3413,West & Central Africa,POL3,2018,65
+3414,West & Central Africa,RCV1,2018,18
+3415,West & Central Africa,ROTAC,2018,27
+3416,West & Central Africa,YFV,2018,61
+3417,West & Central Africa,BCG,2019,76
+3418,West & Central Africa,DTP1,2019,75
+3419,West & Central Africa,DTP3,2019,66
+3420,West & Central Africa,HEPB3,2019,66
+3421,West & Central Africa,HEPBB,2019,3
+3422,West & Central Africa,HIB3,2019,66
+3423,West & Central Africa,IPV1,2019,65
+3424,West & Central Africa,MCV1,2019,63
+3425,West & Central Africa,MCV2,2019,18
+3426,West & Central Africa,PCV3,2019,63
+3427,West & Central Africa,POL3,2019,66
+3428,West & Central Africa,RCV1,2019,20
+3429,West & Central Africa,ROTAC,2019,28
+3430,West & Central Africa,YFV,2019,62
+3431,Western Europe,BCG,1980,57
+3432,Western Europe,DTP1,1980,53
+3433,Western Europe,DTP3,1980,46
+3434,Western Europe,MCV1,1980,31
+3435,Western Europe,POL3,1980,62
+3436,Western Europe,RCV1,1980,10
+3437,Western Europe,BCG,1981,61
+3438,Western Europe,DTP1,1981,69
+3439,Western Europe,DTP3,1981,62
+3440,Western Europe,MCV1,1981,38
+3441,Western Europe,POL3,1981,65
+3442,Western Europe,RCV1,1981,12
+3443,Western Europe,BCG,1982,61
+3444,Western Europe,DTP1,1982,71
+3445,Western Europe,DTP3,1982,64
+3446,Western Europe,MCV1,1982,41
+3447,Western Europe,POL3,1982,67
+3448,Western Europe,RCV1,1982,16
+3449,Western Europe,BCG,1983,63
+3450,Western Europe,DTP1,1983,72
+3451,Western Europe,DTP3,1983,66
+3452,Western Europe,MCV1,1983,46
+3453,Western Europe,POL3,1983,80
+3454,Western Europe,RCV1,1983,21
+3455,Western Europe,BCG,1984,67
+3456,Western Europe,DTP1,1984,82
+3457,Western Europe,DTP3,1984,76
+3458,Western Europe,MCV1,1984,53
+3459,Western Europe,POL3,1984,88
+3460,Western Europe,RCV1,1984,27
+3461,Western Europe,BCG,1985,65
+3462,Western Europe,DTP1,1985,81
+3463,Western Europe,DTP3,1985,73
+3464,Western Europe,HEPB3,1985,0
+3465,Western Europe,MCV1,1985,57
+3466,Western Europe,POL3,1985,88
+3467,Western Europe,RCV1,1985,34
+3468,Western Europe,BCG,1986,65
+3469,Western Europe,DTP1,1986,84
+3470,Western Europe,DTP3,1986,78
+3471,Western Europe,HEPB3,1986,0
+3472,Western Europe,MCV1,1986,63
+3473,Western Europe,POL3,1986,91
+3474,Western Europe,RCV1,1986,37
+3475,Western Europe,BCG,1987,63
+3476,Western Europe,DTP1,1987,84
+3477,Western Europe,DTP3,1987,75
+3478,Western Europe,HEPB3,1987,0
+3479,Western Europe,MCV1,1987,67
+3480,Western Europe,POL3,1987,88
+3481,Western Europe,RCV1,1987,39
+3482,Western Europe,BCG,1988,64
+3483,Western Europe,DTP1,1988,84
+3484,Western Europe,DTP3,1988,75
+3485,Western Europe,HEPB3,1988,0
+3486,Western Europe,MCV1,1988,69
+3487,Western Europe,POL3,1988,88
+3488,Western Europe,RCV1,1988,53
+3489,Western Europe,BCG,1989,63
+3490,Western Europe,DTP1,1989,85
+3491,Western Europe,DTP3,1989,78
+3492,Western Europe,HEPB3,1989,0
+3493,Western Europe,MCV1,1989,72
+3494,Western Europe,POL3,1989,88
+3495,Western Europe,RCV1,1989,58
+3496,Western Europe,BCG,1990,63
+3497,Western Europe,DTP1,1990,95
+3498,Western Europe,DTP3,1990,87
+3499,Western Europe,HEPB3,1990,0
+3500,Western Europe,HIB3,1990,0
+3501,Western Europe,MCV1,1990,80
+3502,Western Europe,POL3,1990,92
+3503,Western Europe,RCV1,1990,66
+3504,Western Europe,BCG,1991,63
+3505,Western Europe,DTP1,1991,96
+3506,Western Europe,DTP3,1991,90
+3507,Western Europe,HEPB3,1991,11
+3508,Western Europe,HIB3,1991,11
+3509,Western Europe,MCV1,1991,80
+3510,Western Europe,POL3,1991,92
+3511,Western Europe,RCV1,1991,78
+3512,Western Europe,BCG,1992,63
+3513,Western Europe,DTP1,1992,96
+3514,Western Europe,DTP3,1992,91
+3515,Western Europe,HEPB3,1992,11
+3516,Western Europe,HIB3,1992,15
+3517,Western Europe,MCV1,1992,81
+3518,Western Europe,POL3,1992,92
+3519,Western Europe,RCV1,1992,79
+3520,Western Europe,BCG,1993,64
+3521,Western Europe,DTP1,1993,94
+3522,Western Europe,DTP3,1993,87
+3523,Western Europe,HEPB3,1993,12
+3524,Western Europe,HIB3,1993,30
+3525,Western Europe,MCV1,1993,83
+3526,Western Europe,POL3,1993,93
+3527,Western Europe,RCV1,1993,81
+3528,Western Europe,BCG,1994,66
+3529,Western Europe,DTP1,1994,96
+3530,Western Europe,DTP3,1994,91
+3531,Western Europe,HEPB3,1994,15
+3532,Western Europe,HIB3,1994,31
+3533,Western Europe,MCV1,1994,84
+3534,Western Europe,POL3,1994,95
+3535,Western Europe,RCV1,1994,83
+3536,Western Europe,BCG,1995,87
+3537,Western Europe,DTP1,1995,97
+3538,Western Europe,DTP3,1995,92
+3539,Western Europe,HEPB3,1995,20
+3540,Western Europe,HIB3,1995,32
+3541,Western Europe,MCV1,1995,85
+3542,Western Europe,POL3,1995,95
+3543,Western Europe,RCV1,1995,85
+3544,Western Europe,BCG,1996,86
+3545,Western Europe,DTP1,1996,97
+3546,Western Europe,DTP3,1996,93
+3547,Western Europe,HEPB3,1996,31
+3548,Western Europe,HIB3,1996,34
+3549,Western Europe,MCV1,1996,87
+3550,Western Europe,POL3,1996,96
+3551,Western Europe,RCV1,1996,87
+3552,Western Europe,BCG,1997,86
+3553,Western Europe,DTP1,1997,97
+3554,Western Europe,DTP3,1997,93
+3555,Western Europe,HEPB3,1997,38
+3556,Western Europe,HIB3,1997,39
+3557,Western Europe,MCV1,1997,87
+3558,Western Europe,POL3,1997,95
+3559,Western Europe,RCV1,1997,87
+3560,Western Europe,BCG,1998,85
+3561,Western Europe,DTP1,1998,97
+3562,Western Europe,DTP3,1998,93
+3563,Western Europe,HEPB3,1998,46
+3564,Western Europe,HIB3,1998,62
+3565,Western Europe,MCV1,1998,86
+3566,Western Europe,POL3,1998,95
+3567,Western Europe,RCV1,1998,86
+3568,Western Europe,BCG,1999,86
+3569,Western Europe,DTP1,1999,98
+3570,Western Europe,DTP3,1999,95
+3571,Western Europe,HEPB3,1999,47
+3572,Western Europe,HIB3,1999,68
+3573,Western Europe,MCV1,1999,88
+3574,Western Europe,POL3,1999,95
+3575,Western Europe,RCV1,1999,88
+3576,Western Europe,BCG,2000,86
+3577,Western Europe,DTP1,2000,98
+3578,Western Europe,DTP3,2000,93
+3579,Western Europe,HEPB3,2000,49
+3580,Western Europe,HEPBB,2000,10
+3581,Western Europe,HIB3,2000,76
+3582,Western Europe,MCV1,2000,88
+3583,Western Europe,MCV2,2000,31
+3584,Western Europe,POL3,2000,95
+3585,Western Europe,RCV1,2000,88
+3586,Western Europe,BCG,2001,86
+3587,Western Europe,DTP1,2001,98
+3588,Western Europe,DTP3,2001,95
+3589,Western Europe,HEPB3,2001,50
+3590,Western Europe,HEPBB,2001,10
+3591,Western Europe,HIB3,2001,79
+3592,Western Europe,MCV1,2001,89
+3593,Western Europe,MCV2,2001,34
+3594,Western Europe,POL3,2001,95
+3595,Western Europe,RCV1,2001,89
+3596,Western Europe,BCG,2002,86
+3597,Western Europe,DTP1,2002,98
+3598,Western Europe,DTP3,2002,95
+3599,Western Europe,HEPB3,2002,53
+3600,Western Europe,HEPBB,2002,10
+3601,Western Europe,HIB3,2002,83
+3602,Western Europe,MCV1,2002,90
+3603,Western Europe,MCV2,2002,49
+3604,Western Europe,POL3,2002,96
+3605,Western Europe,RCV1,2002,90
+3606,Western Europe,BCG,2003,85
+3607,Western Europe,DTP1,2003,98
+3608,Western Europe,DTP3,2003,96
+3609,Western Europe,HEPB3,2003,54
+3610,Western Europe,HEPBB,2003,10
+3611,Western Europe,HIB3,2003,84
+3612,Western Europe,MCV1,2003,90
+3613,Western Europe,MCV2,2003,50
+3614,Western Europe,POL3,2003,96
+3615,Western Europe,RCV1,2003,90
+3616,Western Europe,BCG,2004,84
+3617,Western Europe,DTP1,2004,98
+3618,Western Europe,DTP3,2004,96
+3619,Western Europe,HEPB3,2004,57
+3620,Western Europe,HEPBB,2004,10
+3621,Western Europe,HIB3,2004,87
+3622,Western Europe,MCV1,2004,91
+3623,Western Europe,MCV2,2004,58
+3624,Western Europe,POL3,2004,96
+3625,Western Europe,RCV1,2004,91
+3626,Western Europe,BCG,2005,83
+3627,Western Europe,DTP1,2005,98
+3628,Western Europe,DTP3,2005,95
+3629,Western Europe,HEPB3,2005,57
+3630,Western Europe,HEPBB,2005,10
+3631,Western Europe,HIB3,2005,88
+3632,Western Europe,MCV1,2005,91
+3633,Western Europe,MCV2,2005,58
+3634,Western Europe,POL3,2005,96
+3635,Western Europe,RCV1,2005,91
+3636,Western Europe,BCG,2006,84
+3637,Western Europe,DTP1,2006,98
+3638,Western Europe,DTP3,2006,96
+3639,Western Europe,HEPB3,2006,58
+3640,Western Europe,HEPBB,2006,10
+3641,Western Europe,HIB3,2006,90
+3642,Western Europe,MCV1,2006,92
+3643,Western Europe,MCV2,2006,61
+3644,Western Europe,POL3,2006,96
+3645,Western Europe,RCV1,2006,92
+3646,Western Europe,ROTAC,2006,0
+3647,Western Europe,BCG,2007,81
+3648,Western Europe,DTP1,2007,98
+3649,Western Europe,DTP3,2007,96
+3650,Western Europe,HEPB3,2007,58
+3651,Western Europe,HEPBB,2007,10
+3652,Western Europe,HIB3,2007,94
+3653,Western Europe,MCV1,2007,93
+3654,Western Europe,MCV2,2007,62
+3655,Western Europe,POL3,2007,96
+3656,Western Europe,RCV1,2007,93
+3657,Western Europe,ROTAC,2007,0
+3658,Western Europe,BCG,2008,84
+3659,Western Europe,DTP1,2008,98
+3660,Western Europe,DTP3,2008,96
+3661,Western Europe,HEPB3,2008,59
+3662,Western Europe,HEPBB,2008,10
+3663,Western Europe,HIB3,2008,95
+3664,Western Europe,MCV1,2008,93
+3665,Western Europe,MCV2,2008,62
+3666,Western Europe,PCV3,2008,18
+3667,Western Europe,POL3,2008,96
+3668,Western Europe,RCV1,2008,93
+3669,Western Europe,ROTAC,2008,1
+3670,Western Europe,BCG,2009,83
+3671,Western Europe,DTP1,2009,98
+3672,Western Europe,DTP3,2009,96
+3673,Western Europe,HEPB3,2009,59
+3674,Western Europe,HEPBB,2009,10
+3675,Western Europe,HIB3,2009,95
+3676,Western Europe,MCV1,2009,93
+3677,Western Europe,MCV2,2009,62
+3678,Western Europe,PCV3,2009,27
+3679,Western Europe,POL3,2009,96
+3680,Western Europe,RCV1,2009,93
+3681,Western Europe,ROTAC,2009,1
+3682,Western Europe,BCG,2010,81
+3683,Western Europe,DTP1,2010,98
+3684,Western Europe,DTP3,2010,97
+3685,Western Europe,HEPB3,2010,62
+3686,Western Europe,HEPBB,2010,10
+3687,Western Europe,HIB3,2010,95
+3688,Western Europe,MCV1,2010,93
+3689,Western Europe,MCV2,2010,73
+3690,Western Europe,PCV3,2010,58
+3691,Western Europe,POL3,2010,96
+3692,Western Europe,RCV1,2010,93
+3693,Western Europe,ROTAC,2010,2
+3694,Western Europe,BCG,2011,82
+3695,Western Europe,DTP1,2011,98
+3696,Western Europe,DTP3,2011,97
+3697,Western Europe,HEPB3,2011,65
+3698,Western Europe,HEPBB,2011,10
+3699,Western Europe,HIB3,2011,96
+3700,Western Europe,MCV1,2011,93
+3701,Western Europe,MCV2,2011,74
+3702,Western Europe,PCV3,2011,62
+3703,Western Europe,POL3,2011,96
+3704,Western Europe,RCV1,2011,93
+3705,Western Europe,ROTAC,2011,2
+3706,Western Europe,BCG,2012,82
+3707,Western Europe,DTP1,2012,99
+3708,Western Europe,DTP3,2012,97
+3709,Western Europe,HEPB3,2012,66
+3710,Western Europe,HEPBB,2012,9
+3711,Western Europe,HIB3,2012,96
+3712,Western Europe,MCV1,2012,94
+3713,Western Europe,MCV2,2012,76
+3714,Western Europe,PCV3,2012,66
+3715,Western Europe,POL3,2012,96
+3716,Western Europe,RCV1,2012,94
+3717,Western Europe,ROTAC,2012,4
+3718,Western Europe,BCG,2013,78
+3719,Western Europe,DTP1,2013,98
+3720,Western Europe,DTP3,2013,96
+3721,Western Europe,HEPB3,2013,67
+3722,Western Europe,HEPBB,2013,9
+3723,Western Europe,HIB3,2013,96
+3724,Western Europe,MCV1,2013,94
+3725,Western Europe,MCV2,2013,85
+3726,Western Europe,PCV3,2013,67
+3727,Western Europe,POL3,2013,96
+3728,Western Europe,RCV1,2013,94
+3729,Western Europe,ROTAC,2013,4
+3730,Western Europe,BCG,2014,77
+3731,Western Europe,DTP1,2014,98
+3732,Western Europe,DTP3,2014,96
+3733,Western Europe,HEPB3,2014,69
+3734,Western Europe,HEPBB,2014,9
+3735,Western Europe,HIB3,2014,96
+3736,Western Europe,MCV1,2014,94
+3737,Western Europe,MCV2,2014,86
+3738,Western Europe,PCV3,2014,68
+3739,Western Europe,POL3,2014,96
+3740,Western Europe,RCV1,2014,94
+3741,Western Europe,ROTAC,2014,14
+3742,Western Europe,BCG,2015,71
+3743,Western Europe,DTP1,2015,98
+3744,Western Europe,DTP3,2015,96
+3745,Western Europe,HEPB3,2015,70
+3746,Western Europe,HEPBB,2015,9
+3747,Western Europe,HIB3,2015,95
+3748,Western Europe,MCV1,2015,94
+3749,Western Europe,MCV2,2015,86
+3750,Western Europe,PCV3,2015,69
+3751,Western Europe,POL3,2015,95
+3752,Western Europe,RCV1,2015,94
+3753,Western Europe,ROTAC,2015,29
+3754,Western Europe,BCG,2016,71
+3755,Western Europe,DTP1,2016,98
+3756,Western Europe,DTP3,2016,95
+3757,Western Europe,HEPB3,2016,70
+3758,Western Europe,HEPBB,2016,9
+3759,Western Europe,HIB3,2016,95
+3760,Western Europe,MCV1,2016,94
+3761,Western Europe,MCV2,2016,87
+3762,Western Europe,PCV3,2016,71
+3763,Western Europe,POL3,2016,95
+3764,Western Europe,RCV1,2016,94
+3765,Western Europe,ROTAC,2016,30
+3766,Western Europe,BCG,2017,68
+3767,Western Europe,DTP1,2017,98
+3768,Western Europe,DTP3,2017,95
+3769,Western Europe,HEPB3,2017,71
+3770,Western Europe,HEPBB,2017,9
+3771,Western Europe,HIB3,2017,94
+3772,Western Europe,MCV1,2017,94
+3773,Western Europe,MCV2,2017,88
+3774,Western Europe,PCV3,2017,80
+3775,Western Europe,POL3,2017,94
+3776,Western Europe,RCV1,2017,94
+3777,Western Europe,ROTAC,2017,33
+3778,Western Europe,BCG,2018,68
+3779,Western Europe,DTP1,2018,98
+3780,Western Europe,DTP3,2018,95
+3781,Western Europe,HEPB3,2018,71
+3782,Western Europe,HEPBB,2018,9
+3783,Western Europe,HIB3,2018,94
+3784,Western Europe,MCV1,2018,94
+3785,Western Europe,MCV2,2018,88
+3786,Western Europe,PCV3,2018,84
+3787,Western Europe,POL3,2018,94
+3788,Western Europe,RCV1,2018,94
+3789,Western Europe,ROTAC,2018,35
+3790,Western Europe,BCG,2019,68
+3791,Western Europe,DTP1,2019,98
+3792,Western Europe,DTP3,2019,95
+3793,Western Europe,HEPB3,2019,88
+3794,Western Europe,HEPBB,2019,9
+3795,Western Europe,HIB3,2019,94
+3796,Western Europe,MCV1,2019,94
+3797,Western Europe,MCV2,2019,88
+3798,Western Europe,PCV3,2019,84
+3799,Western Europe,POL3,2019,94
+3800,Western Europe,RCV1,2019,94
+3801,Western Europe,ROTAC,2019,39

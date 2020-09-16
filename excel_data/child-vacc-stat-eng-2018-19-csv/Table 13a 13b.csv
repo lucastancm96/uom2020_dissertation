@@ -1,0 +1,478 @@
+Table_Ref,CollectionYearRange,Parent_Org_Name,Parent_Org_ONS_Code,Org_Name,Org_ONS_Code,Child_Age_RiskGroup,Unit,Indicator,Value
+13a_13b,2018-19,England,ENG,England,ENG,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),56.86419448893270
+13a_13b,2018-19,England,ENG,England,ENG,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),45.51244352229550
+13a_13b,2018-19,England,ENG,England,ENG,All 3 year olds,%,Influenza (seasonal flu),45.93001123880650
+13a_13b,2018-19,North East,E12000001,North East,E12000001,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),54.76190476190480
+13a_13b,2018-19,North East,E12000001,North East,E12000001,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),46.22094058172240
+13a_13b,2018-19,North East,E12000001,North East,E12000001,All 3 year olds,%,Influenza (seasonal flu),46.54055721188440
+13a_13b,2018-19,North East,E12000001,County Durham,E06000047,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),53.03643724696360
+13a_13b,2018-19,North East,E12000001,County Durham,E06000047,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),47.12385235150830
+13a_13b,2018-19,North East,E12000001,County Durham,E06000047,All 3 year olds,%,Influenza (seasonal flu),47.38538681948420
+13a_13b,2018-19,North East,E12000001,Darlington,E06000005,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),48.33333333333330
+13a_13b,2018-19,North East,E12000001,Darlington,E06000005,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),46.33936261843240
+13a_13b,2018-19,North East,E12000001,Darlington,E06000005,All 3 year olds,%,Influenza (seasonal flu),46.43734643734640
+13a_13b,2018-19,North East,E12000001,Gateshead,E08000037,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),57.14285714285710
+13a_13b,2018-19,North East,E12000001,Gateshead,E08000037,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),47.42959320518550
+13a_13b,2018-19,North East,E12000001,Gateshead,E08000037,All 3 year olds,%,Influenza (seasonal flu),47.72431729518860
+13a_13b,2018-19,North East,E12000001,Hartlepool,E06000001,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),51.42857142857140
+13a_13b,2018-19,North East,E12000001,Hartlepool,E06000001,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),32.82001924927820
+13a_13b,2018-19,North East,E12000001,Hartlepool,E06000001,All 3 year olds,%,Influenza (seasonal flu),33.42644320297950
+13a_13b,2018-19,North East,E12000001,Middlesbrough,E06000002,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),53.52112676056340
+13a_13b,2018-19,North East,E12000001,Middlesbrough,E06000002,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),29.61240310077520
+13a_13b,2018-19,North East,E12000001,Middlesbrough,E06000002,All 3 year olds,%,Influenza (seasonal flu),30.45862412761710
+13a_13b,2018-19,North East,E12000001,Newcastle upon Tyne,E08000021,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),58.06451612903230
+13a_13b,2018-19,North East,E12000001,Newcastle upon Tyne,E08000021,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),47.41406008052030
+13a_13b,2018-19,North East,E12000001,Newcastle upon Tyne,E08000021,All 3 year olds,%,Influenza (seasonal flu),47.80793319415450
+13a_13b,2018-19,North East,E12000001,North Tyneside,E08000022,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),53.84615384615380
+13a_13b,2018-19,North East,E12000001,North Tyneside,E08000022,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),47.18309859154930
+13a_13b,2018-19,North East,E12000001,North Tyneside,E08000022,All 3 year olds,%,Influenza (seasonal flu),47.41847826086960
+13a_13b,2018-19,North East,E12000001,Northumberland,E06000057,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),60.71428571428570
+13a_13b,2018-19,North East,E12000001,Northumberland,E06000057,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),54.86486486486490
+13a_13b,2018-19,North East,E12000001,Northumberland,E06000057,All 3 year olds,%,Influenza (seasonal flu),55.07812500000000
+13a_13b,2018-19,North East,E12000001,Redcar and Cleveland,E06000003,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),50.74626865671640
+13a_13b,2018-19,North East,E12000001,Redcar and Cleveland,E06000003,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),45.72463768115940
+13a_13b,2018-19,North East,E12000001,Redcar and Cleveland,E06000003,All 3 year olds,%,Influenza (seasonal flu),45.95715272978580
+13a_13b,2018-19,North East,E12000001,South Tyneside,E08000023,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),65.57377049180330
+13a_13b,2018-19,North East,E12000001,South Tyneside,E08000023,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),49.59702417854930
+13a_13b,2018-19,North East,E12000001,South Tyneside,E08000023,All 3 year olds,%,Influenza (seasonal flu),50.17921146953400
+13a_13b,2018-19,North East,E12000001,Stockton-on-Tees,E06000004,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),50.48543689320390
+13a_13b,2018-19,North East,E12000001,Stockton-on-Tees,E06000004,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),50.24239753195240
+13a_13b,2018-19,North East,E12000001,Stockton-on-Tees,E06000004,All 3 year olds,%,Influenza (seasonal flu),50.25295109612140
+13a_13b,2018-19,North East,E12000001,Sunderland,E08000024,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),53.12500000000000
+13a_13b,2018-19,North East,E12000001,Sunderland,E08000024,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),43.72990353697750
+13a_13b,2018-19,North East,E12000001,Sunderland,E08000024,All 3 year olds,%,Influenza (seasonal flu),43.93992315752710
+13a_13b,2018-19,North West,E12000002,North West,E12000002,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),55.96429537462810
+13a_13b,2018-19,North West,E12000002,North West,E12000002,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),44.60374829459780
+13a_13b,2018-19,North West,E12000002,North West,E12000002,All 3 year olds,%,Influenza (seasonal flu),45.08509541000520
+13a_13b,2018-19,North West,E12000002,Blackburn with Darwen,E06000008,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),42.52873563218390
+13a_13b,2018-19,North West,E12000002,Blackburn with Darwen,E06000008,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),35.58068725532840
+13a_13b,2018-19,North West,E12000002,Blackburn with Darwen,E06000008,All 3 year olds,%,Influenza (seasonal flu),35.83403185247280
+13a_13b,2018-19,North West,E12000002,Blackpool,E06000009,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),60.00000000000000
+13a_13b,2018-19,North West,E12000002,Blackpool,E06000009,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),45.28412419449330
+13a_13b,2018-19,North West,E12000002,Blackpool,E06000009,All 3 year olds,%,Influenza (seasonal flu),46.05993340732520
+13a_13b,2018-19,North West,E12000002,Bolton,E08000001,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),55.31914893617020
+13a_13b,2018-19,North West,E12000002,Bolton,E08000001,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),36.72442705422020
+13a_13b,2018-19,North West,E12000002,Bolton,E08000001,All 3 year olds,%,Influenza (seasonal flu),37.42941650981450
+13a_13b,2018-19,North West,E12000002,Bury,E08000002,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),62.50000000000000
+13a_13b,2018-19,North West,E12000002,Bury,E08000002,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),50.20804438280170
+13a_13b,2018-19,North West,E12000002,Bury,E08000002,All 3 year olds,%,Influenza (seasonal flu),50.79260237780710
+13a_13b,2018-19,North West,E12000002,Cheshire East,E06000049,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),67.87878787878790
+13a_13b,2018-19,North West,E12000002,Cheshire East,E06000049,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),57.91563275434240
+13a_13b,2018-19,North West,E12000002,Cheshire East,E06000049,All 3 year olds,%,Influenza (seasonal flu),58.30750893921330
+13a_13b,2018-19,North West,E12000002,Cheshire West and Chester,E06000050,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),54.00000000000000
+13a_13b,2018-19,North West,E12000002,Cheshire West and Chester,E06000050,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),53.27349524815210
+13a_13b,2018-19,North West,E12000002,Cheshire West and Chester,E06000050,All 3 year olds,%,Influenza (seasonal flu),53.30116810563740
+13a_13b,2018-19,North West,E12000002,Cumbria,E10000006,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),59.16230366492150
+13a_13b,2018-19,North West,E12000002,Cumbria,E10000006,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),51.47492625368730
+13a_13b,2018-19,North West,E12000002,Cumbria,E10000006,All 3 year olds,%,Influenza (seasonal flu),51.77233137532920
+13a_13b,2018-19,North West,E12000002,Halton,E06000006,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),55.00000000000000
+13a_13b,2018-19,North West,E12000002,Halton,E06000006,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),38.67667121418830
+13a_13b,2018-19,North West,E12000002,Halton,E06000006,All 3 year olds,%,Influenza (seasonal flu),39.52134540750320
+13a_13b,2018-19,North West,E12000002,Knowsley,E08000011,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),33.33333333333330
+13a_13b,2018-19,North West,E12000002,Knowsley,E08000011,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),36.21262458471760
+13a_13b,2018-19,North West,E12000002,Knowsley,E08000011,All 3 year olds,%,Influenza (seasonal flu),36.09341825902340
+13a_13b,2018-19,North West,E12000002,Lancashire,E10000017,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),59.85533453887880
+13a_13b,2018-19,North West,E12000002,Lancashire,E10000017,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),44.92199449372900
+13a_13b,2018-19,North West,E12000002,Lancashire,E10000017,All 3 year olds,%,Influenza (seasonal flu),45.52791840927430
+13a_13b,2018-19,North West,E12000002,Liverpool,E08000012,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),44.64944649446490
+13a_13b,2018-19,North West,E12000002,Liverpool,E08000012,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),32.21317040054310
+13a_13b,2018-19,North West,E12000002,Liverpool,E08000012,All 3 year olds,%,Influenza (seasonal flu),32.76001947103680
+13a_13b,2018-19,North West,E12000002,Manchester,E08000003,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),47.05882352941180
+13a_13b,2018-19,North West,E12000002,Manchester,E08000003,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),38.52824894783830
+13a_13b,2018-19,North West,E12000002,Manchester,E08000003,All 3 year olds,%,Influenza (seasonal flu),38.88277716660550
+13a_13b,2018-19,North West,E12000002,Oldham,E08000004,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),57.74647887323940
+13a_13b,2018-19,North West,E12000002,Oldham,E08000004,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),42.40625000000000
+13a_13b,2018-19,North West,E12000002,Oldham,E08000004,All 3 year olds,%,Influenza (seasonal flu),43.36360972751250
+13a_13b,2018-19,North West,E12000002,Rochdale,E08000005,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),67.92452830188680
+13a_13b,2018-19,North West,E12000002,Rochdale,E08000005,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),43.21554770318020
+13a_13b,2018-19,North West,E12000002,Rochdale,E08000005,All 3 year olds,%,Influenza (seasonal flu),44.52994312479090
+13a_13b,2018-19,North West,E12000002,Salford,E08000006,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),48.76033057851240
+13a_13b,2018-19,North West,E12000002,Salford,E08000006,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),35.80464842600770
+13a_13b,2018-19,North West,E12000002,Salford,E08000006,All 3 year olds,%,Influenza (seasonal flu),36.25000000000000
+13a_13b,2018-19,North West,E12000002,Sefton,E08000014,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),45.52845528455280
+13a_13b,2018-19,North West,E12000002,Sefton,E08000014,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),42.07589285714290
+13a_13b,2018-19,North West,E12000002,Sefton,E08000014,All 3 year olds,%,Influenza (seasonal flu),42.22696549270720
+13a_13b,2018-19,North West,E12000002,St Helens,E08000013,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),47.95918367346940
+13a_13b,2018-19,North West,E12000002,St Helens,E08000013,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),42.82077393075360
+13a_13b,2018-19,North West,E12000002,St Helens,E08000013,All 3 year olds,%,Influenza (seasonal flu),43.06498545101840
+13a_13b,2018-19,North West,E12000002,Stockport,E08000007,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),76.55172413793100
+13a_13b,2018-19,North West,E12000002,Stockport,E08000007,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),64.78793054369490
+13a_13b,2018-19,North West,E12000002,Stockport,E08000007,All 3 year olds,%,Influenza (seasonal flu),65.25423728813560
+13a_13b,2018-19,North West,E12000002,Tameside,E08000008,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),54.03225806451610
+13a_13b,2018-19,North West,E12000002,Tameside,E08000008,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),46.48351648351650
+13a_13b,2018-19,North West,E12000002,Tameside,E08000008,All 3 year olds,%,Influenza (seasonal flu),46.81149264190610
+13a_13b,2018-19,North West,E12000002,Trafford,E08000009,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),61.68224299065420
+13a_13b,2018-19,North West,E12000002,Trafford,E08000009,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),52.33876683203400
+13a_13b,2018-19,North West,E12000002,Trafford,E08000009,All 3 year olds,%,Influenza (seasonal flu),52.68009559576650
+13a_13b,2018-19,North West,E12000002,Warrington,E06000007,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),57.57575757575760
+13a_13b,2018-19,North West,E12000002,Warrington,E06000007,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),47.72618477740550
+13a_13b,2018-19,North West,E12000002,Warrington,E06000007,All 3 year olds,%,Influenza (seasonal flu),48.17184643510050
+13a_13b,2018-19,North West,E12000002,Wigan,E08000010,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),61.29032258064520
+13a_13b,2018-19,North West,E12000002,Wigan,E08000010,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),45.32283464566930
+13a_13b,2018-19,North West,E12000002,Wigan,E08000010,All 3 year olds,%,Influenza (seasonal flu),45.92300697180960
+13a_13b,2018-19,North West,E12000002,Wirral,E08000015,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),58.38509316770190
+13a_13b,2018-19,North West,E12000002,Wirral,E08000015,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),46.16048317515100
+13a_13b,2018-19,North West,E12000002,Wirral,E08000015,All 3 year olds,%,Influenza (seasonal flu),46.70148433205060
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Yorkshire and the Humber,E12000003,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),51.14715189873420
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Yorkshire and the Humber,E12000003,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),42.74176946586640
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Yorkshire and the Humber,E12000003,All 3 year olds,%,Influenza (seasonal flu),43.06530444447830
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Barnsley,E08000016,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),61.85567010309280
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Barnsley,E08000016,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),52.91984040623870
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Barnsley,E08000016,All 3 year olds,%,Influenza (seasonal flu),53.22354590049050
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Bradford,E08000032,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),38.30845771144280
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Bradford,E08000032,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),30.47945205479450
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Bradford,E08000032,All 3 year olds,%,Influenza (seasonal flu),30.85928071445810
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Calderdale,E08000033,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),55.20833333333330
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Calderdale,E08000033,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),44.93484657419080
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Calderdale,E08000033,All 3 year olds,%,Influenza (seasonal flu),45.33333333333330
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Doncaster,E08000017,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),54.89130434782610
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Doncaster,E08000017,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),37.78456413103830
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Doncaster,E08000017,All 3 year olds,%,Influenza (seasonal flu),38.61595351294240
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,East Riding of Yorkshire,E06000011,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),50.45871559633030
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,East Riding of Yorkshire,E06000011,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),46.48876404494380
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,East Riding of Yorkshire,E06000011,All 3 year olds,%,Influenza (seasonal flu),46.63510314507950
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Kingston upon Hull,E06000010,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),45.45454545454550
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Kingston upon Hull,E06000010,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),36.24309392265190
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Kingston upon Hull,E06000010,All 3 year olds,%,Influenza (seasonal flu),36.51474530831100
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Kirklees,E08000034,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),43.45549738219900
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Kirklees,E08000034,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),37.14721586575130
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Kirklees,E08000034,All 3 year olds,%,Influenza (seasonal flu),37.36890524379020
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Leeds,E08000035,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),56.25000000000000
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Leeds,E08000035,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),46.27669998040370
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Leeds,E08000035,All 3 year olds,%,Influenza (seasonal flu),46.60920628906990
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,North East Lincolnshire,E06000012,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),47.91666666666670
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,North East Lincolnshire,E06000012,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),38.74873864783050
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,North East Lincolnshire,E06000012,All 3 year olds,%,Influenza (seasonal flu),39.17228103946100
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,North Lincolnshire,E06000013,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),43.28358208955220
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,North Lincolnshire,E06000013,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),39.76705490848590
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,North Lincolnshire,E06000013,All 3 year olds,%,Influenza (seasonal flu),39.89304812834220
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,North Yorkshire,E10000023,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),66.06334841628960
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,North Yorkshire,E10000023,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),54.47761194029850
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,North Yorkshire,E10000023,All 3 year olds,%,Influenza (seasonal flu),54.93639132771910
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Rotherham,E08000018,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),58.87096774193550
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Rotherham,E08000018,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),40.85047054722900
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Rotherham,E08000018,All 3 year olds,%,Influenza (seasonal flu),41.59705980621450
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Sheffield,E08000019,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),47.81021897810220
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Sheffield,E08000019,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),44.96062992125980
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Sheffield,E08000019,All 3 year olds,%,Influenza (seasonal flu),45.07850241545890
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Wakefield,E08000036,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),54.30463576158940
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Wakefield,E08000036,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),45.98055489684610
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,Wakefield,E08000036,All 3 year olds,%,Influenza (seasonal flu),46.26831501831500
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,York,E06000014,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),59.25925925925930
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,York,E06000014,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),50.34516765286000
+13a_13b,2018-19,Yorkshire and the Humber,E12000003,York,E06000014,All 3 year olds,%,Influenza (seasonal flu),50.57636887608070
+13a_13b,2018-19,East Midlands,E12000004,East Midlands,E12000004,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),59.44723618090450
+13a_13b,2018-19,East Midlands,E12000004,East Midlands,E12000004,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),51.12022720100980
+13a_13b,2018-19,East Midlands,E12000004,East Midlands,E12000004,All 3 year olds,%,Influenza (seasonal flu),51.41685910173100
+13a_13b,2018-19,East Midlands,E12000004,Derby,E06000015,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),55.37190082644630
+13a_13b,2018-19,East Midlands,E12000004,Derby,E06000015,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),45.51765771204350
+13a_13b,2018-19,East Midlands,E12000004,Derby,E06000015,All 3 year olds,%,Influenza (seasonal flu),45.86488060570760
+13a_13b,2018-19,East Midlands,E12000004,Derbyshire,E10000007,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),59.58904109589040
+13a_13b,2018-19,East Midlands,E12000004,Derbyshire,E10000007,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),55.09534798979720
+13a_13b,2018-19,East Midlands,E12000004,Derbyshire,E10000007,All 3 year olds,%,Influenza (seasonal flu),55.24926686217010
+13a_13b,2018-19,East Midlands,E12000004,Leicester,E06000016,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),48.52941176470590
+13a_13b,2018-19,East Midlands,E12000004,Leicester,E06000016,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),40.49471374426490
+13a_13b,2018-19,East Midlands,E12000004,Leicester,E06000016,All 3 year olds,%,Influenza (seasonal flu),40.70693338512330
+13a_13b,2018-19,East Midlands,E12000004,Leicestershire (inc. Rutland),E10000018,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),71.26436781609200
+13a_13b,2018-19,East Midlands,E12000004,Leicestershire (inc. Rutland),E10000018,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),61.93900652550270
+13a_13b,2018-19,East Midlands,E12000004,Leicestershire (inc. Rutland),E10000018,All 3 year olds,%,Influenza (seasonal flu),62.25225225225220
+13a_13b,2018-19,East Midlands,E12000004,Lincolnshire,E10000019,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),61.23076923076920
+13a_13b,2018-19,East Midlands,E12000004,Lincolnshire,E10000019,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),54.42020665901260
+13a_13b,2018-19,East Midlands,E12000004,Lincolnshire,E10000019,All 3 year olds,%,Influenza (seasonal flu),54.69132778049980
+13a_13b,2018-19,East Midlands,E12000004,Northamptonshire,E10000021,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),56.81818181818180
+13a_13b,2018-19,East Midlands,E12000004,Northamptonshire,E10000021,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),47.94579945799460
+13a_13b,2018-19,East Midlands,E12000004,Northamptonshire,E10000021,All 3 year olds,%,Influenza (seasonal flu),48.31098638395180
+13a_13b,2018-19,East Midlands,E12000004,Nottingham,E06000018,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),53.24675324675320
+13a_13b,2018-19,East Midlands,E12000004,Nottingham,E06000018,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),41.79451417945140
+13a_13b,2018-19,East Midlands,E12000004,Nottingham,E06000018,All 3 year olds,%,Influenza (seasonal flu),42.19030520646320
+13a_13b,2018-19,East Midlands,E12000004,Nottinghamshire,E10000024,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),60.32786885245900
+13a_13b,2018-19,East Midlands,E12000004,Nottinghamshire,E10000024,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),51.28569735750680
+13a_13b,2018-19,East Midlands,E12000004,Nottinghamshire,E10000024,All 3 year olds,%,Influenza (seasonal flu),51.60109789569990
+13a_13b,2018-19,West Midlands,E12000005,West Midlands,E12000005,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),57.21153846153850
+13a_13b,2018-19,West Midlands,E12000005,West Midlands,E12000005,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),45.75286451821670
+13a_13b,2018-19,West Midlands,E12000005,West Midlands,E12000005,All 3 year olds,%,Influenza (seasonal flu),46.19117002164350
+13a_13b,2018-19,West Midlands,E12000005,Birmingham,E08000025,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),49.62630792227200
+13a_13b,2018-19,West Midlands,E12000005,Birmingham,E08000025,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),36.21718010207220
+13a_13b,2018-19,West Midlands,E12000005,Birmingham,E08000025,All 3 year olds,%,Influenza (seasonal flu),36.74698795180720
+13a_13b,2018-19,West Midlands,E12000005,Coventry,E08000026,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),58.53658536585370
+13a_13b,2018-19,West Midlands,E12000005,Coventry,E08000026,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),46.21123805082770
+13a_13b,2018-19,West Midlands,E12000005,Coventry,E08000026,All 3 year olds,%,Influenza (seasonal flu),46.55485040797820
+13a_13b,2018-19,West Midlands,E12000005,Dudley,E08000027,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),62.96296296296300
+13a_13b,2018-19,West Midlands,E12000005,Dudley,E08000027,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),50.12729844413010
+13a_13b,2018-19,West Midlands,E12000005,Dudley,E08000027,All 3 year olds,%,Influenza (seasonal flu),50.50782322261870
+13a_13b,2018-19,West Midlands,E12000005,Herefordshire,E06000019,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),57.14285714285710
+13a_13b,2018-19,West Midlands,E12000005,Herefordshire,E06000019,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),48.61193148257530
+13a_13b,2018-19,West Midlands,E12000005,Herefordshire,E06000019,All 3 year olds,%,Influenza (seasonal flu),48.91799544419130
+13a_13b,2018-19,West Midlands,E12000005,Sandwell,E08000028,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),50.00000000000000
+13a_13b,2018-19,West Midlands,E12000005,Sandwell,E08000028,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),37.95439151049900
+13a_13b,2018-19,West Midlands,E12000005,Sandwell,E08000028,All 3 year olds,%,Influenza (seasonal flu),38.56867366616670
+13a_13b,2018-19,West Midlands,E12000005,Shropshire,E06000051,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),73.85620915032680
+13a_13b,2018-19,West Midlands,E12000005,Shropshire,E06000051,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),56.35205097570690
+13a_13b,2018-19,West Midlands,E12000005,Shropshire,E06000051,All 3 year olds,%,Influenza (seasonal flu),57.35735735735740
+13a_13b,2018-19,West Midlands,E12000005,Solihull,E08000029,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),62.33766233766230
+13a_13b,2018-19,West Midlands,E12000005,Solihull,E08000029,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),55.48413017276010
+13a_13b,2018-19,West Midlands,E12000005,Solihull,E08000029,All 3 year olds,%,Influenza (seasonal flu),55.68978955572880
+13a_13b,2018-19,West Midlands,E12000005,Staffordshire,E10000028,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),59.94065281899110
+13a_13b,2018-19,West Midlands,E12000005,Staffordshire,E10000028,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),51.23254401942930
+13a_13b,2018-19,West Midlands,E12000005,Staffordshire,E10000028,All 3 year olds,%,Influenza (seasonal flu),51.57489500699950
+13a_13b,2018-19,West Midlands,E12000005,Stoke-on-Trent,E06000021,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),52.05479452054790
+13a_13b,2018-19,West Midlands,E12000005,Stoke-on-Trent,E06000021,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),43.52399737015120
+13a_13b,2018-19,West Midlands,E12000005,Stoke-on-Trent,E06000021,All 3 year olds,%,Influenza (seasonal flu),43.91468005018820
+13a_13b,2018-19,West Midlands,E12000005,Telford and Wrekin,E06000020,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),65.21739130434780
+13a_13b,2018-19,West Midlands,E12000005,Telford and Wrekin,E06000020,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),50.48309178743960
+13a_13b,2018-19,West Midlands,E12000005,Telford and Wrekin,E06000020,All 3 year olds,%,Influenza (seasonal flu),51.11008325624420
+13a_13b,2018-19,West Midlands,E12000005,Walsall,E08000030,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),48.17518248175180
+13a_13b,2018-19,West Midlands,E12000005,Walsall,E08000030,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),39.93165089379600
+13a_13b,2018-19,West Midlands,E12000005,Walsall,E08000030,All 3 year olds,%,Influenza (seasonal flu),40.21821872621160
+13a_13b,2018-19,West Midlands,E12000005,Warwickshire,E10000031,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),68.36734693877550
+13a_13b,2018-19,West Midlands,E12000005,Warwickshire,E10000031,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),55.14881970578170
+13a_13b,2018-19,West Midlands,E12000005,Warwickshire,E10000031,All 3 year olds,%,Influenza (seasonal flu),55.57762330354190
+13a_13b,2018-19,West Midlands,E12000005,Wolverhampton,E08000031,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),55.78231292517010
+13a_13b,2018-19,West Midlands,E12000005,Wolverhampton,E08000031,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),44.20600858369100
+13a_13b,2018-19,West Midlands,E12000005,Wolverhampton,E08000031,All 3 year olds,%,Influenza (seasonal flu),44.67325645249860
+13a_13b,2018-19,West Midlands,E12000005,Worcestershire,E10000034,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),63.76146788990830
+13a_13b,2018-19,West Midlands,E12000005,Worcestershire,E10000034,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),52.27489659560930
+13a_13b,2018-19,West Midlands,E12000005,Worcestershire,E10000034,All 3 year olds,%,Influenza (seasonal flu),52.65990159901600
+13a_13b,2018-19,East of England,E12000006,East of England,E12000006,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),61.97223828802780
+13a_13b,2018-19,East of England,E12000006,East of England,E12000006,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),50.45013657394500
+13a_13b,2018-19,East of England,E12000006,East of England,E12000006,All 3 year olds,%,Influenza (seasonal flu),50.97987076873990
+13a_13b,2018-19,East of England,E12000006,Bedford,E06000055,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),67.67676767676770
+13a_13b,2018-19,East of England,E12000006,Bedford,E06000055,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),48.59287054409010
+13a_13b,2018-19,East of England,E12000006,Bedford,E06000055,All 3 year olds,%,Influenza (seasonal flu),49.43971313312420
+13a_13b,2018-19,East of England,E12000006,Cambridgeshire,E10000003,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),65.76576576576580
+13a_13b,2018-19,East of England,E12000006,Cambridgeshire,E10000003,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),56.77147134884990
+13a_13b,2018-19,East of England,E12000006,Cambridgeshire,E10000003,All 3 year olds,%,Influenza (seasonal flu),57.28404569374920
+13a_13b,2018-19,East of England,E12000006,Central Bedfordshire,E06000056,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),62.01550387596900
+13a_13b,2018-19,East of England,E12000006,Central Bedfordshire,E06000056,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),53.65050867743870
+13a_13b,2018-19,East of England,E12000006,Central Bedfordshire,E06000056,All 3 year olds,%,Influenza (seasonal flu),53.96139441083260
+13a_13b,2018-19,East of England,E12000006,Essex,E10000012,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),58.28651685393260
+13a_13b,2018-19,East of England,E12000006,Essex,E10000012,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),50.15038498556300
+13a_13b,2018-19,East of England,E12000006,Essex,E10000012,All 3 year olds,%,Influenza (seasonal flu),50.48454083987080
+13a_13b,2018-19,East of England,E12000006,Hertfordshire,E10000015,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),60.87719298245610
+13a_13b,2018-19,East of England,E12000006,Hertfordshire,E10000015,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),51.01619244352640
+13a_13b,2018-19,East of England,E12000006,Hertfordshire,E10000015,All 3 year olds,%,Influenza (seasonal flu),51.37703023688770
+13a_13b,2018-19,East of England,E12000006,Luton,E06000032,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),44.60431654676260
+13a_13b,2018-19,East of England,E12000006,Luton,E06000032,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),28.92586106246350
+13a_13b,2018-19,East of England,E12000006,Luton,E06000032,All 3 year olds,%,Influenza (seasonal flu),29.53716690042080
+13a_13b,2018-19,East of England,E12000006,Norfolk,E10000020,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),64.90872210953350
+13a_13b,2018-19,East of England,E12000006,Norfolk,E10000020,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),54.11954765751210
+13a_13b,2018-19,East of England,E12000006,Norfolk,E10000020,All 3 year olds,%,Influenza (seasonal flu),54.70029479200790
+13a_13b,2018-19,East of England,E12000006,Peterborough,E06000031,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),50.80645161290320
+13a_13b,2018-19,East of England,E12000006,Peterborough,E06000031,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),42.26229508196720
+13a_13b,2018-19,East of England,E12000006,Peterborough,E06000031,All 3 year olds,%,Influenza (seasonal flu),42.59609325771900
+13a_13b,2018-19,East of England,E12000006,Southend-on-Sea,E06000033,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),50.52631578947370
+13a_13b,2018-19,East of England,E12000006,Southend-on-Sea,E06000033,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),43.71428571428570
+13a_13b,2018-19,East of England,E12000006,Southend-on-Sea,E06000033,All 3 year olds,%,Influenza (seasonal flu),44.00911161731210
+13a_13b,2018-19,East of England,E12000006,Suffolk,E10000029,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),70.00000000000000
+13a_13b,2018-19,East of England,E12000006,Suffolk,E10000029,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),55.99157229391620
+13a_13b,2018-19,East of England,E12000006,Suffolk,E10000029,All 3 year olds,%,Influenza (seasonal flu),56.98556398336190
+13a_13b,2018-19,East of England,E12000006,Thurrock,E06000034,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),58.90410958904110
+13a_13b,2018-19,East of England,E12000006,Thurrock,E06000034,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),43.27390599675850
+13a_13b,2018-19,East of England,E12000006,Thurrock,E06000034,All 3 year olds,%,Influenza (seasonal flu),43.72294372294370
+13a_13b,2018-19,London,E12000007,London,E12000007,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),47.15689193212270
+13a_13b,2018-19,London,E12000007,London,E12000007,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),32.59836999386560
+13a_13b,2018-19,London,E12000007,London,E12000007,All 3 year olds,%,Influenza (seasonal flu),33.01466769956330
+13a_13b,2018-19,London,E12000007,Barking and Dagenham,E09000002,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),47.41379310344830
+13a_13b,2018-19,London,E12000007,Barking and Dagenham,E09000002,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),30.46733798089340
+13a_13b,2018-19,London,E12000007,Barking and Dagenham,E09000002,All 3 year olds,%,Influenza (seasonal flu),30.96014038606170
+13a_13b,2018-19,London,E12000007,Barnet,E09000003,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),41.59292035398230
+13a_13b,2018-19,London,E12000007,Barnet,E09000003,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),34.40619270727240
+13a_13b,2018-19,London,E12000007,Barnet,E09000003,All 3 year olds,%,Influenza (seasonal flu),34.56790123456790
+13a_13b,2018-19,London,E12000007,Bexley,E09000004,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),50.68493150684930
+13a_13b,2018-19,London,E12000007,Bexley,E09000004,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),30.18867924528300
+13a_13b,2018-19,London,E12000007,Bexley,E09000004,All 3 year olds,%,Influenza (seasonal flu),30.78454798884910
+13a_13b,2018-19,London,E12000007,Brent,E09000005,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),43.79084967320260
+13a_13b,2018-19,London,E12000007,Brent,E09000005,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),30.40568799665410
+13a_13b,2018-19,London,E12000007,Brent,E09000005,All 3 year olds,%,Influenza (seasonal flu),30.82066869300910
+13a_13b,2018-19,London,E12000007,Bromley,E09000006,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),60.16260162601630
+13a_13b,2018-19,London,E12000007,Bromley,E09000006,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),46.38180565127500
+13a_13b,2018-19,London,E12000007,Bromley,E09000006,All 3 year olds,%,Influenza (seasonal flu),46.76050044682750
+13a_13b,2018-19,London,E12000007,Camden,E09000007,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),39.72602739726030
+13a_13b,2018-19,London,E12000007,Camden,E09000007,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),27.74822695035460
+13a_13b,2018-19,London,E12000007,Camden,E09000007,All 3 year olds,%,Influenza (seasonal flu),28.12365822241300
+13a_13b,2018-19,London,E12000007,Westminster,E09000033,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),35.59322033898310
+13a_13b,2018-19,London,E12000007,Westminster,E09000033,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),24.34741338395820
+13a_13b,2018-19,London,E12000007,Westminster,E09000033,All 3 year olds,%,Influenza (seasonal flu),24.65373961218840
+13a_13b,2018-19,London,E12000007,Croydon,E09000008,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),52.27272727272730
+13a_13b,2018-19,London,E12000007,Croydon,E09000008,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),33.48455389933030
+13a_13b,2018-19,London,E12000007,Croydon,E09000008,All 3 year olds,%,Influenza (seasonal flu),34.17273673257020
+13a_13b,2018-19,London,E12000007,Ealing,E09000009,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),45.59585492227980
+13a_13b,2018-19,London,E12000007,Ealing,E09000009,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),34.78260869565220
+13a_13b,2018-19,London,E12000007,Ealing,E09000009,All 3 year olds,%,Influenza (seasonal flu),35.17989720159910
+13a_13b,2018-19,London,E12000007,Enfield,E09000010,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),38.94736842105260
+13a_13b,2018-19,London,E12000007,Enfield,E09000010,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),24.14760466119980
+13a_13b,2018-19,London,E12000007,Enfield,E09000010,All 3 year olds,%,Influenza (seasonal flu),24.44491435821530
+13a_13b,2018-19,London,E12000007,Greenwich,E09000011,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),55.08474576271190
+13a_13b,2018-19,London,E12000007,Greenwich,E09000011,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),38.54895104895100
+13a_13b,2018-19,London,E12000007,Greenwich,E09000011,All 3 year olds,%,Influenza (seasonal flu),39.09859154929580
+13a_13b,2018-19,London,E12000007,Hackney (inc. City of London),E09000012,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),39.47368421052630
+13a_13b,2018-19,London,E12000007,Hackney (inc. City of London),E09000012,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),23.18251143873920
+13a_13b,2018-19,London,E12000007,Hackney (inc. City of London),E09000012,All 3 year olds,%,Influenza (seasonal flu),23.64130434782610
+13a_13b,2018-19,London,E12000007,Hammersmith and Fulham,E09000013,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),38.09523809523810
+13a_13b,2018-19,London,E12000007,Hammersmith and Fulham,E09000013,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),28.93352462936390
+13a_13b,2018-19,London,E12000007,Hammersmith and Fulham,E09000013,All 3 year olds,%,Influenza (seasonal flu),29.11392405063290
+13a_13b,2018-19,London,E12000007,Haringey,E09000014,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),42.06349206349210
+13a_13b,2018-19,London,E12000007,Haringey,E09000014,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),31.05175292153590
+13a_13b,2018-19,London,E12000007,Haringey,E09000014,All 3 year olds,%,Influenza (seasonal flu),31.42473118279570
+13a_13b,2018-19,London,E12000007,Harrow,E09000015,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),50.49504950495050
+13a_13b,2018-19,London,E12000007,Harrow,E09000015,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),30.23100100435220
+13a_13b,2018-19,London,E12000007,Harrow,E09000015,All 3 year olds,%,Influenza (seasonal flu),30.89378238341970
+13a_13b,2018-19,London,E12000007,Havering,E09000016,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),44.44444444444440
+13a_13b,2018-19,London,E12000007,Havering,E09000016,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),36.79305912596400
+13a_13b,2018-19,London,E12000007,Havering,E09000016,All 3 year olds,%,Influenza (seasonal flu),36.96608040201000
+13a_13b,2018-19,London,E12000007,Hillingdon,E09000017,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),38.84892086330940
+13a_13b,2018-19,London,E12000007,Hillingdon,E09000017,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),31.05968331303290
+13a_13b,2018-19,London,E12000007,Hillingdon,E09000017,All 3 year olds,%,Influenza (seasonal flu),31.31479736098020
+13a_13b,2018-19,London,E12000007,Hounslow,E09000018,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),53.84615384615380
+13a_13b,2018-19,London,E12000007,Hounslow,E09000018,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),33.12358419330480
+13a_13b,2018-19,London,E12000007,Hounslow,E09000018,All 3 year olds,%,Influenza (seasonal flu),33.71638141809290
+13a_13b,2018-19,London,E12000007,Islington,E09000019,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),44.00000000000000
+13a_13b,2018-19,London,E12000007,Islington,E09000019,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),28.38484980409230
+13a_13b,2018-19,London,E12000007,Islington,E09000019,All 3 year olds,%,Influenza (seasonal flu),28.87858347386170
+13a_13b,2018-19,London,E12000007,Kensington and Chelsea,E09000020,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),31.42857142857140
+13a_13b,2018-19,London,E12000007,Kensington and Chelsea,E09000020,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),25.93800978792820
+13a_13b,2018-19,London,E12000007,Kensington and Chelsea,E09000020,All 3 year olds,%,Influenza (seasonal flu),26.04055496264670
+13a_13b,2018-19,London,E12000007,Kingston upon Thames,E09000021,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),51.92307692307690
+13a_13b,2018-19,London,E12000007,Kingston upon Thames,E09000021,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),44.21471172962230
+13a_13b,2018-19,London,E12000007,Kingston upon Thames,E09000021,All 3 year olds,%,Influenza (seasonal flu),44.37086092715230
+13a_13b,2018-19,London,E12000007,Lambeth,E09000022,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),58.74125874125870
+13a_13b,2018-19,London,E12000007,Lambeth,E09000022,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),32.54840397697540
+13a_13b,2018-19,London,E12000007,Lambeth,E09000022,All 3 year olds,%,Influenza (seasonal flu),33.49306431273640
+13a_13b,2018-19,London,E12000007,Lewisham,E09000023,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),48.17073170731710
+13a_13b,2018-19,London,E12000007,Lewisham,E09000023,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),39.17675544794190
+13a_13b,2018-19,London,E12000007,Lewisham,E09000023,All 3 year olds,%,Influenza (seasonal flu),39.52026082906380
+13a_13b,2018-19,London,E12000007,Merton,E09000024,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),41.50943396226420
+13a_13b,2018-19,London,E12000007,Merton,E09000024,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),35.86715867158670
+13a_13b,2018-19,London,E12000007,Merton,E09000024,All 3 year olds,%,Influenza (seasonal flu),35.97538906985160
+13a_13b,2018-19,London,E12000007,Newham,E09000025,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),49.29577464788730
+13a_13b,2018-19,London,E12000007,Newham,E09000025,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),26.32953909311440
+13a_13b,2018-19,London,E12000007,Newham,E09000025,All 3 year olds,%,Influenza (seasonal flu),26.92237774950010
+13a_13b,2018-19,London,E12000007,Redbridge,E09000026,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),50.37037037037040
+13a_13b,2018-19,London,E12000007,Redbridge,E09000026,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),29.58206356116670
+13a_13b,2018-19,London,E12000007,Redbridge,E09000026,All 3 year olds,%,Influenza (seasonal flu),30.17551279340240
+13a_13b,2018-19,London,E12000007,Richmond upon Thames,E09000027,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),51.72413793103450
+13a_13b,2018-19,London,E12000007,Richmond upon Thames,E09000027,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),39.37823834196890
+13a_13b,2018-19,London,E12000007,Richmond upon Thames,E09000027,All 3 year olds,%,Influenza (seasonal flu),39.70655662540120
+13a_13b,2018-19,London,E12000007,Southwark,E09000028,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),53.15315315315320
+13a_13b,2018-19,London,E12000007,Southwark,E09000028,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),34.02269861286250
+13a_13b,2018-19,London,E12000007,Southwark,E09000028,All 3 year olds,%,Influenza (seasonal flu),34.54367026496570
+13a_13b,2018-19,London,E12000007,Sutton,E09000029,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),47.54098360655740
+13a_13b,2018-19,London,E12000007,Sutton,E09000029,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),38.13449023861170
+13a_13b,2018-19,London,E12000007,Sutton,E09000029,All 3 year olds,%,Influenza (seasonal flu),38.37700760777680
+13a_13b,2018-19,London,E12000007,Tower Hamlets,E09000030,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),45.74468085106380
+13a_13b,2018-19,London,E12000007,Tower Hamlets,E09000030,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),29.45675105485230
+13a_13b,2018-19,London,E12000007,Tower Hamlets,E09000030,All 3 year olds,%,Influenza (seasonal flu),29.85074626865670
+13a_13b,2018-19,London,E12000007,Waltham Forest,E09000031,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),45.73643410852710
+13a_13b,2018-19,London,E12000007,Waltham Forest,E09000031,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),29.98046875000000
+13a_13b,2018-19,London,E12000007,Waltham Forest,E09000031,All 3 year olds,%,Influenza (seasonal flu),30.46153846153850
+13a_13b,2018-19,London,E12000007,Wandsworth,E09000032,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),42.30769230769230
+13a_13b,2018-19,London,E12000007,Wandsworth,E09000032,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),39.65999068467630
+13a_13b,2018-19,London,E12000007,Wandsworth,E09000032,All 3 year olds,%,Influenza (seasonal flu),39.72260118235560
+13a_13b,2018-19,South East,E12000008,South East,E12000008,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),59.22557934878260
+13a_13b,2018-19,South East,E12000008,South East,E12000008,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),49.92049610430910
+13a_13b,2018-19,South East,E12000008,South East,E12000008,All 3 year olds,%,Influenza (seasonal flu),50.22540924514340
+13a_13b,2018-19,South East,E12000008,Bracknell Forest,E06000036,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),60.71428571428570
+13a_13b,2018-19,South East,E12000008,Bracknell Forest,E06000036,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),58.61224489795920
+13a_13b,2018-19,South East,E12000008,Bracknell Forest,E06000036,All 3 year olds,%,Influenza (seasonal flu),58.65921787709500
+13a_13b,2018-19,South East,E12000008,Brighton and Hove,E06000043,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),48.35164835164840
+13a_13b,2018-19,South East,E12000008,Brighton and Hove,E06000043,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),40.97044874133530
+13a_13b,2018-19,South East,E12000008,Brighton and Hove,E06000043,All 3 year olds,%,Influenza (seasonal flu),41.20762711864410
+13a_13b,2018-19,South East,E12000008,Buckinghamshire,E10000002,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),59.21787709497210
+13a_13b,2018-19,South East,E12000008,Buckinghamshire,E10000002,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),49.02942068547160
+13a_13b,2018-19,South East,E12000008,Buckinghamshire,E10000002,All 3 year olds,%,Influenza (seasonal flu),49.29868595895470
+13a_13b,2018-19,South East,E12000008,East Sussex,E10000011,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),46.12244897959180
+13a_13b,2018-19,South East,E12000008,East Sussex,E10000011,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),39.47318908748820
+13a_13b,2018-19,South East,E12000008,East Sussex,E10000011,All 3 year olds,%,Influenza (seasonal flu),39.76618705035970
+13a_13b,2018-19,South East,E12000008,Hampshire,E10000014,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),70.31250000000000
+13a_13b,2018-19,South East,E12000008,Hampshire,E10000014,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),61.20844254379910
+13a_13b,2018-19,South East,E12000008,Hampshire,E10000014,All 3 year olds,%,Influenza (seasonal flu),61.51898734177210
+13a_13b,2018-19,South East,E12000008,Isle of Wight,E06000046,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),51.16279069767440
+13a_13b,2018-19,South East,E12000008,Isle of Wight,E06000046,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),42.06529992406990
+13a_13b,2018-19,South East,E12000008,Isle of Wight,E06000046,All 3 year olds,%,Influenza (seasonal flu),42.35294117647060
+13a_13b,2018-19,South East,E12000008,Kent,E10000016,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),54.17376490630320
+13a_13b,2018-19,South East,E12000008,Kent,E10000016,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),44.44084278768230
+13a_13b,2018-19,South East,E12000008,Kent,E10000016,All 3 year olds,%,Influenza (seasonal flu),44.79765176117910
+13a_13b,2018-19,South East,E12000008,Medway,E06000035,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),55.17241379310340
+13a_13b,2018-19,South East,E12000008,Medway,E06000035,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),43.12368341859770
+13a_13b,2018-19,South East,E12000008,Medway,E06000035,All 3 year olds,%,Influenza (seasonal flu),43.53009595812740
+13a_13b,2018-19,South East,E12000008,Milton Keynes,E06000042,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),61.68831168831170
+13a_13b,2018-19,South East,E12000008,Milton Keynes,E06000042,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),50.17491254372810
+13a_13b,2018-19,South East,E12000008,Milton Keynes,E06000042,All 3 year olds,%,Influenza (seasonal flu),50.60153994225220
+13a_13b,2018-19,South East,E12000008,Oxfordshire,E10000025,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),63.22869955156950
+13a_13b,2018-19,South East,E12000008,Oxfordshire,E10000025,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),55.69510072121360
+13a_13b,2018-19,South East,E12000008,Oxfordshire,E10000025,All 3 year olds,%,Influenza (seasonal flu),55.89836660617060
+13a_13b,2018-19,South East,E12000008,Portsmouth,E06000044,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),62.03703703703700
+13a_13b,2018-19,South East,E12000008,Portsmouth,E06000044,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),53.86984982672310
+13a_13b,2018-19,South East,E12000008,Portsmouth,E06000044,All 3 year olds,%,Influenza (seasonal flu),54.19593345656190
+13a_13b,2018-19,South East,E12000008,Reading,E06000038,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),69.56521739130430
+13a_13b,2018-19,South East,E12000008,Reading,E06000038,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),48.07383627608350
+13a_13b,2018-19,South East,E12000008,Reading,E06000038,All 3 year olds,%,Influenza (seasonal flu),48.65286997266690
+13a_13b,2018-19,South East,E12000008,Slough,E06000039,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),43.85964912280700
+13a_13b,2018-19,South East,E12000008,Slough,E06000039,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),37.77688280306080
+13a_13b,2018-19,South East,E12000008,Slough,E06000039,All 3 year olds,%,Influenza (seasonal flu),37.91338582677170
+13a_13b,2018-19,South East,E12000008,Southampton,E06000045,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),53.84615384615380
+13a_13b,2018-19,South East,E12000008,Southampton,E06000045,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),45.91513616212790
+13a_13b,2018-19,South East,E12000008,Southampton,E06000045,All 3 year olds,%,Influenza (seasonal flu),46.16799509503370
+13a_13b,2018-19,South East,E12000008,Surrey,E10000030,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),60.81730769230770
+13a_13b,2018-19,South East,E12000008,Surrey,E10000030,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),48.27561117578580
+13a_13b,2018-19,South East,E12000008,Surrey,E10000030,All 3 year olds,%,Influenza (seasonal flu),48.64406779661020
+13a_13b,2018-19,South East,E12000008,West Berkshire,E06000037,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),68.29268292682930
+13a_13b,2018-19,South East,E12000008,West Berkshire,E06000037,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),65.22255192878340
+13a_13b,2018-19,South East,E12000008,West Berkshire,E06000037,All 3 year olds,%,Influenza (seasonal flu),65.29548088064890
+13a_13b,2018-19,South East,E12000008,West Sussex,E10000032,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),59.36599423631120
+13a_13b,2018-19,South East,E12000008,West Sussex,E10000032,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),49.24318869828460
+13a_13b,2018-19,South East,E12000008,West Sussex,E10000032,All 3 year olds,%,Influenza (seasonal flu),49.62227498381180
+13a_13b,2018-19,South East,E12000008,Windsor and Maidenhead,E06000040,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),63.26530612244900
+13a_13b,2018-19,South East,E12000008,Windsor and Maidenhead,E06000040,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),52.96829971181560
+13a_13b,2018-19,South East,E12000008,Windsor and Maidenhead,E06000040,All 3 year olds,%,Influenza (seasonal flu),53.25112107623320
+13a_13b,2018-19,South East,E12000008,Wokingham,E06000041,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),62.50000000000000
+13a_13b,2018-19,South East,E12000008,Wokingham,E06000041,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),62.22723852520690
+13a_13b,2018-19,South East,E12000008,Wokingham,E06000041,All 3 year olds,%,Influenza (seasonal flu),62.23520818115410
+13a_13b,2018-19,South West,E12000009,South West,E12000009,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),66.74550614947970
+13a_13b,2018-19,South West,E12000009,South West,E12000009,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),56.30791815762910
+13a_13b,2018-19,South West,E12000009,South West,E12000009,All 3 year olds,%,Influenza (seasonal flu),56.69769824586200
+13a_13b,2018-19,South West,E12000009,Bath and North East Somerset,E06000022,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),74.57627118644070
+13a_13b,2018-19,South West,E12000009,Bath and North East Somerset,E06000022,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),56.74830640958830
+13a_13b,2018-19,South West,E12000009,Bath and North East Somerset,E06000022,All 3 year olds,%,Influenza (seasonal flu),57.28008088978770
+13a_13b,2018-19,South West,E12000009,Bournemouth,E06000028,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),56.57894736842100
+13a_13b,2018-19,South West,E12000009,Bournemouth,E06000028,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),48.40764331210190
+13a_13b,2018-19,South West,E12000009,Bournemouth,E06000028,All 3 year olds,%,Influenza (seasonal flu),48.70099196976850
+13a_13b,2018-19,South West,E12000009,Bristol,E06000023,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),62.98076923076920
+13a_13b,2018-19,South West,E12000009,Bristol,E06000023,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),53.73665480427050
+13a_13b,2018-19,South West,E12000009,Bristol,E06000023,All 3 year olds,%,Influenza (seasonal flu),54.06657515442690
+13a_13b,2018-19,South West,E12000009,Cornwall (inc. Isles of Scilly),E06000052,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),61.97183098591550
+13a_13b,2018-19,South West,E12000009,Cornwall (inc. Isles of Scilly),E06000052,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),49.70560892469790
+13a_13b,2018-19,South West,E12000009,Cornwall (inc. Isles of Scilly),E06000052,All 3 year olds,%,Influenza (seasonal flu),50.22261798753340
+13a_13b,2018-19,South West,E12000009,Devon,E10000008,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),72.28915662650600
+13a_13b,2018-19,South West,E12000009,Devon,E10000008,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),63.08843537414970
+13a_13b,2018-19,South West,E12000009,Devon,E10000008,All 3 year olds,%,Influenza (seasonal flu),63.48607133558970
+13a_13b,2018-19,South West,E12000009,Dorset,E10000009,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),62.50000000000000
+13a_13b,2018-19,South West,E12000009,Dorset,E10000009,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),57.15537383177570
+13a_13b,2018-19,South West,E12000009,Dorset,E10000009,All 3 year olds,%,Influenza (seasonal flu),57.33634311512420
+13a_13b,2018-19,South West,E12000009,Gloucestershire,E10000013,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),66.81222707423580
+13a_13b,2018-19,South West,E12000009,Gloucestershire,E10000013,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),58.28108273436310
+13a_13b,2018-19,South West,E12000009,Gloucestershire,E10000013,All 3 year olds,%,Influenza (seasonal flu),58.56973995271870
+13a_13b,2018-19,South West,E12000009,North Somerset,E06000024,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),82.95454545454550
+13a_13b,2018-19,South West,E12000009,North Somerset,E06000024,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),63.02521008403360
+13a_13b,2018-19,South West,E12000009,North Somerset,E06000024,All 3 year olds,%,Influenza (seasonal flu),63.77181779480630
+13a_13b,2018-19,South West,E12000009,Plymouth,E06000026,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),60.00000000000000
+13a_13b,2018-19,South West,E12000009,Plymouth,E06000026,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),52.19970341077610
+13a_13b,2018-19,South West,E12000009,Plymouth,E06000026,All 3 year olds,%,Influenza (seasonal flu),52.49643366619120
+13a_13b,2018-19,South West,E12000009,Poole,E06000029,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),66.21621621621620
+13a_13b,2018-19,South West,E12000009,Poole,E06000029,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),54.22343324250680
+13a_13b,2018-19,South West,E12000009,Poole,E06000029,All 3 year olds,%,Influenza (seasonal flu),54.68831849135670
+13a_13b,2018-19,South West,E12000009,Somerset,E10000027,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),67.09401709401710
+13a_13b,2018-19,South West,E12000009,Somerset,E10000027,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),54.29068755439510
+13a_13b,2018-19,South West,E12000009,Somerset,E10000027,All 3 year olds,%,Influenza (seasonal flu),54.79177119919720
+13a_13b,2018-19,South West,E12000009,South Gloucestershire,E06000025,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),71.92982456140350
+13a_13b,2018-19,South West,E12000009,South Gloucestershire,E06000025,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),65.42115262824570
+13a_13b,2018-19,South West,E12000009,South Gloucestershire,E06000025,All 3 year olds,%,Influenza (seasonal flu),65.64792176039120
+13a_13b,2018-19,South West,E12000009,Swindon,E06000030,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),57.26495726495730
+13a_13b,2018-19,South West,E12000009,Swindon,E06000030,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),46.54939106901220
+13a_13b,2018-19,South West,E12000009,Swindon,E06000030,All 3 year olds,%,Influenza (seasonal flu),46.95737064757570
+13a_13b,2018-19,South West,E12000009,Torbay,E06000027,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),63.29113924050630
+13a_13b,2018-19,South West,E12000009,Torbay,E06000027,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),56.31216526396330
+13a_13b,2018-19,South West,E12000009,Torbay,E06000027,All 3 year olds,%,Influenza (seasonal flu),56.70995670995670
+13a_13b,2018-19,South West,E12000009,Wiltshire,E06000054,Aged 3 and IN a clinical risk group,%,Influenza (seasonal flu),68.51851851851850
+13a_13b,2018-19,South West,E12000009,Wiltshire,E06000054,Aged 3 and NOT IN a clinical risk group,%,Influenza (seasonal flu),55.12770137524560
+13a_13b,2018-19,South West,E12000009,Wiltshire,E06000054,All 3 year olds,%,Influenza (seasonal flu),55.54074638233050

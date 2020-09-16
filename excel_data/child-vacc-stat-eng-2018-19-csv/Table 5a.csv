@@ -1,0 +1,26 @@
+Table_Ref,CollectionYearRange,Org_Name,Child_Age,Unit,Indicator,Value
+5a,2018-19,England,12m,Number,12m_Eligible_Pop,647833
+5a,2018-19,England,12m,%,DTaP_IPV_Hib_Cov,92.09286961300210
+5a,2018-19,England,12m,%,MenB_Cov,92.04625266079380
+5a,2018-19,England,12m,%,PCV_Cov,92.75276190005760
+5a,2018-19,England,12m,%,Rota_Cov,89.70490851809030
+5a,2018-19,Northern Ireland,12m,Number,12m_Eligible_Pop,23008
+5a,2018-19,Northern Ireland,12m,%,DTaP_IPV_Hib_Cov,94.52364394993050
+5a,2018-19,Northern Ireland,12m,%,MenB_Cov,94.33675243393600
+5a,2018-19,Northern Ireland,12m,%,PCV_Cov,94.79311543810850
+5a,2018-19,Northern Ireland,12m,%,Rota_Cov,92.32440890125170
+5a,2018-19,Scotland,12m,Number,12m_Eligible_Pop,52956
+5a,2018-19,Scotland,12m,%,DTaP_IPV_Hib_Cov,95.80217539089060
+5a,2018-19,Scotland,12m,%,MenB_Cov,95.39240123876430
+5a,2018-19,Scotland,12m,%,PCV_Cov,96.26482362716220
+5a,2018-19,Scotland,12m,%,Rota_Cov,92.65239066394740
+5a,2018-19,United Kingdom,12m,Number,12m_Eligible_Pop,756079
+5a,2018-19,United Kingdom,12m,%,DTaP_IPV_Hib_Cov,92.56850143966440
+5a,2018-19,United Kingdom,12m,%,MenB_Cov,92.48107671288320
+5a,2018-19,United Kingdom,12m,%,PCV_Cov,93.17756477828380
+5a,2018-19,United Kingdom,12m,%,Rota_Cov,90.15790677958250
+5a,2018-19,Wales,12m,Number,12m_Eligible_Pop,32282
+5a,2018-19,Wales,12m,%,DTaP_IPV_Hib_Cov,95.41540177188530
+5a,2018-19,Wales,12m,%,MenB_Cov,95.10872932284240
+5a,2018-19,Wales,12m,%,PCV_Cov,95.48664890651140
+5a,2018-19,Wales,12m,%,Rota_Cov,93.61253949569420

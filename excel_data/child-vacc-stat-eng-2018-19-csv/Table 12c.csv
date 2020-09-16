@@ -1,0 +1,61 @@
+Table_Ref,CollectionYearRange,Parent_Org_Code,Parent_Org_Name,Parent_Org_ONS_Code,Org_Name,Org_ONS_Code,Org_Code,Child_Age_RiskGroup,Unit,Indicator,Value
+12c,2018-19,ENG,England,ENG,England,ENG,ENG,Aged 2 and IN a clinical risk group,%,Influenza (seasonal flu),54.49164345403900
+12c,2018-19,ENG,England,ENG,England,ENG,ENG,Aged 2 and NOT IN a clinical risk group,%,Influenza (seasonal flu),43.55704270334870
+12c,2018-19,ENG,England,ENG,England,ENG,ENG,All 2 year olds,%,Influenza (seasonal flu),43.84224523249850
+12c,2018-19,Y54,North of England,E40000001,North of England,E40000001,Y54,Aged 2 and IN a clinical risk group,%,Influenza (seasonal flu),50.64935064935060
+12c,2018-19,Y54,North of England,E40000001,North of England,E40000001,Y54,Aged 2 and NOT IN a clinical risk group,%,Influenza (seasonal flu),40.99151180169760
+12c,2018-19,Y54,North of England,E40000001,North of England,E40000001,Y54,All 2 year olds,%,Influenza (seasonal flu),41.27249230634440
+12c,2018-19,Y54,North of England,E40000001,Cheshire and Merseyside,E39000026,Q75,Aged 2 and IN a clinical risk group,%,Influenza (seasonal flu),49.48096885813150
+12c,2018-19,Y54,North of England,E40000001,Cheshire and Merseyside,E39000026,Q75,Aged 2 and NOT IN a clinical risk group,%,Influenza (seasonal flu),39.76383709877900
+12c,2018-19,Y54,North of England,E40000001,Cheshire and Merseyside,E39000026,Q75,All 2 year olds,%,Influenza (seasonal flu),40.06236490556680
+12c,2018-19,Y54,North of England,E40000001,Cumbria and North East,E39000039,Q74,Aged 2 and IN a clinical risk group,%,Influenza (seasonal flu),52.97239915074310
+12c,2018-19,Y54,North of England,E40000001,Cumbria and North East,E39000039,Q74,Aged 2 and NOT IN a clinical risk group,%,Influenza (seasonal flu),42.33263398817470
+12c,2018-19,Y54,North of England,E40000001,Cumbria and North East,E39000039,Q74,All 2 year olds,%,Influenza (seasonal flu),42.64197530864200
+12c,2018-19,Y54,North of England,E40000001,Greater Manchester,E39000037,Q83,Aged 2 and IN a clinical risk group,%,Influenza (seasonal flu),53.65630712979890
+12c,2018-19,Y54,North of England,E40000001,Greater Manchester,E39000037,Q83,Aged 2 and NOT IN a clinical risk group,%,Influenza (seasonal flu),42.20585307585110
+12c,2018-19,Y54,North of England,E40000001,Greater Manchester,E39000037,Q83,All 2 year olds,%,Influenza (seasonal flu),42.55137222452080
+12c,2018-19,Y54,North of England,E40000001,Lancashire and South Cumbria,E39000040,Q84,Aged 2 and IN a clinical risk group,%,Influenza (seasonal flu),52.23613595706620
+12c,2018-19,Y54,North of England,E40000001,Lancashire and South Cumbria,E39000040,Q84,Aged 2 and NOT IN a clinical risk group,%,Influenza (seasonal flu),42.18500797448170
+12c,2018-19,Y54,North of England,E40000001,Lancashire and South Cumbria,E39000040,Q84,All 2 year olds,%,Influenza (seasonal flu),42.47508905983790
+12c,2018-19,Y54,North of England,E40000001,Yorkshire and Humber,E39000029,Q72,Aged 2 and IN a clinical risk group,%,Influenza (seasonal flu),47.75796866558620
+12c,2018-19,Y54,North of England,E40000001,Yorkshire and Humber,E39000029,Q72,Aged 2 and NOT IN a clinical risk group,%,Influenza (seasonal flu),39.84842379343480
+12c,2018-19,Y54,North of England,E40000001,Yorkshire and Humber,E39000029,Q72,All 2 year olds,%,Influenza (seasonal flu),40.06900396245460
+12c,2018-19,Y55,Midlands and East Of England,E40000002,Midlands and East Of England,E40000002,Y55,Aged 2 and IN a clinical risk group,%,Influenza (seasonal flu),58.53616133518780
+12c,2018-19,Y55,Midlands and East Of England,E40000002,Midlands and East Of England,E40000002,Y55,Aged 2 and NOT IN a clinical risk group,%,Influenza (seasonal flu),48.08577665452810
+12c,2018-19,Y55,Midlands and East Of England,E40000002,Midlands and East Of England,E40000002,Y55,All 2 year olds,%,Influenza (seasonal flu),48.38160387804820
+12c,2018-19,Y55,Midlands and East Of England,E40000002,Central Midlands,E39000030,Q78,Aged 2 and IN a clinical risk group,%,Influenza (seasonal flu),60.70991432068540
+12c,2018-19,Y55,Midlands and East Of England,E40000002,Central Midlands,E39000030,Q78,Aged 2 and NOT IN a clinical risk group,%,Influenza (seasonal flu),50.82090861252410
+12c,2018-19,Y55,Midlands and East Of England,E40000002,Central Midlands,E39000030,Q78,All 2 year olds,%,Influenza (seasonal flu),51.09644635427320
+12c,2018-19,Y55,Midlands and East Of England,E40000002,East of England,E39000031,Q79,Aged 2 and IN a clinical risk group,%,Influenza (seasonal flu),60.06006006006010
+12c,2018-19,Y55,Midlands and East Of England,E40000002,East of England,E39000031,Q79,Aged 2 and NOT IN a clinical risk group,%,Influenza (seasonal flu),51.08655389554270
+12c,2018-19,Y55,Midlands and East Of England,E40000002,East of England,E39000031,Q79,All 2 year olds,%,Influenza (seasonal flu),51.38383175152710
+12c,2018-19,Y55,Midlands and East Of England,E40000002,North Midlands,E39000032,Q76,Aged 2 and IN a clinical risk group,%,Influenza (seasonal flu),60.07292616226070
+12c,2018-19,Y55,Midlands and East Of England,E40000002,North Midlands,E39000032,Q76,Aged 2 and NOT IN a clinical risk group,%,Influenza (seasonal flu),49.07687998166490
+12c,2018-19,Y55,Midlands and East Of England,E40000002,North Midlands,E39000032,Q76,All 2 year olds,%,Influenza (seasonal flu),49.37571223306740
+12c,2018-19,Y55,Midlands and East Of England,E40000002,West Midlands,E39000033,Q77,Aged 2 and IN a clinical risk group,%,Influenza (seasonal flu),52.80235988200590
+12c,2018-19,Y55,Midlands and East Of England,E40000002,West Midlands,E39000033,Q77,Aged 2 and NOT IN a clinical risk group,%,Influenza (seasonal flu),41.60547840973940
+12c,2018-19,Y55,Midlands and East Of England,E40000002,West Midlands,E39000033,Q77,All 2 year olds,%,Influenza (seasonal flu),41.88703037495830
+12c,2018-19,Y56,London,E40000003,London,E40000003,Y56,Aged 2 and IN a clinical risk group,%,Influenza (seasonal flu),45.06420545746390
+12c,2018-19,Y56,London,E40000003,London,E40000003,Y56,Aged 2 and NOT IN a clinical risk group,%,Influenza (seasonal flu),31.50407196647020
+12c,2018-19,Y56,London,E40000003,London,E40000003,Y56,All 2 year olds,%,Influenza (seasonal flu),31.78595261928600
+12c,2018-19,Y56,London,E40000003,London,E39000018,Q71,Aged 2 and IN a clinical risk group,%,Influenza (seasonal flu),45.06420545746390
+12c,2018-19,Y56,London,E40000003,London,E39000018,Q71,Aged 2 and NOT IN a clinical risk group,%,Influenza (seasonal flu),31.50407196647020
+12c,2018-19,Y56,London,E40000003,London,E39000018,Q71,All 2 year olds,%,Influenza (seasonal flu),31.78595261928600
+12c,2018-19,Y58,South West,E40000006,South West,E40000006,Y58,Aged 2 and IN a clinical risk group,%,Influenza (seasonal flu),62.38159675236810
+12c,2018-19,Y58,South West,E40000006,South West,E40000006,Y58,Aged 2 and NOT IN a clinical risk group,%,Influenza (seasonal flu),55.91951504528190
+12c,2018-19,Y58,South West,E40000006,South West,E40000006,Y58,All 2 year olds,%,Influenza (seasonal flu),56.08932190733560
+12c,2018-19,Y58,South West,E40000006,South West North,E39000043,Q86,Aged 2 and IN a clinical risk group,%,Influenza (seasonal flu),59.88857938718660
+12c,2018-19,Y58,South West,E40000006,South West North,E39000043,Q86,Aged 2 and NOT IN a clinical risk group,%,Influenza (seasonal flu),55.36814209998570
+12c,2018-19,Y58,South West,E40000006,South West North,E39000043,Q86,All 2 year olds,%,Influenza (seasonal flu),55.48146079184410
+12c,2018-19,Y58,South West,E40000006,South West South,E39000044,Q85,Aged 2 and IN a clinical risk group,%,Influenza (seasonal flu),64.73684210526320
+12c,2018-19,Y58,South West,E40000006,South West South,E39000044,Q85,Aged 2 and NOT IN a clinical risk group,%,Influenza (seasonal flu),56.49307107733570
+12c,2018-19,Y58,South West,E40000006,South West South,E39000044,Q85,All 2 year olds,%,Influenza (seasonal flu),56.72004057382990
+12c,2018-19,Y59,South East,E40000005,South East,E40000005,Y59,Aged 2 and IN a clinical risk group,%,Influenza (seasonal flu),58.57988165680470
+12c,2018-19,Y59,South East,E40000005,South East,E40000005,Y59,Aged 2 and NOT IN a clinical risk group,%,Influenza (seasonal flu),46.64940177137830
+12c,2018-19,Y59,South East,E40000005,South East,E40000005,Y59,All 2 year olds,%,Influenza (seasonal flu),46.91488068711260
+12c,2018-19,Y59,South East,E40000005,"Hampshire, Isle of Wight and Thames Valley",E39000041,Q87,Aged 2 and IN a clinical risk group,%,Influenza (seasonal flu),61.71648987463840
+12c,2018-19,Y59,South East,E40000005,"Hampshire, Isle of Wight and Thames Valley",E39000041,Q87,Aged 2 and NOT IN a clinical risk group,%,Influenza (seasonal flu),51.06487248075470
+12c,2018-19,Y59,South East,E40000005,"Hampshire, Isle of Wight and Thames Valley",E39000041,Q87,All 2 year olds,%,Influenza (seasonal flu),51.28574285142970
+12c,2018-19,Y59,South East,E40000005,"Kent, Surrey and Sussex",E39000042,Q88,Aged 2 and IN a clinical risk group,%,Influenza (seasonal flu),55.77586206896550
+12c,2018-19,Y59,South East,E40000005,"Kent, Surrey and Sussex",E39000042,Q88,Aged 2 and NOT IN a clinical risk group,%,Influenza (seasonal flu),42.10293932130690
+12c,2018-19,Y59,South East,E40000005,"Kent, Surrey and Sussex",E39000042,Q88,All 2 year olds,%,Influenza (seasonal flu),42.42847173761340

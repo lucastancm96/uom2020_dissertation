@@ -1,0 +1,31 @@
+Table_Ref,CollectionYearRange,Org_Name,Child_Age,Unit,Indicator,Value
+5b,2018-19,England,24m,Number,24m_Eligible_Pop,669858
+5b,2018-19,England,24m,%,DTaP_IPV_Hib_Cov,94.16682341630610
+5b,2018-19,England,24m,%,Hib_MenC_Cov,90.43035986731520
+5b,2018-19,England,24m,%,MMR_Cov,90.30764729241120
+5b,2018-19,England,24m,%,MenB_booster_Cov,87.80069805839450
+5b,2018-19,England,24m,%,PCV_Cov,90.20926823296880
+5b,2018-19,Northern Ireland,24m,Number,24m_Eligible_Pop,24297
+5b,2018-19,Northern Ireland,24m,%,DTaP_IPV_Hib_Cov,96.96670370827680
+5b,2018-19,Northern Ireland,24m,%,Hib_MenC_Cov,92.79334897312430
+5b,2018-19,Northern Ireland,24m,%,MMR_Cov,92.61637239165330
+5b,2018-19,Northern Ireland,24m,%,MenB_booster_Cov,92.41058566901260
+5b,2018-19,Northern Ireland,24m,%,PCV_Cov,93.86755566530850
+5b,2018-19,Scotland,24m,Number,24m_Eligible_Pop,54981
+5b,2018-19,Scotland,24m,%,DTaP_IPV_Hib_Cov,97.20994525381500
+5b,2018-19,Scotland,24m,%,Hib_MenC_Cov,94.42898455830190
+5b,2018-19,Scotland,24m,%,MMR_Cov,94.04157799967260
+5b,2018-19,Scotland,24m,%,MenB_booster_Cov,93.61233880795180
+5b,2018-19,Scotland,24m,%,PCV_Cov,94.45990433058690
+5b,2018-19,United Kingdom,24m,Number,24m_Eligible_Pop,782225
+5b,2018-19,United Kingdom,24m,%,DTaP_IPV_Hib_Cov,94.58416695963440
+5b,2018-19,United Kingdom,24m,%,Hib_MenC_Cov,90.94557192623610
+5b,2018-19,United Kingdom,24m,%,MMR_Cov,90.81926555658540
+5b,2018-19,United Kingdom,24m,%,MenB_booster_Cov,88.60634727859630
+5b,2018-19,United Kingdom,24m,%,PCV_Cov,90.81389625747070
+5b,2018-19,Wales,24m,Number,24m_Eligible_Pop,33089
+5b,2018-19,Wales,24m,%,DTaP_IPV_Hib_Cov,96.92042672791560
+5b,2018-19,Wales,24m,%,Hib_MenC_Cov,94.23071111245430
+5b,2018-19,Wales,24m,%,MMR_Cov,94.50270482637740
+5b,2018-19,Wales,24m,%,MenB_booster_Cov,93.80458762730820
+5b,2018-19,Wales,24m,%,PCV_Cov,94.75354347366190

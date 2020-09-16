@@ -1,0 +1,454 @@
+Table_Ref,CollectionYearRange,Parent_Org_ONS_Code,Parent_Org_Name,Org_ONS_Code,Org_Name,Child_Age,Unit,Indicator,Value,Programme_Type
+11a,2018-19,E12000001,North East,E06000001,Hartlepool,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000001,North East,E06000001,Hartlepool,12m,Number,BCG_Immunised_1stBirthday,25,Selective
+11a,2018-19,E12000001,North East,E06000001,Hartlepool,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000001,North East,E06000002,Middlesbrough,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000001,North East,E06000002,Middlesbrough,12m,Number,BCG_Immunised_1stBirthday,315,Selective
+11a,2018-19,E12000001,North East,E06000002,Middlesbrough,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000001,North East,E06000003,Redcar and Cleveland,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000001,North East,E06000003,Redcar and Cleveland,12m,Number,BCG_Immunised_1stBirthday,37,Selective
+11a,2018-19,E12000001,North East,E06000003,Redcar and Cleveland,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000001,North East,E06000004,Stockton-on-Tees,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000001,North East,E06000004,Stockton-on-Tees,12m,Number,BCG_Immunised_1stBirthday,224,Selective
+11a,2018-19,E12000001,North East,E06000004,Stockton-on-Tees,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000001,North East,E06000005,Darlington,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000001,North East,E06000005,Darlington,12m,Number,BCG_Immunised_1stBirthday,71,Selective
+11a,2018-19,E12000001,North East,E06000005,Darlington,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000001,North East,E06000047,County Durham,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000001,North East,E06000047,County Durham,12m,Number,BCG_Immunised_1stBirthday,122,Selective
+11a,2018-19,E12000001,North East,E06000047,County Durham,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000001,North East,E06000057,Northumberland,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000001,North East,E06000057,Northumberland,12m,Number,BCG_Immunised_1stBirthday,72,Selective
+11a,2018-19,E12000001,North East,E06000057,Northumberland,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000001,North East,E08000021,Newcastle upon Tyne,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000001,North East,E08000021,Newcastle upon Tyne,12m,Number,BCG_Immunised_1stBirthday,-1,Selective
+11a,2018-19,E12000001,North East,E08000021,Newcastle upon Tyne,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000001,North East,E08000022,North Tyneside,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000001,North East,E08000022,North Tyneside,12m,Number,BCG_Immunised_1stBirthday,104,Selective
+11a,2018-19,E12000001,North East,E08000022,North Tyneside,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000001,North East,E08000023,South Tyneside,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000001,North East,E08000023,South Tyneside,12m,Number,BCG_Immunised_1stBirthday,61,Selective
+11a,2018-19,E12000001,North East,E08000023,South Tyneside,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000001,North East,E08000024,Sunderland,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000001,North East,E08000024,Sunderland,12m,Number,BCG_Immunised_1stBirthday,173,Selective
+11a,2018-19,E12000001,North East,E08000024,Sunderland,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000001,North East,E08000037,Gateshead,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000001,North East,E08000037,Gateshead,12m,Number,BCG_Immunised_1stBirthday,84,Selective
+11a,2018-19,E12000001,North East,E08000037,Gateshead,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000002,North West,E06000006,Halton,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000002,North West,E06000006,Halton,12m,Number,BCG_Immunised_1stBirthday,51,Selective
+11a,2018-19,E12000002,North West,E06000006,Halton,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000002,North West,E06000007,Warrington,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000002,North West,E06000007,Warrington,12m,Number,BCG_Immunised_1stBirthday,216,Selective
+11a,2018-19,E12000002,North West,E06000007,Warrington,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000002,North West,E06000008,Blackburn with Darwen,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000002,North West,E06000008,Blackburn with Darwen,12m,Number,BCG_Immunised_1stBirthday,-1,Selective
+11a,2018-19,E12000002,North West,E06000008,Blackburn with Darwen,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000002,North West,E06000009,Blackpool,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000002,North West,E06000009,Blackpool,12m,Number,BCG_Immunised_1stBirthday,-1,Selective
+11a,2018-19,E12000002,North West,E06000009,Blackpool,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000002,North West,E06000049,Cheshire East,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000002,North West,E06000049,Cheshire East,12m,Number,BCG_Immunised_1stBirthday,263,Selective
+11a,2018-19,E12000002,North West,E06000049,Cheshire East,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000002,North West,E06000050,Cheshire West and Chester,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000002,North West,E06000050,Cheshire West and Chester,12m,Number,BCG_Immunised_1stBirthday,211,Selective
+11a,2018-19,E12000002,North West,E06000050,Cheshire West and Chester,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000002,North West,E08000001,Bolton,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000002,North West,E08000001,Bolton,12m,Number,BCG_Immunised_1stBirthday,1270,Selective
+11a,2018-19,E12000002,North West,E08000001,Bolton,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000002,North West,E08000002,Bury,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000002,North West,E08000002,Bury,12m,Number,BCG_Immunised_1stBirthday,312,Selective
+11a,2018-19,E12000002,North West,E08000002,Bury,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000002,North West,E08000003,Manchester,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000002,North West,E08000003,Manchester,12m,Number,BCG_Immunised_1stBirthday,2995,Selective
+11a,2018-19,E12000002,North West,E08000003,Manchester,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000002,North West,E08000004,Oldham,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000002,North West,E08000004,Oldham,12m,Number,BCG_Immunised_1stBirthday,1132,Selective
+11a,2018-19,E12000002,North West,E08000004,Oldham,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000002,North West,E08000005,Rochdale,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000002,North West,E08000005,Rochdale,12m,Number,BCG_Immunised_1stBirthday,675,Selective
+11a,2018-19,E12000002,North West,E08000005,Rochdale,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000002,North West,E08000006,Salford,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000002,North West,E08000006,Salford,12m,Number,BCG_Immunised_1stBirthday,545,Selective
+11a,2018-19,E12000002,North West,E08000006,Salford,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000002,North West,E08000014,Sefton,12m,%,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000002,North West,E08000014,Sefton,12m,%,BCG_Immunised_1stBirthday,-1,Selective
+11a,2018-19,E12000002,North West,E08000014,Sefton,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000002,North West,E08000007,Stockport,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000002,North West,E08000007,Stockport,12m,Number,BCG_Immunised_1stBirthday,403,Selective
+11a,2018-19,E12000002,North West,E08000007,Stockport,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000002,North West,E08000008,Tameside,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000002,North West,E08000008,Tameside,12m,Number,BCG_Immunised_1stBirthday,422,Selective
+11a,2018-19,E12000002,North West,E08000008,Tameside,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000002,North West,E08000009,Trafford,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000002,North West,E08000009,Trafford,12m,Number,BCG_Immunised_1stBirthday,113,Selective
+11a,2018-19,E12000002,North West,E08000009,Trafford,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000002,North West,E08000010,Wigan,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000002,North West,E08000010,Wigan,12m,Number,BCG_Immunised_1stBirthday,251,Selective
+11a,2018-19,E12000002,North West,E08000010,Wigan,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000002,North West,E08000011,Knowsley,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000002,North West,E08000011,Knowsley,12m,Number,BCG_Immunised_1stBirthday,85,Selective
+11a,2018-19,E12000002,North West,E08000011,Knowsley,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000002,North West,E08000013,St Helens,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000002,North West,E08000013,St Helens,12m,Number,BCG_Immunised_1stBirthday,87,Selective
+11a,2018-19,E12000002,North West,E08000013,St Helens,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000002,North West,E08000015,Wirral,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000002,North West,E08000015,Wirral,12m,Number,BCG_Immunised_1stBirthday,170,Selective
+11a,2018-19,E12000002,North West,E08000015,Wirral,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000002,North West,E10000006,Cumbria,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000002,North West,E10000006,Cumbria,12m,Number,BCG_Immunised_1stBirthday,31,Selective
+11a,2018-19,E12000002,North West,E10000006,Cumbria,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000002,North West,E10000017,Lancashire,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000002,North West,E10000017,Lancashire,12m,Number,BCG_Immunised_1stBirthday,-1,Selective
+11a,2018-19,E12000002,North West,E10000017,Lancashire,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000002,North West,E08000012,Liverpool,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000002,North West,E08000012,Liverpool,12m,Number,BCG_Immunised_1stBirthday,-1,Selective
+11a,2018-19,E12000002,North West,E08000012,Liverpool,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E06000010,Kingston upon Hull,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E06000010,Kingston upon Hull,12m,Number,BCG_Immunised_1stBirthday,273,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E06000010,Kingston upon Hull,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E06000011,East Riding of Yorkshire,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E06000011,East Riding of Yorkshire,12m,Number,BCG_Immunised_1stBirthday,61,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E06000011,East Riding of Yorkshire,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E06000012,North East Lincolnshire,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E06000012,North East Lincolnshire,12m,Number,BCG_Immunised_1stBirthday,103,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E06000012,North East Lincolnshire,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E06000013,North Lincolnshire,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E06000013,North Lincolnshire,12m,Number,BCG_Immunised_1stBirthday,137,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E06000013,North Lincolnshire,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E06000014,York,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E06000014,York,12m,Number,BCG_Immunised_1stBirthday,118,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E06000014,York,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000016,Barnsley,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000016,Barnsley,12m,Number,BCG_Immunised_1stBirthday,168,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000016,Barnsley,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000032,Bradford,12m,%,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000032,Bradford,12m,%,BCG_Immunised_1stBirthday,-1,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000032,Bradford,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000017,Doncaster,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000017,Doncaster,12m,Number,BCG_Immunised_1stBirthday,320,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000017,Doncaster,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000018,Rotherham,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000018,Rotherham,12m,Number,BCG_Immunised_1stBirthday,331,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000018,Rotherham,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000019,Sheffield,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000019,Sheffield,12m,Number,BCG_Immunised_1stBirthday,1648,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000019,Sheffield,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000033,Calderdale,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000033,Calderdale,12m,Number,BCG_Immunised_1stBirthday,340,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000033,Calderdale,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000034,Kirklees,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000034,Kirklees,12m,Number,BCG_Immunised_1stBirthday,1434,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000034,Kirklees,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000035,Leeds,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000035,Leeds,12m,Number,BCG_Immunised_1stBirthday,2062,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000035,Leeds,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000036,Wakefield,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000036,Wakefield,12m,Number,BCG_Immunised_1stBirthday,418,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E08000036,Wakefield,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E10000023,North Yorkshire,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E10000023,North Yorkshire,12m,Number,BCG_Immunised_1stBirthday,263,Selective
+11a,2018-19,E12000003,Yorkshire and the Humber,E10000023,North Yorkshire,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000004,East Midlands,E06000015,Derby,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000004,East Midlands,E06000015,Derby,12m,Number,BCG_Immunised_1stBirthday,791,Selective
+11a,2018-19,E12000004,East Midlands,E06000015,Derby,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000004,East Midlands,E06000016,Leicester,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000004,East Midlands,E06000016,Leicester,12m,Number,BCG_Immunised_1stBirthday,2398,Selective
+11a,2018-19,E12000004,East Midlands,E06000016,Leicester,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000004,East Midlands,E06000017,Rutland,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000004,East Midlands,E06000017,Rutland,12m,Number,BCG_Immunised_1stBirthday,20,Selective
+11a,2018-19,E12000004,East Midlands,E06000017,Rutland,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000004,East Midlands,E06000018,Nottingham,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000004,East Midlands,E06000018,Nottingham,12m,Number,BCG_Immunised_1stBirthday,1080,Selective
+11a,2018-19,E12000004,East Midlands,E06000018,Nottingham,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000004,East Midlands,E10000007,Derbyshire,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000004,East Midlands,E10000007,Derbyshire,12m,Number,BCG_Immunised_1stBirthday,211,Selective
+11a,2018-19,E12000004,East Midlands,E10000007,Derbyshire,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000004,East Midlands,E10000018,Leicestershire,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000004,East Midlands,E10000018,Leicestershire,12m,Number,BCG_Immunised_1stBirthday,772,Selective
+11a,2018-19,E12000004,East Midlands,E10000018,Leicestershire,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000004,East Midlands,E10000019,Lincolnshire,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000004,East Midlands,E10000019,Lincolnshire,12m,Number,BCG_Immunised_1stBirthday,-1,Selective
+11a,2018-19,E12000004,East Midlands,E10000019,Lincolnshire,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000004,East Midlands,E10000021,Northamptonshire,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000004,East Midlands,E10000021,Northamptonshire,12m,Number,BCG_Immunised_1stBirthday,1442,Selective
+11a,2018-19,E12000004,East Midlands,E10000021,Northamptonshire,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000004,East Midlands,E10000024,Nottinghamshire,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000004,East Midlands,E10000024,Nottinghamshire,12m,Number,BCG_Immunised_1stBirthday,552,Selective
+11a,2018-19,E12000004,East Midlands,E10000024,Nottinghamshire,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000005,West Midlands,E06000019,Herefordshire,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000005,West Midlands,E06000019,Herefordshire,12m,Number,BCG_Immunised_1stBirthday,143,Selective
+11a,2018-19,E12000005,West Midlands,E06000019,Herefordshire,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000005,West Midlands,E06000020,Telford and Wrekin,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000005,West Midlands,E06000020,Telford and Wrekin,12m,Number,BCG_Immunised_1stBirthday,259,Selective
+11a,2018-19,E12000005,West Midlands,E06000020,Telford and Wrekin,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000005,West Midlands,E06000021,Stoke-on-Trent,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000005,West Midlands,E06000021,Stoke-on-Trent,12m,Number,BCG_Immunised_1stBirthday,759,Selective
+11a,2018-19,E12000005,West Midlands,E06000021,Stoke-on-Trent,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000005,West Midlands,E06000051,Shropshire,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000005,West Midlands,E06000051,Shropshire,12m,Number,BCG_Immunised_1stBirthday,126,Selective
+11a,2018-19,E12000005,West Midlands,E06000051,Shropshire,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000005,West Midlands,E08000025,Birmingham,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000005,West Midlands,E08000025,Birmingham,12m,Number,BCG_Immunised_1stBirthday,7487,Selective
+11a,2018-19,E12000005,West Midlands,E08000025,Birmingham,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000005,West Midlands,E08000026,Coventry,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000005,West Midlands,E08000026,Coventry,12m,Number,BCG_Immunised_1stBirthday,1616,Selective
+11a,2018-19,E12000005,West Midlands,E08000026,Coventry,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000005,West Midlands,E08000027,Dudley,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000005,West Midlands,E08000027,Dudley,12m,Number,BCG_Immunised_1stBirthday,471,Selective
+11a,2018-19,E12000005,West Midlands,E08000027,Dudley,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000005,West Midlands,E08000028,Sandwell,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000005,West Midlands,E08000028,Sandwell,12m,Number,BCG_Immunised_1stBirthday,1711,Selective
+11a,2018-19,E12000005,West Midlands,E08000028,Sandwell,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000005,West Midlands,E08000029,Solihull,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000005,West Midlands,E08000029,Solihull,12m,Number,BCG_Immunised_1stBirthday,438,Selective
+11a,2018-19,E12000005,West Midlands,E08000029,Solihull,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000005,West Midlands,E08000030,Walsall,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000005,West Midlands,E08000030,Walsall,12m,Number,BCG_Immunised_1stBirthday,942,Selective
+11a,2018-19,E12000005,West Midlands,E08000030,Walsall,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000005,West Midlands,E08000031,Wolverhampton,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000005,West Midlands,E08000031,Wolverhampton,12m,Number,BCG_Immunised_1stBirthday,1297,Selective
+11a,2018-19,E12000005,West Midlands,E08000031,Wolverhampton,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000005,West Midlands,E10000028,Staffordshire,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000005,West Midlands,E10000028,Staffordshire,12m,Number,BCG_Immunised_1stBirthday,727,Selective
+11a,2018-19,E12000005,West Midlands,E10000028,Staffordshire,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000005,West Midlands,E10000031,Warwickshire,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000005,West Midlands,E10000031,Warwickshire,12m,Number,BCG_Immunised_1stBirthday,714,Selective
+11a,2018-19,E12000005,West Midlands,E10000031,Warwickshire,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000005,West Midlands,E10000034,Worcestershire,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000005,West Midlands,E10000034,Worcestershire,12m,Number,BCG_Immunised_1stBirthday,418,Selective
+11a,2018-19,E12000005,West Midlands,E10000034,Worcestershire,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000006,East of England,E06000031,Peterborough,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000006,East of England,E06000031,Peterborough,12m,Number,BCG_Immunised_1stBirthday,916,Selective
+11a,2018-19,E12000006,East of England,E06000031,Peterborough,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000006,East of England,E06000032,Luton,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000006,East of England,E06000032,Luton,12m,Number,BCG_Immunised_1stBirthday,2675,Selective
+11a,2018-19,E12000006,East of England,E06000032,Luton,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000006,East of England,E06000033,Southend-on-Sea,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000006,East of England,E06000033,Southend-on-Sea,12m,Number,BCG_Immunised_1stBirthday,298,Selective
+11a,2018-19,E12000006,East of England,E06000033,Southend-on-Sea,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000006,East of England,E06000034,Thurrock,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000006,East of England,E06000034,Thurrock,12m,Number,BCG_Immunised_1stBirthday,680,Selective
+11a,2018-19,E12000006,East of England,E06000034,Thurrock,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000006,East of England,E06000055,Bedford,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000006,East of England,E06000055,Bedford,12m,Number,BCG_Immunised_1stBirthday,567,Selective
+11a,2018-19,E12000006,East of England,E06000055,Bedford,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000006,East of England,E06000056,Central Bedfordshire,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000006,East of England,E06000056,Central Bedfordshire,12m,Number,BCG_Immunised_1stBirthday,314,Selective
+11a,2018-19,E12000006,East of England,E06000056,Central Bedfordshire,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000006,East of England,E10000003,Cambridgeshire,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000006,East of England,E10000003,Cambridgeshire,12m,Number,BCG_Immunised_1stBirthday,1060,Selective
+11a,2018-19,E12000006,East of England,E10000003,Cambridgeshire,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000006,East of England,E10000012,Essex,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000006,East of England,E10000012,Essex,12m,Number,BCG_Immunised_1stBirthday,1709,Selective
+11a,2018-19,E12000006,East of England,E10000012,Essex,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000006,East of England,E10000015,Hertfordshire,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000006,East of England,E10000015,Hertfordshire,12m,Number,BCG_Immunised_1stBirthday,463,Selective
+11a,2018-19,E12000006,East of England,E10000015,Hertfordshire,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000006,East of England,E10000020,Norfolk,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000006,East of England,E10000020,Norfolk,12m,Number,BCG_Immunised_1stBirthday,900,Selective
+11a,2018-19,E12000006,East of England,E10000020,Norfolk,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000006,East of England,E10000029,Suffolk,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000006,East of England,E10000029,Suffolk,12m,Number,BCG_Immunised_1stBirthday,737,Selective
+11a,2018-19,E12000006,East of England,E10000029,Suffolk,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000002,Barking and Dagenham,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000002,Barking and Dagenham,12m,Number,BCG_Immunised_1stBirthday,1781,Selective
+11a,2018-19,E12000007,London,E09000002,Barking and Dagenham,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000003,Barnet,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000003,Barnet,12m,Number,BCG_Immunised_1stBirthday,1152,Selective
+11a,2018-19,E12000007,London,E09000003,Barnet,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000004,Bexley,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000004,Bexley,12m,Number,BCG_Immunised_1stBirthday,409,Selective
+11a,2018-19,E12000007,London,E09000004,Bexley,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000005,Brent,12m,Number,BCG_Children_Aged1,4920,Universal
+11a,2018-19,E12000007,London,E09000005,Brent,12m,Number,BCG_Immunised_1stBirthday,1811,Universal
+11a,2018-19,E12000007,London,E09000005,Brent,12m,%,BCG_Coverage_1stBirthday,36.8089430894309,Universal
+11a,2018-19,E12000007,London,E09000006,Bromley,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000006,Bromley,12m,Number,BCG_Immunised_1stBirthday,498,Selective
+11a,2018-19,E12000007,London,E09000006,Bromley,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000007,Camden,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000007,Camden,12m,Number,BCG_Immunised_1stBirthday,623,Selective
+11a,2018-19,E12000007,London,E09000007,Camden,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000008,Croydon,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000008,Croydon,12m,Number,BCG_Immunised_1stBirthday,1482,Selective
+11a,2018-19,E12000007,London,E09000008,Croydon,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000009,Ealing,12m,Number,BCG_Children_Aged1,5304,Universal
+11a,2018-19,E12000007,London,E09000009,Ealing,12m,Number,BCG_Immunised_1stBirthday,2118,Universal
+11a,2018-19,E12000007,London,E09000009,Ealing,12m,%,BCG_Coverage_1stBirthday,39.9321266968326,Universal
+11a,2018-19,E12000007,London,E09000010,Enfield,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000010,Enfield,12m,Number,BCG_Immunised_1stBirthday,746,Selective
+11a,2018-19,E12000007,London,E09000010,Enfield,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000011,Greenwich,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000011,Greenwich,12m,Number,BCG_Immunised_1stBirthday,1291,Selective
+11a,2018-19,E12000007,London,E09000011,Greenwich,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000012,Hackney (inc. City of London),12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000012,Hackney (inc. City of London),12m,Number,BCG_Immunised_1stBirthday,838,Selective
+11a,2018-19,E12000007,London,E09000012,Hackney (inc. City of London),12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000013,Hammersmith and Fulham,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000013,Hammersmith and Fulham,12m,Number,BCG_Immunised_1stBirthday,158,Selective
+11a,2018-19,E12000007,London,E09000013,Hammersmith and Fulham,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000014,Haringey,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000014,Haringey,12m,Number,BCG_Immunised_1stBirthday,1031,Selective
+11a,2018-19,E12000007,London,E09000014,Haringey,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000015,Harrow,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000015,Harrow,12m,Number,BCG_Immunised_1stBirthday,1527,Selective
+11a,2018-19,E12000007,London,E09000015,Harrow,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000016,Havering,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000016,Havering,12m,Number,BCG_Immunised_1stBirthday,829,Selective
+11a,2018-19,E12000007,London,E09000016,Havering,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000017,Hillingdon,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000017,Hillingdon,12m,Number,BCG_Immunised_1stBirthday,620,Selective
+11a,2018-19,E12000007,London,E09000017,Hillingdon,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000018,Hounslow,12m,Number,BCG_Children_Aged1,4283,Universal
+11a,2018-19,E12000007,London,E09000018,Hounslow,12m,Number,BCG_Immunised_1stBirthday,1583,Universal
+11a,2018-19,E12000007,London,E09000018,Hounslow,12m,%,BCG_Coverage_1stBirthday,36.9600747139855,Universal
+11a,2018-19,E12000007,London,E09000019,Islington,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000019,Islington,12m,Number,BCG_Immunised_1stBirthday,783,Selective
+11a,2018-19,E12000007,London,E09000019,Islington,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000020,Kensington and Chelsea,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000020,Kensington and Chelsea,12m,Number,BCG_Immunised_1stBirthday,188,Selective
+11a,2018-19,E12000007,London,E09000020,Kensington and Chelsea,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000021,Kingston upon Thames,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000021,Kingston upon Thames,12m,Number,BCG_Immunised_1stBirthday,530,Selective
+11a,2018-19,E12000007,London,E09000021,Kingston upon Thames,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000022,Lambeth,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000022,Lambeth,12m,Number,BCG_Immunised_1stBirthday,1687,Selective
+11a,2018-19,E12000007,London,E09000022,Lambeth,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000023,Lewisham,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000023,Lewisham,12m,Number,BCG_Immunised_1stBirthday,1772,Selective
+11a,2018-19,E12000007,London,E09000023,Lewisham,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000024,Merton,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000024,Merton,12m,Number,BCG_Immunised_1stBirthday,666,Selective
+11a,2018-19,E12000007,London,E09000024,Merton,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000025,Newham,12m,Number,BCG_Children_Aged1,5986,Universal
+11a,2018-19,E12000007,London,E09000025,Newham,12m,Number,BCG_Immunised_1stBirthday,4122,Universal
+11a,2018-19,E12000007,London,E09000025,Newham,12m,%,BCG_Coverage_1stBirthday,68.8606749081190,Universal
+11a,2018-19,E12000007,London,E09000026,Redbridge,12m,Number,BCG_Children_Aged1,4726,Universal
+11a,2018-19,E12000007,London,E09000026,Redbridge,12m,Number,BCG_Immunised_1stBirthday,3066,Universal
+11a,2018-19,E12000007,London,E09000026,Redbridge,12m,%,BCG_Coverage_1stBirthday,64.8751586965722,Universal
+11a,2018-19,E12000007,London,E09000027,Richmond upon Thames,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000027,Richmond upon Thames,12m,Number,BCG_Immunised_1stBirthday,637,Selective
+11a,2018-19,E12000007,London,E09000027,Richmond upon Thames,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000028,Southwark,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000028,Southwark,12m,Number,BCG_Immunised_1stBirthday,1257,Selective
+11a,2018-19,E12000007,London,E09000028,Southwark,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000029,Sutton,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000029,Sutton,12m,Number,BCG_Immunised_1stBirthday,909,Selective
+11a,2018-19,E12000007,London,E09000029,Sutton,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000030,Tower Hamlets,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000030,Tower Hamlets,12m,Number,BCG_Immunised_1stBirthday,1886,Selective
+11a,2018-19,E12000007,London,E09000030,Tower Hamlets,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000031,Waltham Forest,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000031,Waltham Forest,12m,Number,BCG_Immunised_1stBirthday,2307,Selective
+11a,2018-19,E12000007,London,E09000031,Waltham Forest,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000032,Wandsworth,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000032,Wandsworth,12m,Number,BCG_Immunised_1stBirthday,554,Selective
+11a,2018-19,E12000007,London,E09000032,Wandsworth,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000007,London,E09000033,Westminster,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000007,London,E09000033,Westminster,12m,Number,BCG_Immunised_1stBirthday,263,Selective
+11a,2018-19,E12000007,London,E09000033,Westminster,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000008,South East,E06000036,Bracknell Forest,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000008,South East,E06000036,Bracknell Forest,12m,Number,BCG_Immunised_1stBirthday,-1,Selective
+11a,2018-19,E12000008,South East,E06000036,Bracknell Forest,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000008,South East,E06000035,Medway,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000008,South East,E06000035,Medway,12m,Number,BCG_Immunised_1stBirthday,482,Selective
+11a,2018-19,E12000008,South East,E06000035,Medway,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000008,South East,E06000042,Milton Keynes,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000008,South East,E06000042,Milton Keynes,12m,Number,BCG_Immunised_1stBirthday,-1,Selective
+11a,2018-19,E12000008,South East,E06000042,Milton Keynes,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000008,South East,E10000025,Oxfordshire,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000008,South East,E10000025,Oxfordshire,12m,Number,BCG_Immunised_1stBirthday,-1,Selective
+11a,2018-19,E12000008,South East,E10000025,Oxfordshire,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000008,South East,E06000043,Brighton and Hove,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000008,South East,E06000043,Brighton and Hove,12m,Number,BCG_Immunised_1stBirthday,393,Selective
+11a,2018-19,E12000008,South East,E06000043,Brighton and Hove,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000008,South East,E10000002,Buckinghamshire,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000008,South East,E10000002,Buckinghamshire,12m,Number,BCG_Immunised_1stBirthday,-1,Selective
+11a,2018-19,E12000008,South East,E10000002,Buckinghamshire,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000008,South East,E06000044,Portsmouth,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000008,South East,E06000044,Portsmouth,12m,Number,BCG_Immunised_1stBirthday,458,Selective
+11a,2018-19,E12000008,South East,E06000044,Portsmouth,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000008,South East,E06000038,Reading,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000008,South East,E06000038,Reading,12m,Number,BCG_Immunised_1stBirthday,-1,Selective
+11a,2018-19,E12000008,South East,E06000038,Reading,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000008,South East,E06000039,Slough,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000008,South East,E06000039,Slough,12m,Number,BCG_Immunised_1stBirthday,-1,Selective
+11a,2018-19,E12000008,South East,E06000039,Slough,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000008,South East,E06000045,Southampton,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000008,South East,E06000045,Southampton,12m,Number,BCG_Immunised_1stBirthday,615,Selective
+11a,2018-19,E12000008,South East,E06000045,Southampton,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000008,South East,E06000046,Isle of Wight,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000008,South East,E06000046,Isle of Wight,12m,Number,BCG_Immunised_1stBirthday,-1,Selective
+11a,2018-19,E12000008,South East,E06000046,Isle of Wight,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000008,South East,E10000011,East Sussex,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000008,South East,E10000011,East Sussex,12m,Number,BCG_Immunised_1stBirthday,376,Selective
+11a,2018-19,E12000008,South East,E10000011,East Sussex,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000008,South East,E10000014,Hampshire,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000008,South East,E10000014,Hampshire,12m,Number,BCG_Immunised_1stBirthday,925,Selective
+11a,2018-19,E12000008,South East,E10000014,Hampshire,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000008,South East,E10000016,Kent,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000008,South East,E10000016,Kent,12m,Number,BCG_Immunised_1stBirthday,2165,Selective
+11a,2018-19,E12000008,South East,E10000016,Kent,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000008,South East,E10000030,Surrey,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000008,South East,E10000030,Surrey,12m,Number,BCG_Immunised_1stBirthday,1778,Selective
+11a,2018-19,E12000008,South East,E10000030,Surrey,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000008,South East,E06000037,West Berkshire,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000008,South East,E06000037,West Berkshire,12m,Number,BCG_Immunised_1stBirthday,-1,Selective
+11a,2018-19,E12000008,South East,E06000037,West Berkshire,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000008,South East,E10000032,West Sussex,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000008,South East,E10000032,West Sussex,12m,Number,BCG_Immunised_1stBirthday,1038,Selective
+11a,2018-19,E12000008,South East,E10000032,West Sussex,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000008,South East,E06000040,Windsor and Maidenhead,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000008,South East,E06000040,Windsor and Maidenhead,12m,Number,BCG_Immunised_1stBirthday,-1,Selective
+11a,2018-19,E12000008,South East,E06000040,Windsor and Maidenhead,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000008,South East,E06000041,Wokingham,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000008,South East,E06000041,Wokingham,12m,Number,BCG_Immunised_1stBirthday,-1,Selective
+11a,2018-19,E12000008,South East,E06000041,Wokingham,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000009,South West,E06000022,Bath and North East Somerset,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000009,South West,E06000022,Bath and North East Somerset,12m,Number,BCG_Immunised_1stBirthday,-1,Selective
+11a,2018-19,E12000009,South West,E06000022,Bath and North East Somerset,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000009,South West,E06000023,Bristol,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000009,South West,E06000023,Bristol,12m,Number,BCG_Immunised_1stBirthday,1011,Selective
+11a,2018-19,E12000009,South West,E06000023,Bristol,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000009,South West,E06000024,North Somerset,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000009,South West,E06000024,North Somerset,12m,Number,BCG_Immunised_1stBirthday,164,Selective
+11a,2018-19,E12000009,South West,E06000024,North Somerset,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000009,South West,E06000025,South Gloucestershire,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000009,South West,E06000025,South Gloucestershire,12m,Number,BCG_Immunised_1stBirthday,304,Selective
+11a,2018-19,E12000009,South West,E06000025,South Gloucestershire,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000009,South West,E06000030,Swindon,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000009,South West,E06000030,Swindon,12m,Number,BCG_Immunised_1stBirthday,-1,Selective
+11a,2018-19,E12000009,South West,E06000030,Swindon,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000009,South West,E06000026,Plymouth,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000009,South West,E06000026,Plymouth,12m,Number,BCG_Immunised_1stBirthday,128,Selective
+11a,2018-19,E12000009,South West,E06000026,Plymouth,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000009,South West,E06000027,Torbay,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000009,South West,E06000027,Torbay,12m,Number,BCG_Immunised_1stBirthday,21,Selective
+11a,2018-19,E12000009,South West,E06000027,Torbay,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000009,South West,E06000054,Wiltshire,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000009,South West,E06000054,Wiltshire,12m,Number,BCG_Immunised_1stBirthday,-1,Selective
+11a,2018-19,E12000009,South West,E06000054,Wiltshire,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000009,South West,E06000028,Bournemouth,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000009,South West,E06000028,Bournemouth,12m,Number,BCG_Immunised_1stBirthday,295,Selective
+11a,2018-19,E12000009,South West,E06000028,Bournemouth,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000009,South West,E06000029,Poole,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000009,South West,E06000029,Poole,12m,Number,BCG_Immunised_1stBirthday,134,Selective
+11a,2018-19,E12000009,South West,E06000029,Poole,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000009,South West,E06000052,Cornwall,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000009,South West,E06000052,Cornwall,12m,Number,BCG_Immunised_1stBirthday,149,Selective
+11a,2018-19,E12000009,South West,E06000052,Cornwall,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000009,South West,E06000053,Isles of Scilly,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000009,South West,E06000053,Isles of Scilly,12m,Number,BCG_Immunised_1stBirthday,-1,Selective
+11a,2018-19,E12000009,South West,E06000053,Isles of Scilly,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000009,South West,E10000008,Devon,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000009,South West,E10000008,Devon,12m,Number,BCG_Immunised_1stBirthday,172,Selective
+11a,2018-19,E12000009,South West,E10000008,Devon,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000009,South West,E10000009,Dorset,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000009,South West,E10000009,Dorset,12m,Number,BCG_Immunised_1stBirthday,97,Selective
+11a,2018-19,E12000009,South West,E10000009,Dorset,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000009,South West,E10000013,Gloucestershire,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000009,South West,E10000013,Gloucestershire,12m,Number,BCG_Immunised_1stBirthday,-1,Selective
+11a,2018-19,E12000009,South West,E10000013,Gloucestershire,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective
+11a,2018-19,E12000009,South West,E10000027,Somerset,12m,Number,BCG_Children_Aged1,-1,Selective
+11a,2018-19,E12000009,South West,E10000027,Somerset,12m,Number,BCG_Immunised_1stBirthday,213,Selective
+11a,2018-19,E12000009,South West,E10000027,Somerset,12m,%,BCG_Coverage_1stBirthday,-1.0000000000000,Selective

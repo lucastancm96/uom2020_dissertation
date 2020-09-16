@@ -1,0 +1,4 @@
+Model,Accuracy
+DT,0.81225
+RF,0.89035
+GB,0.89041

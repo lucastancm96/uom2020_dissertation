@@ -1,0 +1,305 @@
+iso3code,area_name,who_region,indicator,sex,year,value_str
+AND,Andorra,EURO,prHPVc_F,Female,2019,64%
+ARE,United Arab Emirates (the),EMRO,prHPV1_F,Female,2019,28%
+ARE,United Arab Emirates (the),EMRO,prHPVc_F,Female,2019,27%
+ARG,Argentina,AMRO,prHPV1_F,Female,2019,84%
+ARG,Argentina,AMRO,prHPVc_F,Female,2019,57%
+ARG,Argentina,AMRO,15HPV1_F,Female,2019,81%
+ARG,Argentina,AMRO,15HPVc_F,Female,2019,49%
+ARM,Armenia,EURO,prHPV1_F,Female,2019,17%
+ARM,Armenia,EURO,prHPVc_F,Female,2019,7%
+ATG,Antigua and Barbuda,AMRO,prHPV1_F,Female,2019,10%†
+ATG,Antigua and Barbuda,AMRO,15HPV1_F,Female,2019,7%
+AUS,Australia,WPRO,prHPV1_F,Female,2019,89%
+AUS,Australia,WPRO,prHPVc_F,Female,2019,79%
+AUS,Australia,WPRO,15HPV1_F,Female,2019,89%†
+AUS,Australia,WPRO,15HPVc_F,Female,2019,80%†
+BEL,Belgium,EURO,prHPV1_F,Female,2019,71%†
+BEL,Belgium,EURO,prHPVc_F,Female,2019,67%†
+BEL,Belgium,EURO,15HPV1_F,Female,2019,71%†
+BEL,Belgium,EURO,15HPVc_F,Female,2019,67%†
+BGR,Bulgaria,EURO,prHPV1_F,Female,2019,7%†
+BGR,Bulgaria,EURO,prHPVc_F,Female,2019,5%†
+BGR,Bulgaria,EURO,15HPV1_F,Female,2019,9%
+BGR,Bulgaria,EURO,15HPVc_F,Female,2019,6%
+BHS,Bahamas (the),AMRO,prHPV1_F,Female,2019,29%
+BHS,Bahamas (the),AMRO,prHPVc_F,Female,2019,9%
+BHS,Bahamas (the),AMRO,15HPV1_F,Female,2019,25%
+BHS,Bahamas (the),AMRO,15HPVc_F,Female,2019,14%
+BLZ,Belize,AMRO,prHPV1_F,Female,2019,99%*
+BLZ,Belize,AMRO,prHPVc_F,Female,2019,89%
+BOL,Bolivia (Plurinational State of),AMRO,prHPV1_F,Female,2019,88%
+BOL,Bolivia (Plurinational State of),AMRO,prHPVc_F,Female,2019,80%
+BRA,Brazil,AMRO,prHPV1_F,Female,2019,83%
+BRA,Brazil,AMRO,prHPVc_F,Female,2019,69%
+BRA,Brazil,AMRO,15HPV1_F,Female,2019,72%
+BRA,Brazil,AMRO,15HPVc_F,Female,2019,73%
+BRB,Barbados,AMRO,prHPV1_F,Female,2019,66%
+BRB,Barbados,AMRO,prHPVc_F,Female,2019,29%
+BRB,Barbados,AMRO,15HPV1_F,Female,2019,74%
+BRB,Barbados,AMRO,15HPVc_F,Female,2019,30%
+BRN,Brunei Darussalam,WPRO,prHPV1_F,Female,2019,91%
+BRN,Brunei Darussalam,WPRO,prHPVc_F,Female,2019,90%
+BRN,Brunei Darussalam,WPRO,15HPV1_F,Female,2019,89%
+BRN,Brunei Darussalam,WPRO,15HPVc_F,Female,2019,88%
+BTN,Bhutan,SEARO,prHPV1_F,Female,2019,89%
+BTN,Bhutan,SEARO,prHPVc_F,Female,2019,73%
+BTN,Bhutan,SEARO,15HPV1_F,Female,2019,100%
+BTN,Bhutan,SEARO,15HPVc_F,Female,2019,99%
+BWA,Botswana,AFRO,prHPV1_F,Female,2019,87%
+BWA,Botswana,AFRO,prHPVc_F,Female,2019,47%
+BWA,Botswana,AFRO,15HPV1_F,Female,2019,87%
+BWA,Botswana,AFRO,15HPVc_F,Female,2019,85%
+CAN,Canada,AMRO,prHPV1_F,Female,2019,83%†
+CAN,Canada,AMRO,prHPVc_F,Female,2019,83%†
+CAN,Canada,AMRO,15HPV1_F,Female,2019,83%†
+CAN,Canada,AMRO,15HPVc_F,Female,2019,83%†
+CHE,Switzerland,EURO,prHPV1_F,Female,2019,64%
+CHE,Switzerland,EURO,prHPVc_F,Female,2019,59%
+CHE,Switzerland,EURO,15HPV1_F,Female,2019,64%
+CHE,Switzerland,EURO,15HPVc_F,Female,2019,59%
+CHL,Chile,AMRO,prHPV1_F,Female,2019,92%
+CHL,Chile,AMRO,prHPVc_F,Female,2019,82%
+CIV,Côte d'Ivoire,AFRO,prHPV1_F,Female,2019,6%
+COK,Cook Islands,WPRO,prHPV1_F,Female,2019,97%†
+COK,Cook Islands,WPRO,prHPVc_F,Female,2019,73%
+COK,Cook Islands,WPRO,15HPV1_F,Female,2019,99%*
+COK,Cook Islands,WPRO,15HPVc_F,Female,2019,43%
+COL,Colombia,AMRO,prHPV1_F,Female,2019,71%
+COL,Colombia,AMRO,prHPVc_F,Female,2019,39%
+COL,Colombia,AMRO,15HPV1_F,Female,2019,76%
+COL,Colombia,AMRO,15HPVc_F,Female,2019,57%
+CRI,Costa Rica,AMRO,prHPV1_F,Female,2019,98%
+CRI,Costa Rica,AMRO,prHPVc_F,Female,2019,39%
+CYP,Cyprus,EURO,prHPV1_F,Female,2019,73%
+CYP,Cyprus,EURO,prHPVc_F,Female,2019,64%†
+CYP,Cyprus,EURO,15HPV1_F,Female,2019,56%
+CYP,Cyprus,EURO,15HPVc_F,Female,2019,59%
+DEU,Germany,EURO,prHPV1_F,Female,2019,48%†
+DEU,Germany,EURO,prHPVc_F,Female,2019,31%†
+DEU,Germany,EURO,15HPV1_F,Female,2019,48%†
+DEU,Germany,EURO,15HPVc_F,Female,2019,31%†
+DMA,Dominica,AMRO,prHPV1_F,Female,2019,100%
+DNK,Denmark,EURO,prHPV1_F,Female,2019,79%
+DNK,Denmark,EURO,prHPVc_F,Female,2019,62%
+DNK,Denmark,EURO,15HPV1_F,Female,2019,85%
+DNK,Denmark,EURO,15HPVc_F,Female,2019,77%
+DOM,Dominican Republic (the),AMRO,prHPV1_F,Female,2019,12%
+DOM,Dominican Republic (the),AMRO,prHPVc_F,Female,2019,7%
+ECU,Ecuador,AMRO,prHPV1_F,Female,2019,82%
+ECU,Ecuador,AMRO,prHPVc_F,Female,2019,54%
+ECU,Ecuador,AMRO,15HPV1_F,Female,2019,91%
+ECU,Ecuador,AMRO,15HPVc_F,Female,2019,82%
+ESP,Spain,EURO,prHPV1_F,Female,2019,84%
+ESP,Spain,EURO,prHPVc_F,Female,2019,79%
+ESP,Spain,EURO,15HPV1_F,Female,2019,85%
+ESP,Spain,EURO,15HPVc_F,Female,2019,80%
+EST,Estonia,EURO,prHPV1_F,Female,2019,51%†
+EST,Estonia,EURO,prHPVc_F,Female,2019,45%†
+EST,Estonia,EURO,15HPV1_F,Female,2019,60%
+EST,Estonia,EURO,15HPVc_F,Female,2019,48%
+ETH,Ethiopia,AFRO,prHPV1_F,Female,2019,94%
+ETH,Ethiopia,AFRO,prHPVc_F,Female,2019,84%
+ETH,Ethiopia,AFRO,15HPV1_F,Female,2019,89%
+ETH,Ethiopia,AFRO,15HPVc_F,Female,2019,85%
+FIN,Finland,EURO,prHPVc_F,Female,2019,60%
+FJI,Fiji,WPRO,prHPV1_F,Female,2019,93%
+FJI,Fiji,WPRO,prHPVc_F,Female,2019,56%
+FJI,Fiji,WPRO,15HPV1_F,Female,2019,91%
+FJI,Fiji,WPRO,15HPVc_F,Female,2019,56%
+FRA,France,EURO,prHPV1_F,Female,2019,29%†
+FRA,France,EURO,prHPVc_F,Female,2019,24%†
+FRA,France,EURO,15HPV1_F,Female,2019,29%†
+FRA,France,EURO,15HPVc_F,Female,2019,24%†
+FSM,Micronesia (Federated States of),WPRO,prHPV1_F,Female,2019,70%†
+FSM,Micronesia (Federated States of),WPRO,prHPVc_F,Female,2019,57%†
+GBR,United Kingdom of Great Britain and Northern Ireland (the),EURO,prHPV1_F,Female,2019,85%
+GBR,United Kingdom of Great Britain and Northern Ireland (the),EURO,prHPVc_F,Female,2019,82%
+GBR,United Kingdom of Great Britain and Northern Ireland (the),EURO,15HPV1_F,Female,2019,84%
+GBR,United Kingdom of Great Britain and Northern Ireland (the),EURO,15HPVc_F,Female,2019,81%
+GEO,Georgia,EURO,prHPV1_F,Female,2019,38%
+GEO,Georgia,EURO,prHPVc_F,Female,2019,11%
+GMB,Gambia,AFRO,prHPV1_F,Female,2019,68%
+GMB,Gambia,AFRO,15HPV1_F,Female,2019,11%
+GMB,Gambia,AFRO,15HPVc_F,Female,2019,8%
+GRD,Grenada,AMRO,prHPV1_F,Female,2019,73%
+GRD,Grenada,AMRO,prHPVc_F,Female,2019,41%
+GTM,Guatemala,AMRO,prHPV1_F,Female,2019,42%
+GTM,Guatemala,AMRO,prHPVc_F,Female,2019,24%
+GUY,Guyana,AMRO,prHPV1_F,Female,2019,31%
+GUY,Guyana,AMRO,prHPVc_F,Female,2019,13%
+HND,Honduras,AMRO,prHPV1_F,Female,2019,78%
+HND,Honduras,AMRO,prHPVc_F,Female,2019,59%
+HUN,Hungary,EURO,prHPV1_F,Female,2019,86%
+HUN,Hungary,EURO,prHPVc_F,Female,2019,78%
+HUN,Hungary,EURO,15HPV1_F,Female,2019,72%
+HUN,Hungary,EURO,15HPVc_F,Female,2019,72%
+IDN,Indonesia,SEARO,prHPV1_F,Female,2019,0.5%
+IDN,Indonesia,SEARO,prHPVc_F,Female,2019,0.5%
+IRL,Ireland,EURO,prHPV1_F,Female,2019,85%
+IRL,Ireland,EURO,prHPVc_F,Female,2019,69%
+IRL,Ireland,EURO,15HPV1_F,Female,2019,66%
+IRL,Ireland,EURO,15HPVc_F,Female,2019,60%
+ISL,Iceland,EURO,prHPV1_F,Female,2019,94%†
+ISL,Iceland,EURO,prHPVc_F,Female,2019,85%†
+ISL,Iceland,EURO,15HPV1_F,Female,2019,94%
+ISL,Iceland,EURO,15HPVc_F,Female,2019,88%
+ISR,Israel,EURO,prHPV1_F,Female,2019,55%†
+ISR,Israel,EURO,prHPVc_F,Female,2019,52%†
+ITA,Italy,EURO,prHPV1_F,Female,2019,61%†
+ITA,Italy,EURO,prHPVc_F,Female,2019,40%†
+ITA,Italy,EURO,15HPV1_F,Female,2019,73%†
+ITA,Italy,EURO,15HPVc_F,Female,2019,67%†
+JAM,Jamaica,AMRO,prHPV1_F,Female,2019,23%
+JAM,Jamaica,AMRO,prHPVc_F,Female,2019,9%
+JPN,Japan,WPRO,prHPV1_F,Female,2019,0.6%†
+JPN,Japan,WPRO,prHPVc_F,Female,2019,0.3%
+JPN,Japan,WPRO,15HPV1_F,Female,2019,0.8%†
+JPN,Japan,WPRO,15HPVc_F,Female,2019,0.3%†
+KEN,Kenya,AFRO,prHPV1_F,Female,2019,25%
+KNA,Saint Kitts and Nevis,AMRO,prHPV1_F,Female,2019,90%
+KOR,Republic of Korea (the),WPRO,prHPV1_F,Female,2019,72%
+KOR,Republic of Korea (the),WPRO,prHPVc_F,Female,2019,52%
+KOR,Republic of Korea (the),WPRO,15HPV1_F,Female,2019,74%
+KOR,Republic of Korea (the),WPRO,15HPVc_F,Female,2019,64%
+LBR,Liberia,AFRO,prHPV1_F,Female,2019,14%
+LCA,Saint Lucia,AMRO,prHPV1_F,Female,2019,86%
+LCA,Saint Lucia,AMRO,prHPVc_F,Female,2019,46%
+LKA,Sri Lanka,SEARO,prHPV1_F,Female,2019,99%
+LKA,Sri Lanka,SEARO,prHPVc_F,Female,2019,82%
+LTU,Lithuania,EURO,prHPV1_F,Female,2019,64%
+LTU,Lithuania,EURO,prHPVc_F,Female,2019,66%
+LUX,Luxembourg,EURO,prHPV1_F,Female,2019,37%†
+LUX,Luxembourg,EURO,prHPVc_F,Female,2019,14%†
+LUX,Luxembourg,EURO,15HPV1_F,Female,2019,60%†
+LUX,Luxembourg,EURO,15HPVc_F,Female,2019,43%†
+LVA,Latvia,EURO,prHPV1_F,Female,2019,51%
+LVA,Latvia,EURO,prHPVc_F,Female,2019,54%
+LVA,Latvia,EURO,15HPV1_F,Female,2019,43%
+LVA,Latvia,EURO,15HPVc_F,Female,2019,39%
+MDA,Republic of Moldova (the),EURO,prHPVc_F,Female,2019,31%
+MDV,Maldives,SEARO,prHPV1_F,Female,2019,88%
+MEX,Mexico,AMRO,prHPV1_F,Female,2019,94%†
+MEX,Mexico,AMRO,prHPVc_F,Female,2019,95%
+MEX,Mexico,AMRO,15HPV1_F,Female,2019,99%*
+MEX,Mexico,AMRO,15HPVc_F,Female,2019,99%*
+MHL,Marshall Islands (the),WPRO,prHPV1_F,Female,2019,67%
+MHL,Marshall Islands (the),WPRO,prHPVc_F,Female,2019,24%
+MHL,Marshall Islands (the),WPRO,15HPV1_F,Female,2019,51%
+MHL,Marshall Islands (the),WPRO,15HPVc_F,Female,2019,20%
+MKD,North Macedonia,EURO,prHPV1_F,Female,2019,45%†
+MKD,North Macedonia,EURO,prHPVc_F,Female,2019,40%†
+MKD,North Macedonia,EURO,15HPV1_F,Female,2019,44%
+MKD,North Macedonia,EURO,15HPVc_F,Female,2019,44%
+MLT,Malta,EURO,prHPV1_F,Female,2019,86%
+MLT,Malta,EURO,prHPVc_F,Female,2019,81%
+MLT,Malta,EURO,15HPV1_F,Female,2019,83%
+MLT,Malta,EURO,15HPVc_F,Female,2019,82%
+MUS,Mauritius,AFRO,prHPV1_F,Female,2019,84%
+MUS,Mauritius,AFRO,prHPVc_F,Female,2019,80%
+MWI,Malawi,AFRO,prHPV1_F,Female,2019,88%
+MWI,Malawi,AFRO,15HPV1_F,Female,2019,1%
+MWI,Malawi,AFRO,15HPVc_F,Female,2019,1%
+MYS,Malaysia,WPRO,prHPV1_F,Female,2019,86%
+MYS,Malaysia,WPRO,prHPVc_F,Female,2019,85%
+MYS,Malaysia,WPRO,15HPV1_F,Female,2019,96%
+MYS,Malaysia,WPRO,15HPVc_F,Female,2019,96%
+NLD,Netherlands (the),EURO,prHPV1_F,Female,2019,63%
+NLD,Netherlands (the),EURO,prHPVc_F,Female,2019,53%
+NLD,Netherlands (the),EURO,15HPV1_F,Female,2019,51%
+NLD,Netherlands (the),EURO,15HPVc_F,Female,2019,51%
+NOR,Norway,EURO,prHPV1_F,Female,2019,93%
+NOR,Norway,EURO,prHPVc_F,Female,2019,91%
+NOR,Norway,EURO,15HPV1_F,Female,2019,88%
+NOR,Norway,EURO,15HPVc_F,Female,2019,85%†
+NZL,New Zealand,WPRO,prHPV1_F,Female,2019,71%
+NZL,New Zealand,WPRO,prHPVc_F,Female,2019,67%
+NZL,New Zealand,WPRO,15HPV1_F,Female,2019,71%
+NZL,New Zealand,WPRO,15HPVc_F,Female,2019,66%
+PAN,Panama,AMRO,prHPV1_F,Female,2019,85%
+PAN,Panama,AMRO,prHPVc_F,Female,2019,73%
+PAN,Panama,AMRO,15HPV1_F,Female,2019,85%
+PAN,Panama,AMRO,15HPVc_F,Female,2019,80%
+PER,Peru,AMRO,prHPV1_F,Female,2019,82%
+PER,Peru,AMRO,prHPVc_F,Female,2019,76%
+PER,Peru,AMRO,15HPV1_F,Female,2019,66%
+PER,Peru,AMRO,15HPVc_F,Female,2019,70%
+PHL,Philippines (the),WPRO,prHPV1_F,Female,2019,7%
+PHL,Philippines (the),WPRO,prHPVc_F,Female,2019,0.2%
+PLW,Palau,WPRO,prHPV1_F,Female,2019,85%
+PLW,Palau,WPRO,prHPVc_F,Female,2019,67%
+PLW,Palau,WPRO,15HPV1_F,Female,2019,88%†
+PLW,Palau,WPRO,15HPVc_F,Female,2019,79%†
+PRT,Portugal,EURO,prHPV1_F,Female,2019,93%†
+PRT,Portugal,EURO,prHPVc_F,Female,2019,81%
+PRT,Portugal,EURO,15HPV1_F,Female,2019,91%
+PRT,Portugal,EURO,15HPVc_F,Female,2019,95%
+PRY,Paraguay,AMRO,prHPV1_F,Female,2019,70%
+PRY,Paraguay,AMRO,prHPVc_F,Female,2019,61%
+PRY,Paraguay,AMRO,15HPV1_F,Female,2019,72%
+PRY,Paraguay,AMRO,15HPVc_F,Female,2019,67%
+RWA,Rwanda,AFRO,prHPV1_F,Female,2019,97%
+RWA,Rwanda,AFRO,prHPVc_F,Female,2019,94%
+RWA,Rwanda,AFRO,15HPV1_F,Female,2019,89%
+RWA,Rwanda,AFRO,15HPVc_F,Female,2019,87%
+SEN,Senegal,AFRO,prHPV1_F,Female,2019,86%
+SEN,Senegal,AFRO,prHPVc_F,Female,2019,25%
+SGP,Singapore,WPRO,prHPV1_F,Female,2019,0.4%†
+SGP,Singapore,WPRO,prHPVc_F,Female,2019,0.1%†
+SGP,Singapore,WPRO,15HPV1_F,Female,2019,1%
+SGP,Singapore,WPRO,15HPVc_F,Female,2019,0.5%
+SLB,Solomon Islands,WPRO,prHPV1_F,Female,2019,67%
+SMR,San Marino,EURO,prHPV1_F,Female,2019,48%
+SMR,San Marino,EURO,prHPVc_F,Female,2019,50%
+SMR,San Marino,EURO,15HPV1_F,Female,2019,36%
+SMR,San Marino,EURO,15HPVc_F,Female,2019,32%
+SUR,Suriname,AMRO,prHPV1_F,Female,2019,51%
+SUR,Suriname,AMRO,prHPVc_F,Female,2019,38%
+SUR,Suriname,AMRO,15HPV1_F,Female,2019,63%
+SUR,Suriname,AMRO,15HPVc_F,Female,2019,40%
+SVN,Slovenia,EURO,prHPVc_F,Female,2019,59%
+SVN,Slovenia,EURO,15HPVc_F,Female,2019,40%
+SWE,Sweden,EURO,prHPV1_F,Female,2019,86%
+SWE,Sweden,EURO,prHPVc_F,Female,2019,80%
+SWE,Sweden,EURO,15HPV1_F,Female,2019,81%
+SWE,Sweden,EURO,15HPVc_F,Female,2019,75%
+SYC,Seychelles,AFRO,prHPV1_F,Female,2019,96%
+SYC,Seychelles,AFRO,prHPVc_F,Female,2019,68%
+SYC,Seychelles,AFRO,15HPV1_F,Female,2019,96%
+SYC,Seychelles,AFRO,15HPVc_F,Female,2019,93%
+THA,Thailand,SEARO,prHPV1_F,Female,2019,76%
+THA,Thailand,SEARO,prHPVc_F,Female,2019,66%
+TKM,Turkmenistan,EURO,prHPV1_F,Female,2019,99%*
+TKM,Turkmenistan,EURO,prHPVc_F,Female,2019,99%*
+TTO,Trinidad and Tobago,AMRO,prHPV1_F,Female,2019,18%
+TTO,Trinidad and Tobago,AMRO,prHPVc_F,Female,2019,9%
+TTO,Trinidad and Tobago,AMRO,15HPV1_F,Female,2019,14%
+TTO,Trinidad and Tobago,AMRO,15HPVc_F,Female,2019,6%
+TZA,United Republic of Tanzania,AFRO,prHPV1_F,Female,2019,78%
+TZA,United Republic of Tanzania,AFRO,prHPVc_F,Female,2019,49%
+TZA,United Republic of Tanzania,AFRO,15HPV1_F,Female,2019,48%
+TZA,United Republic of Tanzania,AFRO,15HPVc_F,Female,2019,17%
+UGA,Uganda,AFRO,prHPV1_F,Female,2019,99%*
+UGA,Uganda,AFRO,prHPVc_F,Female,2019,64%
+UGA,Uganda,AFRO,15HPV1_F,Female,2019,9%
+UGA,Uganda,AFRO,15HPVc_F,Female,2019,3%
+URY,Uruguay,AMRO,prHPV1_F,Female,2019,77%
+URY,Uruguay,AMRO,prHPVc_F,Female,2019,38%
+URY,Uruguay,AMRO,15HPV1_F,Female,2019,62%
+URY,Uruguay,AMRO,15HPVc_F,Female,2019,48%
+USA,United States of America (the),AMRO,prHPV1_F,Female,2019,61%†
+USA,United States of America (the),AMRO,prHPVc_F,Female,2019,39%†
+USA,United States of America (the),AMRO,15HPV1_F,Female,2019,71%†
+USA,United States of America (the),AMRO,15HPVc_F,Female,2019,55%†
+UZB,Uzbekistan,EURO,prHPV1_F,Female,2019,97%
+VCT,Saint Vincent and the Grenadines,AMRO,prHPV1_F,Female,2019,11%
+VCT,Saint Vincent and the Grenadines,AMRO,prHPVc_F,Female,2019,10%
+ZAF,South Africa,AFRO,prHPV1_F,Female,2019,69%†
+ZAF,South Africa,AFRO,prHPVc_F,Female,2019,56%†
+ZAF,South Africa,AFRO,15HPV1_F,Female,2019,30%
+ZAF,South Africa,AFRO,15HPVc_F,Female,2019,28%
+ZMB,Zambia,AFRO,prHPV1_F,Female,2019,99%*
+ZMB,Zambia,AFRO,15HPV1_F,Female,2019,2%
+ZWE,Zimbabwe,AFRO,prHPV1_F,Female,2019,91%
+ZWE,Zimbabwe,AFRO,prHPVc_F,Female,2019,67%
+ZWE,Zimbabwe,AFRO,15HPV1_F,Female,2019,81%
